@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Lewis
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1278
+	•Date of Admission: 02/02/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Kathryn Holtzman
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Lewis was admitted due to persistent hematuria and pain in the lower abdomen. Upon initial assessment, his symptoms were severe enough to warrant urgent diagnostic investigations. John Lewis (CT) scan revealed a mass in the bladder, leading to the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Lewis has a history of hypertension and COPD, both well-controlled with medications. He underwent a left nephrectomy due to renal cell carcinoma in 2015. His family has a significant history of bladder cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metoprolol, albuterol, and lisinopril.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of transitional cell carcinoma in the bladder. Imaging scans revealed no lymph node or distant metastasis (T2N0M0). Blood tests showed normal renal function, elevated creatinine levels, and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Lewis. This included cystectomy, ileal conduit formation, and adjuvant chemotherapy. Post-operative care involved pain management, antibiotics to prevent urinary tract infections, and regular monitoring of kidney function. A four-cycle regimen of Gemcitabine and Cisplatin was administered for chemotherapy.
+
+Hospital Course:
+	Mr. Lewis's initial recovery from surgery was smooth. However, he experienced some post-operative complications such as urinary tract infections and delayed bowel function. Therapy and nutritional support were essential during his hospital stay. His condition improved significantly over the course of his stay, and he was discharged when deemed medically stable.
+
+Follow-Up Plan:
+	Mr. Lewis will be scheduled for regular outpatient appointments with his oncologist and urologist. He is to continue taking his hypertension and COPD medications, and his pain medication as needed. Lifestyle recommendations include maintaining a healthy diet low in processed foods, smoking cessation, and regular physical activity. Warning signs that require immediate medical attention include fever, chills, persistent abdominal pain, and changes in urine color or volume.
+
+Patient Education:
+	Mr. Lewis was educated about his condition, the ileal conduit, and potential complications. He was instructed on how to manage common side effects of chemotherapy such as nausea, fatigue, and nephrotoxicity. Importantly, he was taught to recognize signs of complications and when to seek medical attention.
+
+Discharge Instructions:
+	Upon discharge, Mr. Lewis was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for further information and support.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Lewis will need to manage ongoing health issues such as hypertension, COPD, and potential complications related to the ileal conduit.
+
+Final Remarks:
+	Dr. Holtzman commends Mr. Lewis's resilience throughout his treatment journey and his cooperation in following the treatment plan. She emphasizes the importance of regular follow-ups and adherence to lifestyle recommendations for a positive long-term outlook. This report is signed by Dr. Kathryn Holtzman on 05/05/2022 and John Lewis on 06/06/2022.

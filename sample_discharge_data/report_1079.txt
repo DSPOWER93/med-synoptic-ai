@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Audra Bryant
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1079
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Ellen Tate
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Audra Bryant was admitted to the hospital due to a worsening abdominal pain and rectal bleeding that had persisted for over two weeks. Upon initial assessment, he appeared lethargic and displayed signs of anemia. Further investigations revealed an obstructing mass in his lower abdomen. A computed tomography (CT) scan confirmed the suspicion of a large tumor in the sigmoid colon.
+
+Medical History:
+	Audra Bryant has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), for which he was taking multiple medications before admission. He has no known allergies. His father died from colorectal cancer at the age of 65, making him a high-risk candidate for this disease.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of invasive adenocarcinoma in the sigmoid colon. The CT scan showed a large tumor (8cm x 7cm) invading the abdominal wall and multiple enlarged lymph nodes. Blood tests indicated anemia, elevated carcinoembryonic antigen (CEA), and high lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Audra Bryant. He underwent an elective sigmoid colectomy with primary anastomosis, followed by 12 cycles of adjuvant chemotherapy (FOLFOX). Radiation therapy was deemed unnecessary due to the absence of distant metastases. The post-operative care involved close monitoring for complications such as anastomotic leak and sepsis.
+
+Hospital Course:
+	Audra Bryant's initial recovery from surgery was challenging due to post-operative ileus, but he responded well to conservative management and intravenous hydration. He received proper nutritional support through a nasogastric tube and subsequently began oral intake. His anemia improved with blood transfusions and iron supplements.
+
+Follow-Up Plan:
+	Audra Bryant will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue taking his hypertension and diabetes medications as prescribed, and he has been advised to quit smoking to manage his COPD. He was educated on recognizing signs of complications such as fever, abdominal pain, or rectal bleeding and instructed to seek immediate medical attention in such cases.
+
+Patient Education:
+	Audra Bryant and his family were extensively counseled about the importance of post-surgical care, including managing the ileal conduit, maintaining a high-fiber diet, and monitoring for signs of dehydration. They were also educated on the common side effects of chemotherapy such as nausea, fatigue, and diarrhea, and how to manage them effectively.
+
+Discharge Instructions:
+	Prior to discharge, Audra Bryant was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a booklet on managing his colostomy bag and recognizing signs of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Audra Bryant's long-term management. Close adherence to the follow-up plan, maintaining a healthy lifestyle, and quitting smoking will significantly improve his prognosis.
+
+Final Remarks:
+	This report documents Audra Bryant's courageous journey with colorectal cancer. His resilience and cooperation throughout the treatment process have been commendable. I am confident that he will continue to make progress in his recovery, and I wish him all the best for a healthy future.

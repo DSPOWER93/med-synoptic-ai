@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Davenport
+	•Date of Birth: 05/03/1970
+	•Medical Record Number: M1393
+	•Date of Admission: 03/04/2022
+	•Date of Discharge: 07/05/2022
+	•Attending Physician: Dr. Carroll Wells
+	•Primary Diagnosis: Urothelial Carcinoma of the Bladder
+
+Reason for Admission:
+	Michael Davenport, a 52-year-old male, presented to our facility with complaints of gross hematuria and dysuria for the past two weeks. Michael patient reported a worsening condition, associating his symptoms with frequent and painful urination. A preliminary urinalysis revealed blood in the urine (hematuria), prompting further investigations including cystoscopy and computed tomography urogram (Davenport) scan. Michael Davenport scan confirmed a mass lesion in the bladder, indicating a likely malignancy.
+
+Medical History:
+	Michael Davenport has a significant medical history, with hypertension and Type II diabetes controlled by medication. He is also a chronic obstructive pulmonary disease (COPD) patient, requiring regular inhalers. He has no known allergies but is sensitive to certain antibiotics like penicillin. Prior surgeries include an appendectomy at age 15 and a cholecystectomy at age 40.
+
+Diagnostic Findings:
+	Michael pathology report from the transurethral resection of bladder tumor (TURBT) confirmed a high-grade urothelial carcinoma. Michael Davenport scan showed a large mass in the bladder with extension into the muscularis propria, suggesting muscle invasion. Blood tests revealed elevated creatinine levels and anemia, which were attributed to the disease progression.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Michael Davenport. He underwent radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy (GCB-8 regimen) and radiation therapy to the pelvis. Post-operative care included management of pain, wound infection prevention, and nutritional support.
+
+Hospital Course:
+	Michael Davenport's initial recovery from surgery was uneventful. However, he faced post-operative complications including anemia and delayed wound healing. These were managed with transfusions and topical ointments, respectively. His disease was closely monitored throughout his stay, and his progress was steady, eventually enabling discharge.
+
+Follow-Up Plan:
+	Michael Davenport has been scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking prescribed medications to manage hypertension, diabetes, and potential chemotherapy side effects. Dietary recommendations include a high-protein, low-fat diet with plenty of fluids. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, changes in urinary habits, or signs of dehydration.
+
+Patient Education:
+	Michael Davenport and his family were educated about the nature of his disease, treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Michael Davenport was provided with detailed discharge instructions focusing on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a healthy lifestyle, including regular exercise and balanced nutrition.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Michael Davenport's long-term health issues. His adherence to prescribed medications, dietary recommendations, and lifestyle changes will play a significant role in his prognosis.
+
+Final Remarks:
+	Dr. Carroll Wells commends Michael Davenport for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to prescribed medications and lifestyle changes, wishing him a speedy recovery.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kirk Earwood
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1195
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Denise Day
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Kirk Earwood presented to the emergency department with a one-month history of abdominal pain, decreased appetite, and unexplained weight loss. The initial assessment revealed mild abdominal distension, and laboratory tests showed anemia and elevated CEA levels. Further investigations included a colonoscopy and CT scan, which confirmed the presence of a large mass in the descending colon, suggestive of colorectal cancer.
+
+Medical History:
+	Mr. Earwood has a past medical history significant for hypertension, managed with lisinopril, and type 2 diabetes mellitus controlled by metformin and glimepiride. He is a former smoker (40 pack-years) but quit smoking one year ago. His father died of colorectal cancer at the age of 65.
+
+Diagnostic Findings:
+	Pathology report from the colon resection specimen revealed moderately differentiated adenocarcinoma, with invasion beyond the submucosa (T3) and lymph node involvement (N1). CT scan showed no evidence of distant metastasis. Blood tests were significant for anemia (Hb 9 g/dL), elevated CEA (10 ng/mL), and normal liver and renal function.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan consisting of surgical intervention, chemotherapy, and radiation therapy. Kirk Earwood underwent a left hemicolectomy with primary anastomosis and creation of an ileal conduit on March 23, 2022. Post-operative care included management of pain, prevention of venous thromboembolism, and early ambulation. He received adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, fluorouracil) for six cycles starting on April 15, 2022. The decision to include radiation therapy was deferred due to the patient's good performance status and low risk of recurrence based on pathology findings.
+
+Hospital Course:
+	Kirk Earwood's initial recovery from surgery was uneventful. He experienced some post-operative nausea and vomiting, which were managed with antiemetics. On the fourth day post-surgery, he developed a fever and an elevated white blood cell count, suggesting possible infection. Appropriate antibiotics were administered, and his symptoms resolved within 48 hours. He was discharged on April 25, 2022, in stable condition with instructions to follow up with his oncologist for chemotherapy.
+
+Follow-Up Plan:
+	Kirk Earwood will have regular follow-up appointments every three months for the first two years and then annually thereafter. He is advised to continue taking metformin and glimepiride, but lisinopril has been discontinued due to hypotension during surgery. He should maintain a healthy diet, rich in fruits, vegetables, and lean proteins, and avoid smoking and excessive alcohol consumption. Any signs of abdominal pain, rectal bleeding, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	Kirk Earwood was educated about the importance of adhering to his prescribed medications, maintaining a healthy diet, and attending all scheduled follow-up appointments. He received instructions on managing the ileal conduit, recognizing signs of complications such as urinary tract infections or blockages, and managing common side effects of chemotherapy like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Kirk Earwood was provided with a detailed discharge summary, including medication instructions, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to contact his oncologist immediately if he experiences fever, chills, persistent diarrhea, or any other concerning symptoms.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Kirk Earwood's long-term survival. He should be aware of the importance of managing ongoing health issues such as hypertension and diabetes mellitus to improve his overall prognosis.
+
+Final Remarks:
+	The attending physician, Dr. Denise Day, expressed her appreciation for Kirk Earwood's resilience and cooperation throughout the treatment journey. She emphasized the importance of continued follow-up care and encouraged him to maintain a positive attitude towards his recovery. Signed Kirk Earwood, April 25, 2022, Dr. Denise Day, April 25, 2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wava Doss
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1375
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Linda Poormon
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Wava Doss was admitted to the hospital after presenting with symptoms of abdominal pain, unintended weight loss, and changes in bowel habits persisting for over a month. Upon initial assessment, his vital signs were stable but he appeared uncomfortable, and laboratory tests revealed anemia and elevated carcinoembryonic antigen (CEA) levels. A computed tomography (CT) scan confirmed the presence of a large mass in the colon with regional lymph node involvement, leading to the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Doss has a history of hypertension and COPD, for which he was regularly managed with medications. He also has a family history of colon cancer, as his father passed away from the disease at 60 years old. He underwent a cholecystectomy in 2015 due to gallstones. Mr. Doss is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology results from the colon resection showed moderately differentiated adenocarcinoma with perforation, invading into the muscularis propria and involving 6 out of 14 lymph nodes examined. The post-operative CT scan indicated no residual disease or distant metastases. Laboratory tests during his hospital stay showed normal white blood cell count but continued anemia requiring blood transfusions.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Doss, which included a right colectomy followed by primary anastomosis and lymph node dissection. He received post-operative care in the intensive care unit for monitoring and pain management. Subsequent to surgery, he underwent six cycles of adjuvant chemotherapy (FOLFOX regimen), which was well-tolerated with only minor neuropathy and myelosuppression. Radiation therapy was not deemed necessary due to the absence of distant metastases.
+
+Hospital Course:
+	Mr. Doss's initial recovery from surgery was complicated by an anastomotic leak, which was managed conservatively with antibiotics, wound care, and nutritional support. After a week, his condition stabilized, and he was transitioned to a regular hospital room. Throughout his stay, he received therapy for strengthening and ambulation exercises.
+
+Follow-Up Plan:
+	Mr. Doss will return for outpatient follow-up appointments every three months for the first two years post-treatment and then annually thereafter. He will continue on oral chemotherapy (Capecitabine) for six months, after which he can transition to surveillance only. Lifestyle recommendations include maintaining a balanced diet with high fiber content, regular exercise, avoiding alcohol, and quitting smoking if applicable.
+
+Patient Education:
+	Mr. Doss was educated about his ileal conduit, signs of complications such as leakage, obstruction, or abscess formation, and common side effects of chemotherapy like diarrhea, nausea, and fatigue. He was also instructed on managing his anastomotic site, maintaining a proper diet, hydration, and engaging in regular physical activity.
+
+Discharge Instructions:
+	Upon discharge, Mr. Doss was provided with detailed instructions for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to continue taking his prescribed medications and to return immediately if experiencing fever, severe abdominal pain, or signs of bleeding.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Mr. Doss's long-term prognosis. He will be closely followed by his oncologist to manage ongoing health issues and maintain overall wellness.
+
+Final Remarks:
+	Dr. Poormon commends Mr. Doss on his resilience and cooperation throughout the treatment journey. She encourages him to continue taking care of himself, attending follow-up appointments, and following the recommended lifestyle changes for optimal outcomes. Both the physician and patient have signed this report, validating its contents on April 10, 2023.

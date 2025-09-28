@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michelle Stimmel
+	•Date of Birth: 12/03/1975
+	•Medical Record Number: M1275
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 28/02/2023
+	•Attending Physician: Dr. Alexis Havir
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Mr. Stimmel presented to the emergency department with complaints of lower back pain, hematuria, and a palpable mass in his left flank. A preliminary physical examination revealed an enlarged kidney, tenderness over the left loin area, and pallor. Further diagnostic investigations including urine analysis, complete blood count (CBC), and abdominal ultrasound confirmed the suspicion of a renal mass. Subsequent computed tomography (CT) scan and biopsy results revealed a large, invasive RCC with metastasis to the lungs and liver.
+
+Medical History:
+	Mr. Stimmel has a history of hypertension, which was managed with medication. He also had a past surgical history significant for appendectomy in 2010. His family history was notable for colon cancer in his father and breast cancer in his mother. Mr. Stimmel had no known allergies and was taking aspirin daily as prescribed for his hypertension.
+
+Diagnostic Findings:
+	The pathology report confirmed a clear cell variant of RCC. CT scans revealed a large, irregular mass in the left kidney, with multiple metastatic lesions in both lungs and liver. Blood tests showed anemia (hemoglobin 8.5 g/dL) and increased levels of lactate dehydrogenase (LDH 600 U/L), indicative of tumor burden.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stimmel. The primary intervention was a left radical nephrectomy, followed by adjuvant immunotherapy (nivolumab) and targeted therapy (sunitinib). Radiation therapy was considered but ultimately deferred due to the extensive metastatic disease. Post-operative care included pain management, fluid and electrolyte balance, and monitoring for complications such as wound infection or urine leakage.
+
+Hospital Course:
+	Mr. Stimmel's initial recovery from surgery was uneventful, but he faced challenges with anemia, which required blood transfusions. The cancer care team provided intensive therapy sessions to manage his symptoms and improve his overall quality of life. Nutritional support was crucial, as Mr. Stimmel lost significant weight during his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Stimmel will continue with the immunotherapy and targeted therapy regimens. He is scheduled for follow-up appointments every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary based on his response to treatment and any side effects. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and stress management techniques.
+
+Patient Education:
+	Mr. Stimmel was educated about his disease, the importance of adhering to his medication regimen, and the role of follow-up appointments in monitoring his health. He was instructed on post-surgical care for his ileal conduit, including how to manage potential complications such as blockages or infections. He was also educated about common side effects of immunotherapy and targeted therapy and ways to manage them effectively.
+
+Discharge Instructions:
+	Mr. Stimmel was provided with detailed discharge instructions regarding his medications, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to monitor his blood pressure regularly and report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Mr. Stimmel's ongoing health management. Adherence to the treatment plan and maintaining a healthy lifestyle are crucial factors in improving his long-term prognosis.
+
+Final Remarks:
+	Dr. Havir commended Mr. Stimmel on his resilience throughout the treatment journey and thanked him for his cooperation. She emphasized the importance of continued follow-up care and adherence to the treatment plan for optimal outcomes. Both the physician and patient signed the report on 28/02/2023, validating this thorough documentation as per medical standards.

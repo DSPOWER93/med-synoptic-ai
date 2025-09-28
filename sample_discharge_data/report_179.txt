@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Esther Perkins
+	•Date of Birth: 12/05/1985
+	•Medical Record Number: M179
+	•Date of Admission: 03/06/2022
+	•Date of Discharge: 10/06/2022
+	•Attending Physician: Dr. Jesus Martin
+	•Primary Diagnosis: Pancreatic Cancer (Locally Advanced)
+
+Reason for Admission:
+	Esther Perkins, a 37-year-old male, was admitted to the hospital due to persistent upper abdominal pain and unexplained weight loss over the past few months. Initial assessment revealed jaundice, nausea, and a palpable mass in the epigastric region. Subsequent diagnostic investigations including CT scan, MRI, and biopsy confirmed the diagnosis of pancreatic cancer. The disease was found to be locally advanced with evidence of lymph node involvement and liver metastasis.
+
+Medical History:
+	Mr. Perkins has a history of hypertension, managed with medication. He also has a family history of colon cancer, and his father passed away from the same disease at the age of 60. He has no known allergies and was taking aspirin daily for his hypertension before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the pancreas. Imaging scans showed a large, irregular mass in the pancreatic head with extensive local invasion, multiple enlarged lymph nodes, and metastasis to the liver. Blood tests revealed anemia, elevated CA 19-9 levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Perkins. This included pancreaticoduodenectomy (Whipple procedure), followed by adjuvant chemotherapy and radiation therapy. Post-operative care included management of pain, nutritional support, and prevention of post-surgical complications.
+
+Hospital Course:
+	Mr. Perkins underwent a successful Whipple procedure on 05/06/2022. The initial recovery was challenging due to post-operative complications such as pancreatic fistula and delayed gastric emptying. However, with the support of the medical team, these issues were effectively managed. Mr. Perkins also received six cycles of FOLFIRINOX chemotherapy and radiation therapy to the liver metastasis.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments for monitoring tumor markers, imaging scans, and overall health assessment. Mr. Perkins will continue taking his hypertension medication and aspirin as prescribed. He is advised to maintain a healthy diet, avoid alcohol, and quit smoking. In case of any symptoms such as fever, increased abdominal pain, or jaundice, immediate medical attention is required.
+
+Patient Education:
+	Mr. Perkins and his family were educated about the disease, its treatment options, and post-surgical care. Instructions included managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Perkins was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to schedule a follow-up appointment within two weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Despite the aggressive treatment, the prognosis for pancreatic cancer remains guarded. However, with continued care and follow-up, Mr. Perkins has a chance at improved quality of life.
+
+Final Remarks:
+	The attending physician, Dr. Jesus Martin, commends Mr. Perkins's resilience and cooperation throughout the treatment journey. She emphasizes that while the road ahead may be difficult, Mr. Perkins's fighting spirit will undoubtedly aid in his recovery. Signed Dr. Jesus Martin / Date 10/06/2022. Signed Esther Perkins / Date 10/06/2022.

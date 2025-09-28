@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephanie Williford
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1041
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Dr. Johnson
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Stephanie Williford was admitted to the hospital due to persistent abdominal pain and jaundice, which had worsened over the past two weeks. Upon initial assessment, he presented with a distended abdomen, dark urine, and pale stools. Further diagnostic investigations, including CT scans, MRI, and endoscopic ultrasound (EUS), confirmed the presence of a mass in his pancreas. The severity of his symptoms suggested an advanced stage of the disease.
+
+Medical History:
+	Mr. Williford has a significant medical history. He was previously diagnosed with hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015. His family history is notable for pancreatic cancer, which his father passed away from in 2008. Mr. Williford has known allergies to penicillin and contrast dyes. Prior to admission, he was taking metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy confirmed the diagnosis of pancreatic adenocarcinoma. Imaging scans revealed a large mass in the head of Mr. Williford's pancreas, with local invasion and metastasis to nearby lymph nodes and the liver. Blood tests showed elevated CA 19-9 levels, consistent with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Williford. This included a Whipple procedure to remove the tumor, followed by six cycles of FOLFIRINOX chemotherapy and concurrent radiation therapy to the pancreas and surrounding lymph nodes. The treatment plan was tailored to his specific condition, taking into account his other medical conditions and allergies.
+
+Hospital Course:
+	Mr. Williford underwent a successful Whipple procedure on March 20, 2023. His post-operative course was challenging due to complications from diabetes and COPD. However, with aggressive management of his blood sugar levels, respiratory support, and nutritional therapy, he gradually improved. He completed the intended six cycles of FOLFIRINOX chemotherapy and radiation therapy without significant side effects.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Williford will continue with regular outpatient appointments for follow-up care every three months. He will also receive adjuvant capecitabine to help prevent recurrence. Lifestyle modifications, including quitting smoking and maintaining a balanced diet, are strongly recommended. Warning signs requiring immediate medical attention include increasing abdominal pain, jaundice, or unexplained weight loss.
+
+Patient Education:
+	Mr. Williford and his family were educated about the importance of adhering to the prescribed medications, including capecitabine and ongoing management of his other medical conditions. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects were provided.
+
+Discharge Instructions:
+	Mr. Williford was discharged with clear instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his blood sugar levels closely and maintain a balanced diet rich in fruits, vegetables, lean proteins, and whole grains.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Williford's long-term health. He was informed about the importance of ongoing surveillance and the role it plays in improving his prognosis.
+
+Final Remarks:
+	The attending physician, Dr. Dr. Johnson, expressed her appreciation for Mr. Williford's resilience throughout his treatment journey. She emphasized the importance of regular follow-up appointments and encouraged him to maintain a positive attitude. Both the physician and patient signed the report on April 10, 2023, validating the comprehensive documentation of Mr. Williford's care.

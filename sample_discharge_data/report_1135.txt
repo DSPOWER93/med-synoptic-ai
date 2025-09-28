@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Amy Wilder
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1135
+	•Date of Admission: 02/03/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Randolph Benjamin
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Amy Wilder was admitted to the hospital due to increasing abdominal pain and weight loss over a span of three months. Upon initial assessment, he exhibited signs of anemia, fatigue, and a palpable mass in the lower right quadrant of his abdomen. Further diagnostic investigations, including a CT scan, confirmed the presence of a large tumor in his colon.
+
+Medical History:
+	Mr. Wilder has a history of hypertension, for which he was being managed with medications. He also has a family history of colorectal cancer, as his father passed away from the disease at the age of 65. Prior to admission, he had undergone a laparoscopic cholecystectomy for gallstones in 2018. He is allergic to penicillin and has been taking aspirin daily due to his hypertension.
+
+Diagnostic Findings:
+	The pathology report revealed an adenocarcinoma of the sigmoid colon, with lymph node involvement. The CT scan showed a large mass in the sigmoid colon, with evidence of metastasis in the liver and lung. Blood tests revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wilder. This included a laparoscopic sigmoid colectomy followed by a permanent ileal conduit, six cycles of FOLFOX chemotherapy, and radiation therapy to the liver metastasis. Throughout his hospital stay, Mr. Wilder experienced common side effects associated with chemotherapy, such as nausea, vomiting, and fatigue.
+
+Hospital Course:
+	Mr. Wilder underwent a successful laparoscopic sigmoid colectomy on 04-03-2023. Post-operative care focused on pain management, wound healing, and nutritional support. He faced several challenges during his hospital stay, including post-operative bleeding and anemia, which were managed successfully with blood transfusions and iron supplements.
+
+Follow-Up Plan:
+	Mr. Wilder will be scheduled for regular outpatient appointments with his oncologist and surgeon every three months for the first year, then every six months thereafter. He will continue taking oral chemotherapy as per the instructions provided. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and avoiding alcohol.
+
+Patient Education:
+	Mr. Wilder and his family were educated about post-surgical care, including wound care practices, signs of complications, and managing common side effects such as diarrhea and skin reactions from the chemotherapy. Instructions were also given on how to manage the ileal conduit, which includes emptying it regularly and monitoring for any signs of infection.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Wilder was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated on recognizing signs of complications that require immediate medical attention, such as severe abdominal pain, fever, or changes in bowel habits.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Wilder will need to manage ongoing health issues related to his colorectal cancer, such as potential complications with his ileal conduit, and regular screenings for other types of cancer given his family history.
+
+Final Remarks:
+	I would like to commend Amy Wilder on his resilience and cooperation throughout this challenging journey. His positive attitude and determination have played a significant role in his successful treatment. I wish him a swift recovery and good health for the years ahead.

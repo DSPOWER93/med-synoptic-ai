@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Preston Wilburn
+	•Date of Birth: 12/05/1968
+	•Medical Record Number: M140
+	•Date of Admission: 04/12/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Norman Schoonover
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Mr. Wilburn presented to our facility with a complaint of gross hematuria, persistent and painful urination, and lower abdominal pain, which had been ongoing for approximately two weeks prior. An initial urinalysis revealed blood in the urine, and subsequent imaging studies confirmed a mass in his bladder, suspected to be TCC. He was admitted for further evaluation, staging, and management of the condition.
+
+Medical History:
+	Mr. Wilburn has a medical history significant for hypertension, type 2 diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a total hip replacement surgery in 2015 due to osteoarthritis. His father died of colorectal cancer at the age of 68, and his mother is a breast cancer survivor. Before admission, Mr. Wilburn was taking metformin, lisinopril, and tiotropium.
+
+Diagnostic Findings:
+	A series of tests were conducted during his hospital stay. Pathology results from the transurethral resection of bladder tumor (TURBT) revealed a moderately differentiated TCC invading muscle (pT2). Imaging studies, including computed tomography (CT) and magnetic resonance imaging (MRI), showed no evidence of distant metastasis. Blood tests revealed mildly elevated creatinine, suggesting potential renal dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wilburn. He underwent an open radical cystectomy with ileal conduit diversion on 04/23/2022. Post-operative care included management of pain, preventing and treating complications such as urinary tract infections, and ensuring adequate nutrition and hydration. He was also started on a neoadjuvant chemotherapy regimen consisting of gemcitabine and cisplatin for four cycles to reduce the risk of recurrence. Radiation therapy was deemed unnecessary based on the stage of his cancer.
+
+Hospital Course:
+	Mr. Wilburn's initial recovery from surgery was uneventful, but he faced challenges with managing his diabetes and hypertension during his hospital stay. He received physical therapy to improve his mobility and strengthen his core muscles. His diet was closely monitored to ensure adequate protein intake for healing and proper management of his diabetes.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Wilburn will return for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue to take metformin, lisinopril, and tiotropium, but the dosages may be adjusted based on his response. He should maintain a balanced diet, remain hydrated, and engage in regular physical activity. Any signs of fever, chills, increased urinary frequency or urgency, flank pain, or hematuria require immediate medical attention.
+
+Patient Education:
+	Mr. Wilburn and his family were educated about the importance of post-surgical care, managing his ileal conduir, recognizing signs of complications, and managing common side effects like diarrhea and urinary tract infections. They were also instructed on how to monitor his blood sugar levels, blood pressure, and weight regularly.
+
+Discharge Instructions:
+	Mr. Wilburn was provided with comprehensive discharge instructions, including medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a resource list for support groups, nutritional guidance, and home health services if needed.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial to detect any potential recurrence of TCC early. Mr. Wilburn's compliance with follow-up appointments, medication regimen, dietary recommendations, and lifestyle modifications will significantly impact his long-term outlook.
+
+Final Remarks:
+	Mr. Wilburn demonstrated remarkable resilience throughout his treatment journey, and we are confident that he will continue to cooperate in his recovery process. We wish him the best as he moves forward in this next phase of his life.

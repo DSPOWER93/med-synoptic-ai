@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Johnny Chase
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1298
+	•Date of Admission: 06/02/2023
+	•Date of Discharge: 03/03/2023
+	•Attending Physician: Dr. Casey Hurst
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Johnny Chase, presented to the Johnny Chase complaining of hematuria and dysuria that had persisted for over a week. Upon admission, his vital signs were within normal limits, but urinalysis revealed gross hematuria with microscopic sediment. Further investigations included a CT scan of the abdomen and pelvis, which revealed a mass lesion in the bladder. A cystoscopy was performed, confirming the diagnosis of TCC of the bladder.
+
+Medical History:
+	Johnny Chase has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a left lower lobe lobectomy in 2015 due to lung cancer. He is allergic to penicillin and contrast dye. His regular medications included metformin, enalapril, salmeterol/fluticasone, and tiotropium bromide.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of TCC of the bladder. The tumor was moderately differentiated with invasive properties. Imaging scans, including CT and MRI, revealed a 4 cm mass in the posterior wall of the bladder that invaded the muscularis propria. Blood tests showed slightly elevated creatinine levels, suggestive of renal dysfunction due to obstruction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Johnny Chase. The primary intervention was radical cystectomy with ileal conduit formation. Post-operative care included close monitoring of urine output, electrolytes, and renal function. He was started on adjuvant chemotherapy with gemcitabine and cisplatin, with the first cycle administered during hospitalization. Given his history of COPD, a decision was made to forgo radiation therapy.
+
+Hospital Course:
+	Johnny Chase's post-operative recovery was initially complicated by delayed wound healing due to his diabetes mellitus. He required intravenous antibiotics and wound care, but eventually, the wound healed without further complications. His renal function improved after removal of the bladder tumor obstruction. He received the first cycle of chemotherapy during his hospital stay.
+
+Follow-Up Plan:
+	Johnny Chase will be followed up closely in the outpatient clinic every three months for the first year, then every six months thereafter. He is to continue with his adjuvant chemotherapy as prescribed and maintain tight control of his blood sugars to minimize the risk of recurrence. A low-fat, high-fiber diet is recommended, along with regular exercise.
+
+Patient Education:
+	Johnny Chase and his family were educated about post-surgical care, including ileal conduit management, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Johnny Chase was provided with detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks following surgery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Johnny Chase is guarded due to the invasive nature of his tumor. Regular monitoring for early detection of recurrence is crucial, along with management of ongoing health issues such as hypertension and diabetes mellitus.
+
+Final Remarks:
+	During his treatment journey, Johnny Chase demonstrated remarkable resilience and cooperation. We wish him a swift and full recovery. This report is signed by Dr. Casey Hurst on 03/03/2023.

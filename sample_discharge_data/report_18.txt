@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brittney Nicholas
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M18
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Kathryn Holtzman
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Brittney Nicholas was admitted to the hospital after presenting with symptoms of abdominal pain, unexplained weight loss, and a change in bowel habits. Upon initial assessment, a palpable mass was detected in his lower abdomen, prompting further diagnostic investigations. A series of tests including a colonoscopy, CT scan, and blood tests were conducted, which confirmed the presence of colorectal cancer. The tumor was found to have invaded the muscular layer of the bowel, indicating Brittney Nicholas disease.
+
+Medical History:
+	Mr. Nicholas has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2018 due to a renal cell carcinoma. He also has a family history of colorectal cancer, with his father being diagnosed at the age of 65. Allergies include penicillin and sulfa drugs. His pre-admission medications included metformin for diabetes, amlodipine for hypertension, and albuterol inhaler for COPD.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma of the sigmoid colon. The CT scan revealed a 7cm mass in the sigmoid colon with regional lymph node involvement. Blood tests showed anemia, elevated CA19-9 level, and mildly elevated CEA level.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Nicholas. He underwent a sigmoid colectomy with regional lymph node dissection followed by a permanent ileostomy. Post-operative care included antibiotics to prevent infection, pain management, and nutritional support. Due to the Brittney Nicholas diagnosis, he also received adjuvant chemotherapy consisting of FOLFOX regimen (Folinic acid, Fluorouracil, and Oxaliplatin) for 12 cycles. Radiation therapy was not deemed necessary based on the staging workup.
+
+Hospital Course:
+	Post-surgery, Mr. Nicholas recovered well with minimal complications. He was managed by the surgical team, oncology team, and palliative care team during his hospital stay. The oncology team started his chemotherapy regimen on day 10 post-surgery. He experienced common side effects such as nausea, vomiting, and fatigue but responded well to symptomatic management. Nutritional support was provided via a nasogastric tube due to his poor oral intake in the initial days.
+
+Follow-Up Plan:
+	Mr. Nicholas will be scheduled for follow-up appointments every 3 months for the first year, then every 6 months thereafter. His medications will continue as prescribed, with a review of medication regimen at each visit. A low-fiber diet is recommended to minimize complications related to his ileal conduit. He has been educated about recognizing signs of complications such as fever, abdominal pain, and bleeding from the stoma, and when to seek medical attention immediately.
+
+Patient Education:
+	Mr. Nicholas and his family were provided detailed instructions on post-surgical care, including stoma management, wound care, hydration, and physical activity guidelines. They were also educated about managing common side effects of chemotherapy such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Nicholas was provided with written instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also informed about the importance of regular follow-up appointments for continued monitoring and management of his health issues.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Nicholas will be closely monitored for signs of recurrence, and any abnormalities will be addressed promptly to improve outcomes.
+
+Final Remarks:
+	Dr. Holtzman commends Mr. Nicholas for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continuing with the prescribed medications, attending follow-up appointments, and adhering to the recommended lifestyle changes for long-term health maintenance. Signed Dr. Kathryn Holtzman, M.D., March 20, 2022.

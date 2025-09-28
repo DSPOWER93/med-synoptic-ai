@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Donald Mohler
+	•Date of Birth: 01/10/1965
+	•Medical Record Number: M1267
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 05/20/2023
+	•Attending Physician: Dr. Nellie Hornung
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Donald Mohler was admitted to the hospital due to persistent hematuria, or blood in the urine, and a lower abdominal mass discovered during routine check-up. The initial assessment revealed a possible bladder tumor. Subsequent cystoscopy and biopsy confirmed the diagnosis of Donald Mohler Carcinoma (TCC) of the bladder. The extent of the cancer was staged as T2N0M0, indicating that the tumor had invaded the muscle layer but had not spread to nearby lymph nodes or distant sites.
+
+Medical History:
+	Mr. Mohler has a history of hypertension and chronic obstructive pulmonary disease (COPD), both well-controlled with medication. He underwent a total knee replacement surgery in 2015. His family history is significant for colon cancer, and he has an allergy to penicillin. Prior to admission, Mr. Mohler was taking lisinopril, tiotropium bromide, and aspirin daily.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay included cystoscopy, biopsy, computed tomography (CT) scan of the abdomen and pelvis, and positron emission tomography (PET) scan. Pathology results from the biopsy confirmed the diagnosis of TCC. CT and PET scans showed no evidence of metastasis, but did indicate a 4 cm mass in the bladder. Blood tests revealed anemia and mildly elevated creatinine levels, likely due to blood loss and kidney compromise from the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a treatment plan for Mr. Mohler that included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved pain management, catheter care, and nutritional support. A chemotherapy regimen consisting of gemcitabine and cisplatin was initiated, with a total of six cycles planned. Due to the risk of radiation-induced kidney damage, radiation therapy was not included in the treatment plan.
+
+Hospital Course:
+	Mr. Mohler underwent radical cystectomy on April 10, 2023. The surgery went as planned, and he experienced a smooth initial recovery. However, he developed post-operative complications, including anastomotic leak and urinary tract infection (UTI). These issues were promptly addressed with antibiotics and conservative management, allowing Mr. Mohler to be discharged on May 20, 2023.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Mohler was scheduled for regular follow-up appointments with his urologist every three months for the first year, then every six months thereafter. He will continue to take aspirin daily and adjust his lisinopril dosage as needed to manage his blood pressure. A low-sodium, high-fiber diet was recommended to aid in recovery and reduce the risk of recurrence. Mr. Mohler should also be vigilant for signs of complications such as fever, persistent abdominal pain, or changes in urine color or odor.
+
+Patient Education:
+	Mr. Mohler and his family were provided with extensive education on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects like fatigue, nausea, and diarrhea. They were also instructed to report any unusual symptoms immediately.
+
+Discharge Instructions:
+	Upon discharge, Mr. Mohler was provided with detailed written instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, maintain a well-balanced diet, and engage in gentle exercise as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Mohler is generally good, as he responded well to the initial chemotherapy treatment. However, regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in maintaining his long-term health.
+
+Final Remarks:
+	In conclusion, Donald Mohler demonstrated remarkable resilience throughout his treatment journey. His cooperative attitude and diligent adherence to the prescribed regimen have contributed significantly to his positive outcome. We wish him a successful recovery and look forward to continuing to support him in his health journey.

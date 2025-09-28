@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eddie Sanchez
+	•Date of Birth: 12/05/1985
+	•Medical Record Number: M1355
+	•Date of Admission: 01/04/2022
+	•Date of Discharge: 22/04/2022
+	•Attending Physician: Dr. Terry Holmes
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Eddie Sanchez, a 36-year-old male, was admitted to our facility due to complaints of abdominal pain and weight loss over the past three months. The initial assessment revealed a tender mass in the lower abdomen, accompanied by anemia and rectal bleeding. A series of diagnostic tests were conducted, including a colonoscopy, CT scan, and blood tests, which confirmed the presence of a tumor in the descending colon.
+
+Medical History:
+	Mr. Sanchez's medical history included hypertension, which was managed with medications. He also had a history of COPD, requiring intermittent oxygen therapy. His family had a history of colorectal cancer, and he was allergic to penicillin. Before admission, he was on aspirin for his hypertension and inhaled bronchodilators for his COPD.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a moderately differentiated adenocarcinoma in the descending colon. The CT scan showed a 6cm tumor with regional lymph node involvement. Blood tests revealed anemia, elevated CEA level, and normal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sanchez. This included a partial colectomy followed by a temporary ileostomy, six cycles of FOLFOX chemotherapy, and radiation therapy to the abdomen and pelvis. The post-operative care involved pain management, nutritional support, and wound care.
+
+Hospital Course:
+	Mr. Sanchez underwent a successful partial colectomy on 05/04/2022. He experienced some post-operative complications, including anemia, dehydration, and wound infection. However, with aggressive management of these issues, he made steady progress and was discharged ten days later.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments every three months for the first year, six-monthly visits in the second year, and annual visits thereafter. Mr. Sanchez will continue his hypertension medications, but the dosage of aspirin may be adjusted based on the results of future coagulation tests. He will also need to adhere to a low-fiber diet and maintain a healthy weight to prevent disease recurrence.
+
+Patient Education:
+	Mr. Sanchez and his family were educated about the nature of the disease, the importance of regular follow-ups, and signs of complications such as fever, abdominal pain, and changes in bowel habits. They were also instructed on post-surgical care for the ileostomy, including emptying, cleaning, and hygiene practices.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sanchez was provided with detailed instructions on medication adherence, wound care practices, fluid intake, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. Mr. Sanchez will need to manage ongoing health issues such as hypertension and COPD, ensuring they are well-controlled to improve his overall prognosis.
+
+Final Remarks:
+	Mr. Sanchez demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team and adhering diligently to his care plan. I am confident that he will continue to make steady progress towards a full recovery. This report is signed by Dr. Terry Holmes on 22/04/2022.

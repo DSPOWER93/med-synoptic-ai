@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Payne
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1370
+	•Date of Admission: 03/25/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Wesley Shelly
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer) with Muscle Invasion
+
+Reason for Admission:
+	The patient, Patricia Payne, was admitted to the hospital on March 25, 2022, due to persistent hematuria and lower abdominal pain. A thorough initial assessment revealed anemia, abdominal distension, and a palpable mass in the lower abdomen. Subsequent diagnostic investigations, including computed tomography (CT) scan and cystoscopy with biopsy, confirmed the presence of a large bladder tumor invading the muscularis propria layer of the bladder wall.
+
+Medical History:
+	Patricia Payne has a past medical history significant for hypertension, which is controlled with lisinopril 10mg once daily. He also has a family history of colorectal cancer in his father and paternal uncle, both diagnosed at the age of 65. The patient reported no known allergies and was taking no medications before admission.
+
+Diagnostic Findings:
+	Pathology report revealed a moderately differentiated urothelial carcinoma with muscle invasion, T2bN0M0. CT scan showed a large heterogeneously enhancing mass occupying the bladder lumen with irregular thickening of the bladder wall and adjacent hydronephrosis. The tumor was invading the perivesical fat but did not involve the pelvic sidewall or adjacent organs. Blood tests revealed anemia (Hb 9g/dL), increased creatinine (1.5mg/dL), and elevated CA125 (65U/mL).
+
+Treatment Plan:
+	The multidisciplinary team, including oncologists, urologists, radiologists, and pathologists, developed a comprehensive treatment plan for Mr. Payne. He underwent a radical cystectomy with ileal conduit formation followed by neoadjuvant chemotherapy with gemcitabine and cisplatin for four cycles. The patient tolerated the surgery well, but experienced post-operative complications such as anastomotic leak and urinary tract infection. He also received adjuvant radiation therapy to the pelvis.
+
+Hospital Course:
+	During his hospital stay, Mr. Payne's condition improved gradually, with successful management of his complications through intensive care and supportive measures. The patient was discharged on April 20, 2022, in stable condition, with a plan for regular follow-ups.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Payne. He will undergo regular cystoscopies and abdominal CT scans every 3 months for the first two years and every 6 months thereafter. His medications, including lisinopril, iron supplements, and pain relievers, will be continued. The patient is advised to maintain a high-protein, low-fiber diet and avoid caffeine and alcohol. He should also monitor his urinary output and report any signs of hematuria or increased frequency.
+
+Patient Education:
+	Mr. Payne and his family were educated about the nature of his disease, treatment options, and expected outcomes. They were instructed on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, and decreased urinary output, and managing common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	The patient was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised to avoid heavy lifting or strenuous activities for six weeks following surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Payne's long-term survival. The patient was counseled on the importance of compliance with his treatment plan, regular follow-ups, and a healthy lifestyle.
+
+Final Remarks:
+	I am pleased to report that Patricia Payne has shown remarkable resilience throughout his treatment journey. His cooperation and positive attitude have significantly contributed to his successful treatment. I wish him a swift and full recovery, and look forward to seeing him at his follow-up appointments.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joanne Burns
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1096
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Lee Salas
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Joanne Burns, a 42-year-old male, presented to the emergency department complaining of persistent lower abdominal pain, decreased appetite, and weight loss. Upon initial assessment, vital signs were stable, but a digital rectal exam revealed an irregular mass. A series of diagnostic tests including CT scan, MRI, and colonoscopy were conducted, which confirmed the presence of a large tumor in the descending colon. The severity of his symptoms, along with the extensive nature of the cancer, necessitated immediate surgical intervention.
+
+Medical History:
+	Mr. Burns has a significant medical history. He was diagnosed with hypertension 10 years ago and is currently controlled on lisinopril and hydrochlorothiazide. He was also recently diagnosed with type 2 diabetes and is managed with metformin and dietary modifications. In addition, he suffers from chronic obstructive pulmonary disease (COPD), which required a double lung transplant five years ago. He has no known allergies.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a large, invasive adenocarcinoma in the descending colon. Imaging scans showed multiple lymph nodes involved, indicating Stage III colorectal cancer. Blood tests revealed elevated levels of CEA (Carcinoembryonic Antigen) and CA19-9, markers for malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Burns. He underwent an open colectomy with primary ileo-rectal anastomosis, followed by a right-sided loop ileostomy for postoperative management. Post-operatively, he received adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, and fluorouracil) regimen for 6 cycles. Radiation therapy was not deemed necessary due to the extent of surgery.
+
+Hospital Course:
+	Mr. Burns's recovery from surgery was initially challenging, as he experienced complications related to his COPD. However, with the help of pulmonary rehabilitation and close monitoring, his condition improved steadily. During his stay, he received nutritional support to manage weight loss and optimize his overall health.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Burns was scheduled for regular outpatient appointments with his oncologist, surgeon, and primary care physician. He will continue taking lisinopril, hydrochlorothiazide, metformin, and insulin as prescribed, with close monitoring of his blood sugar levels. A low-fiber diet is recommended to manage the ileal conduit. Any signs of complications such as fever, abdominal pain, or change in bowel habits should be reported immediately.
+
+Patient Education:
+	Mr. Burns and his family were educated about post-surgical care, including ileostomy management, recognizing signs of complications, and managing common side effects such as diarrhea and dehydration. They were also advised on maintaining a healthy lifestyle, including regular exercise and a balanced diet.
+
+Discharge Instructions:
+	Mr. Burns was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Burns's ongoing health issues. He will undergo CEA levels testing every three months, chest X-rays every six months, and abdominal CT scans annually.
+
+Final Remarks:
+	Dr. Lee Salas, Mr. Burns's attending physician, expressed her appreciation for his resilience and cooperation throughout the treatment journey. She emphasized the importance of continued follow-up care and encouraged him to maintain a positive attitude as he moves forward in recovery. Both the physician and patient signed the report on 15/01/2023.

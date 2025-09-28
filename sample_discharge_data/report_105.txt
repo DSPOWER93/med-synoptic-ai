@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Darrell Mullins
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M105
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Maria Tittle
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Darrell Mullins was admitted to the hospital due to complaints of blood in urine, frequent and painful urination, and lower abdominal pain that had persisted for over a month. An initial assessment revealed a distended bladder on palpation and the presence of hematuria (blood in urine) upon urinalysis. Further diagnostic investigations included ultrasound, computed tomography (CT), and cystoscopy, which confirmed the presence of a mass in the bladder and suspected bladder cancer.
+
+Medical History:
+	Mr. Mullins has a history of hypertension managed with Lisinopril 10mg daily and occasional use of aspirin for cardiovascular prophylaxis. He was diagnosed with type II diabetes mellitus in 2015 and is currently on Metformin 500mg twice daily. In addition, Mr. Mullins has a family history significant for colon cancer (father) and breast cancer (mother). Allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) procedure revealed a muscle-invasive urothelial carcinoma, pT3N0M0, with negative margins. Staging CT scan showed no evidence of distant metastasis but did reveal multiple small lymph nodes in the pelvis and retroperitoneum. Blood tests showed elevated creatinine levels, indicative of kidney dysfunction, likely due to the presence of the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Mullins, which included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy with Gemcitabine and Cisplatin. Post-operative care included management of pain, monitoring of urine output, and close observation for signs of infection or complications.
+
+Hospital Course:
+	Mr. Mullins underwent a successful radical cystectomy on April 5th, followed by formation of an ileal conduit. The post-operative period was marked by management of pain and control of urine output. Challenges included episodes of hypotension and electrolyte imbalances, which were addressed promptly by the medical team.
+
+Follow-Up Plan:
+	Mr. Mullins will be scheduled for regular follow-up appointments every 3 months in the first year, then every 6 months thereafter. He is to continue taking Metformin for diabetes management and will have his kidney function monitored closely. A low-sodium, high-protein diet is recommended to support kidney function.
+
+Patient Education:
+	Mr. Mullins and his family were educated about the nature of the disease, the surgical procedure, and post-surgical care. Instructions included how to manage the ileal conduir, recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue, neuropathy, and nausea.
+
+Discharge Instructions:
+	Mr. Mullins was discharged with instructions on medication adherence, wound care practices, and hydration guidelines. He was advised to maintain physical activity as tolerated but avoid heavy lifting or straining for the first 6 weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Mullins should be vigilant about any changes in urine color, frequency, or pain, as well as signs of kidney dysfunction.
+
+Final Remarks:
+	Dr. Tittle concludes this report commending Mr. Mullins's resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-ups, adherence to medication regimen, and maintaining a healthy lifestyle for optimal health outcomes. Signed Dr. Maria Tittle, MD, FACS, and Darrell Mullins. Date April 12, 2022.

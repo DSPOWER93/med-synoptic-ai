@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Nalls
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M109
+	•Date of Admission: 04/01/2023
+	•Date of Discharge: 05/10/2023
+	•Attending Physician: Dr. Joyce Grenier
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mary Nalls was admitted to the hospital due to persistent lower abdominal pain and rectal bleeding that had been ongoing for several weeks. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA). A computed tomography (CT) scan confirmed the presence of a large tumor in the sigmoid colon and lymph node involvement.
+
+Medical History:
+	Mary Nalls is a 38-year-old male with a medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has had several surgeries in the past, including an appendectomy and gallbladder removal. His family history is notable for colorectal cancer in his father at the age of 65. Mary Nalls is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and albuterol inhaler for his chronic conditions.
+
+Diagnostic Findings:
+	During the hospital stay, diagnostic tests were conducted to further evaluate Mary Nalls's condition. Pathology results confirmed adenocarcinoma of the sigmoid colon. Imaging scans showed a large tumor measuring 8 cm in diameter with lymph node involvement. Blood tests revealed anemia and elevated liver function tests, indicative of potential liver metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mary Nalls. The initial treatment was a low anterior resection of the sigmoid colon followed by an ileal conduit formation to create a continent ostomy. Post-operative care included pain management, wound care, and nutritional support. A chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) was initiated for adjuvant therapy, with cycles every two weeks. Radiation therapy was not deemed necessary based on the extent of disease detected during imaging scans.
+
+Hospital Course:
+	Mary Nalls's recovery from surgery was initially challenging due to post-operative complications, including anastomotic leakage and infection. However, with close monitoring, antibiotic therapy, and supportive care, he gradually improved over the course of his hospital stay. Therapy sessions focused on improving mobility, strength, and overall function, while nutritional support addressed weight loss and malnutrition associated with cancer and its treatments.
+
+Follow-Up Plan:
+	Post-discharge, Mary Nalls will follow a comprehensive follow-up plan that includes scheduled outpatient appointments every three months for the first year, then six months thereafter. His medication regimen will be adjusted based on response to treatment and management of chronic conditions. Lifestyle recommendations include maintaining a healthy diet, regular exercise, and avoiding tobacco products. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits associated with his ileal conduit.
+
+Patient Education:
+	Mary Nalls and his family were provided education about the disease process, treatment options, and post-surgical care instructions. They were instructed on caring for the ileal conduit, managing potential complications, and recognizing common side effects of chemotherapy, such as nausea, fatigue, and neutropenia.
+
+Discharge Instructions:
+	Mary Nalls was discharged with comprehensive instructions to ensure his continued recovery and health maintenance. Medication adherence, wound care practices, hydration, and physical activity guidelines were emphasized. He was also provided resources for emotional support during this challenging time.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mary Nalls is favorable with adjuvant chemotherapy, but regular monitoring for early detection of recurrence will be essential in managing his ongoing health issues.
+
+Final Remarks:
+	I commend Mary Nalls for his resilience and cooperation throughout this treatment journey. I am confident that he will continue to make progress as he adheres to the follow-up plan and embraces a healthy lifestyle. I wish him the best in his recovery and look forward to seeing him thrive.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Katherine Korol
+	•Date of Birth: 03/15/1980
+	•Medical Record Number: M1008
+	•Date of Admission: 01/20/2022
+	•Date of Discharge: 02/10/2022
+	•Attending Physician: Dr. Liberty Heisserer
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastases
+
+Reason for Admission:
+	Katherine Korol presented to the emergency department with complaints of persistent abdominal pain, weight loss, and change in bowel habits. A thorough physical examination revealed a palpable mass in the lower abdomen. Initial laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating the possibility of malignancy. Subsequent imaging studies, including computed tomography (CT) scan, confirmed the presence of a large tumor in the sigmoid colon with multiple liver metastases.
+
+Medical History:
+	Katherine Korol has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 due to gallstones. His father died of colon cancer at the age of 65. He has no known allergies and was taking lisinopril, metformin, insulin, and albuterol for his pre-existing conditions before admission.
+
+Diagnostic Findings:
+	The pathology report from the biopsy of the colonic mass confirmed adenocarcinoma. CT scan revealed a 10cm x 8cm mass in the sigmoid colon and multiple liver metastases. The CEA level was 35 ng/ml, which is elevated compared to the normal range (<5 ng/ml).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Katherine Korol, which included surgical resection of the primary tumor, chemotherapy, and radiation therapy. The patient underwent a sigmoid colectomy with creation of an ileal conduit. Post-operative care involved managing complications such as ileus and wound infection. He was started on adjuvant chemotherapy with FOLFOX (Foliniroxi) regimen consisting of oxaliplatin, leucovorin, fluorouracil, and irinotecan. The patient also received radiation therapy to the liver metastases.
+
+Hospital Course:
+	After the initial recovery from surgery, Katherine Korol experienced several challenges during his hospital stay, including post-operative ileus and wound infection. He received aggressive pain management, nutritional support, and antibiotics for the infection. His blood sugar levels were closely monitored and managed due to his diabetes mellitus.
+
+Follow-Up Plan:
+	Katherine Korol will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking lisinopril, metformin, and insulin. The patient has been educated on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as neutropenia and neuropathy associated with chemotherapy.
+
+Patient Education:
+	
+
+Discharge Instructions:
+	Upon discharge, Katherine Korol was provided with instructions on medication adherence, wound care practices, importance of hydration, and guidelines for physical activity. He was advised to maintain a high-fiber diet and manage his blood sugar levels carefully.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Katherine Korol is guarded due to the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in his long-term outlook.
+
+Final Remarks:
+	We are pleased to see Katherine Korol through this difficult journey and applaud his resilience and cooperation throughout the treatment process. His family and our team will continue to support him in his recovery. Signed, Dr. Liberty Heisserer (Oncologist) and Katherine Korol, February 10, 2022.

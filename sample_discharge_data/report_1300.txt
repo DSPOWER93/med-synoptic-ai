@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alvin Garcia
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1300
+	•Date of Admission: 02/05/2023
+	•Date of Discharge: 06/06/2023
+	•Attending Physician: Dr. Neil Harrod
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mr. Harrod presented to the emergency room with a one-month history of progressive abdominal pain, changes in bowel habits, and unexplained weight loss. Upon initial assessment, he reported fatigue and nausea. A series of diagnostic tests were conducted, including laboratory studies, computerized tomography (CT) scan, and colonoscopy, which confirmed the presence of a large mass in the sigmoid colon and distant metastases.
+
+Medical History:
+	Mr. Harrod has a history of hypertension and type 2 diabetes, both well-controlled with medications. He underwent a total knee replacement surgery ten years ago. His father died from colorectal cancer at the age of 65. Mr. Harrod is allergic to penicillin. Before admission, he was taking losartan, metformin, aspirin, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma of the sigmoid colon with positive lymph node involvement and distant metastases to the liver. CT scan results revealed a large lesion in the sigmoid colon and multiple hepatic lesions. Blood tests showed anemia, elevated CEA levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Harrod. He underwent a sigmoid colectomy with permanent ileal conduit formation, followed by adjuvant chemotherapy (FOLFOX regimen) and radiation therapy to the liver metastases. Post-operative care included pain management, bowel regimen, and nutritional support.
+
+Hospital Course:
+	Mr. Harrod's recovery from surgery was initially challenging due to post-operative complications, including anastomotic leak and sepsis. However, with aggressive management, he made significant progress. He received multiple rounds of chemotherapy, with managing side effects such as neutropenia, diarrhea, and fatigue being the primary focus. Nutritional support was crucial in maintaining his weight.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Harrod will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue on oral chemotherapy and follow a low-fiber diet to manage the ileal conduit. Lifestyle recommendations include maintaining a healthy weight, regular exercise, and avoiding tobacco products. Warning signs requiring immediate medical attention include fever, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. Harrod was educated about his condition, treatment options, and post-surgical care. He was instructed on managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions focused on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications regularly, maintain a soft diet for the first week post-discharge, and gradually increase physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Harrod's long-term outlook will depend on his response to treatment and adherence to lifestyle modifications.
+
+Final Remarks:
+	Dr. Neil Harrod commends Mr. Harrod for his resilience and cooperation throughout the treatment journey. She encourages him to continue this positive attitude in his recovery process. Both the physician's and patient's signatures, along with the date, are appended to validate the report.

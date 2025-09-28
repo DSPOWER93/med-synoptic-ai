@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lynette Rolon
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1141
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. John Laswell
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Rolon presented to the emergency department with severe abdominal pain, constipation, and unexplained weight loss over the past two months. Upon initial assessment, a mass was palpable in the lower abdomen, and laboratory tests revealed an elevated carcinoembryonic antigen (CEA) level. Further investigations including computed tomography (CT) scan and colonoscopy confirmed the presence of a large, invasive colorectal tumor.
+
+Medical History:
+	Mr. Rolon has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent an appendectomy in 1995. His family history is significant for colorectal cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology results from the excised tumor confirmed a moderately differentiated adenocarcinoma with lymphovascular invasion. The CT scan showed a large mass in the sigmoid colon, with regional lymph node involvement and no evidence of distant metastasis. Blood tests indicated anemia, elevated CEA level, and liver function abnormalities.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rolon. He underwent a sigmoid colectomy with primary anastomosis, followed by six cycles of adjuvant chemotherapy with FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) regimen. Radiation therapy was not deemed necessary due to the absence of distant metastasis.
+
+Hospital Course:
+	Mr. Rolon's initial recovery from surgery was complicated by postoperative ileus, which responded well to conservative management. He received nutritional support through total parenteral nutrition (TPN) and gradually resumed oral intake. His blood glucose levels were closely monitored and managed with insulin. He was also educated on the care of his ileostomy.
+
+Follow-Up Plan:
+	Mr. Rolon will return for outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue his medications as prescribed, with close monitoring for potential side effects such as neuropathy and myelosuppression. A low-fiber, high-protein diet is recommended, and he should maintain a healthy weight to minimize the risk of recurrence.
+
+Patient Education:
+	Mr. Rolon and his family were educated about the importance of adhering to his medication regimen, managing his ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea and abdominal pain.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Rolon was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Rolon's long-term survival. Lifestyle modifications such as maintaining a healthy weight, regular exercise, and smoking cessation are essential in managing ongoing health issues.
+
+Final Remarks:
+	Dr. Laswell commends Mr. Rolon for his resilience throughout the treatment journey and cooperation during the hospital stay. The report is signed by Dr. John Laswell on 05/01/2022, and Lynette Rolon signs acknowledging receipt of the medical report.

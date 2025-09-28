@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tamara Mills
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1010
+	•Date of Admission: 01/05/2023
+	•Date of Discharge: 05/06/2023
+	•Attending Physician: Dr. Arthur Zbell
+	•Primary Diagnosis: Stage IIIB Colorectal Cancer with liver metastases
+
+Reason for Admission:
+	The patient presented to the emergency department with severe abdominal pain, nausea, and constipation. A physical examination revealed a palpable mass in the lower abdomen, and laboratory tests indicated an elevated carcinoembryonic antigen (CEA) level. Subsequent imaging studies, including computed tomography (CT) scans, confirmed the presence of a large tumor in the colon with multiple liver metastases.
+
+Medical History:
+	The patient has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent an appendectomy in 2010. His father died of colorectal cancer at the age of 65. The patient is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin for diabetes control, amlodipine for hypertension, and a combination of inhaled bronchodilators for COPD.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of adenocarcinoma in the colon. Imaging studies showed a large tumor in the descending colon with multiple liver metastases. Blood tests revealed an elevated CEA level, anemia, and mildly elevated liver enzymes.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. The primary intervention was a partial colectomy with primary anastomosis and liver metastasectomy. Post-operative care included pain management, wound care, and nutritional support. The patient underwent six cycles of FOLFOX (folinic acid, 5-fluorouracil, and oxaliplatin) chemotherapy with leucovorin to minimize side effects. Radiation therapy was considered but ultimately deemed unnecessary due to the extent of the disease.
+
+Hospital Course:
+	The patient's recovery from surgery was initially challenging due to post-operative complications, including anastomotic leak and wound infection. However, he responded well to aggressive management, including antibiotics, fluid resuscitation, and surgical intervention. During the hospital stay, the patient received extensive therapy, nutritional support, and psychosocial care.
+
+Follow-Up Plan:
+	The patient will return for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue to take metformin and amlodipine, while his COPD medications will be adjusted as needed. A low-fiber diet is recommended, along with adequate hydration and gentle exercise. Any signs of bleeding, fever, or increased abdominal pain should prompt immediate medical attention.
+
+Patient Education:
+	The patient was educated about the importance of adhering to his medications, maintaining a healthy diet, and attending follow-up appointments. He was instructed on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as neuropathy and fatigue.
+
+Discharge Instructions:
+	Upon discharge, the patient was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for emotional support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for the patient is guarded due to the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in ensuring the best possible outcome.
+
+Final Remarks:
+	The attending physician commends the patient on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-up and adherence to the treatment plan for optimal outcomes. Both the physician and patient sign this report on 05/06/2023.

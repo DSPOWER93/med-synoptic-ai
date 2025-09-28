@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph Ortega
+	•Date of Birth: 12/05/1975
+	•Medical Record Number: M1013
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 07/02/2022
+	•Attending Physician: Dr. Patricia Johnson
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	The patient, Joseph Ortega, was admitted to our facility on the 1st of January 2022 due to increasing abdominal pain, bloating, and a change in bowel habits. Upon initial assessment, he reported experiencing unintentional weight loss, fatigue, and decreased appetite. Further diagnostic investigations were conducted, including a computed tomography (CT) scan and colonoscopy, which confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Joseph Ortega has a history of hypertension and Type 2 diabetes, both of which are well-controlled with medication. He also suffers from Chronic Obstructive Pulmonary Disease (COPD), for which he requires an inhaler daily. Previously, he underwent surgery to remove an appendix. His family history is significant as his father and older brother both died of colorectal cancer at a relatively young age. He has no known allergies and was on a regimen of metformin, lisinopril, and salmeterol/fluticasone prior to admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of invasive adenocarcinoma in the sigmoid colon. The CT scan showed a large tumor invading the surrounding tissue, with evidence of lymph node involvement. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Joseph Ortega. He underwent a sigmoid colon resection, with the formation of an ileal conduit. Post-operative care involved managing pain, preventing infection, and promoting bowel function. Chemotherapy was initiated to target any remaining cancerous cells, using a regimen of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin). Radiation therapy was considered but ultimately deemed unnecessary given the extent of surgery.
+
+Hospital Course:
+	Joseph Ortega's initial recovery from surgery was successful, and he demonstrated a strong resilience throughout his hospital stay. Challenges included managing post-operative pain, maintaining adequate nutrition, and coping with the psychological impact of the diagnosis. Therapy sessions were instrumental in helping him manage stress and anxiety.
+
+Follow-Up Plan:
+	Following discharge, Joseph Ortega is scheduled for regular outpatient appointments to monitor his progress. Medications will be adjusted as necessary based on blood test results and symptom management. Dietary recommendations focus on balanced meals, high in fiber and low in fat, while maintaining a healthy weight. Lifestyle changes include regular exercise and quitting smoking if applicable. Warning signs requiring immediate medical attention include severe abdominal pain, rectal bleeding, unexplained weight loss, or fever.
+
+Patient Education:
+	Detailed instructions on post-surgical care were provided to Joseph Ortega and his family. This included managing the ileal conduit, recognizing signs of complications such as leaks or obstructions, and managing common side effects like diarrhea and dehydration. They were also instructed on the importance of medication adherence, good wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Comprehensive discharge instructions were provided to ensure Joseph Ortega's continued recovery and health maintenance. He was given information about his medications, including dosages, when to take them, and potential side effects. Wound care practices, hydration guidelines, and physical activity recommendations were also discussed.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Joseph Ortega's ongoing health issues. Lifelong follow-up appointments, screenings, and testing will be necessary to ensure the best possible outcome.
+
+Final Remarks:
+	Dr. Patricia Johnson concludes this report by commending Joseph Ortega for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the prescribed regimen, regular follow-up appointments, and self-care in maintaining his health. Both the physician and patient have signed this report on the 7th of February 2022.

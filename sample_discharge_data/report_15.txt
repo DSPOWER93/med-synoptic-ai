@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Linda Gentsy
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M15
+	•Date of Admission: 05/03/2022
+	•Date of Discharge: 05/18/2022
+	•Attending Physician: Dr. Alexis Havir
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Linda Gentsy, a 47-year-old male, was admitted to our facility on 05/03/2022 due to a series of symptoms suggestive of colorectal cancer. He reported persistent abdominal pain, unintentional weight loss, and changes in bowel habits over the past three months. Upon initial assessment, John appeared cachectic and was experiencing mild abdominal tenderness upon palpation. Laboratory tests revealed anemia, elevated levels of carcinoembryonic antigen (CEA), and a positive fecal occult blood test. Further investigations included a computed tomography (CT) scan and colonoscopy, both of which confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Linda Gentsy's past medical history is significant for hypertension, managed with lisinopril 10mg daily, and type 2 diabetes mellitus, controlled with metformin 500mg twice daily. He has a family history of colon cancer, as his father was diagnosed at age 65. Allergies include penicillin and sulfa drugs. John was taking aspirin 81mg daily for cardiovascular prophylaxis prior to admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy revealed a large, invasive adenocarcinoma of the sigmoid colon. The CT scan showed multiple enlarged lymph nodes in the abdomen and pelvis, suggesting regional spread. Blood tests indicated anemia (Hb 9g/dL), elevated CEA (15ng/mL), and normal liver and kidney function.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Linda Gentsy, which included a low anterior resection of the sigmoid colon with primary anastomosis followed by adjuvant chemotherapy. Post-operative care involved pain management, wound care, and nutritional support. The oncology team recommended a FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for six cycles with concurrent radiation therapy to the pelvis.
+
+Hospital Course:
+	Linda Gentsy underwent a successful low anterior resection on 05/10/2022. He had an uneventful recovery from surgery but experienced some post-operative nausea and vomiting, which were managed with antiemetics. John required nutritional support in the form of total parenteral nutrition for three days due to poor oral intake. Throughout his hospital stay, he received counseling on disease management, lifestyle modifications, and recognition of potential complications.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments with the oncologist every three months for the first year, then every six months thereafter. John will continue on the FOLFOX regimen until completion of chemotherapy and should maintain a low-fiber diet to minimize strain on the ileal conduit. He has been instructed to contact his healthcare provider if he experiences any signs of complications such as fever, persistent abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	John and his family were provided with comprehensive education about colorectal cancer, the importance of regular screening, and post-surgical care for the ileal conduit. They were also educated on managing common side effects of chemotherapy such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, John was given detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet and continue with his diabetes and hypertension medications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Linda Gentsy's long-term health and survival. He will require close follow-up by the oncology team, and it is important that he adheres to his treatment plan and maintains a healthy lifestyle.
+
+Final Remarks:
+	I am pleased to report that Linda Gentsy has been cooperative throughout his treatment journey and has shown great resilience in facing this challenging diagnosis. His family has been supportive, and we look forward to seeing him return for follow-up care.

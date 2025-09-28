@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Willie Dunlap
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1311
+	•Date of Admission: 03/28/2023
+	•Date of Discharge: 04/18/2023
+	•Attending Physician: Dr. Sallie Plunkett
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Dunlap presented to the emergency department with a two-week history of abdominal pain, weight loss, and altered bowel habits. On initial assessment, he reported experiencing frequent episodes of diarrhea, lower abdominal cramps, and a palpable mass in the left lower quadrant of his abdomen. Subsequent investigations, including abdominal computed tomography (CT) scan, revealed a large mass in the sigmoid colon with regional lymphadenopathy, suggestive of malignancy.
+
+Medical History:
+	Mr. Dunlap has a significant past medical history, including hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee arthroplasty five years ago. His family history is noteworthy for colorectal cancer in his father at the age of 60. Mr. Dunlap is allergic to penicillin and contrast agents. He was taking metformin, amlodipine, and albuterol before admission.
+
+Diagnostic Findings:
+	Biopsy of the sigmoid colon mass confirmed adenocarcinoma (Stage III). Further investigations revealed no evidence of distant metastasis. Blood tests showed anemia with a hemoglobin level of 8 g/dL, elevated C-reactive protein (CRP) level, and slightly deranged kidney function.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Dunlap. He underwent a sigmoid colectomy followed by an ileoanal anastomosis (also known as an ileal pouch-anal anastomosis, or IPAA) with temporary loop ileostomy. Postoperative care included pain management, bowel management, and nutritional support. He started a standard chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin). Radiation therapy was deferred due to his overall condition and surgical site healing.
+
+Hospital Course:
+	Mr. Dunlap's initial recovery from surgery was uneventful; however, he developed postoperative ileus requiring bowel rest for four days. He received intravenous fluids and total parenteral nutrition during this period. His diabetes and hypertension were well-controlled throughout his hospital stay.
+
+Follow-Up Plan:
+	Mr. Dunlap will be scheduled for follow-up appointments with the oncologist every three months for the first year, then every six months thereafter. He will continue taking metformin and amlodipine. His diet should be rich in fiber and low in fat to prevent constipation and maintain bowel health. If he experiences any signs of bleeding, increased abdominal pain, or changes in bowel habits, he is advised to seek immediate medical attention.
+
+Patient Education:
+	Mr. Dunlap and his family were educated about post-surgical care, including ileostomy management, recognizing signs of complications such as infection, obstruction, or leakage, and managing common side effects like diarrhea, dehydration, and fatigue. They were also instructed on how to care for the wound and maintain hygiene around the stoma.
+
+Discharge Instructions:
+	Upon discharge, Mr. Dunlap was provided with detailed instructions on medication adherence, wound care practices, maintaining adequate hydration, and physical activity guidelines. He was also advised to attend a ileostomy support group for additional support and education.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Dunlap's case. Close attention should be paid to maintaining overall health, including managing diabetes and COPD effectively.
+
+Final Remarks:
+	I am pleased to see that Mr. Dunlap has shown resilience throughout his treatment journey. His cooperation and commitment have played a significant role in his recovery. I wish him the best of health moving forward.

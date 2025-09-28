@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Charles Beaver
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1388
+	•Date of Admission: 02/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Winnie Goldstein
+	•Primary Diagnosis: Colorectal Cancer (Stage III) with liver metastasis
+
+Reason for Admission:
+	Charles Beaver was admitted to the hospital due to increasing abdominal pain, change in bowel habits, and unintentional weight loss over the past three months. During the initial assessment, a physical examination revealed a palpable mass in the lower abdomen. Laboratory tests indicated anemia and elevated levels of carcinoembryonic antigen (CEA). A computed tomography (CT) scan confirmed the presence of a large tumor in the colon with multiple liver metastases.
+
+Medical History:
+	Mr. Beaver has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015. His family has a significant history of colon cancer. He is allergic to penicillin and contrast agents. Prior to admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Further investigations confirmed the presence of a large tumor in the sigmoid colon with multiple liver metastases. Pathology report of the biopsied tissue showed moderately differentiated adenocarcinoma of the colon. Imaging studies revealed a substantial tumor burden, and blood tests showed elevated levels of CEA (120 ng/mL), indicating malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Beaver. This included a partial colectomy with the creation of an ileal conduit, post-operative chemotherapy, and radiation therapy to address the liver metastasis. The surgery was successfully performed on February 23, 2022. Post-operative care focused on pain management, wound care, and nutritional support. A FOLFOX (Folinate, Fluorouracil, and Oxaliplatin) chemotherapy regimen was initiated, with six cycles planned.
+
+Hospital Course:
+	Mr. Beaver's recovery from surgery was initially challenging due to complications related to his underlying conditions. However, he demonstrated resilience and cooperation throughout the treatment journey. The role of physical therapy, nutritional support, and close monitoring by the medical team were crucial in helping him regain strength during his hospital stay.
+
+Follow-Up Plan:
+	Mr. Beaver will have regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue with oral chemotherapy (FOLFIRI) and undergo radiotherapy for liver metastasis as an outpatient. Lifestyle modifications, including a balanced diet and regular exercise, are recommended to improve his overall health.
+
+Patient Education:
+	Mr. Beaver and his family were educated on post-surgical care, management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Beaver was provided with detailed instructions on medication adherence, wound care practices, importance of hydration, and guidelines for physical activity. He was also advised to maintain a balanced diet and return for regular follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues associated with colon cancer. The prognosis for stage III colorectal cancer patients undergoing surgery and chemotherapy is generally good, with a five-year survival rate of approximately 40%.
+
+Final Remarks:
+	Dr. Winnie Goldstein concludes this report by expressing her admiration for Mr. Beaver's resilience throughout the treatment journey. She emphasizes the importance of continued cooperation and compliance with the recommended follow-up plan to ensure the best possible outcome. Signed, Dr. Winnie Goldstein and Charles Beaver. Date April 20, 2022.

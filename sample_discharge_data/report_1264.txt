@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: George Hancock
+	•Date of Birth: 1980-06-01
+	•Medical Record Number: M1264
+	•Date of Admission: 2022-02-15
+	•Date of Discharge: 2022-03-10
+	•Attending Physician: Dr. Maria Abbott
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Hancock presented to the emergency department complaining of persistent lower abdominal pain, rectal bleeding, and a change in bowel habits. Initial assessments included a physical examination, laboratory tests, and imaging scans. The findings suggested an obstruction in the lower gastrointestinal tract with a probable mass lesion. Subsequent colonoscopy and biopsy confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Hancock has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a laparoscopic cholecystectomy in 2015. His father died from lung cancer at the age of 65. Mr. Hancock is allergic to penicillin and sulfa drugs. He was taking metformin, losartan, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma in the sigmoid colon. Computed tomography (CT) scan revealed a 7 cm mass in the sigmoid colon with evidence of regional lymph node involvement and distant metastasis to the liver. Complete blood count showed anemia, while liver function tests indicated hepatic dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hancock. He underwent a laparoscopic sigmoid colectomy followed by a primary ileo-rectal anastomosis with the formation of an ileal conduit. Post-operative care included monitoring for complications, management of pain, and nutritional support. Mr. Hancock was scheduled to undergo six cycles of adjuvant FOLFOX chemotherapy with leucovorin and irinotecan. Radiation therapy was deemed unnecessary due to the absence of local recurrence.
+
+Hospital Course:
+	Post-surgery, Mr. Hancock experienced some complications such as ileus and anastomotic leak, which were promptly managed with antibiotics, fluid resuscitation, and nasogastric tube decompression. He responded well to the chemotherapy regimen with minimal side effects. Therapy sessions for lymphedema management were initiated.
+
+Follow-Up Plan:
+	Mr. Hancock will have regular outpatient appointments every three months for the first year, followed by six-monthly visits thereafter. He will continue taking metformin and losartan, while his diabetes medications will be adjusted based on blood glucose levels. A low-fiber diet is recommended, and he should monitor for signs of anemia.
+
+Patient Education:
+	Mr. Hancock and his family were educated about the importance of early detection of recurrence, the role of regular follow-ups, and the management of the ileal conduit, including emptying, irrigation, and monitoring for complications such as infections or blockages. They were also instructed on managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Hancock was provided with instructions on medication adherence, wound care practices, hydration, dietary guidelines, and physical activity recommendations. He was also given a list of warning signs that require immediate medical attention such as fever, excessive pain, persistent bleeding, or difficulty in bowel movements.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial to improve the chances of successful treatment. Mr. Hancock was advised about the importance of maintaining a healthy lifestyle, including regular exercise, balanced diet, and smoking cessation.
+
+Final Remarks:
+	Dr. Maria Abbott congratulated Mr. Hancock on his resilience throughout the treatment journey and commended his cooperation. She emphasized the significance of continued adherence to the follow-up plan for optimal outcomes. The report is signed by Dr. Maria Abbott and Mr. Hancock, dated 2022-03-10.

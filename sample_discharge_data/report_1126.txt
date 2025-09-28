@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Parker
+	•Date of Birth: 12/05/1978
+	•Medical Record Number: M1126
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 02/28/2022
+	•Attending Physician: Dr. Adrian Prins
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	The patient, Thomas Parker, was admitted to our facility due to persistent hematuria (blood in urine), frequency of micturition, and lower abdominal pain that had progressively worsened over the past few months. Initial assessment revealed no signs of acute distress but a possible localized abdominal mass. Upon further investigation, various diagnostic tests were conducted to confirm the suspicion, including urine cytology, CT scan, and cystoscopy.
+
+Medical History:
+	Thomas Parker has a history of hypertension, diabetes, and COPD, for which he was already on several medications, namely Amlodipine, Metformin, and Salmeterol/Fluticasone. He also reported a family history of bladder cancer in his father and brother.
+
+Diagnostic Findings:
+	The urine cytology report showed positive for malignant cells, while the CT scan revealed a mass in the bladder measuring approximately 5 cm. A subsequent cystoscopy confirmed the presence of a T3 bladder tumor. Blood tests revealed elevated levels of creatinine and hemoglobin, indicating possible kidney dysfunction and anemia due to blood loss.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Thomas Parker. This included a partial cystectomy followed by ileal conduit formation, post-operative care, adjuvant chemotherapy with Gemcitabine and Cisplatin, and potential radiation therapy.
+
+Hospital Course:
+	Thomas Parker underwent a successful partial cystectomy on 02/08/2022. The initial recovery was challenging due to the patient's pre-existing conditions, but he responded well to intensive care and physical therapy. During his stay, he received regular nutritional support and psychosocial counseling. His kidney function improved, and he was discharged with stable vital signs on 02/28/2022.
+
+Follow-Up Plan:
+	Thomas Parker is scheduled for a follow-up appointment in one month to assess his recovery progress and potential need for chemotherapy. He will continue taking Metformin, Amlodipine, and Salmeterol/Fluticasone, with adjustments as necessary. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise. He was advised to monitor for signs of infection, obstruction, or bleeding related to the ileal conduit.
+
+Patient Education:
+	Thomas Parker and his family were educated about the importance of post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were also instructed on managing common side effects such as nausea, fatigue, and nephrotoxicity associated with chemotherapy.
+
+Discharge Instructions:
+	Thomas Parker was provided comprehensive discharge instructions to ensure his continued recovery and health maintenance. This includes medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Thomas Parker's long-term health. He was advised to maintain a healthy lifestyle and attend all scheduled appointments.
+
+Final Remarks:
+	In closing, I would like to commend Thomas Parker for his resilience and cooperation throughout the treatment journey. His dedication to following the treatment plan has been instrumental in his successful recovery thus far. I look forward to seeing him again in a month for follow-up.

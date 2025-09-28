@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sue Guerrera
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1099
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Stacey Segal
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIB
+
+Reason for Admission:
+	Mr. Sue Guerrera presented to the emergency department with a one-month history of abdominal pain, change in bowel habits, and unexplained weight loss. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory investigations showed an elevated carcinoembryonic antigen (CEA) level. A CT scan confirmed the presence of a large tumor in the sigmoid colon, with regional lymph node involvement.
+
+Medical History:
+	Mr. Guerrera has a past medical history significant for hypertension and controlled diabetes mellitus type 2. He also suffers from chronic obstructive pulmonary disease (COPD) secondary to a lifelong smoking habit. His family history is notable for colorectal cancer in his father at the age of 65. Prior to admission, Mr. Guerrera was taking metformin, amlodipine, and albuterol as prescribed.
+
+Diagnostic Findings:
+	Extensive diagnostic workup revealed a large tumor in the sigmoid colon, with regional lymph node involvement. Pathology report confirmed the diagnosis of moderately differentiated adenocarcinoma. A staging CT scan showed no evidence of distant metastases. Further tests such as MRI and PET-CT were performed to evaluate the extent of the disease. Blood tests revealed anemia, hypoalbuminemia, and elevated CEA level.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Guerrera, which included a right hemicolectomy with lymph node dissection, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, wound care, and early mobilization. The surgical intervention was successfully performed on 02/01/2023.
+
+Hospital Course:
+	Following surgery, Mr. Guerrera's recovery was monitored closely by the medical team. He faced challenges with post-operative pain management and anemia, which were promptly addressed with appropriate medications and blood transfusions. Nutritional support was provided to aid in his weight restoration. During his hospital stay, Mr. Guerrera received education on his disease, treatment options, and post-surgical care.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Guerrera will continue with adjuvant chemotherapy for six cycles, and radiation therapy for five weeks. He is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. Lifestyle modifications, including quitting smoking and maintaining a balanced diet, are strongly recommended.
+
+Patient Education:
+	Mr. Guerrera and his family were educated about post-surgical care, managing the ileal conduit, recognizing signs of complications such as wound infection or obstruction, and managing common side effects of chemotherapy and radiation therapy.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Guerrera was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given resources for additional support and education.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with stage IIIB colorectal cancer is guarded; however, regular monitoring for early detection of recurrence and managing ongoing health issues can improve outcomes. Mr. Guerrera was informed about the importance of follow-up care and staying committed to his treatment plan.
+
+Final Remarks:
+	Dr. Segal expressed her appreciation for Mr. Guerrera's resilience throughout his treatment journey and emphasized the importance of continued cooperation with the medical team for optimal outcomes. The report was signed by both Dr. Segal and Mr. Guerrera, validating its accuracy on 05/01/2023.

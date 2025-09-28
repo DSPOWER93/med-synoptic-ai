@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lee Knaff
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1057
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Nellie Hornung
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Mr. Lee Knaff was admitted to our institution due to persistent hematuria and dysuria that began in mid-December 2021. Upon initial assessment, a urinalysis revealed significant amounts of red blood cells and white blood cells, suggesting urinary tract infection (UTI). However, further investigation with a cystoscopy and biopsy confirmed the presence of TCC of the bladder. The tumor was found to be moderately differentiated and invasive, extending into the muscle layer.
+
+Medical History:
+	Mr. Knaff has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee replacement in 2015 due to osteoarthritis. His father died from prostate cancer at the age of 65. Mr. Knaff is allergic to penicillin and has been on long-term medications for his hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	Pathology results confirmed a moderately differentiated TCC with invasion into the muscle layer of the bladder. Imaging studies, including a computed tomography (CT) scan and magnetic resonance imaging (MRI), revealed no evidence of distant metastasis. The tumor was found to be approximately 4 cm in diameter. Blood tests showed elevated levels of creatinine, suggesting potential kidney impairment due to the cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Knaff. This included a radical cystectomy with an ileal conduit diversion, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved management of pain, prevention of urinary tract infections, and monitoring for complications such as lymphoceles or hernias. The chosen chemotherapy regimen was MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin) with a total of 4 cycles over a six-month period. Given the presence of COPD, radiation therapy was decided upon to minimize the risk of respiratory complications.
+
+Hospital Course:
+	Following the surgery, Mr. Knaff experienced some postoperative complications, including delayed wound healing and temporary urinary retention. He received antibiotics for a UTI that developed during his hospital stay. Intensive physical therapy was initiated to improve his mobility, and nutritional support was provided due to a temporary loss of appetite. Throughout this period, Mr. Knaff showed remarkable resilience and cooperated fully with the treatment plan.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Knaff will have regular follow-up appointments every three months for the first year, then every six months thereafter. Medications for his hypertension, diabetes, and COPD will be continued, and adjustments may be made as necessary based on blood test results. A low-fat, high-protein diet is recommended to promote healing and reduce the risk of recurrence. Mr. Knaff should monitor for signs of complications such as fevers, persistent abdominal pain, or changes in urine color or odor.
+
+Patient Education:
+	Mr. Knaff and his family were educated on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. Instructions were provided on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Knaff was given comprehensive instructions to ensure continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also provided with information on the importance of follow-up appointments and lifestyle modifications to reduce the risk of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Knaff's long-term health. Lifelong follow-up care will be necessary due to the increased risk of secondary malignancies associated with TCC of the bladder.
+
+Final Remarks:
+	I am pleased to report that Mr. Lee Knaff has shown remarkable resilience and cooperation throughout his treatment journey for Transitional Cell Carcinoma (TCC) of the Bladder. His commitment to following the treatment plan has been commendable, and I am confident he will continue to make progress in his recovery.

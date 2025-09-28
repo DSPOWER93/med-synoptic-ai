@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Micaela Abner
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1052
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Sanjuana Buchmeier
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Micaela Abner was admitted to our facility due to persistent lower abdominal pain and a change in bowel habits. The initial assessment revealed mild anemia, and laboratory tests confirmed the presence of occult blood in his stool. A subsequent colonoscopy revealed a large mass in the sigmoid colon, prompting further diagnostic investigations. A CT scan confirmed a locally advanced colorectal cancer with lymph node involvement (Micaela Abner).
+
+Medical History:
+	Mr. Abner has a history of hypertension and type 2 diabetes, both well-controlled with medication. He also has a family history of colorectal cancer, with his father diagnosed at the age of 60. He had previously undergone appendectomy and cholecystectomy. Allergic to penicillin, he was taking metformin, lisinopril, aspirin, and simvastatin before admission.
+
+Diagnostic Findings:
+	Biopsy of the colon mass confirmed adenocarcinoma. A staging CT scan showed tumor involvement of the sigmoid colon, multiple regional lymph nodes, and no distant metastasis. CEA levels were elevated at 10.5 ng/mL (normal range <5 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Abner. This included surgical resection of the tumor, followed by adjuvant chemotherapy and radiation therapy. The patient underwent a sigmoid colectomy with lymph node dissection on March 25, 2023. Post-operative care involved close monitoring for complications, wound management, and nutritional support.
+
+Hospital Course:
+	Mr. Abner's initial recovery from surgery was smooth, with minimal post-operative complications. Challenges faced during his hospital stay included managing pain, maintaining adequate nutrition, and addressing emotional concerns related to the diagnosis. He received physical therapy and counseling support throughout his stay.
+
+Follow-Up Plan:
+	Mr. Abner will undergo regular follow-up visits every three months for the first two years, then semi-annually thereafter. Medications will continue as prescribed, with adjustments as necessary based on blood tests and response to treatment. A low-fiber, high-protein diet is recommended, along with regular exercise to promote overall health. Any signs of rectal bleeding, persistent abdominal pain, or unexplained weight loss should be reported immediately.
+
+Patient Education:
+	Mr. Abner and his family were educated about the importance of early detection for colorectal cancer recurrence and ongoing management of hypertension and diabetes. Instructions were given on post-surgical care, including ileal conduit management, recognizing signs of complications such as obstruction or perforation, and managing common side effects like diarrhea, neuropathy, and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. Mr. Abner was also provided with information on local resources for support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in improving the prognosis for patients with colorectal cancer. Managing ongoing health issues, such as hypertension and diabetes, will also be essential to ensure Mr. Abner's long-term health.
+
+Final Remarks:
+	Dr. Buchmeier I am pleased to see Micaela Abner's resilience and cooperation throughout his treatment journey. We look forward to his continued recovery and will provide support every step of the way.

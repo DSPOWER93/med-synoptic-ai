@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nicholas Nash
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1407
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. George Shurts
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Nicholas Nash was admitted to our facility due to severe abdominal pain, constant fatigue, and unexplained weight loss over the past few months. Initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels and anemia. Subsequent imaging studies confirmed the presence of a large mass in the descending colon, suggesting malignancy.
+
+Medical History:
+	Mr. Nash has a significant medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2018 due to gallstones. His family history is notable for colorectal cancer, as his father passed away from the disease at age 65. Mr. Nash has known allergies to penicillin and sulfa drugs. He was on a regimen of metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Biopsy results from the colonoscopy confirmed adenocarcinoma of the rectum. Staging computed tomography (CT) scan revealed a large mass in the descending colon invading adjacent structures, with multiple lymph nodes involved. Blood tests showed anemia (Hb 9.0 g/dL), elevated CEA levels (14.5 ng/mL), and slightly elevated liver function tests, indicating possible liver metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Nash. He underwent an abdominoperineal resection (APR) followed by an ileostomy creation. Post-operative care included pain management, wound care, and bowel management with an ileostomy bag. He was started on adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for six cycles. A decision was made to omit radiation therapy due to potential complications related to Mr. Nash's COPD.
+
+Hospital Course:
+	Mr. Nash's initial recovery from surgery was uneventful. However, he experienced several challenges during his hospital stay, including electrolyte imbalances and anemia, which were managed with supplementation and blood transfusions. Therapy and nutritional support played a crucial role in helping him regain strength for discharge.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Nash will continue undergoing regular follow-ups every three months for the first year, then every six months thereafter. He will be prescribed oral chemotherapy (Capecitabine) and managed for ileostomy care. A low-fiber diet and adequate hydration are recommended to maintain bowel health. In case of any unusual symptoms such as fever, abdominal pain, or changes in stool consistency, immediate medical attention is advised.
+
+Patient Education:
+	Mr. Nash was educated about the importance of adhering to his treatment plan and maintaining a healthy lifestyle to reduce the risk of recurrence. He received instructions on post-surgical care for his ileostomy, managing potential complications such as blockage or leakage, and managing common side effects like diarrhea and abdominal pain.
+
+Discharge Instructions:
+	Upon discharge, Mr. Nash was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to avoid heavy lifting and strenuous activities for several weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. Mr. Nash will need to manage ongoing health issues related to his diabetes, hypertension, and COPD. A supportive care plan addressing these issues will be developed in collaboration with his primary care provider.
+
+Final Remarks:
+	Throughout his treatment journey, Mr. Nash demonstrated remarkable resilience and cooperation. We are pleased to see him discharged home with a promising prognosis. We encourage him to continue following his treatment plan closely and look forward to seeing him at his follow-up appointments.

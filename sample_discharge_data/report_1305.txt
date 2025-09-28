@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jimmy Bean
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1305
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 25-01-2022
+	•Attending Physician: Dr. Lynnette Spease
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Jimmy Bean was admitted to the hospital following a series of symptoms that included persistent abdominal pain, unexplained weight loss, and changes in bowel habits. The initial assessment revealed an abdominal mass, and further diagnostic investigations were conducted, including a CT scan and a colonoscopy, which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Jimmy Bean has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a laparoscopic cholecystectomy in 2015. His family history is significant for colorectal cancer, with his father diagnosed at the age of 65. Jimmy Bean has a known allergy to penicillin and is currently on daily metformin and lisinopril.
+
+Diagnostic Findings:
+	The pathology report from the excised tumor showed moderately differentiated adenocarcinoma, with involvement of multiple lymph nodes. CT scan results revealed a large tumor in the sigmoid colon and multiple enlarged lymph nodes throughout the abdomen. Blood tests showed elevated levels of CEA (Carcinoembryonic Antigen) and CA 19-9, markers for colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Jimmy Bean, which included a partial colectomy with an ileoanal anastomosis (IAA), post-operative chemotherapy, and radiation therapy. The IAA procedure was performed successfully, followed by a temporary ileostomy for the healing process. Post-operatively, Jimmy Bean began a FOLFOX chemotherapy regimen, with six cycles planned over the next six months.
+
+Hospital Course:
+	During his hospital stay, Jimmy Bean made a good recovery from the surgery and gradually improved in terms of pain management and nutritional support. Challenges faced during his hospital course included managing post-operative complications such as ileus and dehydration. His rehabilitation was also assisted by physical therapy to aid mobility and reduce the risk of deep vein thrombosis.
+
+Follow-Up Plan:
+	Jimmy Bean has a follow-up appointment scheduled with Dr. Spease in one month, followed by regular appointments every three months for the first year after discharge. He will continue to take his metformin and lisinopril as prescribed, but his loperamide and ileostomy management medications will be adjusted under Dr. Spease's guidance. A low-fiber diet is recommended, along with regular exercise, and Jimmy Bean is advised to monitor for signs of dehydration, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Prior to discharge, Jimmy Bean and his family were educated about post-surgical care, management of the ileal conduit, and recognizing signs of complications such as infection, obstruction, and perforation. They were also instructed on managing common side effects of chemotherapy, including fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Jimmy Bean was discharged with clear instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, clean the ileostomy site twice daily, maintain adequate hydration, and engage in light exercises as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The successful completion of chemotherapy will significantly improve Jimmy Bean's prognosis, with regular monitoring for early detection of recurrence being essential for long-term survival.
+
+Final Remarks:
+	I commend Jimmy Bean for his resilience and cooperation throughout this challenging treatment journey. His family has been a great support system, and their involvement is crucial for his continued recovery and overall wellbeing. I look forward to seeing him progress in the coming months, and I am confident that he will overcome this obstacle with determination and hope.

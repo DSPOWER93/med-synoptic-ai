@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eric Verret
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1193
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Irene Wilson
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Eric Verret was admitted to our facility due to worsening abdominal pain, unexplained weight loss, and rectal bleeding that had persisted for several weeks. On initial assessment, the patient appeared lethargic with a palpable mass in the lower abdomen and significant anemia. Given these symptoms, further diagnostic tests were conducted, including CT scans, MRI, and colonoscopy. The results confirmed the presence of a large tumor in the sigmoid colon, along with metastasis to several lymph nodes and liver.
+
+Medical History:
+	Mr. Verret has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015 due to gallstones. His father died at the age of 70 from colorectal cancer, and his mother had a history of breast cancer. Before admission, he was taking medications for hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma in the sigmoid colon with lymph node involvement and liver metastasis. The tumor marker levels, specifically carcinoembryonic antigen (CEA), were significantly elevated at 15 ng/ml (normal range <5 ng/ml). Liver function tests showed mildly impaired liver function due to the metastatic lesions.
+
+Treatment Plan:
+	A multidisciplinary team was assembled, and a comprehensive treatment plan was developed for Mr. Verret. The primary intervention was a laparoscopic sigmoidectomy followed by a permanent ileal conduit creation. Postoperative care included pain management, wound care, and antibiotic therapy to prevent infection. A combination chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) was initiated for six cycles, with a decision on radiation therapy pending assessment of the postoperative recovery and response to chemotherapy.
+
+Hospital Course:
+	Mr. Verret's initial recovery from surgery was successful, but complications such as anastomotic leakage and sepsis were managed effectively with prompt intervention and antibiotics. He received nutritional support through total parenteral nutrition (TPN) during his hospital stay due to malnutrition caused by the cancer. Throughout this period, he showed remarkable resilience and cooperation.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Verret will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. Continuation of the FOLFOX regimen has been prescribed, with regular monitoring for potential side effects such as neutropenia, neuropathy, and stomatitis. Dietary recommendations include a high-fiber diet and maintaining adequate hydration.
+
+Patient Education:
+	Mr. Verret and his family were educated about the importance of adhering to the treatment plan, managing the ileal conduit, recognizing signs of complications, and understanding common side effects such as diarrhea, nausea, and fatigue. Instructions on post-surgical care, including wound care practices, hydration, and physical activity guidelines were provided.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, importance of regular follow-up appointments, maintaining a healthy diet, and staying hydrated. The patient was also advised to limit heavy lifting and contact sports for the first six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence will be crucial in managing Mr. Verret's ongoing health issues. A positive attitude, strong support network, and compliance with the treatment plan will greatly improve his prognosis.
+
+Final Remarks:
+	In conclusion, Eric Verret has shown remarkable resilience throughout his treatment journey for stage III colorectal cancer. His cooperation and dedication to his recovery have been exemplary. We look forward to seeing him through his continued treatment and hopeful remission. This report is signed by Dr. Irene Wilson, oncologist, and Eric Verret, patient, on April 15, 2023.

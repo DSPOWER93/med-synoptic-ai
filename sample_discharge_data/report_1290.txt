@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Don Stitt
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1290
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Edward Sanville
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Don Stitt, a 38-year-old male, was admitted to our facility due to persistent lower urinary tract symptoms including hematuria (blood in the urine), dysuria (painful urination), and frequent urges to urinate. On admission, a thorough physical examination was conducted, followed by several diagnostic investigations, including cystoscopy, biopsy, and imaging studies such as computed tomography (CT) scan and magnetic resonance imaging (MRI). The results confirmed the presence of a large tumor in his bladder, leading to the primary diagnosis of Don Stitt.
+
+Medical History:
+	Mr. Stitt has a history of hypertension, which is controlled with medication. He also has a family history of colon cancer, and his father passed away from the disease at an early age. Prior to this admission, he had undergone a cholecystectomy for gallbladder stones in 2019. Allergies include penicillin and sulfa drugs. His regular medications included amlodipine (for hypertension) and metformin (for blood sugar control).
+
+Diagnostic Findings:
+	The pathology report from the biopsy confirmed a moderately differentiated urothelial carcinoma. The CT scan showed a large, irregular mass in his bladder, with evidence of invasion into the muscle wall. The MRI provided further detail on the extent of the disease. Blood tests revealed elevated creatinine levels, indicating possible kidney dysfunction due to obstruction by the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stitt. This included radical cystectomy (removal of the bladder), construction of an ileal conduit (a detached section of the small intestine to serve as a new bladder), and adjuvant chemotherapy. Post-operative care involved close monitoring for complications, nutritional support, and pain management.
+
+Hospital Course:
+	Mr. Stitt's initial recovery from surgery was smooth, but he faced challenges with managing symptoms such as nausea, constipation, and fatigue due to the chemotherapy regimen. Physical therapy played a crucial role in his rehabilitation process. His condition was closely monitored for signs of kidney dysfunction, and appropriate interventions were taken when necessary.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Stitt will be scheduled for regular outpatient appointments with our oncology team to monitor his progress and manage any potential complications. He will continue to take certain medications, while others may be adjusted based on his response to treatment. Lifestyle modifications such as maintaining a healthy diet and avoiding tobacco products are strongly recommended.
+
+Patient Education:
+	Mr. Stitt and his family were provided with detailed information about the post-surgical care of his ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, dehydration, and skin irritation at the stoma site.
+
+Discharge Instructions:
+	Upon discharge, Mr. Stitt was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence will be crucial in managing Mr. Stitt's ongoing health issues. He is encouraged to attend all scheduled appointments and maintain open communication with his healthcare team.
+
+Final Remarks:
+	I would like to commend Don Stitt on his resilience and cooperation throughout this challenging treatment journey. His commitment to following the prescribed treatment plan has been instrumental in his recovery thus far. We look forward to continuing to support him as he moves towards full health.

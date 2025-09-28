@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marcia Dickinson
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1331
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Hazel Money
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Marcia Dickinson was admitted to the hospital due to persistent abdominal pain, weight loss, and jaundice. An initial assessment revealed a tender mass in the epigastric region, and laboratory tests indicated elevated levels of bilirubin, amylase, and lipase. A CT scan confirmed a tumor in the head of the pancreas, invading the adjacent vessels and metastases to nearby lymph nodes.
+
+Medical History:
+	Mr. Dickinson has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His father died from colon cancer at the age of 65, and his older brother was diagnosed with prostate cancer at 70 years old. Mr. Dickinson is allergic to penicillin and sulfa drugs. He was on metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology results from a pancreatic biopsy confirmed an adenocarcinoma of the pancreas. A positron emission tomography (PET) scan revealed metastases to the liver, peritoneum, and regional lymph nodes. Blood tests showed anemia, elevated CA 19-9 levels, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Dickinson. He underwent a Whipple procedure (pancreaticoduodenectomy) followed by adjuvant chemotherapy consisting of FOLFIRINOX (irinotecan, folinic acid, fluorouracil, and oxaliplatin). The treatment plan also included radiation therapy to the tumor bed and regional lymph nodes.
+
+Hospital Course:
+	Mr. Dickinson's initial recovery from surgery was uneventful, but he experienced complications due to delayed gastric emptying, requiring nasogastric tube placement for several days. He also developed chemotherapy-induced myelosuppression and needed transfusions. Throughout his hospital stay, he received nutritional support and physical therapy to help with mobility and breathing.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Dickinson will have regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue taking capecitabine as maintenance therapy. A low-fat, high-protein diet is recommended to minimize recurrence risk. Any signs of abdominal pain, weight loss, or jaundice should prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Dickinson and his family were educated on the importance of post-surgical care, including ileal conduit management, recognizing signs of complications such as leaks, strictures, or obstructions, and managing common side effects like diarrhea and nausea.
+
+Discharge Instructions:
+	Mr. Dickinson was provided with discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity restrictions to promote healing. He was advised to avoid heavy lifting and strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential, as pancreatic cancer has a poor prognosis. Managing ongoing health issues like diabetes and COPD will be crucial in maintaining Mr. Dickinson's overall health.
+
+Final Remarks:
+	Dr. Money commends Mr. Dickinson for his resilience and cooperation throughout his treatment journey. She encourages him to continue following the recommended care plan to improve his chances of a successful recovery. Both the patient and attending physician have signed this report on 05/01/2022, validating its accuracy and completeness.

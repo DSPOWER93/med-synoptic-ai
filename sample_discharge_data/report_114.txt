@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Erica Markle
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M114
+	•Date of Admission: 04/12/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Joshua Burgos
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Erica Markle presented to the emergency department complaining of severe abdominal pain, weight loss, and change in bowel habits over the past two months. Upon initial assessment, he appeared lethargic with a palpable mass in the lower abdomen. Further diagnostic investigations, including computed tomography (CT) scan, confirmed a large tumor in the colon.
+
+Medical History:
+	Erica Markle has a history of hypertension and COPD, both well-controlled with medications. He has no known family history of colorectal cancer but does have a first-degree relative with a history of breast cancer. Prior to admission, he was taking lisinopril, metoprolol, albuterol, and insulin for his chronic conditions.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the colon. CT scan revealed a large tumor in the descending colon, multiple enlarged lymph nodes, and liver metastasis. Blood tests showed anemia, elevated CEA (Carcinoembryonic Antigen) levels, and abnormal liver function test results.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Erica Markle. He underwent a right hemicolectomy followed by a permanent ileal conduit formation. Post-operative care included management of pain, monitoring for complications, and nutritional support. Erica Markle also started a six-month regimen of FOLFOX (5-FU, Leucovorin, and Oxaliplatin) chemotherapy, with the first cycle completed during his hospital stay. Radiation therapy was not deemed necessary at this time.
+
+Hospital Course:
+	Erica Markle's initial recovery from surgery was smooth; however, he developed a post-operative ileus that required treatment with intravenous fluids and medications to stimulate bowel movements. His energy levels improved with nutritional support, and his symptoms related to the colorectal cancer started to subside.
+
+Follow-Up Plan:
+	Erica Markle will continue his outpatient chemotherapy regimen under Dr. Burgos's care. He is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will also need routine blood tests and imaging scans to monitor for recurrence. A low-fiber diet and lifestyle modifications are recommended to minimize strain on the ileal conduit.
+
+Patient Education:
+	Erica Markle and his family were educated about the importance of adhering to the prescribed chemotherapy regimen, managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and dealing with common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Erica Markle was provided clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given information about community resources for support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues. Erica Markle's prognosis will be based on his response to treatment and the results of future tests and scans.
+
+Final Remarks:
+	Dr. Burgos commends Erica Markle for his resilience throughout his treatment journey and appreciates his cooperation in adhering to the prescribed plan of care. Both the physician and patient sign this report on 05/20/2022, validating its completion.

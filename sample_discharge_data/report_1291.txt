@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clifton Oconnell
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1291
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Megan Cooper
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	[Patient's Name] was admitted to our institution on [Date of Admission] due to a complaint of hematuria, a persistent presence of blood in the urine, and lower abdominal pain that had progressed over several weeks. The initial assessment revealed a distended bladder, and laboratory tests confirmed the presence of cancer cells in the urine. Further diagnostic investigations, including CT scans and cystoscopy, revealed a large TCC mass occupying most of the bladder.
+
+Medical History:
+	[Patient's Name] has a significant medical history, including hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). [Patient's Name] had previously undergone two surgeries for appendicitis and a hemorrhoidectomy. [Patient's Name]'s father died of colon cancer at the age of 65, and his sister has been diagnosed with breast cancer at the age of 48. The patient is allergic to penicillin and sulfa drugs. Before admission, [Patient's Name] was on a regimen of metformin, lisinopril, and albuterol for hypertension, diabetes, and COPD, respectively.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay confirmed the presence and extent of the TCC in [Patient's Name]'s bladder. Pathology reports showed moderately differentiated TCC with muscularis propria invasion. CT scans revealed no evidence of distant metastasis, but a large mass was observed within the bladder. The cystoscopy procedure confirmed the presence of a tumor that obstructed the bladder. Blood tests showed elevated levels of creatinine and hemoglobin (indicating possible kidney dysfunction due to the obstruction).
+
+Treatment Plan:
+	A multidisciplinary team, including urologists, oncologists, and radiologists, developed a comprehensive treatment plan for [Patient's Name]. The primary intervention was a radical cystectomy with ileal conduit formation. Post-operative care included pain management, antibiotics to prevent infection, and close monitoring of kidney function. A six-cycle chemotherapy regimen (MVAC Methotrexate, Vinblastine, Adriamycin, and Cisplatin) was planned to reduce the risk of recurrence. Radiation therapy was considered, but deferred due to [Patient's Name]'s overall health status and recovery from surgery.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	A follow-up plan has been designed for [Patient's Name], with scheduled outpatient appointments every three months during the first year post-treatment, then every six months thereafter. The patient will continue on oral adjuvant chemotherapy (Gemcitabine) for a year. Lifestyle recommendations include quitting smoking, maintaining a healthy diet low in processed foods and high in fruits and vegetables, and engaging in regular physical activity. Dietary recommendations focus on promoting hydration and managing the ileal conduit effectively. Warning signs that require immediate medical attention include fever, persistent pain, significant changes in urine color or output, and any signs of kidney dysfunction.
+
+Patient Education:
+	[Patient's Name] was provided with detailed education regarding post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and kidney dysfunction. The patient was instructed on proper wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Upon discharge, [Patient's Name] received comprehensive discharge instructions to ensure continued recovery and health maintenance. These included medication adherence, wound care practices, hydration recommendations, and guidelines for gradually increasing physical activity levels.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for TCC of the bladder can vary widely depending on the stage at diagnosis, overall health status, and response to treatment. Regular monitoring for early detection of recurrence and managing ongoing health issues, such as diabetes and COPD, will be essential for [Patient's Name].
+
+Final Remarks:
+	I am pleased to note that [Patient's Name] has demonstrated great resilience and cooperation throughout the treatment journey. With continued adherence to the follow-up plan and lifestyle modifications, we hope for a favorable outcome. Sincerely, Dr. [Physician's Name], Date [Date].

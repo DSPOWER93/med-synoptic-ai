@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Russell Josefy
+	•Date of Birth: 03/10/1975
+	•Medical Record Number: M1306
+	•Date of Admission: 04/23/2023
+	•Date of Discharge: 05/12/2023
+	•Attending Physician: Dr. Lee Salas
+	•Primary Diagnosis: Stage III Colorectal Cancer with liver metastasis
+
+Reason for Admission:
+	Russell Josefy was admitted to the hospital due to persistent abdominal pain, bloating, and unexplained weight loss over a period of two months. Upon initial assessment, his vital signs were unstable with tachycardia (heart rate 120 bpm) and hypotension (blood pressure 90/60 mmHg). Further investigations including abdominal CT scan revealed a large mass in the colon with multiple liver lesions, suggesting metastasis.
+
+Medical History:
+	Mr. Josefy has a history of hypertension for which he was on medication. He also had a prior diagnosis of COPD and was a pack-year smoker. His family history was significant for colorectal cancer, with his father diagnosed at the age of 65. He had no known allergies and was taking aspirin daily before admission.
+
+Diagnostic Findings:
+	A biopsy from the colon mass confirmed adenocarcinoma, stage III, with liver metastasis. Blood tests revealed elevated CEA levels (12 ng/mL; normal range < 5 ng/mL), anemia (hemoglobin 9 g/dL), and elevated alkaline phosphatase (ALP) levels (130 U/L). The abdominal CT scan showed a large mass in the ascending colon, with multiple liver lesions.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Josefy. He underwent an elective right hemi-colectomy followed by formation of an ileal conduit. Postoperative care included management of pain, prevention of deep vein thrombosis, and early ambulation. A combination chemotherapy regimen of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) was initiated following the surgery. Radiation therapy was considered for the liver metastasis but was deferred due to Mr. Josefy's overall condition at the time of discharge.
+
+Hospital Course:
+	Mr. Josefy had an uncomplicated postoperative course with good recovery from the surgery. He faced challenges with nutrition due to loss of appetite, for which enteral feeding was initiated. His disease was managed effectively with chemotherapy and supportive care.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Josefy. This includes scheduled outpatient appointments every three months for the first year, then every six months thereafter. Medications will be continued, including 5-FU, leucovorin, and oxaliplatin as part of the FOLFOX regimen. Lifestyle changes including quitting smoking, regular exercise, and a balanced diet are recommended. Warning signs such as fever, persistent abdominal pain, or changes in bowel habits require immediate medical attention.
+
+Patient Education:
+	Mr. Josefy was educated about the importance of adhering to his medication schedule, managing his ileal conduit, and recognizing signs of complications such as infection or obstruction. He was also instructed on managing common side effects of chemotherapy like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration, and physical activity guidelines. Mr. Josefy was advised to take his medications as prescribed, keep the incision site clean and dry, drink plenty of fluids, and gradually increase physical activity under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Josefy's long-term survival. He was advised about the importance of maintaining a healthy lifestyle and attending follow-up appointments as scheduled.
+
+Final Remarks:
+	I would like to acknowledge Russell Josefy's resilience throughout his treatment journey. His cooperation and adherence to our recommendations have played a significant role in his recovery. I am confident that with continued care and support, he will continue to make progress towards full recovery. Signed, Dr. Lee Salas (Date May 12, 2023). Signed, Russell Josefy (Date May 12, 2023).

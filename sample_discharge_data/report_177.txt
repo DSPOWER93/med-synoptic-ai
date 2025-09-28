@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gladys Schultz
+	•Date of Birth: 06/09/1975
+	•Medical Record Number: M177
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/02/2022
+	•Attending Physician: Dr. Peter Brown
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Schultz was admitted to the hospital due to persistent abdominal pain, rectal bleeding, and changes in bowel habits over the past three months. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. A subsequent colonoscopy confirmed a large tumor in the sigmoid colon, with biopsy results showing adenocarcinoma.
+
+Medical History:
+	Mr. Schultz has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He had undergone a cholecystectomy in 2010 and is allergic to penicillin. Before admission, he was taking medications for hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	During the hospital stay, Mr. Schultz underwent a series of diagnostic tests. Pathology results from the biopsy confirmed a Stage III colorectal adenocarcinoma. Computed tomography (CT) scans showed regional lymph node involvement, and positron emission tomography (PET) scan revealed no evidence of distant metastasis. Blood tests indicated anemia, increased alkaline phosphatase levels, and a slightly elevated white blood cell count.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Schultz. He underwent a sigmoid colectomy with an ileal conduit creation, followed by six cycles of adjuvant chemotherapy (FOLFOX regimen) and radiation therapy to the surgical bed.
+
+Hospital Course:
+	After the successful surgery, Mr. Schultz experienced some post-operative complications, including anastomotic leakage, which was managed with antibiotics and drainage. He received nutritional support through a nasogastric tube during recovery. The team also provided intensive pain management and psychological support to help him cope with the diagnosis.
+
+Follow-Up Plan:
+	After discharge, Mr. Schultz will follow up with his oncologist every three months for the first year, every six months for the next two years, and annually thereafter. He will continue taking medications for hypertension, diabetes, and COPD. Lifestyle modifications include a balanced diet, regular exercise, and smoking cessation. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. Schultz and his family were educated about the ileal conduit, managing complications, and recognizing signs of recurrence. They were also instructed on how to manage common side effects such as nausea, diarrhea, and fatigue associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Schultz was provided detailed instructions for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Schultz's long-term health.
+
+Final Remarks:
+	The attending physician commends Mr. Schultz for his resilience and cooperation throughout the treatment journey, emphasizing the importance of continued adherence to the follow-up plan and lifestyle modifications for optimal outcomes.

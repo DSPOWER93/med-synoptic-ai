@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Grose
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1204
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15-01-2022
+	•Attending Physician: Dr. Jason Furr
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	John Grose, a 36-year-old male, was admitted to the hospital on 01-01-2022 due to persistent hematuria and lower abdominal pain. Upon admission, his vital signs were stable, but an initial urinalysis revealed blood in the urine. A computed tomography (CT) scan of the abdomen and pelvis was ordered, which revealed a mass in the bladder. Subsequently, John underwent cystoscopy, which confirmed the presence of a tumor in the bladder.
+
+Medical History:
+	John has a history of hypertension, for which he is on medication. He also has a family history of bladder cancer, with his father being diagnosed at 60 years of age. John does not have any known allergies and was taking only his prescribed medications before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of Transitional Cell Carcinoma (TCC). Staging of the cancer was T2aN0M0, indicating that the tumor was invasive but had not spread to nearby lymph nodes or distant parts of the body. Blood tests showed elevated levels of creatinine, suggesting possible kidney dysfunction due to the tumor's pressure on the ureters.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for John. The primary treatment was radical cystectomy with ileal conduit diversion. Post-operative care included management of pain, wound care, and catheter care. After recovery from surgery, John started adjuvant chemotherapy with a regimen of Gemcitabine and Cisplatin for four cycles. Radiation therapy was not deemed necessary due to the early stage of the cancer.
+
+Hospital Course:
+	John's initial recovery from surgery was smooth, but he faced post-operative complications such as wound infection and delayed bowel function. These were managed with antibiotics and laxatives respectively. He also received physical therapy to help regain his strength and mobility. Throughout the hospital stay, John maintained a positive attitude and actively participated in his care.
+
+Follow-Up Plan:
+	After discharge, John will be scheduled for regular outpatient appointments every three months for the first year, then six-monthly thereafter. His medications will continue as prescribed, with close monitoring of kidney function. He has been advised to maintain a healthy diet rich in fruits and vegetables, and to avoid smoking and alcohol. In case of any unusual symptoms such as fever, increased pain, or changes in urine color or volume, he is instructed to seek immediate medical attention.
+
+Patient Education:
+	John and his family were educated about the ileal conduir, its function, and care instructions. They were also taught how to recognize signs of complications such as infection, obstruction, or leakage. Common side effects of chemotherapy, such as nausea, fatigue, and neuropathy, were discussed and managed with appropriate medication.
+
+Discharge Instructions:
+	Upon discharge, John was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with contact information for follow-up appointments and emergency services.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. John has been advised to maintain a healthy lifestyle and to attend all scheduled appointments.
+
+Final Remarks:
+	I commend John for his resilience and cooperation throughout the treatment journey. I am confident that he will continue to do well in the future. Sincerely, Dr. Jason Furr [Date] John Grose ________________ Patient Signature [Date] Dr. Jason Furr ________________ Physician Signature

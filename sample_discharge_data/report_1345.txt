@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eric Patrick
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1345
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/28/2023
+	•Attending Physician: Dr. Randolph Benjamin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Eric Patrick was admitted to our hospital due to persistent lower abdominal pain, blood in stool, and unexplained weight loss over the past few months. Upon initial assessment, his abdomen appeared distended with localized tenderness. Laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and positive fecal occult blood test results. A computed tomography (CT) scan confirmed a large mass in the descending colon, along with several lymph nodes showing signs of malignancy.
+
+Medical History:
+	Eric Patrick has a history of hypertension, which he has managed effectively through medication. He also has type 2 diabetes, for which he follows a strict diet and takes insulin daily. Previous medical records show that he underwent a cholecystectomy in 2015 due to gallstones. His mother passed away from breast cancer at the age of 63. He is not known to have any allergies and was taking metformin, lisinopril, and simvastatin before admission.
+
+Diagnostic Findings:
+	Pathology results confirmed adenocarcinoma of the descending colon. Imaging scans revealed a large tumor in the descending colon with several involved lymph nodes. A series of chest X-rays and positron emission tomography (PET) scans were conducted to rule out metastasis, which thankfully showed no signs of spread beyond the abdominal cavity.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Eric Patrick. He underwent a laparoscopic right hemicollectomy followed by ileostomy formation due to the extent of the tumor. Post-operative care included pain management, wound care, and nutritional support. John was also started on adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for six cycles with regular monitoring for side effects such as nausea, vomiting, diarrhea, and neuropathy. Radiation therapy was not deemed necessary based on the pathology report.
+
+Hospital Course:
+	Eric Patrick's recovery from surgery was initially challenging due to complications related to his diabetes management and anemia. However, he responded well to supportive care, dietary modifications, and close monitoring of his blood sugar levels. As his health stabilized, his condition gradually improved, and he began rehabilitation to regain strength and mobility.
+
+Follow-Up Plan:
+	Eric Patrick will be scheduled for regular follow-up appointments every three months for the first year post-treatment, then every six months thereafter. He is to continue taking metformin, lisinopril, simvastatin, and anti-platelet medication. A low-fiber diet is recommended, along with adequate hydration. Warning signs of complications include severe abdominal pain, rectal bleeding, fever, or changes in bowel habits.
+
+Patient Education:
+	Eric Patrick and his family were provided extensive education on post-surgical care, ileostomy management, and recognizing potential complications. They were also instructed on managing common side effects such as diarrhea, dehydration, and fatigue.
+
+Discharge Instructions:
+	Eric Patrick was provided detailed discharge instructions focusing on medication adherence, ileostomy care practices, proper hydration, and guidelines for physical activity to promote healing and prevent complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Eric Patrick's long-term health issues. He has been informed about the importance of maintaining a healthy lifestyle, including regular exercise, balanced nutrition, and adhering to his medication regimen.
+
+Final Remarks:
+	I commend Eric Patrick for his resilience and cooperation throughout his treatment journey. We are hopeful that he will continue to make progress in his recovery. Hereby submitted for approval and signature by Dr. Randolph Benjamin and Eric Patrick, dated April 28, 2023.

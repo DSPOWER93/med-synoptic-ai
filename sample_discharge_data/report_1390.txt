@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Mitchell
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1390
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 06/02/2022
+	•Attending Physician: Dr. Jaime Henshaw
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	The patient, Robert Mitchell, presented to the Robert Mitchell with symptoms of hematuria and dysuria, persistent for over a month. On initial assessment, he was found to have anemia and abnormal urinalysis results. Subsequent imaging studies revealed a mass in the bladder. A cystoscopy was performed, which confirmed the presence of a bladder tumor.
+
+Medical History:
+	Mr. Mitchell has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has had a left total knee replacement in the past. His family history is notable for colon cancer in his father. Allergies include penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology report from the tumor biopsy revealed a transitional cell carcinoma. Imaging studies, including CT scans and MRI, showed the tumor to be invasive with evidence of lymph node involvement. Blood tests revealed anemia (Hb 9 g/dL) and mildly elevated creatinine level (1.3 mg/dL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Mitchell. This included radical cystectomy with ileal conduit formation, followed by chemotherapy (GCB-6 regimen) and radiation therapy to the pelvic area. Post-operative care involved monitoring of wound healing, management of catheter-related issues, and nutritional support.
+
+Hospital Course:
+	Mr. Mitchell underwent radical cystectomy on April 1st, followed by a successful ileal conduit formation. Post-operative complications included delayed wound healing and a brief episode of urinary tract infection. He received the first cycle of chemotherapy on May 3rd and completed the remaining cycles without significant side effects.
+
+Follow-Up Plan:
+	Mr. Mitchell will have regular outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue to take oral chemotherapy for a total duration of one year. A low-fat, high-fiber diet is recommended to promote overall health and reduce recurrence risk.
+
+Patient Education:
+	The patient and his family were educated about the importance of early detection of recurrence, signs of complications, and management of the ileal conduit. They were also provided instructions on how to recognize and manage common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Mitchell was given detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Mitchell was counseled about the importance of maintaining a healthy lifestyle, including regular exercise and a balanced diet, to improve his overall health and reduce the risk of recurrence.
+
+Final Remarks:
+	In conclusion, Robert Mitchell has shown remarkable resilience throughout his treatment journey for bladder cancer. His cooperation and commitment to his recovery plan have been commendable. We wish him a speedy and full recovery.

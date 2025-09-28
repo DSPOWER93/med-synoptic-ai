@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Raymond George
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1324
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Sarah Morgan
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient presented to the emergency room with a one-month history of abdominal pain, constipation, and unexplained weight loss. Upon initial assessment, he exhibited signs of abdominal distension, palpable mass in the lower left quadrant, and occasional rectal bleeding. Subsequent laboratory investigations revealed anemia, elevated levels of CEA (Raymond George), and a positive fecal occult blood test. A colonoscopy confirmed the presence of a large, invasive colorectal tumor in the sigmoid colon.
+
+Medical History:
+	The patient has a history of hypertension and diabetes mellitus type 2, both well-controlled with medications. He also has chronic obstructive pulmonary disease (COPD), which is currently stabilized. He underwent an appendectomy in 1998 due to appendicitis. His family history is significant for colorectal cancer and breast cancer. The patient is allergic to penicillin and contrast agents. Before admission, he was taking metformin, lisinopril, salmeterol/fluticasone, and simvastatin.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of moderately differentiated adenocarcinoma in the sigmoid colon. Computed Tomography (CT) scan revealed a 7cm tumor with local invasion into the adjacent tissues and multiple metastases in the liver and lungs. Positron Emission Tomography (PET) scan confirmed these findings. His complete blood count showed anemia, while other blood tests showed normal kidney and liver function.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for the patient. This included surgical resection of the tumor, followed by chemotherapy to reduce the risk of recurrence. A total colectomy with end ileostomy was performed on March 20, 2022. Post-operative care focused on pain management, nutritional support, and monitoring for complications. The patient was started on a modified FOLFOX6 chemotherapy regimen, consisting of oxaliplatin, leucovorin, 5-fluorouracil, and irinotecan. Radiation therapy was considered but deferred due to the patient's general condition and the need for adequate recovery post-surgery.
+
+Hospital Course:
+	The patient's initial recovery from surgery was successful, with no significant complications. However, he faced challenges with pain management and malnutrition. These issues were addressed through a combination of pharmacological interventions and enteral nutrition. His condition stabilized as he regained strength and the disease was effectively managed.
+
+Follow-Up Plan:
+	The patient will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue on the chemotherapy regimen for a total of 12 cycles. Dietary recommendations include a high-protein, low-fiber diet, and hydration is emphasized to prevent dehydration due to the ileostomy. He was educated on managing the ileal conduit and recognizing signs of complications such as obstruction or infection.
+
+Patient Education:
+	The patient and his family were thoroughly informed about the diagnosis, treatment options, and potential side effects of the chosen therapy. Instructions included post-surgical care, managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and strategies for managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	The patient was provided with detailed discharge instructions to ensure continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to avoid heavy lifting and strenuous activities for a few weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient was counseled on the importance of lifestyle modifications such as maintaining a balanced diet, regular exercise, and smoking cessation to improve overall health and reduce the risk of disease progression.
+
+Final Remarks:
+	The attending physician expressed admiration for the patient's resilience throughout his treatment journey. The report concludes with the physician's and patient's signatures and the date of discharge, validating the comprehensive medical documentation.

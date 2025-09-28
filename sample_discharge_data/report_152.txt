@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Douglas Rieben
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M152
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. Esther Minyard
+	•Primary Diagnosis: Colorectal Cancer, Stage III (T3N1M0)
+
+Reason for Admission:
+	Douglas Rieben presented to the emergency department with a one-month history of progressive abdominal pain, change in bowel habits, and unintentional weight loss. The initial assessment revealed a palpable mass in the lower abdomen, signs of anemia, and laboratory results indicating elevated levels of carcinoembryonic antigen (CEA). Subsequent diagnostic investigations confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Rieben had a medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), which were well-controlled with medications. He underwent a left laparotomy for appendicitis nine years ago. His family history was noteworthy for colon cancer in his father at the age of 65.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of moderately differentiated adenocarcinoma arising from the sigmoid colon. Imaging studies, including a computed tomography (CT) scan and positron emission tomography (PET) scan, demonstrated a 5.0 cm x 4.2 cm mass in the sigmoid colon with regional lymphadenopathy and no evidence of distant metastasis. Blood tests showed anemia (hemoglobin 9 g/dL), elevated CEA levels (15 ng/ml), and normal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rieben. This included a low anterior resection of the sigmoid colon, creation of an ileal conduit, and systemic chemotherapy with FOLFOX regimen (leucovorin, fluorouracil, oxaliplatin). The post-operative care focused on pain management, monitoring for complications, nutritional support, and ensuring adequate bowel function.
+
+Hospital Course:
+	Mr. Rieben underwent a successful surgical resection without any major complications. He experienced post-operative ileus and was managed with nasogastric suction and intravenous fluids. A CT scan confirmed the absence of anastomotic leak. He subsequently received six cycles of FOLFOX chemotherapy, which were tolerated well except for grade 2 peripheral neuropathy.
+
+Follow-Up Plan:
+	The follow-up plan included outpatient appointments every three months for the first year, then every six months thereafter. Mr. Rieben was advised to continue taking his medications for hypertension, diabetes, and COPD. He was also instructed on a low-fiber diet, adequate fluid intake, and signs of complications related to the ileal conduit.
+
+Patient Education:
+	The patient and his family were educated about the nature of colorectal cancer, the role of chemotherapy, post-surgical care, managing the ileal conduit, recognizing signs of complications, and common side effects such as peripheral neuropathy.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, maintaining adequate hydration, and gradually increasing physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential to ensure the best possible outcomes. Mr. Rieben was advised to maintain a healthy lifestyle with regular exercise, balanced diet, and routine colonoscopies.
+
+Final Remarks:
+	Dr. Esther Minyard expresses her appreciation for Mr. Rieben's resilience throughout his treatment journey and acknowledges the cooperation of both the patient and his family. The report is signed by Dr. Esther Minyard on 15/02/2022, and Mr. Douglas Rieben on 16/02/2022.

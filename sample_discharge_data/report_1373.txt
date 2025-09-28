@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Midden
+	•Date of Birth: 12/01/1985
+	•Medical Record Number: M1373
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 20/02/2022
+	•Attending Physician: Dr. Lyle Manship
+	•Primary Diagnosis: Stage III Colon Cancer
+
+Reason for Admission:
+	James Midden presented to the James Midden with a one-month history of abdominal pain, change in bowel habits, and unexplained weight loss. On physical examination, he was found to have abnormalities in his abdomen, prompting further investigation. A CT scan of the abdomen and pelvis revealed a large mass in the transverse colon, along with multiple enlarged lymph nodes.
+
+Medical History:
+	Mr. Midden has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015. He has no known allergies but is currently taking metformin, lisinopril, and albuterol for his comorbidities.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of adenocarcinoma in the transverse colon. Multiple enlarged lymph nodes were positive for metastatic disease. Blood tests revealed anemia, elevated CEA levels, and slightly elevated liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Midden. He underwent a laparoscopic right hemicolectomy followed by formation of an ileal conduit. Post-operative care included management of pain, prevention and treatment of complications, and nutritional support. He was also started on a modified regimen of FOLFOX (oxaliplatin, fluorouracil, and leucovorin) for chemotherapy. Radiation therapy was deferred due to the post-operative period.
+
+Hospital Course:
+	Mr. Midden's initial recovery from surgery was uneventful. However, he developed a fever on the sixth post-operative day, which was managed with antibiotics. His blood glucose levels required close monitoring and adjustment of his insulin regimen. Physical therapy played a crucial role in helping him mobilize and maintain his strength.
+
+Follow-Up Plan:
+	Mr. Midden will be followed up as an outpatient by the oncology team every three months for the first year, then every six months thereafter. He will continue the FOLFOX chemotherapy regimen for a total of 12 cycles. Lifestyle modifications include quitting smoking and maintaining a balanced diet rich in fiber.
+
+Patient Education:
+	Mr. Midden and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Mr. Midden was discharged with a supply of pain medication, antibiotics, and stool softeners. He was instructed to take his medications as prescribed, maintain wound care practices, ensure proper hydration, and engage in light physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Midden was counseled on the importance of maintaining a healthy lifestyle to manage his comorbidities and improve overall health outcomes.
+
+Final Remarks:
+	Mr. Midden's resilience throughout this journey has been commendable. We are confident that with continued cooperation, he will have a successful recovery.

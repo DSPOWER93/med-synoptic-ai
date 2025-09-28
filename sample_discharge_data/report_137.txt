@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marjorie Hanks
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M137
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Brian Alexander
+	•Primary Diagnosis: Adenocarcinoma of the Colon
+
+Reason for Admission:
+	Marjorie Hanks, a 43-year-old male, was admitted to our facility on January 1st, 2023, after presenting with persistent lower abdominal pain, weight loss, and changes in bowel habits. The patient's initial assessment revealed abnormalities in his abdomen upon palpitation, and subsequent laboratory investigations, including a complete blood count (CBC), liver function tests (LFT), and carcinoembryonic antigen (CEA) test, indicated increased white blood cell count, elevated LFT levels, and an abnormally high CEA level. Computed tomography (CT) scan of the abdomen and pelvis revealed a mass in his colon with evidence of local invasion and lymph node metastasis, confirming the diagnosis of adenocarcinoma of the colon.
+
+Medical History:
+	Mr. Hanks has a significant medical history. He was previously diagnosed with hypertension and is currently being treated with an angiotensin-converting enzyme (ACE) inhibitor. Additionally, he was recently diagnosed with Type 2 diabetes mellitus and is managed with oral hypoglycemics. His family history is noteworthy, as his father passed away from a colorectal cancer at the age of 65. Mr. Hanks has no known allergies, and prior to admission, he was taking metoprolol, metformin, and aspirin daily.
+
+Diagnostic Findings:
+	During his hospital stay, multiple diagnostic tests were performed. Pathology findings from the colon resection surgery revealed a moderately differentiated adenocarcinoma with lymphovascular invasion. Imaging scans demonstrated tumor invasion into adjacent organs and multiple regional lymph node metastases. Blood tests showed anemia, elevated white blood cell count, and increased levels of lactate dehydrogenase (LDH), alkaline phosphatase (ALP), and CEA.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hanks. He underwent a colon resection surgery followed by an ileal conduit formation, which was successfully performed. Post-operative care included pain management, nutritional support, and close monitoring of his wound healing process. As part of the oncologic management, he received six cycles of FOLFOX (folinic acid, fluorouracil, and oxaliplatin) chemotherapy regimen, which were well-tolerated.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Upon discharge, Mr. Hanks was scheduled for regular follow-up appointments with his oncologist every three months for the first two years, then semi-annually thereafter. He will continue taking metoprolol and metformin, while his diabetes management plan may be adjusted as needed. A low-fiber diet is recommended, and he should maintain a healthy lifestyle to manage his weight and overall health. The patient was educated on the signs of complications related to his ileal conduit and common side effects of chemotherapy, such as nausea, vomiting, and diarrhea.
+
+Patient Education:
+	
+
+Discharge Instructions:
+	Prior to discharge, Mr. Hanks received detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a well-balanced diet and perform light exercises daily as tolerated. The importance of regular follow-ups with his oncologist and primary care physician was emphasized, along with the need for early detection of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Mr. Hanks's prognosis is dependent on the response to chemotherapy, surgical resection margin status, and the presence of residual disease. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial to improve his long-term outlook.
+
+Final Remarks:
+	Mr. Hanks has demonstrated resilience and cooperation throughout his treatment journey. The attending physician, Dr. Brian Alexander, commends him on his strong spirit and active role in his care. This report is signed by Dr. Brian Alexander and Marjorie Hanks, validating the information provided. Discharge date 15/01/2023.

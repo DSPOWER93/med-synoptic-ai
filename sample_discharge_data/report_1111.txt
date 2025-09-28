@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jeanette Corcoran
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1111
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Thomas Daniels
+	•Primary Diagnosis: Pancreatic Cancer (Stage III) with Resection and Chemotherapy
+
+Reason for Admission:
+	Mr. Corcoran presented to the emergency department on 05/01/2023, complaining of persistent abdominal pain, jaundice, and significant weight loss over the past few months. Initial assessments included physical examination, blood tests, CT scan, and an endoscopic ultrasound which confirmed the diagnosis of Jeanette Corcoran.
+
+Medical History:
+	Mr. Corcoran has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2017 for gallstones. He has no known allergies and was taking medications including metformin, lisinopril, and salmeterol/fluticasone prior to admission.
+
+Diagnostic Findings:
+	Diagnostic tests revealed a mass in the head of Mr. Corcoran's pancreas with localized invasion into the surrounding tissues. The CA 19-9 level was significantly elevated, indicative of pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Corcoran. This included a Whipple procedure followed by FOLFIRINOX chemotherapy regimen (consisting of irinotecan, oxaliplatin, and fluorouracil) and concurrent radiation therapy to the tumor bed.
+
+Hospital Course:
+	Mr. Corcoran underwent a successful Whipple procedure on 06/01/2023. He experienced post-operative complications such as anastomotic leak, for which he required interventional radiology and surgical intervention. During his stay, he also received nutritional support through total parenteral nutrition (TPN) to aid in recovery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Corcoran was scheduled for regular outpatient follow-ups with the oncology team. He will continue FOLFIRINOX chemotherapy and radiation therapy as per the treatment plan. Lifestyle modifications include quitting smoking, maintaining a healthy diet rich in fruits and vegetables, and regular exercise. Warning signs of complications such as fever, abdominal pain, or jaundice were emphasized.
+
+Patient Education:
+	Mr. Corcoran was educated on the importance of adhering to the post-surgical care instructions for the ileal conduit. He was instructed on recognizing signs of complications and managing common side effects such as nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, maintaining hydration, and engaging in light physical activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Jeanette Corcoran remains guarded, with regular monitoring essential for early detection of recurrence and managing ongoing health issues.
+
+Final Remarks:
+	Mr. Corcoran demonstrated remarkable resilience throughout his treatment journey. I am confident that he will continue to cooperate in the post-discharge care plan, leading to a positive outcome. Hereby signed by Dr. Thomas Daniels on 15/01/2023. Sincerely, Dr. Thomas Daniels.

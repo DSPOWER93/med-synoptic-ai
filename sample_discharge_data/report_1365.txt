@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marcus Sojka
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1365
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Maria Tittle
+	•Primary Diagnosis: Colon Cancer (Stage IIIB)
+
+Reason for Admission:
+	Marcus Sojka was admitted to the hospital due to complaints of abdominal pain, unexplained weight loss, and changes in bowel habits persisting over several weeks. Initial assessment included physical examination, laboratory tests, and a series of imaging studies, which revealed a tumor in the descending colon and associated lymph node involvement. The severity and progression of symptoms indicated an urgent need for surgical intervention.
+
+Medical History:
+	Mr. Sojka has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), which are all well-controlled with medications. He underwent a coronary artery bypass graft surgery ten years ago. His family history is significant for colon cancer in his father and breast cancer in his mother. Mr. Sojka is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, albuterol, and atorvastatin.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of adenocarcinoma in the colon. Imaging studies, including computed tomography (CT) scan and magnetic resonance imaging (MRI), demonstrated a large tumor in the descending colon with regional lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sojka. He underwent an open right hemicolectomy with primary anastomosis, followed by systemic chemotherapy. Post-operative care included management of pain, nutritional support, and prevention of thromboembolism. A decision was made to administer adjuvant chemotherapy consisting of oxaliplatin, leucovorin, and 5-fluorouracil (FOLFOX). Radiation therapy was not considered necessary due to the extent of surgical resection.
+
+Hospital Course:
+	Mr. Sojka's initial recovery from surgery was uneventful, but he developed post-operative ileus, which resolved with conservative management and the administration of bowel stimulants. He received his first cycle of FOLFOX on day 21 after surgery without any significant side effects. During his hospital stay, Mr. Sojka was closely monitored for signs of recurrence or complications, and he responded well to nutritional support and physical therapy.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Sojka will be scheduled for regular outpatient appointments with his oncologist and surgeon. He will continue taking metformin, lisinopril, albuterol, and atorvastatin, but the doses of these medications may need to be adjusted based on his response to treatment and any adverse events. Lifestyle modifications include maintaining a balanced diet, regular exercise, and avoidance of tobacco products. Warning signs requiring immediate medical attention include fever, abdominal pain, changes in bowel habits, and unexplained weight loss.
+
+Patient Education:
+	Mr. Sojka and his family were provided extensive education on post-surgical care, including instructions on managing the ileal conduit, recognizing signs of complications, and coping with common side effects such as nausea, fatigue, and diarrhea. They were also advised on the importance of regular follow-up appointments and adherence to medication regimens.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sojka was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, maintain a healthy diet, engage in light physical activity as tolerated, and contact the clinic immediately if he experiences any warning signs or concerns.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Stage IIIB colon cancer is generally favorable with adjuvant chemotherapy. Regular monitoring for early detection of recurrence is essential to maximize the chances of successful treatment. Mr. Sojka's resilience and cooperation throughout his treatment journey bode well for his long-term outlook.
+
+Final Remarks:
+	With the completion of his initial course of chemotherapy, Mr. Marcus Sojka was discharged from the hospital in stable condition. His courage and determination throughout this challenging journey were truly inspiring to all who cared for him. We extend our best wishes for a speedy recovery and long, healthy life ahead.

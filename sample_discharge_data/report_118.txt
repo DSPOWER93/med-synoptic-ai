@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Bertha Fitch
+	•Date of Birth: 07/15/1980
+	•Medical Record Number: M118
+	•Date of Admission: 03/25/2023
+	•Date of Discharge: 04/14/2023
+	•Attending Physician: Dr. Christine Reese
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Bertha Fitch was admitted to the hospital due to increasing abdominal pain, changes in bowel habits, and unintentional weight loss of 15 lbs over the past two months. Upon initial assessment, he reported feeling weak and fatigued. Laboratory tests revealed anemia, and a computed tomography (CT) scan identified a mass in his colon.
+
+Medical History:
+	Bertha Fitch has a history of hypertension, which is managed with medications. He also has a family history of colorectal cancer, as his father was diagnosed with the disease at age 65. John had undergone a cholecystectomy in 2018 due to gallstones. He takes daily medications for hypertension and diabetes.
+
+Diagnostic Findings:
+	Biopsy results from the colon mass confirmed the diagnosis of colorectal cancer. Staging was determined as Stage III, with lymph node involvement. Blood tests showed elevated carcinoembryonic antigen (CEA) levels and low hemoglobin.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for John. He underwent a colectomy, with the creation of an ileal conduit. Post-operative care included management of pain, prevention and treatment of infections, and monitoring of wound healing. John began adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for six cycles. He also received radiation therapy to the pelvic region to help reduce the risk of recurrence.
+
+Hospital Course:
+	John's recovery from surgery was initially challenging due to post-operative complications such as anastomotic leak and sepsis. These were managed with antibiotics, nutritional support, and fluid resuscitation. John's condition gradually improved, and he was eventually able to start oral intake and ambulate.
+
+Follow-Up Plan:
+	John will return for outpatient appointments every three months for the first two years post-treatment, then every six months thereafter. His medications will be adjusted as necessary. He should maintain a healthy diet, rich in fruits, vegetables, and lean proteins. Regular exercise is also recommended. Any symptoms such as persistent abdominal pain, unexplained weight loss, or changes in bowel habits should prompt immediate medical attention.
+
+Patient Education:
+	John was educated about the importance of adhering to his medication schedule and follow-up appointments. He was instructed on caring for his ileal conduit, managing complications, and recognizing signs of infection. He was also informed about common side effects such as fatigue, neuropathy, and diarrhea, and how to manage them.
+
+Discharge Instructions:
+	John was provided with written discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence. John should continue to manage his other health issues, such as hypertension and diabetes, diligently.
+
+Final Remarks:
+	I am pleased to see John's successful completion of treatment for colorectal cancer. His resilience and cooperation throughout this journey have been commendable. I look forward to seeing him continue to thrive in the coming months.

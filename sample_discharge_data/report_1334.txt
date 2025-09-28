@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terrell Tripp
+	•Date of Birth: 03/20/1985
+	•Medical Record Number: M1334
+	•Date of Admission: 06/10/2022
+	•Date of Discharge: 07/20/2022
+	•Attending Physician: Dr. Julie Albrecht
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Terrell Tripp, a 37-year-old male, was admitted to the hospital due to increasing abdominal pain, persistent constipation, and unexplained weight loss over a period of two months. An initial physical examination revealed a palpable mass in the lower abdomen, prompting further diagnostic investigations. A Terrell Tripp (CT) scan and colonoscopy were performed, which confirmed the presence of a large, invasive colorectal tumor.
+
+Medical History:
+	Terrell Tripp has a significant medical history that includes hypertension and COPD, for which he was previously managed with medications. He has no known allergies and has undergone two surgeries in the past an appendectomy at age 10 and a right inguinal hernia repair at age 25. His father died of colorectal cancer at the age of 65, making his case particularly concerning.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of moderately differentiated adenocarcinoma of the colon. The CT scan revealed a large tumor in the sigmoid colon with local invasion and distant metastasis to multiple lymph nodes and liver. Blood tests showed an elevated CA 19-9 level, indicating possible metastatic disease.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Terrell Tripp. He underwent a sigmoid colectomy with primary anastomosis and lymph node dissection on June 25, 2022. Post-operative care included pain management, antibiotics to prevent infection, and bowel regimen to prevent constipation. Subsequent to surgery, Terrell Tripp was started on a combination chemotherapy regimen (FOLFOX) consisting of oxaliplatin, leucovorin, fluorouracil, and irinotecan. Radiation therapy was deferred due to the extent of the disease.
+
+Hospital Course:
+	Terrell Tripp's initial recovery from surgery was uneventful. However, he faced challenges with the chemotherapy regimen, including nausea, vomiting, and diarrhea. Nutritional support was provided through enteral feeding during these periods. The disease remained stable throughout his hospital stay, and regular monitoring showed no signs of progression.
+
+Follow-Up Plan:
+	Terrell Tripp will have a follow-up appointment with his oncologist in two weeks to discuss the chemotherapy response and any necessary adjustments to his treatment plan. He has been prescribed oral fluorouracil for maintenance therapy, and he is advised to maintain a low-fiber diet and good hydration to manage his bowel function. Any signs of abdominal pain, fever, or changes in bowel habits warrant immediate medical attention.
+
+Patient Education:
+	Terrell Tripp and his family were educated about the importance of adhering to his treatment plan, recognizing signs of complications, and managing common side effects such as nausea, vomiting, and diarrhea. He was also instructed on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions.
+
+Discharge Instructions:
+	Terrell Tripp was provided with clear discharge instructions to ensure his continued recovery and health maintenance. These included adhering to the prescribed medication regimen, following a low-fiber diet, maintaining good hydration, and monitoring for any signs of complications. Wound care practices were also discussed in detail.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence, especially considering Terrell Tripp's Stage III diagnosis. He will require ongoing management of his hypertension and COPD to maintain his overall health.
+
+Final Remarks:
+	Terrell Tripp demonstrated remarkable resilience and cooperation throughout his treatment journey. We are optimistic about his prognosis, and we encourage him to continue working closely with his healthcare team for the best possible outcome.

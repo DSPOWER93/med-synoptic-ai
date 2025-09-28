@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Luz Day
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1061
+	•Date of Admission: 02/03/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Craig Miller
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Luz Day was admitted to the hospital due to persistent abdominal pain, changes in bowel habits, and unexplained weight loss over a period of several months. The initial assessment revealed anemia, abdominal distension, and tenderness on palpation. Subsequent diagnostic investigations, including a colonoscopy, computed tomography (CT) scan, and complete blood count, confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Day has a history of hypertension, diagnosed in 2015, for which he is currently managed with a combination of lisinopril and hydrochlorothiazide. He was also diagnosed with type 2 diabetes in 2018, and his current medication regimen includes metformin and glimepiride. In 2020, he underwent a left lower lobectomy for lung cancer, and since then, he has been receiving follow-up care for that condition. His family history is significant for colorectal cancer in his father and a sister. He is not known to have any allergies and was taking no additional medications prior to admission.
+
+Diagnostic Findings:
+	Pathology findings from the colonoscopy and CT scan revealed a tumor in the transverse colon, with regional lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA), a marker for colorectal cancer. The extent of the disease was staged as T3N1M0, indicating that the tumor had invaded through the muscularis propria but had not penetrated the visceral peritoneum, with involvement of regional lymph nodes but without distant metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Day. This included a laparoscopic colectomy to remove the affected colon, an ileal conduit procedure to create a new pathway for waste, and a temporary ostomy bag. Following surgery, he underwent six cycles of adjuvant chemotherapy with FOLFOX (folinic acid, fluorouracil, and oxaliplatin). Radiation therapy was not deemed necessary due to the absence of distant metastasis.
+
+Hospital Course:
+	Mr. Day's recovery from surgery was initially challenging due to post-operative complications such as anemia and electrolyte imbalances. However, with intensive care, nutrition support, and regular therapy sessions, he was able to regain strength and stabilize his condition. Throughout this period, Mr. Day demonstrated remarkable resilience and cooperation, actively participating in his rehabilitation process.
+
+Follow-Up Plan:
+	Following discharge, Mr. Day will be scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue to take metformin and glimepiride but will discontinue lisinopril and hydrochlorothiazide temporarily due to potential interactions with his chemotherapy regimen. Nutritional guidance will be provided to ensure proper caloric intake and avoid constipation or diarrhea. Mr. Day will also receive instructions on caring for the ileal conduit and recognizing signs of complications, such as inflammation or leakage.
+
+Patient Education:
+	Extensive education was provided to Mr. Day and his family regarding the importance of post-surgical care, managing the ileal conduit, and recognizing signs of complications. Instructions on managing common side effects, such as nausea and fatigue, were also given.
+
+Discharge Instructions:
+	Mr. Day was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. This included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Day's long-term survival. Managing ongoing health issues related to diabetes and hypertension will also be essential in maintaining his overall wellbeing.
+
+Final Remarks:
+	In conclusion, Luz Day has shown great resilience throughout his treatment journey for colorectal cancer. His cooperative attitude and diligent adherence to the prescribed care plan have been instrumental in achieving a favorable outcome. We wish him continued strength and success in his recovery.

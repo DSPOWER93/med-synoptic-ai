@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Daniel Lewis
+	•Date of Birth: 12/03/1985
+	•Medical Record Number: M1386
+	•Date of Admission: 01/04/2022
+	•Date of Discharge: 15/04/2022
+	•Attending Physician: Dr. Audrey Myers
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Daniel Lewis presented to the emergency department with complaints of hematuria, persistent pain in the lower abdomen, and reduced urinary flow. Upon initial assessment, he was found to have a distended bladder and an elevated white blood cell count. Further diagnostic investigations, including cystoscopy, computed tomography (CT) scan, and biopsy, confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Lewis has a history of hypertension, for which he was on prescribed medication. He also had a past surgical history, including an appendectomy in 2015 and a cholecystectomy in 2018. His family has a history of breast cancer and colon cancer. Mr. Lewis is allergic to penicillin and iodine-based contrast agents. He was on regular medication for hypertension and a proton pump inhibitor for acid reflux prior to admission.
+
+Diagnostic Findings:
+	The pathology report from the biopsy revealed moderately differentiated transitional cell carcinoma of the bladder. CT scan results indicated no evidence of regional or distant metastasis, classifying the cancer as T2N0M0. Blood tests showed an elevated creatinine level and a slightly decreased hemoglobin count.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Lewis, which included radical cystectomy with ileal conduit diversion, post-operative chemotherapy, and radiation therapy to prevent local recurrence. The patient underwent the surgical procedure on 05/04/2022. He received six cycles of adjuvant chemotherapy, starting from 10/04/2022, with a decision made to defer radiation therapy due to good post-surgical recovery.
+
+Hospital Course:
+	After the surgery, Mr. Lewis was closely monitored for complications and was managed with pain medication and antibiotics to prevent infections. Physical therapy was initiated on the fifth day after surgery to aid in regaining mobility. Nutritional support was provided through a diet rich in protein and vitamins. The patient was discharged when he met the recovery milestones, which included adequate pain control, improved appetite, and satisfactory urinary output via the ileal conduit.
+
+Follow-Up Plan:
+	Mr. Lewis is scheduled for follow-up appointments every three months for the first two years, then six-monthly thereafter. His medication regimen includes antihypertensives and a proton pump inhibitor. A low-sodium diet is recommended to manage his hypertension, and he is advised to drink plenty of fluids daily to maintain urinary health. Any signs of fever, increased pain, changes in urine color or volume, or difficulty in passing stools should prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Lewis and his family were educated about the importance of regular follow-ups, post-surgical care practices, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Mr. Lewis was provided with clear discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, proper wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing the long-term health of Mr. Lewis. The importance of maintaining a healthy lifestyle through regular exercise, balanced nutrition, and stress management was emphasized.
+
+Final Remarks:
+	Dr. Audrey Myers commends Mr. Daniel Lewis on his courage and resilience throughout his treatment journey. She encourages him to continue to participate actively in his care and make healthy lifestyle choices for the best possible outcome. Both the physician and patient have signed this report, dated 15/04/2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sandra Sabatino
+	•Date of Birth: Redacted
+	•Medical Record Number: M103
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 03/25/2022
+	•Attending Physician: Dr. Andrea Prewitt
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Sandra Sabatino, was admitted to the hospital on January 10, 2022, presenting with symptoms of abdominal pain, persistent diarrhea, and unexplained weight loss over a period of several weeks. On admission, his vital signs were stable but he appeared visibly weak. A series of preliminary investigations were conducted, including complete blood count (CBC), tumor markers, and an abdominal computed tomography (CT) scan. The findings revealed a large mass in the lower abdomen, and elevated levels of carcinoembryonic antigen (CEA) in the blood.
+
+Medical History:
+	Mr. Sabatino has a significant medical history marked by hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and gastroesophageal reflux disease (GERD). He had undergone a laparoscopic cholecystectomy for gallstones in 2015. His family history is notable for colon cancer, with his father diagnosed at the age of 60. Mr. Sabatino was taking medication for hypertension, diabetes, and COPD before admission.
+
+Diagnostic Findings:
+	The pathology report from the colon resection confirmed a moderately differentiated adenocarcinoma, invading into the muscularis propria with lymphovascular invasion observed. The CT scan showed a large tumor in the sigmoid colon with regional lymphadenopathy and distant metastasis to the liver.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sabatino, which included a partial colectomy, an ileo-sigmoid anastomosis, and systematic lymph node dissection. The patient underwent adjuvant chemotherapy with FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles. Radiation therapy was considered but deemed unnecessary due to the extent of surgical resection and the absence of positive margins.
+
+Hospital Course:
+	The initial recovery from surgery was successful, with Mr. Sabatino demonstrating resilience and a strong will to fight the disease. Post-operative complications included anastomotic leakage, which was managed conservatively. Nutritional support played a crucial role in his recovery, with a focus on maintaining adequate protein intake and managing diarrhea.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. Mr. Sabatino will continue on oral chemotherapy (Capecitabine), with regular monitoring of CBC and liver function tests. He has been advised to maintain a balanced diet rich in fiber and low in fat, avoid alcohol, and participate in regular physical activity as tolerated.
+
+Patient Education:
+	The patient and his family were educated about the importance of adhering to the medication regimen and attending follow-up appointments. They were also instructed on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sabatino was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to contact his care team immediately if he experiences any unusual symptoms or signs of complications.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Sabatino is guarded, given the advanced stage at presentation and the presence of metastasis at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in his long-term survival.
+
+Final Remarks:
+	Dr. Prewitt concludes this report by expressing her admiration for Mr. Sabatino's resilience and cooperation throughout the treatment journey, emphasizing that he has faced his diagnosis with courage and determination. She signs the report on March 25, 2022, validating the comprehensive documentation of Mr. Sandra Sabatino's care.

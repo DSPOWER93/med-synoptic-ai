@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Stafford
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1170
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 10/01/2023
+	•Attending Physician: Dr. Susan Mcintosh
+	•Primary Diagnosis: Colorectal Cancer (T4N2M0)
+
+Reason for Admission:
+	The patient, Mr. James Stafford, presented with complaints of abdominal pain, weight loss, and altered bowel habits. On initial assessment, the physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA). A computed tomography (CT) scan confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Mr. Stafford has a history of hypertension, for which he was being treated with medication. He also had a 20-year history of diabetes mellitus type II, managed with oral hypoglycemics. In his family history, his father died from colorectal cancer at the age of 65. Mr. Stafford has no known allergies and was not on any significant medications before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the colon. The CT scan showed a large, irregular mass in the sigmoid colon with regional lymphadenopathy but no evidence of distant metastasis. Blood tests revealed anemia, elevated CEA level (12.3 ng/ml), and slightly deranged liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stafford. He underwent a sigmoid colon resection with primary anastomosis and formation of an ileal conduit. Post-operative care involved management of pain, prevention of infection, and monitoring for complications such as ileus or anastomic leak. He received adjuvant chemotherapy consisting of six cycles of FOLFOX regimen (5-FU, leucovorin, oxaliplatin) to reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. Stafford recovered well from surgery and tolerated chemotherapy without any significant complications. He required nutritional support in the form of total parenteral nutrition (TPN) due to persistent nausea and poor oral intake. Therapy sessions helped him regain his strength and mobility.
+
+Follow-Up Plan:
+	Mr. Stafford will have regular outpatient appointments every three months for the first two years, then six-monthly thereafter. His CEA levels will be monitored regularly to detect any potential recurrence early. He will continue his antihypertensive and diabetes medications and make lifestyle modifications to manage these conditions better.
+
+Patient Education:
+	Mr. Stafford was educated about post-surgical care, including wound care practices, managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like fatigue, neuropathy, and altered bowel habits.
+
+Discharge Instructions:
+	Mr. Stafford was discharged with instructions to maintain strict adherence to his medication schedule, practice good wound care, maintain adequate hydration, and gradually increase physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in colorectal cancer survivors like Mr. Stafford. He was advised to maintain a healthy lifestyle, including a balanced diet and regular exercise.
+
+Final Remarks:
+	Dr. Susan Mcintosh commends Mr. James Stafford for his resilience throughout the treatment journey and cooperation during all stages of care. She encourages him to continue this positive attitude towards recovery and stresses the importance of regular follow-ups to maintain optimal health.

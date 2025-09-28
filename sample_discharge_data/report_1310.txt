@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Douglas
+	•Date of Birth: 07/03/1985
+	•Medical Record Number: M1310
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 02/28/2023
+	•Attending Physician: Dr. Bradley Filson
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Douglas presented to the emergency department with persistent abdominal pain, bloating, and weight loss over a period of several months. Upon admission, a series of diagnostic tests were conducted, including CT scans, blood tests, and colonoscopy, which revealed a large mass in his colon. The severity of the symptoms suggested an advanced stage of colorectal cancer.
+
+Medical History:
+	Mr. Douglas has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He has undergone multiple surgeries in the past, including a laparotomy for appendicitis at age 15. His family has a history of colon cancer, and he is known to be allergic to penicillin. Prior to admission, he was taking metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	Pathology results confirmed the diagnosis of adenocarcinoma of the colon. Imaging scans indicated that the tumor had invaded the submucosa and muscularis propria layers of the colon, with regional lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of a malignancy.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Douglas. He underwent a right hemicolectomy, followed by a creation of an ileal conduit. Post-operative care included management of pain and prevention of complications such as infection and bleeding. A standard chemotherapy regimen consisting of folinic acid, fluorouracil, and oxaliplatin was initiated for six cycles. Radiation therapy was deemed unnecessary based on the extent of the disease and potential side effects.
+
+Hospital Course:
+	After surgery, Mr. Douglas's recovery was initially challenging due to post-operative complications including anastomotic leakage, which required drainage and antibiotic therapy. However, with proper management, his condition stabilized, and he responded well to the chemotherapy regimen. He received physical therapy, nutritional support, and psychological counseling throughout his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Douglas will be scheduled for regular outpatient appointments with his oncologist and primary care provider. His current medications, including metformin, lisinopril, and albuterol, will continue. He will also need to maintain a low-fiber diet and perform routine emptying of the ileal conduit. Warning signs requiring immediate medical attention include fever, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. Douglas and his family were educated about post-surgical care, including wound management, signs of complications, and how to manage common side effects such as nausea, fatigue, and neuropathy. They were also taught how to recognize and respond to warning signs.
+
+Discharge Instructions:
+	Upon discharge, Mr. Douglas was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet low in fiber and to monitor his blood glucose levels closely due to his diabetes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Douglas's long-term health. He will need to manage ongoing issues related to diabetes, hypertension, and COPD as well.
+
+Final Remarks:
+	Dr. Filson commends Mr. Douglas for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-ups and adherence to the care plan for a favorable prognosis. This report is signed by both Dr. Filson and Mr. Douglas on 02/28/2023.

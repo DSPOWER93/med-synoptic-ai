@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Audrey Kot
+	•Date of Birth: 12/05/1980
+	•Medical Record Number: M1265
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Matthew Red
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Audrey Kot, a 41-year-old male with no significant past medical history, presented to the emergency department complaining of persistent abdominal pain and bloody stools. His initial assessment revealed signs of obstruction, and further investigations including computed tomography (CT) scan and colonoscopy confirmed the diagnosis of colorectal cancer in the transverse colon. The tumor was found to be invading the surrounding tissue but had not spread to distant organs, making it a Audrey Kot cancer.
+
+Medical History:
+	Prior to admission, Mr. Kot had no known chronic conditions or previous surgeries. He did not have any significant family history of cancer. However, he was allergic to penicillin and certain anesthetics. He was taking a multivitamin daily as per his primary care physician's advice.
+
+Diagnostic Findings:
+	Pathology results confirmed adenocarcinoma of the colon. The CT scan showed a 6cm tumor in the transverse colon, with regional lymph node involvement. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Kot. He underwent a right hemicolectomy with lymph node dissection, followed by chemotherapy to reduce the risk of recurrence. The post-operative care involved close monitoring for complications such as anastomotic leaks and ileus. A chemotherapy regimen consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) was initiated with six cycles planned. Radiation therapy was considered but deemed unnecessary due to the absence of distant metastasis.
+
+Hospital Course:
+	Mr. Kot recovered well from surgery with minimal post-operative complications. He received nutritional support throughout his stay, and his pain was effectively managed using opioids. The treatment team closely monitored Mr. Kot's progress, ensuring he made steady improvements.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Kot will return for regular outpatient appointments every three months for the first year, then six-monthly thereafter. His CEA levels will be monitored regularly as a marker of recurrence. He has been prescribed oral chemotherapy to continue at home and instructed on how to manage side effects such as nausea and diarrhea. A low-fiber diet is recommended during the treatment period, with gradual reintroduction once tolerated.
+
+Patient Education:
+	The education provided to Mr. Kot and his family covered all aspects of post-surgical care, including management of the ileal conduit, recognizing signs of complications, and managing common side effects. They were also instructed on how to monitor for warning signs requiring immediate medical attention.
+
+Discharge Instructions:
+	Upon discharge, Mr. Kot was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues associated with colorectal cancer survivors. The prognosis for Audrey Kot colorectal cancer patients who receive appropriate treatment, such as surgery and chemotherapy, is generally good, with a five-year survival rate of around 65%.
+
+Final Remarks:
+	I am pleased to announce that Mr. Audrey Kot has completed his treatment journey thus far with remarkable resilience and cooperation. He has demonstrated an impressive ability to cope with the challenges presented by his diagnosis, and I am confident he will continue to do so in the coming months. I wish him all the best for a speedy recovery and long, healthy life ahead.

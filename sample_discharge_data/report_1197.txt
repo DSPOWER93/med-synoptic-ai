@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Julie Honey
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1197
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. George Shurts
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Julie Honey, a 47-year-old male, presented to the emergency department complaining of abdominal pain, rectal bleeding, and unexplained weight loss. Upon initial assessment, he appeared pale, had a low grade fever, and was in significant discomfort. Blood tests revealed anemia and elevated levels of carcinoembryonic antigen (CEA). A computerized tomography (CT) scan confirmed the presence of a large mass in his colon, invading nearby tissues and lymph nodes.
+
+Medical History:
+	Mr. Honey has a history of hypertension and was recently diagnosed with type 2 diabetes mellitus. He underwent a cholecystectomy in 2018 for gallstones. His father passed away from colon cancer at the age of 65, and his older brother was diagnosed with prostate cancer at 49. He is allergic to penicillin and sulfa drugs. Prior to admission, Mr. Honey was taking metformin, lisinopril, and atorvastatin for his hypertension, diabetes, and hyperlipidemia, respectively.
+
+Diagnostic Findings:
+	Pathology reports from the colonoscopy revealed adenocarcinoma. Imaging studies showed that the tumor had invaded the muscularis propria and adjacent tissues. Lymph nodes in the mesocolon were enlarged, and CT scan also detected liver metastases. Blood tests demonstrated anemia (Hb 8 g/dL), elevated CEA levels (14.5 ng/mL), and normocytic normochromic anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Honey. He underwent a right hemicolectomy with anastomosis, followed by an ileostomy creation due to tumor involvement in the distal colon. Postoperative care included pain management, antibiotics to prevent infection, and nutrition support through total parenteral nutrition (TPN). After recovery from surgery, Mr. Honey started a six-month regimen of FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) chemotherapy. Radiation therapy was not recommended due to his overall health status and the presence of liver metastases.
+
+Hospital Course:
+	Mr. Honey's postoperative course was complicated by an infection that required intravenous antibiotics. He responded well to treatment, and his ileostomy functioned adequately. Nutritional support was provided through TPN to maintain his weight. During chemotherapy, Mr. Honey experienced fatigue, nausea, and diarrhea but was able to continue treatment without major complications.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Honey will have regular follow-up appointments with Dr. Shurts every three months for the first year. He will continue FOLFOX chemotherapy as scheduled and undergo a CT scan of his chest, abdomen, and pelvis every two months during treatment. After completing chemotherapy, he will have scans every six months. Mr. Honey should maintain a low-fiber diet to minimize ileostomy output and avoid constipation. He is advised to continue metformin for diabetes management and take multivitamins to supplement his nutritional needs.
+
+Patient Education:
+	Mr. Honey was educated on the importance of adhering to his treatment plan, recognizing signs of complications such as fever, abdominal pain, or significant changes in ileostomy output, and managing common side effects like fatigue, nausea, and diarrhea. He was also taught how to care for his ileostomy, including emptying the pouch, cleaning the skin around the stoma, and changing the pouch as needed.
+
+Discharge Instructions:
+	Upon discharge, Mr. Honey received instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to drink at least 2 liters of fluid daily, avoid heavy lifting, and engage in light exercise as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence or metastasis. Mr. Honey should attend all scheduled appointments, maintain a healthy lifestyle, and report any concerning symptoms promptly.
+
+Final Remarks:
+	Throughout the treatment journey, Mr. Honey demonstrated resilience and cooperation. His family was also supportive throughout his care. We are optimistic about his prognosis with continued adherence to his treatment plan and regular follow-up appointments. I appreciate your efforts in coordinating his care, and I look forward to working together in the future.

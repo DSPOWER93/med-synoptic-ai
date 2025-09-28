@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Adam Stafford
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1236
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Brianna Dill
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Adam Stafford, a 57-year-old male, was admitted to our facility on March 15, 2022, due to persistent abdominal pain, unexplained weight loss, and changes in bowel habits that had been present for over two months. The initial assessment revealed signs of potential gastrointestinal distress, prompting a series of diagnostic investigations, including blood tests, ultrasound, CT scan, and colonoscopy. These investigations confirmed the presence of a large mass in the lower part of his abdomen, which was subsequently identified as colorectal cancer.
+
+Medical History:
+	Mr. Stafford has a history of hypertension, managed with medication, and type 2 diabetes mellitus, controlled through diet and oral hypoglycemic agents. He also has a family history significant for colorectal cancer, with his father diagnosed at the age of 60 and sister at 48. Mr. Stafford is allergic to penicillin and sulfa drugs. His pre-admission medications include metformin, lisinopril, and atorvastatin.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay revealed a large, invasive tumor in the lower part of Mr. Stafford's colon, extending into the muscularis propria. Pathology reports confirmed the presence of adenocarcinoma cells, and imaging scans indicated that the disease had not spread to other organs (T3N0M0). Blood tests showed elevated levels of carcinoembryonic antigen (CEA), a marker for colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stafford, which included a partial colectomy with primary anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved managing pain, ensuring proper wound healing, and monitoring for complications such as infection or anastomotic leaks. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) administered every two weeks for six cycles. Radiation therapy was considered, but due to the advanced age of Mr. Stafford and potential complications, it was decided to observe his response to chemotherapy before making a definitive decision.
+
+Hospital Course:
+	Mr. Stafford underwent partial colectomy on March 20, 2022. The surgery was successful, but he experienced post-operative complications related to his preexisting diabetes mellitus, requiring close monitoring and adjustments to his insulin regimen. He responded well to the initial cycles of chemotherapy, with minimal side effects, and no signs of disease progression were observed.
+
+Follow-Up Plan:
+	Upon discharge on April 20, 2022, Mr. Stafford was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue to take metformin, lisinopril, and atorvastatin, with close monitoring of his blood sugar levels and kidney function. Lifestyle recommendations include maintaining a healthy diet low in processed foods, regular exercise, and avoidance of alcohol and tobacco.
+
+Patient Education:
+	Mr. Stafford and his family were provided extensive education on the importance of early detection and monitoring for recurrence. They were instructed on post-surgical care, including managing an ileal conduit, recognizing signs of complications such as infections or obstructions, and strategies to manage common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Stafford was provided with clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given written materials to reinforce these instructions and a contact number for the cancer center in case of any questions or concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring will be crucial in the early detection of recurrence and management of ongoing health issues related to colorectal cancer and diabetes mellitus. Mr. Stafford's resilience throughout this treatment journey has been commendable, and we remain hopeful for a positive outcome as he continues on his road to recovery.
+
+Final Remarks:
+	This report serves as a testament to the dedication and collaboration of our team in providing comprehensive care for Mr. Adam Stafford during his journey with colorectal cancer. We commend his resilience, cooperation, and diligence throughout this treatment process, and we look forward to supporting him in his continued recovery.

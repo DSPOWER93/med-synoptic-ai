@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ashley Lynch
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M183
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 02/10/2023
+	•Attending Physician: Dr. Laura Lynch
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Ashley Lynch was admitted to the hospital due to symptoms of abdominal pain, persistent diarrhea, and unexplained weight loss. The initial assessment revealed a palpable mass in the lower left quadrant of his abdomen and significant rectal bleeding. Further diagnostic investigations included colonoscopy, CT scan, and biopsy which confirmed the presence of a malignant tumor in the descending colon, consistent with colorectal cancer.
+
+Medical History:
+	Mr. Lynch has a history of hypertension and diabetes mellitus type II, both well-controlled with prescribed medications. He also suffers from chronic obstructive pulmonary disease (COPD). His family history is significant for colorectal cancer and breast cancer. Allergies include penicillin and sulfa drugs. Before admission, he was taking aspirin daily for his hypertension and metformin for diabetes.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of a poorly differentiated adenocarcinoma in the descending colon. The CT scan revealed a large mass occupying approximately 80% of the lumen of the descending colon, with metastases to multiple lymph nodes and liver. Blood tests showed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Lynch. The primary intervention was a left hemicolectomy with construction of an ileal conduit. Post-operative care included pain management, wound care, and antibiotics to prevent infection. He underwent six cycles of FOLFOX chemotherapy (Folinic acid, 5-Fluorouracil, Oxaliplatin) and four sessions of radiation therapy to the pelvis.
+
+Hospital Course:
+	Mr. Lynch's initial recovery from surgery was smooth, with minimal complications. He experienced some side effects from chemotherapy, including nausea, vomiting, diarrhea, and fatigue. Nutritional support was provided via a nasogastric tube during his most acute symptoms. Throughout his hospital stay, he received therapy to help manage his pain and improve mobility.
+
+Follow-Up Plan:
+	Mr. Lynch will have follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking his prescribed medications, including aspirin and metformin, with close monitoring of his blood glucose levels. Lifestyle modifications include maintaining a healthy diet low in fat and high in fiber, regular exercise, and avoiding alcohol. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, and rectal bleeding.
+
+Patient Education:
+	Mr. Lynch was educated on post-surgical care, including proper emptying of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and fatigue. He was also advised to maintain a balanced diet, avoid heavy lifting, and engage in gentle exercise to regain strength.
+
+Discharge Instructions:
+	Upon discharge, Mr. Lynch was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to maintain a balanced diet rich in fiber and lean proteins, avoid foods that may irritate his digestive system, and drink plenty of fluids.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Lynch must also manage ongoing health issues related to hypertension, diabetes, and COPD. With close adherence to the follow-up plan and lifestyle modifications, a favorable long-term outlook is possible.
+
+Final Remarks:
+	Dr. Laura Lynch commends Mr. Lynch for his resilience and cooperation throughout his treatment journey. She encourages him to continue following the prescribed care plan to ensure his continued health and wellbeing. Both the physician and patient have signed this report, dated [02/10/2023].

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Juanita Yarborough
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1335
+	•Date of Admission: 02/03/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Dianne Grisham
+	•Primary Diagnosis: Pancreatic Cancer, Stage III
+
+Reason for Admission:
+	The patient, Mr. Juanita Yarborough, was admitted to our institution due to persistent abdominal pain, weight loss, and jaundice over the past two months. Initial assessments revealed significant weight loss (approximately 20% of body weight), tenderness in the upper abdomen, and a palpable mass near the navel. Laboratory investigations indicated elevated liver enzymes, increased bilirubin levels, and anemia. These findings prompted further diagnostic investigations including CT scans, MRI, and endoscopic retrograde cholangiopancreatography (ERCP), which confirmed the diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Yarborough has a history of hypertension managed with medication and diabetes mellitus type 2 controlled by oral hypoglycemics. He also has a chronic obstructive pulmonary disease (COPD) for which he uses an inhaler regularly. Prior surgeries include a left hip replacement due to osteoarthritis in 2018 and an appendectomy in 1997. He has no known allergies but is sensitive to contrast agents. He was on metformin, lisinopril, and salmeterol/fluticasone for his chronic conditions before admission.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy of the pancreatic mass revealed adenocarcinoma. Imaging scans indicated a large, irregular tumor in the head of the pancreas, with metastasis to the liver and lymph nodes. Blood tests showed anemia (Hb 9 g/dL) and elevated levels of CA19-9 (250 U/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Yarborough. He underwent a Whipple procedure on 03/17/2023, followed by eight cycles of FOLFIRINOX chemotherapy starting on 04/05/2023. Radiation therapy was not deemed necessary based on the tumor's location and the extent of metastasis. Management of post-operative care included close monitoring for leaks, managing pain with opioids, and ensuring adequate nutrition and hydration.
+
+Hospital Course:
+	Post-surgery, Mr. Yarborough showed an initial recovery but faced challenges such as delayed gastric emptying and minor leaks which were promptly addressed by the surgical team. He received physical therapy for mobility and speech therapy for swallowing difficulties. Nutritional support was provided through a feeding tube due to his inability to eat solid food initially.
+
+Follow-Up Plan:
+	Mr. Yarborough will have regular follow-ups every three months for the first year, six months thereafter, and annually after that. He will continue with FOLFIRINOX chemotherapy for eight more cycles, as planned. Dietary recommendations include a low-fat diet to reduce stress on the pancreas. Lifestyle modifications include quitting smoking (if applicable) and regular exercise. Warning signs for complications include fever, persistent abdominal pain, and sudden weight loss.
+
+Patient Education:
+	The patient and his family were educated about post-surgical care, including management of the ileal conduit, recognizing signs of complications such as leaks or obstructions, and managing common side effects like fatigue, nausea, and diarrhea. They were also instructed on how to monitor his blood sugar levels and manage his diabetes effectively.
+
+Discharge Instructions:
+	Upon discharge, Mr. Yarborough was given detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to follow a low-fat diet and quit smoking if applicable.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Yarborough will need to manage ongoing health issues associated with his diabetes and COPD effectively.
+
+Final Remarks:
+	This report concludes the treatment journey of Mr. Juanita Yarborough, who displayed remarkable resilience throughout his care. We are confident that he will continue to make progress in his recovery. The physician and patient sign this report on 05/04/2023, validating the documentation of his care.

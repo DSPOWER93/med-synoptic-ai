@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Connie Schuldt
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1225
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Wade Mihaly
+	•Primary Diagnosis: Pancreatic Cancer (Stage III) with metastasis to the liver
+
+Reason for Admission:
+	Connie Schuldt presented to the emergency department complaining of severe abdominal pain, nausea, and loss of appetite over the past month. He reported weight loss of approximately 20 pounds and a yellowish tinge to his skin and eyes. Initial assessments included blood tests, ultrasound, and computed tomography (CT) scan, which revealed a mass in the pancreas with liver metastases.
+
+Medical History:
+	Mr. Schuldt has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a left lower lobe lung resection in 2015 due to a lung tumor. His family history is significant for colon cancer and breast cancer. He has a known allergy to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, atorvastatin, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Pathology reports confirmed a diagnosis of adenocarcinoma of the pancreas. CT scans showed a 5cm mass in the head of the pancreas with multiple liver metastases. Blood tests revealed an elevated CA19-9 level (300 U/mL) and increased liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Schuldt. This included a Whipple procedure to remove the tumor, followed by six cycles of FOLFIRINOX chemotherapy regimen. Radiation therapy was considered but ultimately not pursued due to the extensive metastatic disease.
+
+Hospital Course:
+	Post-operatively, Mr. Schuldt experienced complications including a pancreatic fistula and anastomotic leak. These were managed with endoscopic interventions and conservative care. His recovery was slow but steady, with the support of physical therapy, occupational therapy, and nutritional counseling.
+
+Follow-Up Plan:
+	Mr. Schuldt will have regular follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue on the FOLFIRINOX regimen until disease progression or intolerable side effects. A low-fat diet is recommended, along with close monitoring of his blood glucose and liver function. Any worsening abdominal pain, jaundice, or fever should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Schuldt was educated on the importance of adhering to his medication regimen, managing side effects, recognizing signs of complications such as fistula output, and maintaining good wound care practices. He was instructed on post-surgical care for his ileal conduit, including irrigation technique and bag emptying frequency.
+
+Discharge Instructions:
+	Upon discharge, Mr. Schuldt was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a balanced diet low in fat and high in protein.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage III pancreatic cancer with metastasis is guarded. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial.
+
+Final Remarks:
+	Mr. Schuldt demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team and adhering to his care plan. I am confident that he will continue to do well in the outpatient setting.

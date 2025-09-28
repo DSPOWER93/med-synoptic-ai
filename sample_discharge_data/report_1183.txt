@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Janet Sandoval
+	•Date of Birth: 10/15/1978
+	•Medical Record Number: M1183
+	•Date of Admission: 09/20/2022
+	•Date of Discharge: 10/10/2022
+	•Attending Physician: Dr. Carroll Wells
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Janet Sandoval was admitted to the hospital due to persistent hematuria, or blood in urine, over the past month. His primary care physician recommended a cystoscopy to investigate the cause, which revealed a 4cm mass in his bladder. Subsequent imaging studies confirmed the presence of a tumor and staging tests indicated it was T2N0M0, meaning the cancer had not spread beyond the muscularis propria and lymph nodes or distant metastases.
+
+Medical History:
+	Mr. Sandoval has a history of hypertension, which is well-controlled with medication. He also has chronic obstructive pulmonary disease (COPD), for which he uses an inhaler regularly. He underwent a cholecystectomy in 2015 due to gallstones. His father died of lung cancer at the age of 63, and his mother had Type 2 diabetes. Mr. Sandoval is allergic to penicillin and takes aspirin daily for his hypertension.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) revealed a high-grade urothelial carcinoma. Imaging studies, including CT scans and MRI, showed no evidence of distant metastases or lymph node involvement. Blood tests indicated elevated creatinine levels, suggesting kidney function impairment due to the tumor's pressure on the ureters.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Sandoval. He underwent radical cystectomy with ileal conduit creation and lymph node dissection on 09/25/2022. Post-operative care included pain management, nutritional support, and fluid and electrolyte balance maintenance. A chemotherapy regimen consisting of Gemcitabine and Cisplatin was initiated to reduce the risk of recurrence. Radiation therapy was deemed unnecessary due to the absence of lymph node involvement.
+
+Hospital Course:
+	Mr. Sandoval's initial recovery from surgery was smooth, but he developed a wound infection requiring debridement and antibiotic treatment. A period of aggressive physical therapy helped him regain strength and mobility. His creatinine levels slowly normalized as the tumor pressure on the ureters subsided.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Sandoval will undergo regular cystoscopies and imaging studies to monitor for recurrence. He is scheduled for follow-up appointments every three months initially, then every six months thereafter. Medications will be adjusted as needed based on his kidney function and ongoing hypertension management. A low-salt diet is recommended due to the potential for kidney issues.
+
+Patient Education:
+	Mr. Sandoval and his family were educated about post-surgical care, including ileal conduit maintenance, recognizing signs of complications such as fever or increased pain at the surgical site, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sandoval was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues such as hypertension and COPD.
+
+Final Remarks:
+	Dr. Wells praised Mr. Sandoval's resilience and cooperation throughout the treatment journey, wishing him a swift recovery and successful long-term management of his condition. The report was signed by both Dr. Wells and Janet Sandoval on 10/10/2022.

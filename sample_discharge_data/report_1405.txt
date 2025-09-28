@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jazmin Binkley
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1405
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Denise Day
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the bladder
+
+Reason for Admission:
+	The patient was admitted to our facility due to persistent hematuria and severe lower abdominal pain. Initial assessment revealed a distressed individual with significant abdominal tenderness, palpable mass, and frequent gross hematuria. A series of diagnostic investigations were conducted, including urine analysis, ultrasound, and computed tomography (CT) scan, which confirmed the presence of a large bladder tumor. The patient was then promptly admitted for further management.
+
+Medical History:
+	[Patient's Name] has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). They have undergone two previous surgeries a cholecystectomy in 1995 and a left total knee replacement in 2008. The patient has no known allergies, but they are currently taking metformin, lisinopril, hydrochlorothiazide, albuterol, and tiotropium bromide.
+
+Diagnostic Findings:
+	The CT scan revealed a large (approximately 6 cm) TCC of the bladder with evidence of extravesical spread. Pathology report from the transurethral resection of the bladder tumor (TURBT) confirmed the diagnosis. Blood tests showed mildly elevated creatinine levels, indicating potential kidney dysfunction, and anemia due to chronic blood loss.
+
+Treatment Plan:
+	A multidisciplinary team, including urologists, oncologists, radiologists, and nurse practitioners, developed a comprehensive treatment plan for [Patient's Name]. The primary intervention was radical cystectomy followed by ileal conduit formation. Post-operative care included pain management, antibiotics to prevent infection, and monitoring of kidney function. The patient was also initiated on adjuvant chemotherapy (MVAC regimen methotrexate, vinblastine, doxorubicin, and cisplatin) with six cycles scheduled over the next six months. Radiation therapy was deferred due to the patient's comorbidities and frailty.
+
+Hospital Course:
+	[Patient's Name] underwent a successful radical cystectomy and ileal conduit formation on Day 3 of admission. Post-operative recovery was challenging, with prolonged ileus and significant fluid overload requiring diuretics. The patient required extensive pain management and was discharged on Day 12 with a functioning ileal conduit.
+
+Follow-Up Plan:
+	A rigorous follow-up plan has been designed for [Patient's Name]. Outpatient appointments are scheduled every three months for the first year, then semi-annually thereafter. The patient will continue taking metformin and tiotropium bromide, but lisinopril, hydrochlorothiazide, albuterol, and the MVAC regimen will be discontinued. Lifestyle recommendations include a low-fat, high-protein diet, cessation of smoking, and regular physical activity.
+
+Patient Education:
+	The patient and their family were extensively educated about post-surgical care, including the management of the ileal conduir, recognizing signs of complications such as sepsis or anastomotic leaks, and managing common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, [Patient's Name] was provided with a detailed list of medications, dosages, and the schedule for follow-up appointments. Instructions on wound care practices, hydration, and physical activity guidelines were also given.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient will be closely followed up to manage ongoing health issues such as diabetes and COPD.
+
+Final Remarks:
+	I am pleased to report that [Patient's Name] has demonstrated resilience and cooperation throughout their treatment journey. I congratulate them on a successful procedure, and I look forward to continued collaboration in their recovery process.

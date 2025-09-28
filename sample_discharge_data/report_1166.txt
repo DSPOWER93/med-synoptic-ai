@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jason Bolin
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1166
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/28/2022
+	•Attending Physician: Dr. Christine Roy
+	•Primary Diagnosis: Stage III Colorectal Cancer (Urinary Diversion with Ileal Conduit)
+
+Reason for Admission:
+	Jason Bolin was admitted to our facility on March 20, 2022, due to symptoms of abdominal pain, unexplained weight loss, and rectal bleeding. Upon initial assessment, a physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). Subsequent imaging studies, including computed tomography (CT) scans and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Bolin has a significant medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone surgery for appendicitis ten years ago and had been on various medications to manage his conditions. His father passed away due to colorectal cancer at the age of 65, which was a family history concern.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. Staging based on CT scans revealed tumor invasion into adjacent structures and lymph nodes, suggesting Stage III disease. Additional blood tests showed anemia, hypoalbuminemia, and increased levels of alkaline phosphatase.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Bolin. This included a partial colectomy with an ileal conduit urinary diversion, followed by six cycles of adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, leucovorin, and 5-fluorouracil). Radiation therapy was considered but ultimately not recommended due to potential side effects and the patient's overall condition.
+
+Hospital Course:
+	The initial post-operative period was challenging for Mr. Bolin, with complications such as anastomotic leak and ileus. However, with aggressive management of antibiotics, fluid resuscitation, and supportive care, he made a successful recovery. Throughout his hospital stay, he received regular oncology consultations, nutritional support, and physical therapy to improve his mobility and overall condition.
+
+Follow-Up Plan:
+	The discharge plan for Mr. Bolin includes regular follow-up appointments with the oncologist every three months for the first year, then every six months thereafter. He will continue the prescribed chemotherapy, and his medications for hypertension, diabetes, and COPD will be closely monitored. Lifestyle recommendations include a balanced diet rich in fruits, vegetables, lean proteins, and whole grains while avoiding processed foods.
+
+Patient Education:
+	Mr. Bolin and his family were provided extensive education on post-surgical care, including wound care practices, managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue, diarrhea, and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Discharge instructions for Mr. Bolin include adherence to the prescribed medication regimen, strict wound care practices to prevent infection, maintaining adequate hydration, and engaging in light physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues related to colorectal cancer and other pre-existing conditions.
+
+Final Remarks:
+	It has been a pleasure caring for Jason Bolin during this challenging time, and I commend his resilience and cooperation throughout the treatment journey. I encourage him to continue with the prescribed treatment plan and follow-up appointments, ensuring the best possible outcome in his recovery process.

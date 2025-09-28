@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Emily Ross
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M111
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/18/2022
+	•Attending Physician: Dr. John Doyle
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Emily Ross was admitted to our hospital due to a persistent hematuria, or blood in the urine, which had been noticed by him since early February 2022. Initially, he visited his primary care physician who prescribed antibiotics to treat a potential urinary tract infection. However, his symptoms persisted, and a cystoscopy was recommended. The results of the cystoscopy revealed a tumor in the bladder, leading to the subsequent biopsy, which confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	Emily Ross has a history of hypertension and is currently under control with medication. He also has a family history of colon cancer. His past surgeries include an appendectomy at age 10 and a hernia repair in 2015. Allergic to penicillin, John has been avoiding antibiotics containing the substance.
+
+Diagnostic Findings:
+	During his hospital stay, diagnostic tests were conducted to determine the extent of the disease. A CT scan revealed a tumor in the bladder measuring approximately 4 cm in diameter. Pathology reports confirmed the diagnosis as urothelial carcinoma with no evidence of lymph node involvement (T2N0M0). Blood tests showed slightly elevated creatinine levels, suggesting possible kidney impairment due to the tumor pressure.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Emily Ross. He underwent a radical cystectomy with an ileal conduit creation on March 29, 2022. Post-operative care included management of wound infection and pain, administration of antibiotics, and close monitoring of kidney function. A chemotherapy regimen was initiated to reduce the risk of recurrence, consisting of a Gemcitabine and Cisplatin cycle every three weeks. The first cycle was administered on April 13, 2022, and Emily Ross was discharged after showing signs of recovery.
+
+Hospital Course:
+	During his hospital stay, Emily Ross faced several challenges, including complications from the surgery and the side effects of chemotherapy. His condition improved steadily, thanks to intensive care, physical therapy, and nutritional support. With the help of nursing staff and rehabilitation specialists, John was able to walk unaided by the time of his discharge.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Emily Ross post-discharge. He will undergo regular oncological checkups every three months for the first year and then semi-annually thereafter. Continuation of the chemotherapy regimen is recommended, along with lifestyle modifications to reduce the risk of recurrence.
+
+Patient Education:
+	Emily Ross and his family were educated about post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and hair loss. They were also instructed on how to maintain a healthy lifestyle, including dietary recommendations and physical activity guidelines.
+
+Discharge Instructions:
+	Upon discharge, Emily Ross was provided with comprehensive instructions for his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to contact the hospital immediately if he experiences any signs of complications or recurrence.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for bladder cancer patients is generally good when detected early and treated aggressively. Regular monitoring for early detection of recurrence is crucial, as well as managing ongoing health issues such as hypertension.
+
+Final Remarks:
+	Emily Ross has shown remarkable resilience throughout his treatment journey. His cooperation and positive attitude have contributed significantly to his recovery. I am confident that he will continue to make progress in the coming months, and I wish him all the best in his future endeavors.

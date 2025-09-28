@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jennifer France
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1167
+	•Date of Admission: 02/12/2022
+	•Date of Discharge: 03/20/2022
+	•Attending Physician: Dr. Victoria Colwell
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Jennifer France was admitted to our hospital following the discovery of a large mass in his colon during a routine screening colonoscopy. The initial assessment revealed severe abdominal pain, changes in bowel habits, and unexplained weight loss over the past few months. Further diagnostic investigations, including computed tomography (CT) scans and pathology tests, confirmed the presence of colorectal cancer with metastases to several lymph nodes.
+
+Medical History:
+	Mr. France has a history of hypertension and type 2 diabetes, both well-controlled with medications. He is also a long-term smoker and was recently diagnosed with COPD. In addition, his mother died from breast cancer at the age of 55, and his father had a history of prostate cancer. Prior to admission, Mr. France was taking Ramipril, Metformin, and Atorvastatin for his chronic conditions.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during Mr. France's hospital stay revealed extensive growth in the colon with multiple metastases to lymph nodes. Pathology results confirmed adenocarcinoma of the rectum. Blood tests showed elevated levels of CEA (Carcinoembryonic Antigen), indicating the presence of cancer cells.
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Colwell, developed a comprehensive treatment plan for Mr. France. This included a partial colectomy followed by a permanent ileal conduit to manage waste disposal. Post-operative care involved the management of pain, nutrition support, and the prevention and treatment of infections. In addition, Mr. France was scheduled to undergo six cycles of FOLFOX chemotherapy (5-FU, Leucovorin, and Oxaliplatin) and 25 sessions of radiation therapy to reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. France's hospital stay was marked by an initial recovery from surgery, followed by a period of managing post-operative complications such as wound infections and dehydration. Throughout his stay, he received physical therapy to aid in his mobility and nutritional support to promote healing. The cancer team closely monitored Mr. France's progress, adjusting treatments as necessary to manage the disease.
+
+Follow-Up Plan:
+	Upon discharge, Mr. France was scheduled for regular outpatient appointments with Dr. Colwell and his oncologist. He will continue taking Ramipril, Metformin, and Atorvastatin, but the dosages may be adjusted based on his condition. Additionally, he was advised to maintain a healthy diet low in fat and high in fiber, avoid smoking, and engage in regular physical activity. Mr. France was informed to immediately report any signs of complications such as fever, severe abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. France and his family were provided extensive education on post-surgical care, the functioning of the ileal conduit, signs of complications, and management of common side effects such as fatigue, nausea, and diarrhea. They were also instructed on wound care practices, hydration guidelines, and physical activity restrictions.
+
+Discharge Instructions:
+	Upon discharge, Mr. France was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to continue taking his medications as prescribed, maintain a healthy diet, avoid smoking, and engage in regular physical activity.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. France's long-term health. He was informed about the importance of attending all scheduled appointments and reporting any unusual symptoms to his healthcare team promptly.
+
+Final Remarks:
+	Throughout Mr. France's treatment journey, he demonstrated remarkable resilience and cooperation. We are confident that with continued care and adherence to his post-discharge plan, he will continue to make progress in his recovery. Dr. Colwell signs off on this report as the attending physician, and Jennifer France acknowledges its contents. Date 03/20/2022.

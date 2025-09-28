@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Greta Bernal
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1157
+	•Date of Admission: 02/10/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Nicolette Defazio
+	•Primary Diagnosis: Colon Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Bernal presented to the emergency department complaining of severe abdominal pain, bloating, and a change in bowel habits. An initial assessment revealed an abdominal mass, and further investigations including computed tomography (CT) scan confirmed the presence of a large tumor in his colon. The severity of the symptoms indicated an urgent need for surgical intervention.
+
+Medical History:
+	Mr. Bernal has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a partial colectomy for diverticular disease ten years ago. His family history is significant for colon cancer in his father and sister. He is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, amlodipine, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the colon. Imaging studies showed a large tumor extending into the mesocolon with lymph node involvement. Blood tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Bernal. He underwent a right hemicolectomy with an ileo-transverse colostomy. Post-operative care included pain management, wound care, and nutritional support. He was started on adjuvant chemotherapy consisting of Capecitabine and Oxaliplatin for six cycles. Radiation therapy was considered but ultimately deemed unnecessary due to the extent of surgical resection.
+
+Hospital Course:
+	Mr. Bernal's initial recovery from surgery was complicated by anastomotic leakage, which required a second surgery to repair. He received supportive care including antibiotics, fluid and electrolyte replacement, and blood transfusions during this time. His condition improved significantly following the second surgery, and he gradually regained his strength with physical therapy and occupational therapy interventions.
+
+Follow-Up Plan:
+	Mr. Bernal will return for outpatient follow-up appointments every three months for the first two years, then annually thereafter. He will continue taking metformin and amlodipine, but the dose of salmeterol/fluticasone will be reduced. A low-fiber diet is recommended to minimize discomfort associated with his ileal conduit. Warning signs requiring immediate medical attention include fever, severe abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	Mr. Bernal and his family were educated about the importance of post-surgical care, including proper wound care practices, hydration, and physical activity guidelines. They were also instructed on how to manage the ileal conduit, recognize signs of complications, and manage common side effects associated with chemotherapy.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Bernal was given detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with educational materials on colon cancer, post-surgical care, and lifestyle modifications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Bernal's long-term health. Lifestyle modifications including a healthy diet, regular exercise, and avoidance of tobacco products are encouraged to improve his overall wellbeing.
+
+Final Remarks:
+	Dr. Defazio commends Mr. Bernal for his resilience and cooperation throughout the treatment journey. She encourages him to continue taking care of himself, both physically and emotionally, as he moves forward in his recovery process. This report is signed by Dr. Nicolette Defazio on April 25, 2022, and Greta Bernal on April 26, 2022, validating its accuracy and completeness.

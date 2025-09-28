@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Bettie Mcmullan
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1180
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15-01-2023
+	•Attending Physician: Dr. Jaime Henshaw
+	•Primary Diagnosis: Adenocarcinoma of the Colon, Stage IIIB
+
+Reason for Admission:
+	Bettie Mcmullan presented to the emergency department with a three-week history of worsening abdominal pain, distension, and constipation. Initial assessment revealed a tender mass in the lower abdomen and signs of potential obstruction. Laboratory findings included anemia (Hb 8g/dL) and elevated C-reactive protein (CRP 150mg/L). A CT scan confirmed the presence of a large mass in the descending colon, consistent with malignancy, and evidence of partial bowel obstruction.
+
+Medical History:
+	Bettie Mcmullan has a significant medical history, including well-controlled hypertension (on amlodipine 5mg daily) and type II diabetes (managed with metformin and diet). He underwent a cholecystectomy in 2010 for gallstones. His family history is positive for colorectal cancer, as his father was diagnosed at age 65. He has no known allergies and was taking no additional medications before admission.
+
+Diagnostic Findings:
+	A biopsy from the colon mass confirmed a diagnosis of adenocarcinoma. The tumor was found to have invaded the submucosa (T2) and involved multiple lymph nodes (N2a). Carcinoembryonic antigen (CEA) levels were markedly elevated at 100ng/mL.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Bettie Mcmullan, including tumor resection surgery, chemotherapy, and radiation therapy. Following the partial colectomy, Bettie Mcmullan underwent an ileostomy creation to divert fecal waste temporarily. He received adjuvant FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy for six cycles. Radiation therapy was recommended but deferred due to post-operative recovery concerns.
+
+Hospital Course:
+	Bettie Mcmullan's initial recovery from surgery was uneventful. However, he experienced several complications during his hospital stay, including anemia, dehydration, and electrolyte imbalances. These were managed with transfusions, fluid resuscitation, and electrolyte replacement therapy. He also required physical therapy to help regain mobility and prevent the development of deep vein thrombosis (DVT).
+
+Follow-Up Plan:
+	Upon discharge, Bettie Mcmullan will have scheduled follow-up appointments with his oncologist and primary care provider every 3 months for the first year, then every 6 months thereafter. He will continue taking metformin for diabetes management and resume amlodipine as soon as he is medically cleared. He has been counseled to maintain a low-fat, high-fiber diet and avoid alcohol consumption. Warning signs of recurrence or complications include increased abdominal pain, rectal bleeding, fever, and changes in bowel habits.
+
+Patient Education:
+	Bettie Mcmullan and his family received extensive education on post-surgical care, including ileostomy management, wound care practices, and signs of complications such as infection or obstruction. They were also provided with instructions for recognizing common side effects from chemotherapy, such as nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Bettie Mcmullan was discharged with clear instructions on medication adherence, wound care practices (e.g., skin barrier cream application), hydration (3L/day), and physical activity guidelines (ambulate daily). He was also counseled to monitor for signs of dehydration, infection, or DVT.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with stage IIIB colorectal cancer is generally favorable when treated with surgery, chemotherapy, and radiation therapy. Regular monitoring for early detection of recurrence and managing ongoing health issues will be essential to Bettie Mcmullan's long-term outlook.
+
+Final Remarks:
+	This report documents the comprehensive treatment journey of Bettie Mcmullan, who demonstrated resilience and cooperation throughout his diagnosis and management of colon cancer. We look forward to supporting him through recovery and beyond.

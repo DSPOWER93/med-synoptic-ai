@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clyde Neumann
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1341
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Mario Anderson
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Neumann presented to the emergency department with complaints of persistent lower abdominal pain, bloody stools, and unintentional weight loss over a period of three months. The initial assessment included abdominal examination revealing localized tenderness, laboratory tests showing elevated white blood cell count, C-reactive protein, and carcinoembryonic antigen levels. A computed tomography (CT) scan confirmed the presence of a large colonic mass, leading to the diagnosis of colon cancer.
+
+Medical History:
+	Mr. Neumann has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015. His family history is significant for colon cancer in his father and breast cancer in his mother. Allergic to penicillin and sulfa drugs, he was on metformin, lisinopril, albuterol, and fluticasone prior to admission.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma in the colon. CT scan revealed a 7 cm mass in the transverse colon with regional lymphadenopathy, and positron emission tomography-computed tomography (PET-CT) showed metastases in multiple lymph nodes and liver. Blood tests showed anemia, elevated lactate dehydrogenase, and alkaline phosphatase levels.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Neumann. He underwent a right hemicolectomy with primary anastomosis, followed by post-operative care focusing on pain management, nutritional support, and prevention of thromboembolic events. A six-cycle FOLFOX chemotherapy regimen was initiated, along with radiation therapy to the liver metastases.
+
+Hospital Course:
+	Mr. Neumann's initial recovery from surgery was smooth, but he experienced post-operative ileus and required bowel rest and nasogastric tube suctioning for a few days. He received prophylactic anticoagulation to prevent thromboembolism. Nutritional support was provided through total parenteral nutrition (TPN). His condition stabilized, and he started tolerating oral intake gradually.
+
+Follow-Up Plan:
+	Mr. Neumann will be scheduled for follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue the FOLFOX regimen as an outpatient until the completion of treatment. Lifestyle modifications, including a low-fiber diet and regular exercise, are recommended. Warning signs such as abdominal pain, rectal bleeding, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	The patient and his family were educated about the ileal conduit, its care, and signs of complications. They were instructed on how to recognize common side effects of chemotherapy such as nausea, vomiting, diarrhea, and fatigue, and ways to manage them.
+
+Discharge Instructions:
+	Upon discharge, Mr. Neumann was provided with medication instructions, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to take metronidazole for anorectal metastases and continue the prescribed medications for his comorbidities.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Neumann is guarded given the advanced stage of his cancer at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial to improve his long-term outlook.
+
+Final Remarks:
+	Mr. Neumann demonstrated resilience and cooperation throughout his treatment journey. His care team commends him for his courage and determination, and we wish him a swift recovery.

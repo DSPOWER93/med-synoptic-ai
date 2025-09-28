@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dorothy Jensen
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1065
+	•Date of Admission: 03/12/2023
+	•Date of Discharge: 04/25/2023
+	•Attending Physician: Dr. Alexis Havir
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Dorothy Jensen presented to the emergency department with a two-month history of persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss. Upon initial assessment, he exhibited signs of anemia and abnormalities on digital rectal examination. Further diagnostic investigations, including computed tomography (CT) scan, colonoscopy, and carcinoembryonic antigen (CEA) test, confirmed the presence of a large mass in the sigmoid colon and elevated CEA levels.
+
+Medical History:
+	Mr. Jensen has a history of hypertension, which is controlled with medication. He also has a family history of colorectal cancer and type 2 diabetes. Prior to admission, he underwent an appendectomy in 2015. Mr. Jensen is allergic to penicillin and sulfa drugs. His regular medications include losartan for hypertension control and metformin for diabetes management.
+
+Diagnostic Findings:
+	The colonoscopy revealed a large tumor in the sigmoid colon, and pathology results confirmed adenocarcinoma. CT scan showed evidence of liver metastasis. Blood tests indicated anemia, with a hemoglobin level of 8 g/dL (normal range 13-17 g/dL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Jensen. He underwent a sigmoid colectomy, with creation of an ileal conduit, followed by six cycles of adjuvant chemotherapy (FOLFOX regimen). Radiation therapy was not deemed necessary due to the extent of the disease and potential complications.
+
+Hospital Course:
+	Post-operatively, Mr. Jensen experienced some complications, including anastomotic leakage requiring a second surgery. He received intensive care during this period. Subsequently, his condition stabilized, and he began chemotherapy as planned. Throughout his hospital stay, Mr. Jensen received regular therapy sessions, nutritional support, and close monitoring of his blood counts.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled oncology appointments every three months for the first year, then every six months thereafter. Continuation of oral chemotherapy was recommended, along with regular CEA tests. Lifestyle changes such as a balanced diet and regular exercise were emphasized. Warning signs requiring immediate medical attention include fever, increased abdominal pain, or unexplained weight loss.
+
+Patient Education:
+	Mr. Jensen and his family were provided extensive education about the management of the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Jensen was provided clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of warning signs that require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence and managing ongoing health issues, such as diabetes, was emphasized.
+
+Final Remarks:
+	Mr. Jensen demonstrated remarkable resilience throughout his treatment journey. We are confident that he will continue to cooperate with his follow-up care plan. This report is signed by Dr. Alexis Havir and Dorothy Jensen on May 1, 2023.

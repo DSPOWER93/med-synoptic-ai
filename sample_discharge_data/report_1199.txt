@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Satterfield
+	•Date of Birth: 02/15/1980
+	•Medical Record Number: M1199
+	•Date of Admission: 01/20/2023
+	•Date of Discharge: 03/10/2023
+	•Attending Physician: Dr. Danial Barnes
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Michael Satterfield, a 42-year-old male, was admitted to the hospital due to persistent abdominal pain, weight loss, and changes in bowel habits over the past three months. His initial assessment revealed abnormalities in his abdomen, and subsequent diagnostic investigations including computerized tomography (CT) scan, colonoscopy, and blood tests confirmed a mass in the lower right quadrant of his abdomen, along with evidence of metastasis to the liver.
+
+Medical History:
+	Michael Satterfield has a history of hypertension, which is under control with medication. He was diagnosed with Type 2 diabetes four years ago and manages it through diet and oral medications. John is a lifelong smoker and was diagnosed with COPD five years ago. He had a partial left nephrectomy due to kidney stones seven years ago. No allergies were reported, and he was taking several medications for his chronic conditions at the time of admission.
+
+Diagnostic Findings:
+	Upon admission, John underwent a series of diagnostic tests. The CT scan revealed a large mass in the cecum and multiple liver lesions. Colonoscopy confirmed the presence of a tumor in the cecum. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating the aggressiveness of the cancer.
+
+Treatment Plan:
+	John's treatment plan was developed by a multidisciplinary team, including oncologists, surgeons, radiation oncologists, and gastroenterologists. He underwent a right hemicolectomy with an ileostomy, followed by six cycles of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy. Radiation therapy was considered, but ultimately deemed unnecessary based on the extent of the disease.
+
+Hospital Course:
+	John's initial recovery from surgery was challenging due to complications related to his COPD and diabetes. However, he received intensive care, including respiratory therapy, insulin management, and nutritional support. His condition gradually improved over the next few weeks, allowing for the commencement of chemotherapy. Throughout his hospital stay, John demonstrated resilience and cooperation, actively participating in his treatment plan.
+
+Follow-Up Plan:
+	Upon discharge, John will continue with follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking his diabetes and hypertension medications, and adjustments may be made to his regimen as needed. Lifestyle changes, including quitting smoking, maintaining a balanced diet, and regular exercise, are strongly recommended.
+
+Patient Education:
+	John and his family were educated about the nature of his condition, treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	John was provided with comprehensive discharge instructions to ensure his continued recovery. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in John's case. He will need to manage ongoing health issues related to his diabetes and COPD, as well as potential side effects from chemotherapy.
+
+Final Remarks:
+	John demonstrated remarkable resilience throughout his treatment journey. His cooperation and active participation in his care plan are commendable. We wish him a speedy recovery and hope for the best possible outcome.

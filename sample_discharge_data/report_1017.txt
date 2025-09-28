@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: William Rosen
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1017
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 20/01/2022
+	•Attending Physician: Dr. Peter Brown
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	William Rosen, a 47-year-old male, was admitted to our hospital due to persistent lower abdominal pain, altered bowel habits, and unexplained weight loss over the past three months. Upon initial assessment, his vital signs were within normal limits; however, his physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). Further investigations, including computed tomography (CT) scan and colonoscopy, confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Rosen has a past medical history significant for hypertension, which is controlled with amlodipine, and chronic obstructive pulmonary disease (COPD), managed with inhaled bronchodilators and corticosteroids. He has no known allergies and was taking aspirin daily as a preventative measure against cardiovascular events. His family history is notable for colon cancer in his father and paternal grandfather.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection of the tumor revealed moderately differentiated adenocarcinoma, invading through the muscularis propria but without lymphovascular invasion. The CT scan showed no evidence of metastatic disease, and the carcinembryonic antigen (CEA) level was 12 ng/mL.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rosen. He underwent a total colectomy with an ileo-sigmoid anastomosis, followed by a right lower quadrant abdominal wall resection and a primary anastomosis. Postoperative care included broad-spectrum antibiotics and pain management. Mr. Rosen was also started on adjuvant chemotherapy consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for six cycles. Radiation therapy was deferred due to the patient's overall good health status.
+
+Hospital Course:
+	Mr. Rosen recovered well from surgery, with minimal postoperative complications. He received enteral nutrition support and underwent physical therapy to aid in his recovery. The cancer markers, CEA, were monitored during the hospital stay, and no significant changes were observed.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Rosen was scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue to take aspirin daily and adhere to a low-fiber diet. Lifestyle modifications include quitting smoking and maintaining a healthy weight through balanced nutrition and exercise.
+
+Patient Education:
+	Mr. Rosen was educated about the importance of regular follow-up visits, the role of adjuvant chemotherapy in reducing the risk of recurrence, and the signs of complications such as abdominal pain, fever, or changes in bowel habits. He was also instructed on the care of his ileal conduit, including emptying, cleansing, and irrigation techniques.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rosen received instructions on medication adherence, wound care practices, maintaining hydration, and guidelines for physical activity. He was also provided with resources for support during his recovery, including counseling services.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Rosen's long-term health. Adherence to the treatment plan and lifestyle modifications will help improve his overall prognosis.
+
+Final Remarks:
+	Mr. Rosen demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team and adhering to the prescribed regimen. We commend him for his bravery and wish him a swift recovery.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Billie Hammond
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1186
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. Clara Burrough
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Billie Hammond, presented with complaints of abdominal pain, changes in bowel habits, and unexplained weight loss for the past three months. Upon initial assessment, a mass was palpable in the lower abdomen, and laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA), and lactate dehydrogenase (LDH) levels. Subsequent imaging studies, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon with multiple lymph node involvement, suggesting stage III colorectal cancer.
+
+Medical History:
+	Mr. Hammond has a history of hypertension and Type 2 diabetes mellitus, which were well-controlled prior to admission. He underwent appendectomy in 1998 and cholecystectomy in 2010. There is no significant family history of colorectal cancer. The patient is not known to have any allergies and was on regular medications for hypertension, diabetes, and acid reflux.
+
+Diagnostic Findings:
+	Pathology report from the surgical excision confirmed the diagnosis of moderately differentiated adenocarcinoma of the sigmoid colon. Imaging studies showed extensive lymph node involvement, with several nodes measuring greater than 1 cm in diameter. Blood tests revealed elevated CEA (20 ng/mL) and LDH (309 U/L), both indicating a poor prognosis.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Hammond, which included a primary resection of the tumor followed by an ileo-rectal anastomosis and construction of an ileal conduit. Post-operative care involved managing pain, preventing infection, and ensuring adequate nutritional support. The patient underwent six cycles of FOLFOX chemotherapy, a regimen consisting of oxaliplatin, leucovorin, and fluorouracil. Radiation therapy was not deemed necessary due to the advanced stage of the cancer.
+
+Hospital Course:
+	Mr. Hammond's recovery from surgery was initially challenging due to post-operative complications such as ileus and anastomotic leak, which required a temporary ostomy. However, with supportive care, including intravenous fluids, antibiotics, and bowel rest, these issues were managed successfully. The patient's diabetes and hypertension were carefully monitored throughout his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Hammond was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue his medications for hypertension and diabetes and is advised to maintain a low-fiber diet to avoid any complications with the ileal conduit. Weight loss and regular exercise are encouraged to manage his diabetes. Any signs of bowel obstruction, abdominal pain, or unexplained weight loss should prompt immediate medical attention.
+
+Patient Education:
+	The patient and his family were provided extensive education about the importance of adhering to the prescribed medications, maintaining a healthy lifestyle, recognizing signs of complications related to the ileal conduit, and managing common chemotherapy-related side effects such as nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Hammond was given clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with a detailed care plan to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Despite the advanced stage of the cancer, Mr. Hammond's prognosis is relatively good due to the aggressive treatment he received. Regular monitoring for early detection of recurrence and managing ongoing health issues are essential to ensure the best possible outcomes.
+
+Final Remarks:
+	The attending physician, Dr. Clara Burrough, expressed her appreciation for Mr. Hammond's resilience and cooperation throughout his treatment journey. She emphasized the importance of regular follow-ups, adherence to medication, and a healthy lifestyle in managing the patient's ongoing health issues. The report is signed by both Dr. Burrough and Mr. Hammond on 15/02/2022.

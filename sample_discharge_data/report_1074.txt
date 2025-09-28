@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Heather Au
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1074
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. William Fleury
+	•Primary Diagnosis: Bladder Cancer (Urothelial Cell Carcinoma)
+
+Reason for Admission:
+	The patient, Heather Au, was admitted to our hospital due to persistent hematuria and lower abdominal pain. Initial investigations, including urine analysis and imaging scans, revealed a suspected mass in the bladder. Subsequent cystoscopy and biopsy confirmed the diagnosis of urothelial cell carcinoma.
+
+Medical History:
+	Heather Au is a 43-year-old male with a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has undergone laparoscopic cholecystectomy in the past. John's father died of colon cancer at the age of 65. He is not known to have any allergies and was taking medications for his hypertension, diabetes, and COPD before admission.
+
+Diagnostic Findings:
+	During the hospital stay, a series of diagnostic tests were conducted. Pathology findings from the biopsy revealed a moderately differentiated urothelial carcinoma (pT2N0M0). Imaging studies, including computed tomography (CT) scans and magnetic resonance imaging (MRI), demonstrated no evidence of regional lymph node involvement or distant metastases. Blood tests showed normal kidney and liver function but an elevated white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Heather Au. The plan involved radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care included pain management, wound care, and monitoring for complications such as urinary leakage or infection. Chemotherapy was initiated with a regimen of Gemcitabine and Cisplatin for four cycles. Due to the severity of side effects, particularly nephrotoxicity from Cisplatin, radiation therapy was deemed unnecessary.
+
+Hospital Course:
+	Heather Au underwent radical cystectomy with ileal conduit formation on [Date of Surgery]. The initial recovery was smooth, but complications arose due to anastomotic leakage and wound infection, necessitating additional surgical intervention. During his hospital stay, John received extensive therapy sessions, nutritional support, and pain management. His condition stabilized towards the end of the hospital course, with improved kidney function and resolution of infection.
+
+Follow-Up Plan:
+	Upon discharge, John was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. Medications for his hypertension and diabetes were adjusted as necessary. He was advised to maintain a low-sodium diet and perform regular physical activity. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, or changes in urine output.
+
+Patient Education:
+	John and his family were educated about the importance of post-surgical care, including ileal conduit management, recognition of complications, and management of common side effects such as fatigue, nausea, and diarrhea. They were also informed about the potential for recurrence and the importance of regular follow-up appointments.
+
+Discharge Instructions:
+	John was discharged with a comprehensive set of instructions detailing medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to report any concerns to his primary care physician or oncologist promptly.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Heather Au is favorable, given the early stage of his cancer and successful surgical resection. However, regular monitoring for early detection of recurrence is essential to ensure the best possible outcomes.
+
+Final Remarks:
+	We appreciate John's resilience and cooperation throughout his treatment journey. We are confident that with continued care and follow-up, he will make a full recovery.

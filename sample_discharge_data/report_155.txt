@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kristina Rollins
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M155
+	•Date of Admission: 04/15/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Eric Perron
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Kristina Rollins presented to the emergency department with complaints of hematuria and frequent urinary tract infections over the past six months. A thorough physical examination and initial laboratory tests revealed abnormalities in his urine and complete blood count (CBC). Subsequent imaging scans, including computed tomography (CT) urography and cystoscopy, confirmed a T3 bladder cancer with no regional lymph node involvement (N0) and no distant metastasis (M0).
+
+Medical History:
+	Kristina Rollins is a 52-year-old male with a significant past medical history, including hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD), for which he was previously prescribed multiple medications. He has a family history of colon cancer in his father and breast cancer in his mother. Allergic to penicillin, Kristina Rollins required alternative antibiotics during the course of treatment.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of invasive transitional cell carcinoma (TCC) in the bladder muscle layer (T3). Imaging scans revealed no evidence of regional lymph node involvement or distant metastasis, making Kristina Rollins a suitable candidate for radical cystectomy.
+
+Treatment Plan:
+	A multidisciplinary team, including oncologists, urologists, and radiation therapists, developed a comprehensive treatment plan for Kristina Rollins. After thorough discussion with the patient and his family, a radical cystectomy was performed to remove the bladder and affected lymph nodes, followed by an ileal conduit formation for urinary diversion. The post-operative care included close monitoring of vital signs, management of pain, and prevention of complications such as infections and blood clots.
+
+Hospital Course:
+	The initial post-operative recovery was marked by close monitoring for potential complications such as anemia, infection, and delayed wound healing. Kristina Rollins required a brief period of antibiotic therapy due to a urinary tract infection, which resolved promptly with treatment adjustments. His pain management plan was carefully tailored to his needs, including the judicious use of opioids and non-steroidal anti-inflammatory drugs (NSAIDs).
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Kristina Rollins, including scheduled outpatient appointments with oncologists and urologists every three months for the first year, then every six months thereafter. His medications will continue as prescribed, with close monitoring for potential side effects or interactions. Dietary recommendations emphasize a low-sodium, high-fiber diet to manage both diabetes and the ileal conduit.
+
+Patient Education:
+	Kristina Rollins and his family have been extensively educated on the management of the ileal conduit, recognizing signs of complications, and managing common side effects like diarrhea and dehydration. They were instructed on proper wound care practices, hydration guidelines, and physical activity restrictions during recovery.
+
+Discharge Instructions:
+	Prior to discharge, Kristina Rollins was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. Medication adherence, wound care practices, hydration, and physical activity guidelines were discussed in detail. He was also educated on the importance of regular follow-up appointments, early detection for recurrence, and recognizing signs of complications that may require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Kristina Rollins is favorable, as his cancer was detected early (T3N0M0) with no evidence of distant metastasis. Regular monitoring will be essential to detect recurrence early and manage any ongoing health issues that may arise from the treatment or underlying conditions such as diabetes and COPD.
+
+Final Remarks:
+	I would like to take this opportunity to commend Kristina Rollins on his courage and resilience throughout this challenging journey. His cooperation and active participation in his care have been instrumental in achieving a positive outcome. It is my hope that Kristina Rollins continues to thrive as he begins the next phase of recovery and adjusts to life post-treatment.

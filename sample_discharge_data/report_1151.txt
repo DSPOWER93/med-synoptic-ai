@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Louise Youngman
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1151
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Kathleen Peralta
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Louise Youngman, a 42-year-old male, was admitted to our facility on the 09/01/2022 due to persistent hematuria and a lower abdominal mass detected during routine physical examination. The patient reported experiencing pain in the lower abdomen for approximately two weeks prior to admission. Upon initial assessment, it was noted that John had a palpable mass in his lower abdomen and an urgent CT scan was ordered, which revealed a large mass in the bladder.
+
+Medical History:
+	Mr. Youngman's past medical history includes hypertension, controlled with medication, and asthma, which is managed with an inhaler. He has no known allergies and his family has a history of cancer (his mother died from breast cancer at age 50). Prior to admission, he was on several medications including amlodipine for hypertension and albuterol for asthma.
+
+Diagnostic Findings:
+	Further diagnostic tests confirmed the initial suspicion of bladder cancer. The pathology report revealed a moderately differentiated transitional cell carcinoma invading the muscularis propria. Imaging studies, including CT scan and MRI, showed a large mass in the bladder with evidence of local invasion and possible lymph node involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Youngman. He underwent a radical cystectomy with ileal conduit diversion on 10/01/2022. Post-operative care included management of pain, nutritional support, and prevention of complications such as urinary tract infections. Additionally, John started a course of chemotherapy (GCB3) to reduce the risk of recurrence. He will receive six cycles of chemotherapy every three weeks.
+
+Hospital Course:
+	Following surgery, Mr. Youngman experienced an initial recovery period, during which he received pain management and care for his ileal conduit. He faced some challenges, such as delayed return of bowel function, but responded well to therapy and supportive care. Throughout his hospital stay, John was supported by our team, including nursing staff, therapists, and social workers.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Youngman will continue chemotherapy at an outpatient clinic. He is scheduled for a follow-up appointment with Dr. Peralta in one month to assess his progress and discuss any concerns. John has been advised to maintain a healthy diet, avoid heavy lifting, and contact his healthcare provider if he experiences any signs of complications or recurrence.
+
+Patient Education:
+	During his stay, Mr. Youngman was educated on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea and fatigue. He and his family were given written instructions to take home for reference.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Youngman was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	It is crucial for John to attend all scheduled follow-up appointments for regular monitoring and early detection of recurrence. He will also need to manage ongoing health issues related to his asthma and hypertension.
+
+Final Remarks:
+	Dr. Peralta commends Mr. Youngman on his resilience throughout the treatment journey and expresses her hope that he continues to recover well. Both the physician and patient have signed this report, validating its authenticity on 15/01/2022.

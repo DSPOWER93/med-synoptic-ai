@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ivan Hays
+	•Date of Birth: 03/21/1980
+	•Medical Record Number: M1
+	•Date of Admission: 09/15/2022
+	•Date of Discharge: 10/10/2022
+	•Attending Physician: Dr. Lilly Harris
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Ivan Hays, a 42-year-old male, presented to the emergency department with complaints of hematuria (blood in urine), frequency, and dysuria (painful urination) lasting for two weeks. Upon initial assessment, his vital signs were stable, and physical examination revealed no abnormalities apart from mild lower abdominal tenderness. Routine laboratory tests including complete blood count (CBC), comprehensive metabolic panel (CMP), and urinalysis confirmed the presence of blood in the urine, while ultrasonography of the abdomen showed a mass in the bladder. Given these findings, further diagnostic investigations were conducted, which confirmed the diagnosis of TCC of the bladder.
+
+Medical History:
+	John has a history of hypertension and diabetes mellitus type 2, both well-controlled with medication. He is a former smoker and has a family history of colon cancer. Preoperatively, he was taking metformin, lisinopril, and hydrochlorothiazide.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) revealed TCC with high-grade malignancy. Imaging studies such as computed tomography urography (CTU) and magnetic resonance imaging (MRI) demonstrated a large, invasive mass involving the entire bladder wall and adjacent organs. Blood tests showed mild anemia, but other parameters were within normal limits.
+
+Treatment Plan:
+	A multidisciplinary team was involved in the treatment planning for John. Initially, he underwent radical cystectomy with ileal conduit creation and pelvic lymph node dissection. Postoperative care included pain management, antimicrobial therapy to prevent urinary tract infection, and close monitoring of his blood glucose levels due to his diabetes. He was also initiated on adjuvant chemotherapy with a regimen of gemcitabine and cisplatin for four cycles. Radiation therapy was deferred due to the extensive nature of the disease.
+
+Hospital Course:
+	John's recovery from surgery was initially challenging, as he developed postoperative ileus and required bowel rest and nasogastric suction. However, with supportive care, he gradually improved and was able to resume oral intake by the tenth day of his hospital stay. Regular therapy sessions were initiated for pain management and rehabilitation. Throughout his hospitalization, John's diabetes was managed closely by the endocrinology team, who adjusted his medications accordingly.
+
+Follow-Up Plan:
+	Upon discharge, John will have regular follow-up appointments with Dr. Harris every three months for the first year, then six-monthly thereafter. He will continue taking metformin and hydrochlorothiazide, and he will need to monitor his blood glucose levels frequently. A low-fat, high-fiber diet is recommended to manage his diabetes. John was also educated on recognizing signs of complications related to the ileal conduit and the importance of early reporting.
+
+Patient Education:
+	John and his family were thoroughly informed about the nature of his disease, the rationale behind the chosen treatment plan, and the potential side effects associated with chemotherapy. They were also educated on post-surgical care for the ileal conduir, including emptying it regularly, monitoring for leakage, and signs of infection.
+
+Discharge Instructions:
+	At discharge, John was provided with detailed written instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also instructed to report any unusual symptoms or concerns promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing John's long-term health. Given the high-grade nature of his TCC, there is a higher risk of recurrence, but with diligent follow-up and adherence to treatment plans, his prognosis remains optimistic.
+
+Final Remarks:
+	In conclusion, Ivan Hays has successfully completed his hospitalization for TCC of the bladder and is now ready for discharge. His resilience and cooperation throughout the treatment journey have been commendable, and we are confident that with proper follow-up care, he will continue to improve.

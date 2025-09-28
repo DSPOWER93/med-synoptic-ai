@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Arthur Hilliard
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1129
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Erna Booth
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Arthur Hilliard presented to the emergency department with severe abdominal pain, nausea, and weight loss of approximately 15 kg over the past two months. Initial assessment revealed an acute abdomen, elevated liver enzymes, and a mass palpable in the epigastric region. Subsequent diagnostic investigations, including CT scan, MRI, and endoscopic ultrasound, confirmed the presence of a large pancreatic mass with evidence of regional lymph node involvement.
+
+Medical History:
+	Mr. Hilliard has a history of hypertension, managed with lisinopril 10mg daily. He was diagnosed with Type 2 Diabetes Mellitus in 2008 and is currently on metformin 500mg twice daily. In 2019, he underwent a left lower lobe lobectomy for a suspected lung cancer, which was found to be benign upon pathology. He has no known allergies and takes no other medications regularly.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma of the pancreas. CT scans revealed a 6cm x 5cm mass in the head of the pancreas with evidence of regional lymph node involvement and liver metastasis. Blood tests showed elevated CA19-9 levels, consistent with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hilliard. This included a Whipple procedure, followed by FOLFIRINOX chemotherapy (consisting of irinotecan, leucovorin, 5-fluorouracil, and oxaliplatin) for six cycles. Radiation therapy was considered but ultimately deferred due to the patient's general condition post-surgery.
+
+Hospital Course:
+	Mr. Hilliard underwent a successful Whipple procedure on March 25, 2022. The initial recovery period was challenging, with complications including anastomotic leak and delayed gastric emptying. Intensive supportive care, nutritional management, and antibiotic therapy were provided to manage these complications. After two weeks, Mr. Hilliard's condition stabilized, and he began receiving FOLFIRINOX chemotherapy on April 12, 2022.
+
+Follow-Up Plan:
+	Mr. Hilliard is scheduled for outpatient appointments every three months for the first year post-treatment, then every six months thereafter. His diabetes and hypertension medications will be continued and monitored closely. A low-fat, high-protein diet is recommended to reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Hilliard was educated about his condition, treatment options, and post-surgical care. He was instructed on managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like neutropenia and neuropathy.
+
+Discharge Instructions:
+	Mr. Hilliard was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage III pancreatic cancer is generally poor; however, Mr. Hilliard's response to treatment thus far is encouraging. Regular monitoring for early detection of recurrence and managing ongoing health issues such as diabetes will be essential in the long term.
+
+Final Remarks:
+	It was a pleasure caring for Mr. Arthur Hilliard throughout his treatment journey. His resilience and cooperation were inspiring, and I have no doubt that he will continue to fight this disease with determination. I wish him all the best in his recovery and look forward to seeing him at his follow-up appointments.

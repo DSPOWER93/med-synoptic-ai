@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jonathan Walker
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1414
+	•Date of Admission: 03/22/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Jason Furr
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Jonathan Walker was admitted to our institution following persistent hematuria and frequent urinary tract infections over the past three months. Initial laboratory investigations revealed an elevated creatinine level, suggestive of possible renal involvement. Subsequent imaging studies confirmed a large mass lesion in the bladder, invading the muscularis propria but without regional lymph node involvement or distant metastasis.
+
+Medical History:
+	Mr. Walker has a history of hypertension and COPD, for which he was on regular medications prior to admission. He underwent a partial nephrectomy in 2015 due to a renal cell carcinoma. His father died from colon cancer at the age of 65. Mr. Walker is allergic to penicillin and has a known intolerance to aspirin.
+
+Diagnostic Findings:
+	The pathology report on the excised bladder mass confirmed the diagnosis of transitional cell carcinoma. Staging based on the TNM classification system was T3N0M0. Blood tests revealed anemia and mildly elevated C-reactive protein (CRP) levels, consistent with inflammation.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Walker. This included a radical cystectomy followed by an ileal conduit diversion and systemic adjuvant chemotherapy. Post-operative care involved monitoring for complications such as urine leakage, dehydration, and electrolyte imbalances. The chemotherapy regimen consisted of MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin) with a six-month cycle. Radiation therapy was not indicated due to the absence of regional lymph node involvement or distant metastasis.
+
+Hospital Course:
+	Mr. Walker's initial post-operative recovery was uneventful; however, he developed a urinary tract infection on the eighth day following surgery. Appropriate antibiotics were administered, and the infection resolved within five days. He received his first cycle of chemotherapy as an outpatient two weeks after discharge. During his hospital stay, he was provided with nutritional support and physical therapy to aid in recovery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Walker was scheduled for regular follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue his chemotherapy regimen as prescribed, and a low-salt diet is recommended due to his history of hypertension. Lifestyle modifications to quit smoking and maintain a healthy weight are also advised.
+
+Patient Education:
+	Mr. Walker and his family were educated about the importance of post-surgical care, including emptying the ileal conduit regularly and maintaining good personal hygiene to prevent urinary tract infections. They were instructed on recognizing signs of complications such as fever, persistent abdominal pain, or changes in urine output. Common side effects of chemotherapy, including nausea, fatigue, and hair loss, were discussed, along with management strategies for each.
+
+Discharge Instructions:
+	Upon discharge, Mr. Walker was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to maintain a balanced diet, avoid heavy lifting, and perform light exercises as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Walker's long-term health. Follow-up imaging studies and cytological examinations are recommended to assess the response to therapy and monitor for any signs of disease progression or recurrence.
+
+Final Remarks:
+	It has been a privilege to care for Mr. Jonathan Walker during his treatment journey. His resilience and cooperation throughout this process have been commendable, and I am confident that he will continue to fight this battle with the same determination. This report is signed by Dr. Jason Furr on April 20, 2022, as a testament to our shared commitment to providing compassionate care for Mr. Walker during his recovery and beyond.

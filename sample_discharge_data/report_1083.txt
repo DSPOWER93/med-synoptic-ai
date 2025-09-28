@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph Ronca
+	•Date of Birth: 19/02/1985
+	•Medical Record Number: M1083
+	•Date of Admission: 01/09/2022
+	•Date of Discharge: 30/09/2022
+	•Attending Physician: Dr. Jeanette Whiteside
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Joseph Ronca, a 37-year-old male, was admitted to our facility due to persistent hematuria (blood in urine), severe abdominal pain, and frequent urge to urinate over the past three weeks. The initial assessment revealed anemia, tachycardia, and an elevated white blood cell count. Subsequent investigations, including cystoscopy, biopsy, and imaging scans (CT scan of the abdomen and pelvis), confirmed the presence of a TCC in the bladder with regional spread to lymph nodes.
+
+Medical History:
+	Mr. Ronca had a history of hypertension and was under medication for the same. He had been diagnosed with Type 2 diabetes five years ago and was on insulin therapy. Additionally, he had a chronic obstructive pulmonary disease (COPD) due to long-term smoking. There was no significant family history of cancers or related diseases. Allergies included penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of TCC. CT scan results showed a 5 cm mass in the bladder with regional lymph node involvement. Blood tests revealed elevated levels of creatinine, suggesting renal impairment due to the tumor.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by our multidisciplinary team consisting of oncologists, urologists, and radiotherapists. The plan included a radical cystectomy (removal of the bladder), creation of an ileal conduit (a small section of the small intestine used as a new bladder), and post-operative care with intravenous hydration and pain management. A six-cycle chemotherapy regimen, consisting of Gemcitabine and Cisplatin, was initiated to reduce the risk of recurrence. Radiation therapy was considered but deferred due to the patient's compromised renal function.
+
+Hospital Course:
+	Post-surgery, Mr. Ronca experienced initial complications, including anastomotic leakage and delayed wound healing. However, with prompt intervention and specialized care, these issues were effectively managed, leading to gradual recovery. He underwent multiple therapeutic sessions focusing on pain management, nutrition, and rehabilitation.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Ronca was scheduled for regular follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue his diabetes and hypertension medications as prescribed but is advised to adjust insulin doses based on blood glucose levels. A low-fat, high-protein diet and smoking cessation are strongly recommended for long-term health maintenance.
+
+Patient Education:
+	Mr. Ronca was educated about the importance of adhering to the post-surgical care instructions, managing the ileal conduit (emptying, cleaning, and monitoring output), recognizing signs of complications such as fever, abdominal pain, and changes in urine color or output, and managing common side effects like nausea and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Ronca was provided with comprehensive instructions regarding medication adherence, wound care practices (dressing changes, hygiene), hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing this condition. Lifelong follow-ups are essential to ensure optimal health outcomes.
+
+Final Remarks:
+	During his treatment journey, Joseph Ronca demonstrated remarkable resilience and cooperation, making significant strides towards recovery. We wish him the best in his continued healing process and look forward to seeing him at his follow-up appointments.

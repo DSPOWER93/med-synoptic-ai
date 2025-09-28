@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Herman Land
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1094
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Deborah Hernandez
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Herman Land was admitted to the hospital following persistent hematuria and a suspected bladder tumor detected during routine screening. Upon admission, his symptoms included frequent urination, lower back pain, and weight loss. Preliminary urine analysis revealed traces of blood, leading to further diagnostic investigations.
+
+Medical History:
+	Mr. Land has a history of hypertension, controlled through medication, and chronic obstructive pulmonary disease (COPD) requiring regular bronchodilator therapy. He underwent a partial nephrectomy in 2015 due to kidney cancer. He is allergic to penicillin and iodine. Before admission, he was taking Metoprolol, Salmeterol/Fluticasone, and Ibuprofen.
+
+Diagnostic Findings:
+	Biopsy results confirmed the presence of transitional cell carcinoma in Mr. Land's bladder. Imaging scans showed a large tumor occupying about 50% of his bladder. Blood tests revealed elevated creatinine levels, suggesting possible kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Land. He underwent radical cystectomy followed by an ileal conduit formation and lymph node dissection on March 20, 2022. Post-operative care included pain management, antibiotics to prevent infection, and fluid management due to potential kidney dysfunction. Chemotherapy (GCB-5 regimen) was initiated from April 1, 2022, for four cycles, with anticipated side effects of nausea, fatigue, and myelosuppression.
+
+Hospital Course:
+	Following surgery, Mr. Land recovered well, but faced challenges with fluid management due to kidney dysfunction. He received supportive care including intravenous fluids, electrolyte balance maintenance, and dialysis when necessary. Physical therapy played a significant role in helping him regain mobility and strength.
+
+Follow-Up Plan:
+	Mr. Land will undergo regular follow-ups every three months for the first year post-discharge, then six-monthly thereafter. He is to continue with his current medications (Metoprolol, Salmeterol/Fluticasone), while adjusting Ibuprofen as needed. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise.
+
+Patient Education:
+	Mr. Land was educated about his post-surgical care, including emptying the ileal conduit regularly, monitoring for signs of complications such as infection or obstruction, and managing common side effects like diarrhea, dehydration, and skin rashes from the chemotherapy regimen.
+
+Discharge Instructions:
+	Upon discharge, Mr. Land was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Lifelong surveillance and management of ongoing health issues will be necessary to ensure the best possible outcome.
+
+Final Remarks:
+	The attending physician, Dr. Deborah Hernandez, commends Mr. Land's resilience throughout his treatment journey. She emphasizes the importance of continued adherence to the recommended care plan for optimal outcomes. Both the doctor and patient have signed this report on April 20, 2022.

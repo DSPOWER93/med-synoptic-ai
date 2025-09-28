@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Edward Caldwell
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M128
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 10/01/2022
+	•Attending Physician: Dr. Winnie Goldstein
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Edward Caldwell presented to the Edward Caldwell with a three-month history of intermittent abdominal pain, rectal bleeding, and weight loss. His initial assessment revealed abdominal distension, mild fever, and tenderness in the lower right quadrant. Subsequent laboratory tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels. Computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large mass in the sigmoid colon, with evidence of local invasion and regional lymphadenopathy.
+
+Medical History:
+	Mr. Caldwell's past medical history includes hypertension, controlled with lisinopril 10mg daily; type 2 diabetes mellitus, managed with metformin 500mg twice daily and glipizide 5mg daily; chronic obstructive pulmonary disease (COPD) diagnosed 10 years ago. He has a family history of colorectal cancer, with his father dying from the disease at age 65. Allergic to penicillin and cephalexin.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a large mass (8cm x 7cm) in the sigmoid colon with involved mesocolon, adjacent small bowel loops, and multiple enlarged lymph nodes in the mesorectum and para-aortic regions.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Caldwell. The surgical intervention was a low anterior resection of the sigmoid colon with a primary anastomosis. Post-operative care included pain management, antibiotics, and nutritional support via total parenteral nutrition (TPN) initially due to post-op ileus. A chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) was initiated on the seventh post-operative day and repeated every two weeks for a total of 12 cycles. Radiation therapy was deferred due to the patient's overall health status and the risks associated with concurrent chemoradiation therapy.
+
+Hospital Course:
+	Mr. Caldwell's initial recovery from surgery was complicated by anastomotic leak, managed conservatively with antibiotics and TPN support. He responded well to this management and was eventually able to tolerate oral intake. Subsequent CT scans showed a partial response to chemotherapy with the reduction of the tumor size but persistent lymphadenopathy. Mr. Caldwell also underwent physical therapy to improve his mobility and reduce the risk of post-operative complications.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments every three months for the first year, then six monthly thereafter. Medications to be continued include lisinopril 10mg daily, metformin 500mg twice daily, and glipizide 5mg daily. Lifelong follow-up with a gastrointestinal oncologist is recommended. Mr. Caldwell will need to maintain a healthy diet, rich in fiber, and avoid constipation due to the risk of recurrence.
+
+Patient Education:
+	Mr. Caldwell and his family were educated about post-surgical care, including ileal conduit management, recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects of chemotherapy like nausea, fatigue, and neutropenia.
+
+Discharge Instructions:
+	Mr. Caldwell was instructed on medication adherence, wound care practices, maintaining hydration, and engaging in light physical activity as tolerated. He was advised to follow a low-residue diet initially, gradually reintroducing high-fiber foods.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Caldwell was counseled on the importance of maintaining a healthy lifestyle, including regular exercise, smoking cessation, and alcohol moderation.
+
+Final Remarks:
+	Dr. Goldstein commends Mr. Caldwell's resilience throughout his treatment journey and encourages him to continue this spirit as he moves forward with recovery. Both the physician and patient sign the report on 10/01/2022, validating its contents.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Henry Phillips
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M173
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Patricia Johnson
+	•Primary Diagnosis: Pancreatic Adenocarcinoma
+
+Reason for Admission:
+	Henry Phillips was admitted to our facility due to persistent abdominal pain and significant weight loss over a six-month period. Upon initial assessment, he reported feeling weak and lethargic, with occasional nausea and vomiting. Laboratory tests revealed elevated levels of pancreatic enzymes in his blood, suggesting a potential pancreatic disorder. A computed tomography (CT) scan confirmed the presence of a mass in the head of the pancreas, consistent with adenocarcinoma.
+
+Medical History:
+	Mr. Phillips has a history of hypertension, which is well-controlled with medication. He was diagnosed with type 2 diabetes mellitus five years ago and is currently on insulin therapy. He also has a history of chronic obstructive pulmonary disease (COPD), for which he uses an inhaler regularly. Mr. Phillips underwent a cholecystectomy in 2015 due to gallstones. His family has a history of pancreatic cancer, and he is known to be allergic to penicillin. He was taking aspirin daily for cardiovascular disease prophylaxis before admission.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted during Mr. Phillips's hospital stay. The initial CT scan revealed a 4cm mass in the head of the pancreas, accompanied by enlarged lymph nodes in the surrounding area. A subsequent endoscopic ultrasound (EUS) confirmed the presence of a solid and irregular lesion with evidence of local invasion. Pathology results from the fine-needle aspiration biopsy were consistent with adenocarcinoma of the pancreas. Blood tests showed elevated levels of CA 19-9, a tumor marker associated with pancreatic cancer.
+
+Treatment Plan:
+	Given the advanced stage of Mr. Phillips's pancreatic cancer, a comprehensive treatment plan was developed by our multidisciplinary team. The primary intervention was a Whipple procedure (pancreatoduodenectomy), which was performed on 09/01/2022. Post-operative care included pain management, nutritional support via total parenteral nutrition (TPN), and monitoring for potential complications such as leakage from the anastomosis site. Mr. Phillips also underwent six cycles of FOLFIRINOX chemotherapy regimen to reduce the risk of recurrence.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Following discharge, Mr. Phillips will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He is to continue taking his diabetes and hypertension medications as prescribed, with close monitoring of blood glucose levels and blood pressure. A low-fat diet and regular exercise are recommended to manage his weight and improve overall health. Any signs of recurrence, such as abdominal pain, jaundice, or unexplained weight loss, should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Phillips and his family were educated about the importance of regular follow-ups, maintaining a healthy lifestyle, and recognizing signs of complications following the surgery and chemotherapy treatments. Instructions on post-surgical care, managing the ileal conduit, and managing common side effects such as diarrhea, fatigue, and neuropathy were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Phillips was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised to maintain a healthy diet and to seek immediate medical attention if any concerns arise.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for advanced pancreatic cancer is generally poor, with five-year survival rates of less than 5%. However, early detection and aggressive treatment can improve outcomes. Regular monitoring for recurrence and managing ongoing health issues are crucial for Mr. Phillips's long-term health.
+
+Final Remarks:
+	Mr. Phillips demonstrated remarkable resilience throughout his treatment journey. We commend him on his cooperation and adherence to the treatment plan. We wish him a speedy recovery and hope for a successful outcome.

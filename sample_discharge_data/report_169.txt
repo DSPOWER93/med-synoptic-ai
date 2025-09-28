@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Walcott
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M169
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 01/15/2022
+	•Attending Physician: Dr. Gregory Baker
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mary Walcott, a 36-year-old male, was admitted to our facility on January 1st, 2022, due to the presentation of hematuria and persistent lower abdominal pain. Upon initial assessment, his vital signs were within normal limits; however, a thorough physical examination revealed a palpable mass in the lower abdomen. Subsequent diagnostic tests, including computed tomography (CT) scan and cystoscopy, confirmed the presence of a T2 bladder tumor.
+
+Medical History:
+	Mr. Walcott has a history of hypertension, for which he has been under medical management since 2015. He also has a 10-year history of COPD, requiring the regular use of inhalers and nebulizers. His family history is significant for breast cancer and prostate cancer. Prior to admission, Mr. Walcott was taking medications including amlodipine (for hypertension) and salmeterol/fluticasone (for COPD).
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a transitional cell carcinoma in the bladder. Imaging scans indicated that the tumor was confined within the bladder without lymph node involvement or distant metastases (T2N0M0). Blood tests revealed elevated creatinine and hemoglobin levels, indicative of potential kidney damage and anemia due to blood loss from hematuria.
+
+Treatment Plan:
+	A multidisciplinary team was convened to discuss the best course of action for Mr. Walcott's treatment. Given the extent of the tumor, a radical cystectomy with ileal conduit diversion was recommended. Post-operative care included close monitoring of kidney function and management of potential complications such as infection and urinary leakage. A six-cycle platinum-based chemotherapy regimen was also planned to reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. Walcott underwent a successful radical cystectomy on January 3rd, 2022. Postoperatively, he experienced some expected complications such as delayed wound healing and temporary kidney dysfunction. However, his condition stabilized with the help of aggressive medical management, including antibiotics for infection and fluid therapy to support renal function. During his hospital stay, Mr. Walcott also received his first cycle of chemotherapy and began education on post-surgical care, including managing the ileal conduit.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Walcott was scheduled for outpatient follow-ups at one week, three weeks, six weeks, and every three months thereafter for the first year. He was instructed to continue taking his hypertension medication (amlodipine) but to discontinue his COPD medications temporarily due to potential interactions with chemotherapy. A low-salt diet and fluid intake of at least 2 liters per day were recommended to support kidney function. Mr. Walcott was also advised to recognize signs of complications such as fever, persistent abdominal pain, or changes in urine output.
+
+Patient Education:
+	Mr. Walcott and his family were extensively educated about the treatment plan, post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Walcott was provided with detailed instructions regarding medication adherence, wound care practices (including dressing changes and signs of infection), hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Walcott is generally favorable given the early stage of his cancer and successful surgical removal. Regular monitoring for early detection of recurrence and management of ongoing health issues, such as hypertension and COPD, will be essential to ensure the best possible outcome.
+
+Final Remarks:
+	We are pleased to report that Mr. Mary Walcott has been discharged from our facility on January 15th, 2022. Throughout his treatment journey, he demonstrated remarkable resilience and cooperation. The attending physician, Dr. Gregory Baker, is confident in his ability to successfully manage the post-operative recovery period and long-term health maintenance. We wish Mr. Walcott all the best in his future endeavors and look forward to seeing him at his follow-up appointments.

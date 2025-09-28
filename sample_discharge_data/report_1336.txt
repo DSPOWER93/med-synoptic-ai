@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Laura Mccracken
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1336
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15-01-2023
+	•Attending Physician: Dr. Adrian Prins
+	•Primary Diagnosis: Colorectal Cancer
+
+Reason for Admission:
+	The patient, Mr. Laura Mccracken, a 47-year-old male, presented to the emergency department with complaints of abdominal pain, rectal bleeding, and weight loss over the past three months. The initial assessment revealed anemia, abdominal tenderness, and a palpable mass. Subsequent diagnostic investigations including CT scan, colonoscopy, and biopsy confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Mccracken has a history of hypertension, which is under control with medication. He also has a family history of colorectal cancer, with his father diagnosed at age 65. He has no known allergies and was taking aspirin for his hypertension before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of adenocarcinoma in the sigmoid colon. Imaging scans revealed a large, irregular mass in the sigmoid colon with lymph node involvement. Blood tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Mccracken, which included a sigmoid colon resection, creation of an ileal conduit, six cycles of adjuvant chemotherapy with FOLFOX regimen, and radiation therapy to the pelvic region for potential recurrence.
+
+Hospital Course:
+	Post-surgery, Mr. Mccracken showed initial signs of recovery but faced complications such as anastomotic leak and delayed wound healing. These were managed with aggressive medical intervention, including antibiotics, nutritional support, and surgical debridement. He was also referred to physical therapy for mobility enhancement.
+
+Follow-Up Plan:
+	Mr. Mccracken will be scheduled for follow-up appointments every three months for the first two years, then six-monthly thereafter. His current medications, including anti-hypertensives and pain management drugs, will be continued. He has been advised to maintain a high-fiber diet, avoid smoking and alcohol, and engage in regular physical activity.
+
+Patient Education:
+	Mr. Mccracken and his family were educated about the disease, its treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Mccracken was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to schedule a follow-up appointment with his primary care provider within a week of discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Mccracken was informed about the importance of maintaining a healthy lifestyle to manage ongoing health issues related to colorectal cancer.
+
+Final Remarks:
+	In conclusion, Mr. Laura Mccracken has shown remarkable resilience throughout his treatment journey. His cooperation and positive attitude have greatly contributed to his recovery. We wish him a swift and complete recovery and look forward to continued successful follow-up appointments.

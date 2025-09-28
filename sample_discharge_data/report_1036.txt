@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wendy Pockrus
+	•Date of Birth: 19-02-1985
+	•Medical Record Number: M1036
+	•Date of Admission: 01/03/2023
+	•Date of Discharge: 15-03-2023
+	•Attending Physician: Dr. Aida Gilbert
+	•Primary Diagnosis: Stage III Colon Cancer
+
+Reason for Admission:
+	The patient, Wendy Pockrus, was admitted to the hospital due to a recurring abdominal pain and changes in bowel habits over the past month. On initial assessment, he appeared lethargic with a palpable mass in his lower abdomen. Subsequent laboratory investigations showed anemia and elevated carcinoembryonic antigen (CEA) levels. A computed tomography (CT) scan confirmed the presence of a large tumor in the colon, leading to the diagnosis of Wendy Pockrus Wendy Pockrus.
+
+Medical History:
+	Mr. Pockrus has a history of hypertension and chronic obstructive pulmonary disease (COPD), for which he was previously on medication. He had undergone a gallbladder removal surgery in 2015. His family history is significant as his father died due to colon cancer at the age of 65, and his mother has diabetes. Mr. Pockrus has no known allergies.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma in the colon. The CT scan revealed a large tumor with regional lymph node involvement. Blood tests showed anemia, elevated CEA levels, and mildly elevated liver enzymes.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Pockrus. He underwent a colon resection surgery followed by a temporary ileostomy to create an ileal conduit. Post-operative care included pain management, fluid and electrolyte balance, and nutritional support. A six-month regimen of FOLFOX (oxaliplatin, fluorouracil, and leucovorin) chemotherapy was initiated, with cycles every two weeks, along with radiation therapy to the abdomen and pelvis for three weeks.
+
+Hospital Course:
+	Mr. Pockrus's initial recovery from surgery was smooth. However, he faced challenges due to the side effects of chemotherapy such as fatigue, nausea, and diarrhea. These were managed effectively with medications and supportive care. Nutritional support was provided to ensure proper caloric intake and prevent weight loss.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Pockrus will have regular follow-up appointments every three months for the first year, then six-monthly thereafter. He is to continue his current medications and adjust them as advised by the doctor. A low-fiber diet is recommended to minimize discomfort related to the ileal conduit. Any signs of bleeding, severe abdominal pain, fever, or rapid weight loss should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Pockrus and his family were educated about the importance of adhering to the medication schedule, proper wound care practices for the ileal conduit, maintaining adequate hydration, and engaging in gentle physical activities as tolerated. They were also instructed on recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Mr. Pockrus was provided comprehensive discharge instructions to ensure his continued recovery. He was advised to take medications as prescribed, maintain proper wound care, stay hydrated, and engage in gentle physical activities.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Pockrus was informed about the importance of maintaining a healthy lifestyle, including regular exercise, a balanced diet, and avoiding tobacco products to improve his overall health outcomes.
+
+Final Remarks:
+	Dr. Aida Gilbert commends Mr. Pockrus's resilience throughout his treatment journey. She emphasizes the importance of continued adherence to the treatment plan and follow-up appointments for optimal health outcomes. The report is signed by both Dr. Aida Gilbert and Wendy Pockrus, validating its accuracy on 15-03-2023.

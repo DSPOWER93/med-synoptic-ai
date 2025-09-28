@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Denese Newman
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1400
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Norman Schoonover
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Mr. Denese Newman, was admitted to our facility after presenting with hematuria (blood in urine), persistent lower abdominal pain, and weight loss for a duration of two months. A physical examination revealed a palpable mass in the lower left quadrant of the abdomen. A series of laboratory tests were conducted, including a complete blood count (CBC) and urinalysis, which demonstrated anemia and evidence of blood in the urine. Further imaging studies, such as computed tomography (CT) scan and cystoscopy, confirmed the presence of a large TCC of the bladder.
+
+Medical History:
+	Mr. Newman has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft (CABG) in 2018 and is allergic to penicillin. The patient was taking metformin, insulin glargine, lisinopril, atorvastatin, tiotropium, and salmeterol before admission.
+
+Diagnostic Findings:
+	Pathology reports from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of TCC. A CT scan revealed a large mass in the bladder with invasion into the muscularis propria and regional lymph node involvement. The CBC showed moderate anemia, with hemoglobin levels at 9 g/dL.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Newman. This included radical cystectomy with ileal conduit diversion, post-operative chemotherapy with gemcitabine and cisplatin, and radiation therapy to the pelvis. The patient underwent surgery on March 25, 2023, and made an initial recovery in the subsequent days. However, the patient experienced complications related to wound healing and required a second surgical intervention for debridement and wound closure on April 7, 2023.
+
+Hospital Course:
+	During his hospital stay, Mr. Newman's condition stabilized, and he made steady progress in his recovery from surgery. The patient received regular nutritional support, physical therapy, and psychological counseling to manage stress and anxiety associated with the diagnosis and treatment. On April 12, 2023, the patient was discharged from the hospital, ready to continue the next phase of his treatment journey at home.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Newman, including scheduled outpatient appointments with oncology and urology specialists every three months for the first year post-treatment. The patient will be prescribed gemcitabine and cisplatin for chemotherapy and advised to manage common side effects such as nausea, vomiting, and fatigue. Lifestyle recommendations include a balanced diet, regular physical activity, and stress management techniques. The patient should also be vigilant in recognizing signs of complications, such as fever, increased pain, or changes in urine output.
+
+Patient Education:
+	During his hospital stay, Mr. Newman and his family received extensive education on post-surgical care, management of the ileal conduit, and recognizing signs of complications. They were instructed on proper wound care practices, hydration guidelines, and physical activity restrictions. The patient was also provided with educational materials to reinforce the instructions given during their hospital stay.
+
+Discharge Instructions:
+	Upon discharge, Mr. Newman received comprehensive discharge instructions to ensure his continued recovery and health maintenance. These instructions included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity restrictions. The patient was advised to maintain follow-up appointments as scheduled and monitor for any signs of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Newman's ongoing health issues. The prognosis for patients with TCC depends on several factors, including the stage at diagnosis, presence of residual disease, and response to treatment. Patients who undergo radical cystectomy and receive adjuvant chemotherapy have a better prognosis compared to those who do not receive adequate treatment.
+
+Final Remarks:
+	In conclusion, Mr. Denese Newman has demonstrated resilience and cooperation throughout his treatment journey for TCC of the bladder. We are confident in his ability to continue managing his health issues with the comprehensive follow-up plan designed for him. Our team will be closely monitoring his progress and providing support as needed. We look forward to seeing Mr. Newman thrive during his recovery and beyond.

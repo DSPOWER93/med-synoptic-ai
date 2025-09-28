@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Conner
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M115
+	•Date of Admission: 04/15/2022
+	•Date of Discharge: 06/20/2022
+	•Attending Physician: Dr. Linda Poormon
+	•Primary Diagnosis: Pancreatic Adenocarcinoma
+
+Reason for Admission:
+	Robert Conner, a 42-year-old male, was admitted to our facility due to severe abdominal pain, unexplained weight loss, and jaundice. The initial assessment revealed a distended abdomen, tender upon palpation, and dark urine. Subsequent diagnostic investigations included an ultrasound, CT scan, MRI, and lab tests. These confirmed the presence of a tumor in the head of Mr. Conner's pancreas, leading to the blockage of his bile ducts and the development of jaundice.
+
+Medical History:
+	Robert Conner had a history of hypertension, for which he was on medication. He also suffered from COPD, necessitating regular inhalers. There were no known allergies, but he was sensitive to some antibiotics. His family history was significant for pancreatic cancer and breast cancer.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay revealed that Mr. Conner's CA 19-9 levels were significantly elevated, indicating the presence of a pancreatic tumor. Imaging scans confirmed a large mass in the head of his pancreas and evidence of bile duct obstruction. Pathology reports from the biopsy indicated an adenocarcinoma of the pancreas.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Conner, which included surgery followed by chemotherapy and radiation therapy. A Whipple procedure was performed to remove the tumor, along with the gallbladder, a portion of the stomach, and parts of the small intestine. Post-operative care involved close monitoring for complications such as leaks or infections, and management of pain and nausea.
+
+Hospital Course:
+	Mr. Conner's recovery from surgery was initially slow due to complications related to his COPD and hypertension. However, with close monitoring and care, he gradually improved and began tolerating oral intake. He received nutritional support in the form of enteral feeding until he was able to eat solid foods again.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Conner includes regular outpatient appointments with his oncologist and gastroenterologist. He will continue the chemotherapy as prescribed, and adjustments will be made based on his tolerance and response to treatment. A low-fat, high-protein diet is recommended, along with regular exercise. Warning signs requiring immediate medical attention include fever, worsening abdominal pain, persistent nausea or vomiting, and unexplained weight loss.
+
+Patient Education:
+	Mr. Conner and his family were educated on post-surgical care for the ileal conduit, including emptying the conduit regularly, monitoring for signs of complications such as leaks or infections, and managing common side effects like diarrhea and dehydration. They were also instructed on recognizing and responding to symptoms of recurrence.
+
+Discharge Instructions:
+	Upon discharge, Mr. Conner was provided with comprehensive instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to follow up with his primary care physician for routine checkups and laboratory tests.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence in cases like Mr. Conner's. Management of ongoing health issues, including COPD and hypertension, will be essential to ensure the best possible long-term outlook.
+
+Final Remarks:
+	This report concludes with Dr. Linda Poormon's final remarks, emphasizing Mr. Conner's resilience and cooperation throughout his treatment journey. She expressed her gratitude for the entire healthcare team's efforts in providing the best care possible to Mr. Conner during his stay at our facility. The report is signed by both Dr. Linda Poormon (M.D.) and Robert Conner, validating the documentation of his care and treatment plan.

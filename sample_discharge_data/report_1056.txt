@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Thorpe
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1056
+	•Date of Admission: 02/02/2023
+	•Date of Discharge: 07/07/2023
+	•Attending Physician: Dr. Ellyn Miller
+	•Primary Diagnosis: Bladder Cancer (Muscle Invasive)
+
+Reason for Admission:
+	Mr. Thorpe presented to the emergency department with intermittent hematuria and persistent lower abdominal pain. Upon initial assessment, a CT scan revealed an irregular mass in his bladder. The mass was further confirmed via cystoscopy, leading to the diagnosis of muscle-invasive bladder cancer.
+
+Medical History:
+	Mr. Thorpe has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has undergone two previous surgeries appendectomy in 1998 and laparoscopic cholecystectomy in 2012. His family history is significant for breast cancer and prostate cancer. Allergies include penicillin, sulfa drugs, and contrast media. Mr. Thorpe was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of invasive transitional cell carcinoma in the bladder tissue. Imaging studies, including a CT scan and MRI, showed that the tumor had invaded the muscularis propria layer. Blood tests indicated elevated creatinine levels, suggesting potential renal impairment due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Thorpe. This included a radical cystectomy with ileal conduit formation, followed by six cycles of chemotherapy (GCB Gemcitabine, Cisplatin, and BCG). He was also to receive radiation therapy post-operatively.
+
+Hospital Course:
+	Mr. Thorpe underwent a successful radical cystectomy with ileal conduit formation on 03/03/2023. The immediate post-operative period was uneventful, but he developed complications such as urinary tract infections and delayed wound healing. He received antibiotics and supportive care for these issues.
+
+Follow-Up Plan:
+	Mr. Thorpe will return to the outpatient clinic every three months for follow-ups. His medications include metformin (500mg twice daily), lisinopril (10mg once daily), albuterol inhaler as needed, and antibiotics as prescribed. He has been instructed to maintain a low-fiber diet and drink plenty of water to facilitate urine flow.
+
+Patient Education:
+	Mr. Thorpe and his family were educated about the importance of recognizing signs of infection or complications related to the ileal conduit. They were also instructed on how to care for the wound, manage side effects such as fatigue and nausea, and monitor for renal function changes.
+
+Discharge Instructions:
+	Upon discharge, Mr. Thorpe was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to contact his primary care physician if he experiences any unusual symptoms.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Thorpe will need lifelong follow-up due to the nature of his condition.
+
+Final Remarks:
+	We commend Mr. Thorpe for his resilience throughout this challenging treatment journey. His cooperation and adherence to the prescribed regimen have been essential to his recovery. This report is signed by Dr. Ellyn Miller, MD, on 07/07/2023, validating the information provided.

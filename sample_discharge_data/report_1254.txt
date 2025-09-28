@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Anthony Wiker
+	•Date of Birth: 12/05/1960
+	•Medical Record Number: M1254
+	•Date of Admission: 08/01/2022
+	•Date of Discharge: 09/10/2022
+	•Attending Physician: Dr. Dr. Jones
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIA
+
+Reason for Admission:
+	Mr. Wiker presented to the emergency department with a one-month history of abdominal pain, changes in bowel habits, and unintentional weight loss. The initial assessment revealed an abdominopelvic mass, and further investigations such as computed tomography (CT) scan, colonoscopy, and blood tests confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Wiker has a history of hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and gastroesophageal reflux disease (GERD). He underwent a total knee replacement surgery in 2015. His father died of colorectal cancer at the age of 72, and his sister is a known hypertension patient. Prior to admission, Mr. Wiker was taking metformin, lisinopril, salmeterol/fluticasone, omeprazole, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology report of the excised tumor indicated moderately differentiated adenocarcinoma. CT scan revealed a 7 cm tumor in the sigmoid colon with regional lymph node involvement. Blood tests showed anemia, elevated C-reactive protein (CRP), and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wiker. He underwent a laparoscopic sigmoid colectomy followed by an ileal conduit formation. Post-operative care included pain management, bowel regimen, and antibiotic therapy to prevent infection. Mr. Wiker was scheduled for six cycles of adjuvant chemotherapy (FOLFOX) with leucovorin, fluorouracil, and oxaliplatin. Radiation therapy was deferred due to the risks associated with his COPD.
+
+Hospital Course:
+	Mr. Wiker's initial recovery from surgery was smooth, but he experienced post-operative ileus and required nasogastric tube decompression for a few days. He also had episodes of hypoxia due to his COPD, which were managed with additional oxygen therapy and nebulizer treatments. Nutritional support was provided through total parenteral nutrition (TPN) during the period of bowel rest. The disease remained stable throughout his hospital stay.
+
+Follow-Up Plan:
+	Mr. Wiker will be followed up every three months for the first two years, then every six months thereafter. He will continue taking metformin, lisinopril, and omeprazole, but his inhaled bronchodilator and ibuprofen will be discontinued due to their potential interactions with chemotherapy. A high-fiber diet is recommended, and he should maintain a healthy body weight to minimize the risk of recurrence.
+
+Patient Education:
+	Mr. Wiker and his family were educated about the importance of post-surgical care, including wound care practices, signs of complications such as fever, increased pain, or changes in bowel habits, and common side effects of chemotherapy like nausea, fatigue, and neutropenia. They were also taught how to manage his ileal conduit and recognize any issues related to it.
+
+Discharge Instructions:
+	Mr. Wiker was discharged with a prescription for oral analgesics, antibiotics, and antacids. He was instructed on proper wound care, hydration, and physical activity guidelines. He was advised to continue close communication with his healthcare team regarding any concerns or issues he might encounter during the recovery process.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Wiker. He should be aware of the signs of disease progression, such as persistent abdominal pain, changes in bowel habits, unexplained weight loss, or anemia. Maintaining a healthy lifestyle and attending all scheduled follow-up appointments will help manage his ongoing health issues effectively.
+
+Final Remarks:
+	We are pleased to see Mr. Wiker making a successful recovery from his surgery and initial chemotherapy treatment. His resilience and cooperation throughout this journey have been commendable, and we look forward to continuing our care for him in the follow-up period.

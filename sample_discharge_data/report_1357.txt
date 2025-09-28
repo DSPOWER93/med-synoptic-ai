@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tyron Sundt
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1357
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Catheryn Wallis
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Tyron Sundt was admitted to our facility due to persistent abdominal pain, change in bowel habits, and unexplained weight loss over the past few months. Upon initial assessment, he presented with a palpable mass in the lower abdomen, anemia, and signs of dehydration. Further investigations, including colonoscopy, CT scan, and blood tests, confirmed the presence of a large tumor in the sigmoid colon and metastases to several lymph nodes.
+
+Medical History:
+	Mr. Sundt has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee replacement surgery in 2018. His family has a history of colorectal cancer, with his father diagnosed at the age of 65. Mr. Sundt is allergic to penicillin and sulfa drugs. He was taking metformin for diabetes, lisinopril for hypertension, albuterol inhaler for COPD, and ibuprofen for pain management before admission.
+
+Diagnostic Findings:
+	Pathology reports from the colonoscopy confirmed a large, invasive adenocarcinoma of the sigmoid colon. CT scan revealed multiple enlarged lymph nodes in the abdomen and pelvis, as well as distant metastases to the liver. Blood tests showed anemia, elevated levels of carcinoembryonic antigen (CEA), and electrolyte imbalances due to dehydration.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sundt. He underwent a sigmoid colectomy, followed by an ileal conduit creation. Post-operative care included pain management, antibiotics to prevent infection, and fluid replacement therapy. Mr. Sundt was also initiated on adjuvant chemotherapy, with a regimen of FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) for six cycles. Radiation therapy was not deemed necessary due to the extent of disease.
+
+Hospital Course:
+	Mr. Sundt's initial recovery from surgery was smooth, with minimal complications. However, he faced challenges with nutritional support due to his underlying conditions. He was closely monitored for signs of infection and anastomotic leak. Regular follow-ups with oncology, surgery, and rehabilitation teams were scheduled throughout his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Sundt will continue with adjuvant chemotherapy under the care of an oncologist. He will also have regular appointments with his primary care physician for management of hypertension, diabetes, and COPD. A low-fiber diet and adequate hydration are recommended to maintain digestive health and prevent constipation. Mr. Sundt should report any signs of fever, abdominal pain, or changes in bowel habits immediately.
+
+Patient Education:
+	Mr. Sundt and his family were educated on the importance of strict adherence to the prescribed chemotherapy regimen, regular follow-ups, and proper care of the ileal conduit. They were also instructed on recognizing signs of complications such as infection or anastomotic leak, as well as managing common side effects like nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Sundt was provided with comprehensive instructions for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a balanced diet, avoid heavy lifting, and gradually increase his physical activities under the guidance of a rehabilitation specialist.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Sundt's long-term survival. He will need to undergo regular CEA tests, CT scans, and colonoscopies as per the oncologist's recommendation.
+
+Final Remarks:
+	We commend Mr. Sundt for his courage and cooperation throughout his treatment journey. We wish him a speedy recovery and encourage him to maintain a positive attitude during this challenging time.

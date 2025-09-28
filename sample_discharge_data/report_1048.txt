@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carissa Mccauley
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1048
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Dr. Rodriguez
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIA)
+
+Reason for Admission:
+	Carissa Mccauley, a 37-year-old male, presented to the emergency department with complaints of abdominal pain, constipation, and unintentional weight loss. A thorough physical examination revealed an abdominal mass, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9). Further investigations, including a computed tomography (CT) scan, confirmed the presence of a large tumor in his colon.
+
+Medical History:
+	Mr. Mccauley has a history of hypertension and diabetes mellitus type 2, for which he was under regular medication. He also suffered from chronic obstructive pulmonary disease (COPD) due to long-term smoking habit. His father had a history of colorectal cancer, and his mother had breast cancer. Upon admission, he was on several medications including metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The pathology report from the colon biopsy confirmed the diagnosis of moderately differentiated adenocarcinoma. The CT scan revealed a large tumor in the descending colon and multiple lymph nodes involvement. Additionally, the blood tests showed anemia, high white blood cell count, and elevated liver enzymes.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Mccauley. He underwent a partial colectomy followed by ileostomy to remove the tumor and divert fecal waste. Post-operative care included management of pain, preventing infection, and ensuring proper healing of the wound. The surgical intervention was followed by six cycles of FOLFOX chemotherapy, which consisted of oxaliplatin, leucovorin, and fluorouracil. Radiation therapy was also considered for adjuvant treatment due to lymph node involvement but was ultimately deferred due to Mr. Mccauley's overall health status.
+
+Hospital Course:
+	After the surgery, Mr. Mccauley experienced some post-operative complications, including delayed bowel movement and anemia. He was managed with prokinetics, iron supplements, and blood transfusions. Throughout his hospital stay, he also received nutritional support to aid in his recovery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Mccauley will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking metformin and lisinopril but adjust the dosage of his COPD medication as advised by his pulmonologist. A low-fiber diet is recommended to manage his ileostomy. He was educated on signs of complications such as fever, severe abdominal pain, or changes in bowel habits and was instructed to seek immediate medical attention in case of these symptoms.
+
+Patient Education:
+	Mr. Mccauley and his family were provided detailed information about the ileostomy care, including cleaning, changing the pouch, and managing output. They were also educated on potential complications such as blockage, leakage, or skin irritation, and how to manage these issues. Additionally, they were taught about recognizing signs of dehydration, electrolyte imbalances, and nutritional deficiencies.
+
+Discharge Instructions:
+	Upon discharge, Mr. Mccauley was provided with clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet rich in fiber and lean proteins while avoiding spicy and high-fiber foods. Regular exercise was recommended to aid in his recovery and improve overall health.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for colorectal cancer depends on the stage at diagnosis, treatment response, and patient's overall health status. Regular monitoring for early detection of recurrence is essential. Mr. Mccauley will be closely monitored for ongoing health issues such as hypertension, diabetes mellitus, and COPD.
+
+Final Remarks:
+	Dr. Dr. Rodriguez commends Mr. Mccauley's resilience and cooperation throughout his treatment journey. The report is signed by Dr. Dr. Rodriguez on 05/01/2023 and Carissa Mccauley on 06/01/2023, validating the completion of care.

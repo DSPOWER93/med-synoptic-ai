@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joy Olsen
+	•Date of Birth: 01/02/1980
+	•Medical Record Number: M136
+	•Date of Admission: 08/01/2022
+	•Date of Discharge: 09/15/2022
+	•Attending Physician: Dr. Clara Burrough
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Joy Olsen presented to the emergency department with a four-week history of hematuria, dysuria, and frequent urination. Initial assessment revealed a distended abdomen and tenderness over the lower abdomen. Subsequent diagnostic investigations included an ultrasound, a computed tomography (CT) scan, and a cystoscopy, which confirmed the presence of a bladder tumor. The extent of the disease was determined to be stage Joy Olsen, with evidence of local invasion and regional lymph node involvement.
+
+Medical History:
+	Joy Olsen has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2015 due to renal cell carcinoma. His father died from colorectal cancer at the age of 65. John has a known allergy to penicillin and sulfa drugs. Prior to admission, he was taking metformin, ramipril, albuterol, ipratropium, and tiotropium.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of Olsen. CT scan showed a large, irregular mass in the bladder with invasion into the muscularis propria and multiple enlarged lymph nodes. Blood tests revealed elevated creatinine levels, indicative of renal dysfunction, possibly due to the tumor compression on the ureters.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Joy Olsen. This included radical cystectomy with ileal conduit creation followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, nutritional support, antibiotics to prevent urinary tract infections, and fluid management to maintain adequate hydration.
+
+Hospital Course:
+	Joy Olsen underwent a successful radical cystectomy with ileal conduit creation on August 10th, 2022. The post-operative period was complicated by anastomotic leakage, requiring surgical intervention. After stabilization, he started adjuvant chemotherapy with MVAC regimen (methotrexate, vinblastine, doxorubicin, and cisplatin) on September 1st, 2022. Concurrent radiation therapy was initiated on the same day.
+
+Follow-Up Plan:
+	Joy Olsen will undergo a follow-up CT scan in three months to assess for disease recurrence or progression. He will continue taking metformin (for diabetes) and tiotropium (for COPD). Lifestyle modifications include smoking cessation, a balanced diet, and regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, changes in urine color or consistency, or difficulty urinating.
+
+Patient Education:
+	Joy Olsen and his family were educated about the importance of post-surgical care, including proper management of the ileal conduir, recognition of signs of complications such as obstruction or infection, and management of common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Joy Olsen was discharged with instructions to continue his oral medications, maintain a high fluid intake, avoid heavy lifting, and perform gentle exercises as tolerated. He was also instructed on wound care practices, including dressing changes and signs of infection.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence or progression of Olsen. Joy Olsen will need to undergo regular cystoscopies and imaging studies. Managing ongoing health issues such as hypertension, diabetes, and COPD will also be crucial in his long-term prognosis.
+
+Final Remarks:
+	The attending physician, Dr. Clara Burrough, commends Joy Olsen for his courage and resilience throughout the treatment journey. She emphasizes the importance of adhering to the post-discharge instructions for continued recovery and health maintenance. Both the physician's and patient's signatures are affixed, validating this report on September 15th, 2022.

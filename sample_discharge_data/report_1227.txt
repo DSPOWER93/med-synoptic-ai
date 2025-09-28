@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Francisco Ebert
+	•Date of Birth: 07/15/1970
+	•Medical Record Number: M1227
+	•Date of Admission: 01/10/2023
+	•Date of Discharge: 02/14/2023
+	•Attending Physician: Dr. Peter Brown
+	•Primary Diagnosis: Bladder Cancer (T2N0M0) with partial cystectomy and ileal conduit formation
+
+Reason for Admission:
+	Francisco Ebert was admitted to the hospital on January 10, 2023, due to persistent hematuria and lower abdominal pain. An initial urine analysis showed traces of blood, prompting a series of investigations including computed tomography (CT) scans and cystoscopy. The findings revealed a T2N0M0 bladder tumor that required surgical intervention.
+
+Medical History:
+	Mr. Ebert has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), all of which were well-controlled with prescribed medications. He underwent a cholecystectomy in 2015 due to gallstones. His father died from lung cancer at the age of 63, and his mother has type 2 diabetes mellitus. Mr. Ebert is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	A CT scan revealed a 4.5 cm mass in the bladder, with no evidence of metastasis or lymph node involvement. Pathology reports confirmed the diagnosis of urothelial carcinoma. Blood tests showed elevated levels of creatinine and hemoglobin (indicating potential kidney dysfunction).
+
+Treatment Plan:
+	After consultation with a multidisciplinary team, a partial cystectomy with ileal conduit formation was recommended for Mr. Ebert. Post-operative care included pain management, wound care, and nutritional support. He was also initiated on a four-cycle chemotherapy regimen (Gemcitabine and Cisplatin) to reduce the risk of recurrence. Given his age and comorbidities, radiation therapy was not recommended.
+
+Hospital Course:
+	Mr. Ebert's recovery from surgery was uneventful, with minimal complications. He received physical therapy to aid in his mobility and pain management. During his stay, he also received nutritional support due to temporary loss of appetite. His kidney function improved gradually during the hospital course.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Ebert was scheduled for follow-up appointments with his oncologist and urologist every three months for the first year, then semi-annually thereafter. He will continue to take prescribed medications for his comorbidities. A low-salt, low-fat diet is recommended to support kidney health.
+
+Patient Education:
+	Mr. Ebert and his family were educated about post-surgical care, including ileal conduit management and recognizing signs of complications such as infection or obstruction. They were also informed about managing common side effects of chemotherapy, such as nausea, fatigue, and nephrotoxicity.
+
+Discharge Instructions:
+	Mr. Ebert was provided with detailed discharge instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his urine output and report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	While the prognosis for Mr. Ebert is good given the early stage of his cancer, regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension, diabetes mellitus type 2, and COPD are essential.
+
+Final Remarks:
+	Dr. Peter Brown expressed her satisfaction with Mr. Ebert's resilience and cooperation throughout the treatment journey. She emphasized the importance of regular follow-ups to ensure continued health and recovery. Both the patient and attending physician have signed this report on February 14, 2023.

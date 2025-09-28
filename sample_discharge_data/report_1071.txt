@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Talley
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1071
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Adelaida Braun
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Talley was admitted to our facility following a positive fecal occult blood test and colonoscopy, which revealed an invasive adenocarcinoma in the descending colon. The tumor had obstructed the lumen, leading to symptoms of abdominal pain, distension, and constipation. Subsequent imaging studies, including a CT scan and MRI, confirmed the presence of a large, locally advanced tumor with regional lymph node involvement.
+
+Medical History:
+	Mr. Talley has a significant medical history. He was diagnosed with hypertension at age 40 and has been managed on a combination of medications since then. In addition, he has been living with type II diabetes for the past ten years and requires insulin therapy. Mr. Talley also suffers from chronic obstructive pulmonary disease (COPD), which is exacerbated by his smoking history. He underwent a cholecystectomy in 2015 due to gallstones. He has no known allergies and was taking several medications before admission, including metformin, lisinopril, hydrochlorothiazide, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Upon admission, laboratory results showed elevated levels of carcinoembryonic antigen (CEA) at 12.5 ng/mL (normal range < 5.0 ng/mL), as well as anemia with a hemoglobin level of 9.8 g/dL (normal range 13.5-17.5 g/dL). Pathology report from the surgical resection confirmed a moderately differentiated adenocarcinoma, and immunohistochemistry showed positivity for CEA, carcinoembryonic antigen-related cell adhesion molecule (CEACAM), and mucin 2 (MUC2). Imaging studies revealed multiple enlarged lymph nodes in the mesocolon and along the aorta.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Talley. This included a low anterior resection with anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, anti-embolism stockings, and early mobilization. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) every two weeks for a total of 12 cycles. Radiation therapy was delivered in daily fractions over a period of five weeks.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Mr. Talley will return for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue on metformin and lisinopril but adjust insulin as necessary based on blood glucose levels. A low-fiber diet with increased fluids is recommended to minimize constipation. A registered dietitian will provide more specific guidance. Smoking cessation counseling is advised due to his COPD exacerbations.
+
+Patient Education:
+	Prior to discharge, Mr. Talley and his family were educated about the importance of adherence to medications, early detection of complications (such as fever, abdominal pain, or changes in bowel habits), and management of common side effects like nausea, diarrhea, and fatigue. Instructions on post-surgical care of the ileal conduit, including irrigation techniques and signs of complications, were also provided.
+
+Discharge Instructions:
+	Mr. Talley was discharged with a supply of pain medication, anti-embolism stockings, and written instructions regarding wound care practices, hydration, and physical activity guidelines. He was advised to contact his primary care provider if he experiences any concerning symptoms or has questions about his medications.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Talley is guarded given the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues, such as hypertension and diabetes, will be crucial to optimizing his long-term outcome.
+
+Final Remarks:
+	Mr. Talley has demonstrated remarkable resilience throughout this challenging journey. We are confident that he will continue to cooperate with the recommended follow-up plan, leading to a favorable prognosis. We wish him all the best in his recovery and look forward to seeing him again soon.

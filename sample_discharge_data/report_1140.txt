@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Misty Small
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1140
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 15-01-2022
+	•Attending Physician: Dr. Jay Mccreery
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC), Bladder Cancer
+
+Reason for Admission:
+	Mr. Small presented with hematuria (blood in urine) and dysuria (painful urination) lasting over a week. Upon initial assessment, his symptoms were severe, indicating potential bladder cancer. Further investigations including cystoscopy, biopsy, and CT scan confirmed the diagnosis of TCC.
+
+Medical History:
+	Mr. Small has a past medical history significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and benign prostatic hyperplasia (BPH). He underwent a left total knee replacement surgery in 2015. His family history is notable for colon cancer in his father and breast cancer in his mother. Mr. Small has a known allergy to penicillin. Prior to admission, he was taking metformin, lisinopril, albuterol, tiotropium, and finasteride.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of TCC with muscularis invasion (T2). CT scan revealed a 5cm mass in the bladder body and hydronephrosis in the left kidney. Blood tests showed elevated creatinine, suggesting renal impairment.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Small. He underwent a radical cystectomy with ileal conduit diversion and pelvic lymph node dissection on 07-01-2022. Post-operative care included wound management, pain control, and antibiotic therapy to prevent urinary tract infections. He was started on a standard adjuvant chemotherapy regimen (MVAC) consisting of methotrexate, vinblastine, doxorubicin, and cisplatin, with four cycles planned. Radiation therapy was deferred due to his renal impairment and the need for further monitoring of creatinine levels.
+
+Hospital Course:
+	Mr. Small's initial recovery from surgery was smooth. However, he developed an urinary tract infection on day 7 post-surgery, which was managed promptly with antibiotics. Throughout his hospital stay, he received nutritional support and physical therapy to aid his recovery. He also participated in counseling sessions to help him cope with the emotional aspects of his diagnosis and treatment.
+
+Follow-Up Plan:
+	Mr. Small will have follow-up appointments every 3 months for the first year, then every 6 months thereafter. He will continue the adjuvant chemotherapy as planned. Lifestyle modifications include quitting smoking, maintaining a healthy diet, and staying physically active. Warning signs such as fever, increased pain, or changes in urinary habits require immediate medical attention.
+
+Patient Education:
+	Mr. Small and his family were educated about his diagnosis, treatment options, and post-surgical care. They were instructed on how to manage the ileal conduit, recognizing signs of complications, and managing common side effects like nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Small was given clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to contact his healthcare provider for any concerns or questions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Small's long-term health. He is encouraged to maintain a positive attitude and continue cooperating with his treatment plan.
+
+Final Remarks:
+	Dr. Mccreery commends Mr. Small for his resilience and cooperation throughout the treatment journey. She encourages him to stay hopeful and optimistic, emphasizing that regular follow-ups will ensure the best possible outcome. The report is signed by Dr. Jay Mccreery (Attending Physician) and Misty Small (Patient) on 15-01-2022.

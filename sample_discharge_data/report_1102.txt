@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Barbara Fletcher
+	•Date of Birth: Date of Birth
+	•Medical Record Number: M1102
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Megan Millerd
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient was admitted to the hospital due to persistent hematuria, or blood in the urine, over a period of two weeks. Upon initial assessment, the patient reported increased urgency and frequency of urination. A series of diagnostic tests, including cystoscopy, computed tomography (CT) scan, and urinalysis, were conducted to confirm the diagnosis of TCC of the bladder. The tumor was found to be moderately invasive, with a diameter of approximately 3 cm.
+
+Medical History:
+	The patient has a history of hypertension and COPD, for which they have been on long-term medication therapy. They have no known allergies and no significant family history of cancer. Prior to admission, the patient was taking metoprolol, inhaled bronchodilators, and insulin for their respective conditions.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of TCC in the bladder tissue. CT scan findings showed no evidence of distant metastasis, but indicated a moderately large localized tumor. Blood tests revealed mild anemia and elevated creatinine levels, indicating potential kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. The primary intervention was a radical cystectomy with ileal conduit formation. Post-operative care included management of pain, wound care, and prevention of infection. The patient underwent six cycles of chemotherapy (GCB) to reduce the risk of recurrence. Radiation therapy was not deemed necessary due to the absence of distant metastasis.
+
+Hospital Course:
+	The initial recovery period following surgery was challenging for the patient, as they experienced post-operative pain, nausea, and fatigue. However, with aggressive pain management, nutritional support, and physical therapy, the patient's condition began to stabilize. Regular follow-ups with the urology team and nephrologist were crucial in managing the patient's kidney function.
+
+Follow-Up Plan:
+	The post-discharge plan includes scheduled outpatient appointments with the urologist, oncologist, and nephrologist. The patient will continue to take metoprolol and insulin, but adjustments may be made based on their recovery progress. A low-sodium, high-protein diet is recommended for kidney health. The patient should report any signs of infection, increased pain, or changes in urine color immediately.
+
+Patient Education:
+	The patient and family were educated about the post-surgical care of the ileal conduit, including cleaning procedures and potential complications such as blockages or leaks. They were also taught how to recognize signs of infection and manage common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	The patient was provided with detailed discharge instructions, emphasizing the importance of medication adherence, wound care practices, maintaining hydration, and gradually increasing physical activity under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient will need to manage ongoing health issues such as hypertension and COPD, while also being vigilant for any signs of kidney dysfunction.
+
+Final Remarks:
+	The attending physician acknowledges the patient's resilience throughout their treatment journey and expresses gratitude for their cooperation. Both the physician and patient have signed this report on the date of discharge, validating its completion.

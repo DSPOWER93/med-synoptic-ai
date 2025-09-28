@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Cliff Depuy
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1251
+	•Date of Admission: 06/10/2022
+	•Date of Discharge: 14-11-2022
+	•Attending Physician: Dr. Dr. Johnson
+	•Primary Diagnosis: Pancreatic Cancer, Stage IIIA
+
+Reason for Admission:
+	Mr. Depuy was admitted to the hospital due to worsening abdominal pain and jaundice. The initial assessment revealed a distended abdomen with tenderness in the epigastric region, and yellowing of the skin and eyes. Diagnostic investigations included an ultrasound, CT scan, MRI, and endoscopic retrograde cholangiopancreatography (ERCP), which collectively confirmed the diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Depuy has a history of hypertension, diagnosed in 2015, for which he was on regular medication. He was also diagnosed with type II diabetes in 2017 and is currently managed with oral hypoglycemics. He underwent a left total knee replacement surgery in 2019 due to osteoarthritis. His family has a history of pancreatic cancer, with his father diagnosed and passing away from the disease in 2010. Mr. Depuy is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology reports confirmed a moderately differentiated adenocarcinoma of the pancreas. Imaging scans revealed a 4cm mass in the pancreatic head with regional lymph node involvement. Blood tests showed elevated levels of CA19-9 and CEA markers, indicating pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Depuy. This included a Whipple procedure followed by adjuvant chemotherapy with FOLFIRINOX (Folinic acid, 5-Fluorouracil, Irinotecan, and Oxaliplatin) and concurrent radiation therapy. The patient underwent the surgery successfully, and post-operative care was provided to manage complications such as anastomotic leakage, delayed gastric emptying, and pancreatic fistula.
+
+Hospital Course:
+	Mr. Depuy's initial recovery from surgery was challenging due to complications mentioned above. However, with aggressive management by the surgical team, he gradually improved and was able to commence chemotherapy on schedule. He received 6 cycles of FOLFIRINOX, with significant side effects including nausea, vomiting, diarrhea, and fatigue. Radiation therapy was initiated after the fourth cycle to improve local control. Nutritional support was provided through enteral feeding, and his diabetes was carefully managed.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Depuy will be scheduled for regular outpatient appointments every three months for the first year, then six-monthly thereafter. His medications will continue, with close monitoring of his blood sugar levels and potential side effects from chemotherapy. A healthy diet low in fat and high in protein is recommended, along with regular exercise. Warning signs requiring immediate medical attention include fever, severe abdominal pain, persistent vomiting, or unexplained weight loss.
+
+Patient Education:
+	Mr. Depuy was educated about the ileal conduit, its function, and care. Instructions were provided on managing potential complications such as obstruction, leakage, or infection. He was also taught how to recognize signs of side effects from chemotherapy and when to seek medical attention.
+
+Discharge Instructions:
+	Upon discharge, Mr. Depuy was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, maintain good personal hygiene around the surgical site, drink at least 2 liters of fluid daily, and gradually increase physical activity levels under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Depuy's case. He was counseled on the importance of maintaining a healthy lifestyle, attending all scheduled appointments, and promptly reporting any concerning symptoms to his healthcare providers.
+
+Final Remarks:
+	Dr. Johnson expressed her gratitude for Mr. Depuy's resilience throughout his treatment journey. She emphasized that while the road ahead may be challenging, with continued cooperation from Mr. Depuy, there is hope for a positive outcome. Both the physician and patient signed the report to validate its authenticity on 14-11-2022.

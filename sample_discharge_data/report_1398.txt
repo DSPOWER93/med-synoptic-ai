@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Billy Brown
+	•Date of Birth: 03/12/1980
+	•Medical Record Number: M1398
+	•Date of Admission: 04/15/2023
+	•Date of Discharge: 05/20/2023
+	•Attending Physician: Dr. Traci Otero
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Brown presented to the emergency department with symptoms of abdominal pain, rectal bleeding, and unexplained weight loss over a period of several weeks. Upon initial assessment, he was found to be weak, dehydrated, and had signs of anemia. Subsequent investigations including laboratory tests, colonoscopy, and CT scan revealed a large mass in the descending colon with lymph node involvement.
+
+Medical History:
+	Mr. Brown has a history of hypertension, diabetes mellitus type 2, and Chronic Obstructive Pulmonary Disease (COPD). He had undergone appendectomy in 2012 and cholecystectomy in 2018. His family history is significant for colorectal cancer, with his father diagnosed at the age of 65. Mr. Brown is allergic to penicillin and has been on a regular regimen of metformin, lisinopril, and salmeterol/fluticasone before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma in the colon. Imaging studies showed a large mass in the descending colon with regional lymph node involvement, as well as liver metastases. Blood tests revealed anemia (Hb 9 g/dL), elevated CEA level (12 ng/mL), and positive carcinoembryonic antigen (CEA) in the stool sample.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Brown. He underwent an open right hemicolectomy with primary anastomosis and lymph node dissection on April 20, 2023. Post-operative care included management of pain, prevention of thrombosis, and maintenance of bowel function. A course of adjuvant chemotherapy was initiated, consisting of FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for 12 cycles. Given the liver metastases, radiation therapy to the liver was also considered.
+
+Hospital Course:
+	Mr. Brown's initial recovery from surgery was uneventful, but he developed a post-operative ileus on day 4 which required nasogastric suction and bowel rest. He was discharged to the cancer rehabilitation unit for further management of his colorectal cancer and comorbidities. His first cycle of chemotherapy was administered on May 5, 2023. Throughout his hospital stay, Mr. Brown demonstrated resilience and cooperation, adhering well to his treatment plan and nutritional support.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Brown will continue his chemotherapy regimen as scheduled. He is advised to maintain a low-fiber diet to prevent bowel obstruction and manage symptoms related to the ileal conduit. Regular follow-up appointments are scheduled for monitoring of disease progression and early detection of recurrence. Lifestyle modifications such as smoking cessation, regular exercise, and balanced diet are recommended.
+
+Patient Education:
+	Mr. Brown and his family were educated about the importance of regular follow-ups, recognizing signs of complications like bowel obstruction or perforation, and managing common side effects of chemotherapy such as nausea, vomiting, and fatigue. Instructions on post-surgical care, management of the ileal conduit, and proper wound care were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Brown was given a detailed written plan regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to report any unusual symptoms immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Brown's long-term outlook. The prognosis for patients with Stage III colorectal cancer is generally favorable, especially with adjuvant chemotherapy and close follow-up.
+
+Final Remarks:
+	This report concludes the treatment journey of Billy Brown for his colorectal cancer. Mr. Brown demonstrated resilience and cooperation throughout his hospital stay, and we wish him a speedy recovery and good health in the future. Sincerely, Dr. Traci Otero. [Date] Billy Brown's Signature Dr. Traci Otero's Signature

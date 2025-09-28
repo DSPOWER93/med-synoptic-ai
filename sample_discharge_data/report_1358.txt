@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rosa Abdullah
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1358
+	•Date of Admission: 12/03/2021
+	•Date of Discharge: 04/04/2021
+	•Attending Physician: Dr. Juanita Sullivan
+	•Primary Diagnosis: Stage III Colorectal Cancer (T4N2M1)
+
+Reason for Admission:
+	Upon presentation to the emergency department, Rosa Abdullah complained of severe abdominal pain and a change in bowel habits for approximately two months. Initial assessment revealed signs of obstruction, including distension, tenderness, and palpable mass in the lower abdomen. Following a series of diagnostic tests, including computerized tomography (CT) scan, barium enema, and colonoscopy, the diagnosis of Rosa Abdullah colorectal cancer was confirmed. The tumor had invaded the peritoneum (T4), with regional lymph node involvement (N2) and distant metastasis to the liver (M1).
+
+Medical History:
+	Rosa Abdullah has a history of hypertension, managed with medication, and asthma. He underwent an appendectomy in 2007 due to appendicitis. His family history is significant for colorectal cancer, as his father was diagnosed at the age of 65. Allergic to penicillin and iodine-based contrast agents, John was taking aspirin daily for hypertension control before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of adenocarcinoma in the right colon, with lymphovascular invasion and positive margins. CT scans revealed a large tumor in the right colon, several enlarged lymph nodes, and multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Rosa Abdullah, consisting of surgery, chemotherapy, radiation therapy, and supportive care. A right hemicolectomy was performed to remove the tumor, followed by an ileoanal anastomosis and the formation of an ileal conduit. Post-operative care included antibiotics for infection prevention and management of post-surgical pain. The chemotherapy regimen included FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) every two weeks for a total of 12 cycles, with careful monitoring for side effects such as neutropenia, diarrhea, and peripheral neuropathy. Radiation therapy was considered for the liver metastases, but due to the number and size of the lesions, it was deemed less effective and potentially harmful.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Rosa Abdullah will return for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue on oral chemotherapy (Capecitabine) for one year. Lifestyle recommendations include maintaining a healthy diet, avoiding alcohol, and quitting smoking if applicable. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	Rosa Abdullah and his family were provided with detailed education about the treatment options, post-surgical care of the ileal conduit, managing potential complications, and common side effects of chemotherapy. They were also advised on the importance of follow-up appointments for early detection of recurrence.
+
+Discharge Instructions:
+	Rosa Abdullah was provided with clear discharge instructions, including medication adherence, wound care practices, maintaining adequate hydration, and guidelines for physical activity. He was instructed to report any concerns or complications promptly to his healthcare provider.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Rosa Abdullah's long-term survival. Maintaining a healthy lifestyle, attending follow-up appointments, and adhering to the prescribed treatment regimen will improve his chances of successful management of the disease.
+
+Final Remarks:
+	Dr. Sullivan would like to acknowledge Rosa Abdullah's resilience and cooperation throughout his treatment journey. The report is signed by Dr. Juanita Sullivan, M.D., on April 4, 2021.

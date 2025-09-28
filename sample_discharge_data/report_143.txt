@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marilyn Rivera
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M143
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/02/2023
+	•Attending Physician: Dr. Irene Wilson
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIB
+
+Reason for Admission:
+	Mr. Rivera presented to the emergency department with a two-week history of abdominal pain, weight loss, and changes in bowel habits. The initial assessment revealed a tender, distended abdomen with signs of obstruction. Further investigation included an abdominopelvic computed tomography (CT) scan, which confirmed the presence of a large mass in the sigmoid colon and evidence of obstruction. A follow-up colonoscopy confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Rivera has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 due to gallstones. His family history is significant for colorectal cancer and breast cancer. Mr. Rivera was allergic to penicillin and sulfa drugs. He was on several medications before admission, including metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the sigmoid colon with evidence of obstruction and multiple liver lesions suggestive of metastasis. The pathology report confirmed adenocarcinoma of the sigmoid colon. Blood tests showed elevated carcinoembryonic antigen (CEA) levels, anemia, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rivera. This included a laparoscopic sigmoid colectomy followed by an ileo-anal anastomosis (J-pouch procedure) and a permanent ostomy bag placement due to the extensive involvement of the tumor. Post-operative care involved pain management, antibiotics for infection prevention, and nutritional support. Mr. Rivera was also initiated on adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, 5-fluorouracil) with a cycle length of every two weeks. The decision to administer radiation therapy will be made post-chemotherapy assessment.
+
+Hospital Course:
+	Mr. Rivera underwent the scheduled surgery without complications. The initial recovery was challenging due to post-operative ileus and electrolyte imbalances, which were managed with appropriate interventions. As his condition improved, he began a rehabilitation program focusing on strength and mobility exercises. He also received nutritional counseling and therapy to manage his underlying conditions.
+
+Follow-Up Plan:
+	The follow-up plan includes regular oncology appointments every three months for the first year, then every six months thereafter. Mr. Rivera will continue with the FOLFOX chemotherapy as per schedule. He should maintain a healthy diet, low in fiber to prevent blockages and maintain a balanced weight. Warning signs such as fever, abdominal pain, changes in bowel habits, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	Mr. Rivera was educated about the importance of maintaining his J-pouch and the management of potential complications, including proper cleaning techniques, identifying signs of infection, and when to seek medical assistance. He was also informed about common side effects of chemotherapy and strategies for managing them.
+
+Discharge Instructions:
+	Mr. Rivera was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his blood sugar levels closely due to diabetes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential, as well as managing ongoing health issues related to hypertension, diabetes, and COPD.
+
+Final Remarks:
+	We commend Mr. Rivera on his resilience throughout this challenging journey and appreciate his cooperation in adhering to the treatment plan. We look forward to seeing him at his follow-up appointments and wish him a speedy recovery.

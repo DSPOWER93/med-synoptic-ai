@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Pamela Price
+	•Date of Birth: 03/15/1978
+	•Medical Record Number: M1261
+	•Date of Admission: 01/05/2022
+	•Date of Discharge: 02/12/2022
+	•Attending Physician: Dr. Lilly Harris
+	•Primary Diagnosis: Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Pamela Price was admitted to our facility following a series of symptoms that included abdominal pain, unexplained weight loss, and altered bowel habits. Initially, he was assessed by his primary care physician who ordered a comprehensive series of diagnostic tests, including a colonoscopy and CT scan. These investigations revealed a large tumor in the colon, as well as multiple liver metastases.
+
+Medical History:
+	Pamela Price has a history of hypertension and type 2 diabetes, both of which were well-controlled prior to his admission. He also had a past surgical history, with an appendectomy performed in 1998. His family history was significant for colon cancer in his father at the age of 65. He did not report any known allergies and was taking metformin and amlodipine before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed a moderately differentiated adenocarcinoma of the colon. Imaging studies showed multiple liver lesions, some of which were deemed resectable. Blood tests revealed anemia and elevated CEA levels, consistent with his cancer stage.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Price. This included a partial colectomy, followed by chemotherapy and radiation therapy to the liver metastases. Post-operative care was essential in managing complications such as anastomotic leaks and wound infections. The chemotherapy regimen consisted of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) with cycles every two weeks, along with antiemetics to manage side effects.
+
+Hospital Course:
+	Mr. Price underwent a successful partial colectomy on January 10, 2022. The initial recovery was challenging due to post-operative complications such as anastomotic leak and wound infection, requiring additional surgical intervention and antibiotics. Throughout his hospital stay, he received extensive nutritional support and physical therapy to aid in his overall recovery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Price was scheduled for regular outpatient appointments with his oncologist and surgeon. He will continue with the FOLFOX regimen for six cycles, followed by a scan to assess tumor response. Lifestyle recommendations include maintaining a healthy diet, engaging in regular exercise, and avoiding alcohol and tobacco.
+
+Patient Education:
+	Mr. Price and his family were provided extensive education about his condition, treatment options, and post-surgical care. This included instructions on managing the ileal conduit, recognizing signs of complications such as bleeding or obstruction, and strategies for managing common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Price was given detailed medication instructions to ensure adherence to his prescribed regimen. Wound care practices were explained in detail, including hydration, dressing changes, and signs of infection. Physical activity guidelines were provided, emphasizing the importance of gradual resumption of activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with colorectal cancer depends on several factors, including tumor stage and response to treatment. Regular monitoring is crucial in early detection of recurrence and managing ongoing health issues.
+
+Final Remarks:
+	Mr. Price has shown remarkable resilience throughout his treatment journey, cooperating fully with the medical team. We are confident that he will continue to respond positively to therapy and return to a good quality of life. I am pleased to discharge him in stable condition, and we look forward to his regular follow-ups.

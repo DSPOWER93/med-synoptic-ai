@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: King Wasmer
+	•Date of Birth: 12/09/1985
+	•Medical Record Number: M1161
+	•Date of Admission: 07/05/2023
+	•Date of Discharge: 15/06/2023
+	•Attending Physician: Dr. John Doyle
+	•Primary Diagnosis: Urothelial Cell Carcinoma (UCC) of the bladder with muscle invasion
+
+Reason for Admission:
+	King Wasmer presented to our emergency department with hematuria (blood in urine), dysuria (painful urination), and frequent urge to urinate, which had persisted for over a week. Upon initial assessment, his abdomen was tender on palpation, and a digital rectal exam revealed a mass. Laboratory tests showed an elevated white blood cell count (WBC 15,000/mm³) and creatinine level (2.0 mg/dL). A computed tomography scan of the abdomen and pelvis confirmed the presence of a large bladder tumor with invasion into the muscular layer.
+
+Medical History:
+	Mr. Wasmer has a past medical history significant for hypertension, controlled on lisinopril 20 mg daily, hyperlipidemia, and chronic obstructive pulmonary disease (COPD) managed with fluticasone/salmeterol inhaler. He has no known allergies and takes no other regular medications.
+
+Diagnostic Findings:
+	Pathology findings from the transurethral resection of bladder tumor (TURBT) showed high-grade urothelial carcinoma. The CT scan revealed a 5 cm mass arising from the posterior wall of the bladder with invasion into the muscularis propria, and multiple enlarged lymph nodes in the retroperitoneum and external iliac chain.
+
+Treatment Plan:
+	A multidisciplinary team meeting was held to discuss Mr. Wasmer's case. The consensus was that he would undergo radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy. Post-operative care included close monitoring for complications such as wound infection, urine leakage, and electrolyte imbalances.
+
+Hospital Course:
+	Mr. Wasmer underwent a successful radical cystectomy on 08/06/2023. The postoperative period was complicated by a prolonged ileus, requiring nasogastric tube suction and eventual insertion of a jejunostomy tube for enteral feedings. His WBC count gradually decreased, and he was discharged on solid foods.
+
+Follow-Up Plan:
+	Mr. Wasmer is scheduled for follow-up appointments in two weeks, three months, and six months post-discharge. He will continue to take the lisinopril and receive adjuvant chemotherapy (gemcitabine and cisplatin) according to the oncologist's schedule. A low-fat diet is recommended for his hyperlipidemia management, and smoking cessation counseling is advised due to his history of COPD.
+
+Patient Education:
+	Mr. Wasmer was educated about the ileal conduit, its function, and the importance of maintaining a sterile collection bag to prevent contamination. He was also informed about signs of complications such as fever, pain, or foul-smelling drainage from the stoma site. Common side effects of adjuvant chemotherapy were discussed, including nausea, vomiting, and nephrotoxicity.
+
+Discharge Instructions:
+	Upon discharge, Mr. Wasmer was provided with instructions on medication adherence, wound care practices (dressing changes, cleaning the area), and hydration guidelines (8 cups of water per day unless contraindicated). Physical activity recommendations included avoiding heavy lifting or strenuous exercise for at least six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Mr. Wasmer was informed about the importance of regular follow-up appointments for early detection of recurrence, as well as monitoring for ongoing health issues such as hypertension and COPD.
+
+Final Remarks:
+	Dr. Doyle commends Mr. Wasmer on his resilience throughout the treatment journey and acknowledges the cooperative role he played in achieving the best possible outcome. The attending physician's signature, patient's signature, and date are included to validate the report.

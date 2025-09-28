@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carol Bartley
+	•Date of Birth: 03/12/1975
+	•Medical Record Number: M1119
+	•Date of Admission: 01/08/2022
+	•Date of Discharge: 02/28/2022
+	•Attending Physician: Dr. Eldon Walker
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	The patient, Mr. Carol Bartley, was admitted to our institution on January 8, 2022, due to persistent abdominal pain and a change in bowel habits observed over the past month. Upon admission, he underwent a series of diagnostic tests, including a CT scan and colonoscopy, which revealed a tumor in the ascending colon. Given the severity of symptoms and test results, a biopsy was performed, confirming the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Bartley has a history of hypertension, for which he is currently managed with Lisinopril 20mg daily. He also has a family history of colon cancer, as his father died from the disease at the age of 65. The patient has no known allergies and was not on any specific medications before admission.
+
+Diagnostic Findings:
+	Pathology findings confirmed the presence of adenocarcinoma in the ascending colon. Imaging scans showed that the tumor had invaded the muscularis propria, but had not yet spread to nearby lymph nodes or other organs, classifying it as Stage III colorectal cancer. Blood tests revealed anemia and elevated CEA levels, both indicative of the presence of cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Bartley. This included a partial colectomy, where the affected section of the colon was removed, followed by the creation of an ileal conduit to facilitate waste removal. The patient also received post-operative care, including pain management, wound care, and nutritional support. In addition, he underwent six cycles of FOLFOX chemotherapy, a common regimen for colorectal cancer, to destroy any remaining cancer cells. Due to the extent of the tumor, radiation therapy was also considered necessary.
+
+Hospital Course:
+	Mr. Bartley's recovery from surgery was initially challenging due to complications related to anemia and wound healing. However, with the support of our dedicated nursing staff, physical therapy team, and dietitians, he made significant progress. Regular check-ups with the oncology team ensured that his cancer was managed effectively throughout his stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Bartley will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue to take Capecitabine orally as an adjuvant therapy to reduce the risk of recurrence. A low-fiber diet and increased fluid intake are recommended to ease the function of his ileal conduit. Any signs of complications, such as fever, abdominal pain, or changes in bowel habits, should be reported immediately.
+
+Patient Education:
+	The patient and his family were provided with detailed instructions on post-surgical care, including wound care practices, medication adherence, hydration guidelines, and physical activity recommendations. They were also educated about the signs of potential complications and how to manage common side effects of chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bartley was provided with detailed written instructions on his medication regimen, wound care practices, hydration, and physical activity guidelines. He was also advised to monitor his health closely and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Bartley's long-term survival. Maintaining a healthy lifestyle, including regular exercise, a balanced diet, and stress management, will also contribute to his overall health and wellbeing.
+
+Final Remarks:
+	In conclusion, Carol Bartley has demonstrated remarkable resilience throughout his treatment journey. His cooperation and adherence to the prescribed regimen have significantly contributed to his successful recovery. We are confident that with continued follow-up care, Mr. Bartley will continue to thrive in the coming months and years.

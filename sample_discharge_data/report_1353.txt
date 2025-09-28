@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Lossett
+	•Date of Birth: 01/10/1980
+	•Medical Record Number: M1353
+	•Date of Admission: 03/12/2023
+	•Date of Discharge: 05/06/2023
+	•Attending Physician: Dr. Virginia Lopez
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Robert Lossett, was admitted to the hospital after presenting with symptoms of abdominal pain, weight loss, and rectal bleeding. Upon initial assessment, his vital signs were unstable, with a low hemoglobin level indicating possible blood loss. Further investigations, including CT scans and colonoscopy, confirmed the presence of a large tumor in the descending colon.
+
+Medical History:
+	Mr. Lossett has a history of hypertension, diagnosed in 2015, for which he is currently on medication. He also has been diagnosed with diabetes mellitus type II since 2018 and is managed with oral medications. Additionally, he has Chronic Obstructive Pulmonary Disease (COPD), a condition that was diagnosed in 2019 and is controlled through inhalers. He has no known allergies and was taking multiple medications before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of adenocarcinoma in the colon, while the CT scan revealed a large tumor in the descending colon with metastases to nearby lymph nodes. Blood tests showed anemia due to blood loss and elevated levels of carcinoembryonic antigen (CEA), a marker for colon cancer.
+
+Treatment Plan:
+	Mr. Lossett underwent a colectomy, followed by creation of an ileal conduit. He was then administered adjuvant chemotherapy consisting of six cycles of FOLFOX regimen to reduce the risk of recurrence. Radiation therapy was not deemed necessary in this case due to the extent of surgical resection and absence of distant metastases.
+
+Hospital Course:
+	Mr. Lossett's initial recovery from surgery was challenging, with complications such as wound infection requiring additional treatment. However, his resilience and cooperation throughout the hospital stay aided in his gradual improvement. He received nutritional support to aid in healing and manage his diabetes. Physical therapy played a crucial role in helping him regain strength and mobility.
+
+Follow-Up Plan:
+	Mr. Lossett will be scheduled for outpatient appointments every three months for the first year, then six-monthly thereafter. He is to continue with the prescribed medications for hypertension, diabetes, and COPD. Lifestyle changes, including a balanced diet and regular exercise, are recommended. Warning signs of recurrence or complications include increased abdominal pain, rectal bleeding, unexplained weight loss, and fever.
+
+Patient Education:
+	The patient was educated about post-surgical care, including wound care practices, managing the ileal conduit, and recognizing signs of complications. He was also instructed on managing common side effects such as diarrhea, nausea, and fatigue associated with chemotherapy.
+
+Discharge Instructions:
+	Mr. Lossett was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Lossett was advised about the importance of maintaining a healthy lifestyle to manage ongoing health issues associated with his pre-existing conditions.
+
+Final Remarks:
+	Dr. Lopez's final remarks emphasized Mr. Lossett's resilience and cooperation throughout his treatment journey. The report is signed by both the physician and the patient, validating the information provided.

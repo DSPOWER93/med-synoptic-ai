@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lauren Gierisch
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1229
+	•Date of Admission: 08/15/2022
+	•Date of Discharge: 10/31/2022
+	•Attending Physician: Dr. Jesus Martin
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Lauren Gierisch was admitted to the hospital due to increasing abdominal pain, jaundice, and weight loss over a period of six months. The initial assessment revealed that he had a palpable mass in his upper abdomen, and laboratory results showed elevated levels of CA 19-9, a tumor marker for pancreatic cancer. Subsequent imaging scans confirmed the presence of a large mass in the head of the pancreas, with evidence of regional lymph node involvement.
+
+Medical History:
+	Mr. Gierisch had a history of hypertension and COPD, which were well-controlled with medication. He had a previous surgery for appendicitis in 2013. His family history was significant for colorectal cancer in his father and brother. He was allergic to penicillin and sulfa drugs. Prior to admission, he was taking metoprolol, albuterol, and simvastatin.
+
+Diagnostic Findings:
+	The pathology report from the pancreatic biopsy confirmed a diagnosis of adenocarcinoma. CT scans showed the primary tumor measuring 5cm, with involvement of several regional lymph nodes. Positron Emission Tomography (PET) scan revealed no evidence of distant metastasis. Blood tests revealed anemia, elevated bilirubin levels, and elevated CA 19-9 levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Gierisch. He underwent a Whipple procedure (pancreaticoduodenectomy) followed by six cycles of FOLFIRINOX chemotherapy and concurrent radiation therapy to the pancreas and regional lymph nodes. The chemotherapy regimen included leucovorin, fluorouracil, irinotecan, and oxaliplatin, with appropriate management of side effects such as nausea, vomiting, and myelosuppression.
+
+Hospital Course:
+	Mr. Gierisch's recovery from the surgery was initially challenging due to complications related to anastomotic leakage, which were managed conservatively. He underwent endoscopic retrograde cholangiopancreatography (ERCP) for stent placement. His nutritional support was optimized with total parenteral nutrition (TPN), and he received occupational therapy for improved mobility.
+
+Follow-Up Plan:
+	Mr. Gierisch will continue with regular outpatient appointments, including oncology follow-ups, endocrinology for management of diabetes (a side effect of the surgery), and gastroenterology for management of his ileal conduit. He will be prescribed pancreatic enzymes for meal digestion and a low-fat diet to manage steatorrhea. His medications will be adjusted as necessary, and he will be advised to report any signs of fever, chills, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. Gierisch was educated about the importance of adhering to his medication schedule, managing his ileal conduit (including irrigation techniques), recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Mr. Gierisch was provided with clear discharge instructions regarding medication adherence, wound care practices, maintaining hydration, and engaging in light physical activity as tolerated. He was advised to seek immediate medical attention for any signs of complications.
+
+Prognosis and Long-Term Outlook:
+	Mr. Gierisch's long-term prognosis will depend on regular monitoring for early detection of recurrence. He will need to manage ongoing health issues related to his surgery, including diabetes and nutritional deficiencies.
+
+Final Remarks:
+	Dr. Martin concluded the report by expressing her appreciation for Mr. Gierisch's resilience and cooperation throughout his treatment journey. She emphasized the importance of continued follow-up care and encouraged him to maintain a positive attitude. Both Dr. Martin and Mr. Gierisch signed the report, with the date of discharge validating the document.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ashley Bravo
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M102
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Carol Byrd
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Ashley Bravo presented to the Ashley Bravo with a two-week history of abdominal pain, change in bowel habits, and unexplained weight loss. Initial assessment included physical examination, laboratory tests, and imaging studies, which revealed an obstructed colon due to a large tumor. The severity of symptoms necessitated immediate surgical intervention.
+
+Medical History:
+	Mr. Bravo has a past medical history significant for hypertension, controlled with lisinopril. He also has a 20-year history of type II diabetes mellitus managed with metformin and insulin. His family history is notable for breast cancer in his mother at age 55 and colon cancer in his paternal grandfather at age 65. The patient has no known allergies and was taking aspirin daily as a primary prevention strategy before admission.
+
+Diagnostic Findings:
+	A series of laboratory tests showed anemia (Hb 9.2 g/dL), elevated C-reactive protein (CRP 15 mg/L), and carcinoembryonic antigen (CEA) level at 10 ng/mL (normal range <5 ng/mL). Computed tomography (CT) scan of the abdomen and pelvis revealed a large mass in the transverse colon, with obstructive changes and multiple enlarged lymph nodes. Pathology report confirmed the diagnosis of adenocarcinoma of the colon.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Bravo. The patient underwent an elective right hemicolectomy with primary anastomosis, followed by 6 cycles of adjuvant chemotherapy (FOLFOX regimen). Radiation therapy was deemed unnecessary based on the post-surgical pathology report.
+
+Hospital Course:
+	Mr. Bravo's initial recovery from surgery was uneventful; however, he developed post-operative ileus requiring nasogastric tube insertion for decompression. He received supportive care, including intravenous fluids, electrolyte replacement, and pain management. A multidisciplinary team provided nutritional support and wound care. The patient's disease was closely monitored throughout the hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Bravo was scheduled for regular outpatient appointments with his oncologist and primary care physician. He will continue chemotherapy for six more cycles, followed by a CT scan to evaluate response. Lifetime colonoscopies are recommended every 3 years. The patient was advised to maintain a low-fiber diet initially and gradually reintroduce fiber as tolerated.
+
+Patient Education:
+	Mr. Bravo and his family were educated about the importance of adhering to the prescribed chemotherapy regimen, monitoring for side effects such as neutropenia and neuropathy, and recognizing signs of complications such as bowel obstruction or perforation. They were instructed on post-surgical care, including ileal conduit management, and advised to maintain a high fluid intake to prevent dehydration.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions during the recovery period. The patient was provided with educational materials and contact information for the oncology team and support services.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Bravo's long-term management. He will need to manage ongoing health issues associated with his hypertension and diabetes mellitus, as well as potential late effects from chemotherapy.
+
+Final Remarks:
+	Dr. Byrd concluded the report, expressing her appreciation for Mr. Bravo's resilience and cooperation throughout his treatment journey. She emphasized the importance of continued collaboration between the patient, family, and healthcare team in ensuring optimal outcomes. The date of validation was provided at the end of the report to confirm its authenticity.

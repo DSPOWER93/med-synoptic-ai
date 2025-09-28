@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Romeo Stone
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1244
+	•Date of Admission: 04/03/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Carl Sumbry
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Stone presented to the emergency department complaining of persistent lower abdominal pain and changes in bowel habits over the past month. The initial assessment revealed a palpable mass in the lower abdomen, as well as a positive Guaiac fecal occult blood test. Further diagnostic investigations, including a CT scan and colonoscopy, confirmed the presence of a large, invasive tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Stone has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has undergone several surgeries in the past, including an appendectomy and a cholecystectomy. His family history is significant for colorectal cancer. He is allergic to iodinated contrast dyes and penicillin. His pre-admission medications included metformin, lisinopril, salmeterol/fluticasone, and insulin.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed a poorly differentiated adenocarcinoma in the sigmoid colon, with lymphovascular invasion and perforation. The CT scan revealed multiple enlarged lymph nodes in the mesorectum, as well as liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactic dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Stone, which included a primary resection of the sigmoid colon with an ileal conduit formation, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring for complications such as anastomotic leaks and wound infections. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) every two weeks for six cycles, with appropriate management of side effects such as nausea, vomiting, and peripheral neuropathy. Radiation therapy was considered after completing the chemotherapy to reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. Stone underwent a successful sigmoid colectomy with ileal conduit formation on 04/10/2023. His post-operative recovery was initially challenging due to complications such as anastomotic leak and wound infection, which were managed through surgical debridement, antibiotics, and supportive care. He also received enteral nutrition support during this period. The role of physiotherapy and occupational therapy was crucial in helping Mr. Stone regain his strength and mobility.
+
+Follow-Up Plan:
+	Mr. Stone will be scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue with the prescribed medication, including insulin, metformin, lisinopril, and salmeterol/fluticasone. A low-fiber diet is recommended to minimize stress on the ileal conduit. Warning signs of complications include fever, abdominal pain, changes in bowel habits, and unexpected weight loss.
+
+Patient Education:
+	Mr. Stone was educated about the importance of early detection for recurrence and managing ongoing health issues related to hypertension, diabetes, and COPD. He was instructed on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as diarrhea, dehydration, and skin irritation at the stoma site.
+
+Discharge Instructions:
+	Mr. Stone was provided with detailed discharge instructions, which included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to follow up with his primary care physician for ongoing management of his comorbidities.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues. Despite the challenges faced during treatment, Mr. Stone's resilience and cooperation throughout the journey have been commendable. The prognosis for stage III colorectal cancer is relatively favorable with aggressive treatment and follow-up care.
+
+Final Remarks:
+	This report concludes with Dr. Carl Sumbry's final remarks, emphasizing Mr. Stone's resilience throughout his treatment journey and the importance of regular monitoring for early detection of recurrence. The report is signed by Dr. Carl Sumbry and Mr. Romeo Stone on 04/20/2023.

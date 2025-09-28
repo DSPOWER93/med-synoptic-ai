@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kenneth Lovett
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M17
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 03/03/2023
+	•Attending Physician: Dr. Sybil Raio
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Lovett was admitted to our facility due to persistent abdominal pain, jaundice, and significant weight loss over a three-month period. Upon admission, his initial assessment indicated a tender mass in the upper abdomen and elevated liver enzymes. Further diagnostic investigations, including an abdominal CT scan and endoscopic ultrasound, confirmed the presence of a large tumor in the pancreas with local invasion and metastases to the liver.
+
+Medical History:
+	Mr. Lovett has a significant medical history. He was previously diagnosed with hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). In 2015, he underwent a laparoscopic cholecystectomy due to gallstone complications. Mr. Lovett also has a family history of pancreatic cancer, with his father being diagnosed in 2005 and passing away two years later. He is not known to have any allergies and was taking metformin, lisinopril, and albuterol for his chronic conditions before admission.
+
+Diagnostic Findings:
+	Pathology results from the surgical biopsy revealed a moderately differentiated adenocarcinoma of the pancreas. Blood tests indicated elevated CA 19-9 levels (250 U/mL), increased bilirubin, and abnormal liver function tests. An abdominal CT scan showed a large tumor in the head of the pancreas with local invasion and metastases to the liver.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Lovett, which included a Whipple procedure (pancreaticoduodenectomy) followed by chemotherapy and radiation therapy. Post-operative care included nutritional support via an ileal conduit. A Foley catheter was inserted during the surgery and removed ten days post-op. The chemotherapy regimen consisted of a combination of gemcitabine and nab-paclitaxel, with cycles every three weeks.
+
+Hospital Course:
+	Mr. Lovett recovered well from the surgery and was able to start oral intake on day six post-operatively. He faced challenges in managing his blood sugar levels due to the stress of surgery. Nutritional support was provided through a high-calorie diet, and insulin was adjusted as needed. The disease was managed with regular imaging studies and therapy sessions.
+
+Follow-Up Plan:
+	Mr. Lovett will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue to take metformin, lisinopril, and albuterol, but the dosages may be adjusted based on his response to therapy. A low-fat diet is recommended, and he should maintain a healthy weight. Any persistent abdominal pain, fever, or jaundice should prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Lovett and his family were provided extensive education on post-surgical care, managing the ileal conduit, recognizing signs of complications such as leaks, obstruction, or infections, and managing common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Mr. Lovett was discharged with a comprehensive set of instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a daily log of his symptoms and report any concerning findings promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues. Mr. Lovett's prognosis will be influenced by his response to therapy, overall health status, and the presence or absence of metastatic disease.
+
+Final Remarks:
+	Dr. Raio commends Mr. Lovett on his resilience and cooperation throughout the treatment journey. The report is signed by Dr. Raio and Mr. Lovett, and the date of discharge is noted for validation purposes.

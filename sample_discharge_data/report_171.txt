@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susan Pope
+	•Date of Birth: 02/03/1975
+	•Medical Record Number: M171
+	•Date of Admission: 10/10/2021
+	•Date of Discharge: 25/11/2021
+	•Attending Physician: Dr. Everett Gaskins
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Pope presented with symptoms of abdominal pain, changes in bowel habits, and unintended weight loss over a period of three months. Upon initial assessment, a palpable mass was detected during a routine physical examination. Further investigations including a colonoscopy, CT scan, and blood tests confirmed the diagnosis of colorectal cancer. The tumor was found to be obstructing the colon, causing the symptoms observed.
+
+Medical History:
+	Mr. Pope has a history of hypertension, managed with medications, and type 2 diabetes for which he undergoes regular insulin therapy. He has a family history of colorectal cancer in his father and two uncles. Allergic to penicillin, he was taking aspirin for hypertension and metformin for diabetes prior to admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a moderately differentiated adenocarcinoma in the sigmoid colon. The CT scan revealed a 7 cm tumor with regional lymph node involvement. Complete blood count showed anemia, and liver function tests indicated mild liver dysfunction.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by the multidisciplinary team. Mr. Pope underwent a sigmoid colectomy with primary ileo-rectal anastomosis. Postoperative care included monitoring for complications such as infection, bleeding, and anastomotic leakage. He received adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, and fluorouracil), and radiation therapy to the abdominal region was considered based on future pathology reports.
+
+Hospital Course:
+	Mr. Pope's initial recovery from surgery was smooth. However, he developed a mild anastomotic leakage requiring drainage. This was managed conservatively with antibiotics and bowel rest. His diabetes was closely monitored and insulin doses were adjusted accordingly. Nutritional support was provided to aid in wound healing and overall recovery.
+
+Follow-Up Plan:
+	Mr. Pope will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue his hypertension and diabetes medications as per current dosages. A high-fiber diet is recommended to prevent constipation. Any signs of bleeding, fever, or increasing abdominal pain should be reported immediately.
+
+Patient Education:
+	Mr. Pope was educated about the importance of adhering to his medication regimen and regular follow-ups. Instructions on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects were provided.
+
+Discharge Instructions:
+	Mr. Pope was given instructions on wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, avoid heavy lifting, and report any concerns immediately.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage III colorectal cancer is good with adjuvant therapy. Regular monitoring for early detection of recurrence and managing ongoing health issues is essential.
+
+Final Remarks:
+	I commend Mr. Pope's resilience throughout the treatment journey. His cooperation and adherence to the treatment plan have been instrumental in his recovery. I wish him a speedy and full recovery, and look forward to our continued collaboration for his long-term health.

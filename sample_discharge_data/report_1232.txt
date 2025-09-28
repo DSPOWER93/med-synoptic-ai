@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Davis
+	•Date of Birth: 1960-01-01
+	•Medical Record Number: M1232
+	•Date of Admission: 2022-05-01
+	•Date of Discharge: 2022-05-15
+	•Attending Physician: Dr. Milagros Poormon
+	•Primary Diagnosis: Advanced Pancreatic Cancer (Duodenal Adenocarcinoma, Stage IV)
+
+Reason for Admission:
+	James Davis was admitted to the hospital on May 1, 2022, due to severe abdominal pain and a rapid weight loss of approximately 30 pounds over the past three months. The initial assessment revealed abnormal liver function tests, anemia, and jaundice. To confirm the diagnosis, a series of diagnostic investigations were conducted, including CT scans, MRI, ultrasounds, and endoscopic retrograde cholangiopancreatography (ERCP). The results indicated the presence of an invasive duodenal adenocarcinoma with liver metastasis.
+
+Medical History:
+	Mr. Davis has a significant medical history. He was diagnosed with hypertension five years ago, for which he has been taking medication. He was also recently diagnosed with diabetes and has been managing it through diet and insulin therapy. Additionally, he has been experiencing chronic obstructive pulmonary disease (COPD) symptoms. Mr. Davis has a family history of pancreatic cancer, as his father succumbed to the same disease at 65 years old. He was not allergic to any known medications prior to admission.
+
+Diagnostic Findings:
+	The pathology report from the surgical biopsy confirmed the diagnosis of advanced pancreatic adenocarcinoma. The imaging scan results showed multiple liver metastases, and the CA19-9 blood test was elevated at 500 U/mL (normal range <37 U/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Davis. The primary intervention was a Whipple procedure, followed by adjuvant chemotherapy and radiation therapy. Post-operative care included pain management, nutritional support, and close monitoring for complications. The chemotherapy regimen consisted of FOLFIRINOX (irinotecan, oxaliplatin, and fluorouracil), with six cycles scheduled over 12 weeks. The radiation therapy was planned to target the liver metastases.
+
+Hospital Course:
+	Mr. Davis underwent a successful Whipple procedure on May 5, 2022. The initial recovery period was challenging due to post-operative complications such as anastomotic leakage and pancreatic fistula. However, with the support of the medical team and intensive care, Mr. Davis managed to stabilize his condition. Throughout his hospital stay, he received ongoing nutritional support, pain management, and close monitoring for disease progression.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Davis will be scheduled for regular follow-up appointments with the oncologist every three months for the first year, then every six months thereafter. He will continue taking his hypertension and diabetes medications as prescribed. A strict diet and physical activity regimen will also be advised to maintain a healthy weight. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, jaundice, or changes in bowel habits.
+
+Patient Education:
+	Mr. Davis and his family were provided with extensive education on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and altered bowel habits. They were also instructed on proper wound care practices, hydration guidelines, and physical activity restrictions.
+
+Discharge Instructions:
+	To ensure Mr. Davis's continued recovery and health maintenance, he will be discharged with detailed medication adherence instructions, wound care practices, and hydration guidelines. He was advised to gradually increase his physical activity levels under the guidance of a physical therapist. Close monitoring for early detection of recurrence and managing ongoing health issues was emphasized.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for advanced pancreatic cancer is often poor, but regular monitoring for early detection of recurrence can improve the chances of successful treatment. Mr. Davis's resilience and cooperation throughout the treatment journey were commended by the attending physician.
+
+Final Remarks:
+	Dr. Milagros Poormon (Oncologist) signed the report on May 15, 2022, expressing her appreciation for Mr. Davis's courage throughout his treatment journey. She emphasized the importance of regular monitoring and the role of ongoing support in managing his condition moving forward. The report was also signed by James Davis to validate its contents.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Steven Adams
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M134
+	•Date of Admission: 02/03/2022
+	•Date of Discharge: 04/10/2022
+	•Attending Physician: Dr. Martin Snelgrove
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the lungs and liver
+
+Reason for Admission:
+	The patient, Steven Adams, presented to the emergency department complaining of severe abdominal pain, persistent fatigue, and unintentional weight loss over the past three months. Upon initial assessment, a palpable mass was discovered in the lower abdomen, and his hemoglobin level was found to be significantly reduced. Subsequent imaging investigations revealed multiple renal masses, lung metastases, and liver lesions, leading to the diagnosis of advanced RCC.
+
+Medical History:
+	Mr. Adams has a history of hypertension that is well-controlled with medications. He was diagnosed with Type 2 Diabetes Mellitus in 2014 and managed with diet and oral hypoglycemic agents. He also suffers from Chronic Obstructive Pulmonary Disease (COPD), which has been stable for the past few years. Prior surgical interventions include appendectomy, cholecystectomy, and hernia repair. His family history is significant for Colorectal Cancer in his father and mother, both diagnosed after the age of 60. He is not known to have any allergies and was taking multiple medications including metformin, losartan, salmeterol/fluticasone, and ibuprofen before admission.
+
+Diagnostic Findings:
+	Biopsy of the renal mass confirmed the diagnosis of RCC. Computed Tomography (CT) scan revealed extensive metastatic disease with multiple lesions in both lungs and liver. Blood tests showed elevated creatinine levels, anemia, and abnormal liver function test results.
+
+Treatment Plan:
+	A multidisciplinary team formulated a comprehensive treatment plan for Mr. Adams. He underwent a partial nephrectomy followed by radical nephrectomy due to the extensive involvement of the kidney. Post-operative care included management of pain, hydration, and blood transfusions as necessary. The primary oncology treatment consisted of six cycles of sunitinib, an oral multikinase inhibitor, to target angiogenesis. He also received radiation therapy to the affected lung and liver lesions.
+
+Hospital Course:
+	Mr. Adams's initial recovery from surgery was smooth, but he faced challenges with the side effects of sunitinib, including fatigue, nausea, and diarrhea. He required close monitoring for his hypertension and blood sugar levels. Nutritional support was provided as he struggled to maintain his weight due to anorexia caused by the disease and its treatment.
+
+Follow-Up Plan:
+	Mr. Adams will be followed up closely in our outpatient clinic every three months for the first year, then every six months thereafter. He will continue taking metformin, losartan, salmeterol/fluticasone, and ibuprofen. His diet should include high-protein, high-calorie foods to combat weight loss, and he will be advised on managing his COPD symptoms. Any worsening of abdominal pain, increased fatigue, or unexplained weight loss must prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Adams and his family were educated about the disease, its treatment options, and the importance of adhering to the prescribed medication regimen. They were instructed on post-surgical care for the ileal conduit, recognizing signs of complications such as urinary leakage or fever, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Adams was provided with detailed written instructions about medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to keep a close eye on his blood pressure and blood sugar levels.
+
+Prognosis and Long-Term Outlook:
+	Given the advanced stage of Mr. Adams's RCC at presentation, regular monitoring for early detection of recurrence is crucial. The patient should be encouraged to maintain a positive attitude and work closely with his healthcare team in managing ongoing health issues associated with his disease.
+
+Final Remarks:
+	This report concludes the treatment journey of Mr. Steven Adams for advanced RCC. Throughout this challenging time, he has shown immense resilience and cooperation. I commend him for his determination and am confident that with continued support from our team, he will continue to fight against his disease effectively.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Richard Howton
+	•Date of Birth: 01/15/1978
+	•Medical Record Number: M1409
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Danial Barnes
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage III)
+
+Reason for Admission:
+	Richard Howton was admitted to the hospital due to a two-month history of persistent abdominal pain, weight loss, and jaundice. Upon initial assessment, he presented with a distended abdomen, dark urine, and clay-colored stools. Diagnostic investigations including CT scans, MRI, and ERCP confirmed the presence of a mass in his pancreas.
+
+Medical History:
+	Mr. Howton has a history of hypertension and type 2 diabetes mellitus. He underwent a laparoscopic cholecystectomy five years ago due to gallstones. His father died at the age of 65 from colorectal cancer, and his mother suffered from type 2 diabetes. Allergies include penicillin, sulfa drugs, and iodinated contrast materials. He was taking metformin, lisinopril, and atorvastatin before admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of pancreatic adenocarcinoma. Imaging scans indicated a 5cm tumor in the head of his pancreas, with involvement of the surrounding tissue and lymph nodes. Blood tests revealed elevated CA19-9 levels, anemia, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Howton. He underwent a Whipple procedure followed by a course of FOLFIRINOX chemotherapy. Radiation therapy was considered but ultimately deemed unnecessary due to the surgical resection's success.
+
+Hospital Course:
+	Post-surgery, Mr. Howton experienced complications including delayed gastric emptying and anastomotic leak. These were managed with intravenous antibiotics, nasogastric tube placement, and enteral feeding. He also received intensive physiotherapy to promote mobility and prevent deep vein thrombosis.
+
+Follow-Up Plan:
+	Mr. Howton will have regular outpatient appointments for follow-up scans, blood tests, and monitoring of his diabetes and hypertension. He has been prescribed gemcitabine as maintenance therapy and advised to maintain a healthy diet rich in fruits, vegetables, lean proteins, and whole grains while limiting processed foods and sugars.
+
+Patient Education:
+	The patient was educated about the importance of post-surgical care, including managing his ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in stool color or consistency, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Howton was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to contact his healthcare provider if he experiences any concerning symptoms.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Howton's long-term health. He has been advised about the importance of maintaining a healthy lifestyle, attending all follow-up appointments, and seeking immediate medical attention if symptoms arise.
+
+Final Remarks:
+	Dr. Barnes commended Mr. Howton for his resilience and cooperation throughout the treatment journey, noting that his positive attitude and commitment to his care have contributed significantly to his recovery. Both the physician and patient signed the report on April 12, 2023.

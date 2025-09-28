@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Rodriquez
+	•Date of Birth: 12/05/1976
+	•Medical Record Number: M1415
+	•Date of Admission: 01/06/2022
+	•Date of Discharge: 15/06/2022
+	•Attending Physician: Dr. Eric Perron
+	•Primary Diagnosis: Carcinoma of the Bladder (T3N0M0)
+
+Reason for Admission:
+	Thomas Rodriquez was admitted to our facility on June 1st, 2022, due to persistent hematuria and dysuria that had been present for over a month. On physical examination, a palpable mass was found in the lower abdomen, prompting further diagnostic investigations. A computerized tomography (CT) scan revealed a mass in the bladder with invasion into the muscularis propria. A cystoscopy confirmed the diagnosis of transitional cell carcinoma of the bladder.
+
+Medical History:
+	Mr. Rodriquez's past medical history is significant for hypertension, which was controlled with an angiotensin-converting enzyme (ACE) inhibitor. He also had a history of chronic obstructive pulmonary disease (COPD), for which he used an inhaler regularly. Mr. Rodriquez has no known allergies and was not taking any medications before admission that could interfere with the planned treatment.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) confirmed a high-grade urothelial carcinoma. Imaging studies showed no evidence of lymph node or distant metastasis, hence the stage T3N0M0. Blood tests revealed slightly elevated creatinine levels, indicative of potential kidney dysfunction, which required close monitoring throughout the treatment course.
+
+Treatment Plan:
+	Given the stage and grade of Mr. Rodriquez's tumor, a multidisciplinary team developed a comprehensive treatment plan. This included a radical cystectomy with ileal conduit diversion, followed by six cycles of chemotherapy (GCB-CIS) to reduce the risk of recurrence. A preoperative bowel preparation regimen was initiated to ensure an unobstructed path for the small intestine. Post-operatively, Mr. Rodriquez received aggressive pain management and nutritional support.
+
+Hospital Course:
+	The surgical intervention proceeded without complications. Mr. Rodriquez's recovery from the surgery was uneventful, and he was mobilized on the second postoperative day. However, a few days later, he developed a fever and abdominal distension, which were managed with antibiotics and laxatives, respectively. Throughout his hospital stay, Mr. Rodriquez received occupational therapy to aid in regaining strength and functionality.
+
+Follow-Up Plan:
+	After discharge, Mr. Rodriquez will be followed closely by an oncologist every three months for the first two years, then every six months thereafter. He will continue with the prescribed chemotherapy regimen and undergo regular cystoscopies to monitor for recurrence. Additionally, he was provided with instructions on managing his ileal conduit, recognizing signs of complications, and maintaining a healthy lifestyle, including a balanced diet and regular exercise.
+
+Patient Education:
+	Mr. Rodriquez and his family were educated about the disease process, treatment options, and potential side effects. They were instructed on post-surgical care, specifically managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, fatigue, and changes in bowel habits.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Rodriquez was given clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a healthy diet, rich in fruits, vegetables, lean proteins, and whole grains while limiting sodium intake.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Rodriquez's case. Given his cooperation throughout the treatment journey, it is hoped that he will make a full recovery and maintain good overall health in the long term.
+
+Final Remarks:
+	The attending physician, Dr. Eric Perron, would like to express her appreciation for Mr. Rodriquez's resilience throughout his treatment journey. She emphasizes the importance of continued cooperation in following the prescribed treatment plan and encourages him to reach out with any concerns or questions as he transitions to home care.

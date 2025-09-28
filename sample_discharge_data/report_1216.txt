@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stacy Beadle
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1216
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Hubert Stinett
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (T4N1M0)
+
+Reason for Admission:
+	Stacy Beadle, a 43-year-old male, presented to the emergency department with a one-month history of persistent upper abdominal pain, unintentional weight loss, and jaundice. The initial assessment revealed elevated liver function tests, a palpable mass in the epigastric region, and a positive CA 19-9 level, suggestive of pancreatic cancer. Subsequent imaging studies, including a CT scan and an MRI, confirmed a large, locally advanced pancreatic tumor invading adjacent organs (T4). A biopsy sample was obtained for histopathological examination, confirming the diagnosis of pancreatic adenocarcinoma.
+
+Medical History:
+	Stacy Beadle's past medical history is significant for hypertension, diagnosed at age 30, and well-controlled with medication. He also has a family history of colon cancer, with his father being diagnosed at age 65. Prior to admission, he had undergone a laparoscopic appendectomy in 2017 for an acute appendicitis. Stacy Beadle is not known to have any allergies and was taking amlodipine, lisinopril, and simvastatin at the time of admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed a moderately differentiated adenocarcinoma arising from the pancreatic head, invading the surrounding structures (T4). The tumor was found to be node-positive (N1), and no distant metastases were detected (M0). Laboratory tests showed elevated CA 19-9 levels (257 U/mL; normal range <37 U/mL), increased bilirubin levels, and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Stacy Beadle, which included surgical resection followed by chemotherapy and radiation therapy. Stacy Beadle underwent a Whipple procedure on March 25, 2023. Post-operative care focused on managing pain, preventing complications, and promoting recovery. The surgical team managed his post-operative course effectively, and he was discharged after a 28-day hospital stay.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Stacy Beadle will be closely followed up by his oncologist every three months for the first two years post-treatment, and then annually thereafter. He has been prescribed capecitabine as maintenance therapy to prolong disease-free survival. A low-fat, high-protein diet is recommended to support nutritional needs, and he will be advised on lifestyle modifications to maintain a healthy weight and manage his hypertension.
+
+Patient Education:
+	The patient and his family were educated about the importance of adhering to the prescribed medication regimen, maintaining a balanced diet, and recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits. They were also instructed on proper wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Upon discharge, Stacy Beadle was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to follow up with his oncologist as scheduled for regular monitoring and to report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Stacy Beadle's prognosis will depend on the response to adjuvant therapy, as well as the successful management of potential complications. Regular monitoring for early detection of recurrence is essential to improve his long-term outcomes.
+
+Final Remarks:
+	This report documents Stacy Beadle's treatment journey for pancreatic adenocarcinoma. I commend him for his resilience and cooperation throughout the process. Together, we aim to continue managing this challenging disease with a focus on improved outcomes and quality of life.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Debra George
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1134
+	•Date of Admission: 09/01/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Donna Balado
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Debra George was admitted to the hospital due to increasing abdominal pain, hematuria, and a palpable mass detected during routine physical examination. The initial assessment revealed severe anemia and elevated creatinine levels. Subsequent diagnostic investigations including computed tomography (CT) scan, renal function tests, and urinalysis confirmed the presence of a large RCC in the right kidney.
+
+Medical History:
+	Debra George has a significant medical history that includes hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and gastroesophageal reflux disease (GERD). He underwent a laparoscopic cholecystectomy in 2018. His father died of pancreatic cancer at the age of 65, and his mother suffered from ovarian cancer. John is allergic to penicillin and aspirin. Prior to admission, he was taking metformin, lisinopril, insulin, salmeterol, and fluticasone.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of a 10cm x 8cm RCC in the right kidney. The CT scan showed multiple enlarged regional lymph nodes and evidence of distant metastasis in the lungs and bones. Blood tests revealed anemia (Hb 7.5 g/dL), high creatinine (2.3 mg/dL), and elevated alkaline phosphatase (ALP 148 IU/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Debra George. The initial step was a partial nephrectomy to remove the affected kidney followed by immunotherapy and targeted therapy. Post-operative care included pain management, blood transfusions, and close monitoring of renal function. The chemotherapy regimen consisted of Sunitinib (50 mg/day, 4 weeks on, 2 weeks off) for six cycles. Radiation therapy was deemed unnecessary due to the absence of localized recurrence.
+
+Hospital Course:
+	Debra George's recovery from surgery was initially challenging due to anemia and post-operative pain. However, he responded well to blood transfusions and pain management. A multidisciplinary team provided intensive care, including nutritional support, physiotherapy, and psychological counseling. Despite the presence of distant metastases, John's disease was stabilized during his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Debra George will be under regular follow-up with oncology specialists for monitoring and management of the disease. He will continue taking Sunitinib at home, adjusting to a low-sodium and high-protein diet, and practicing physical activity as tolerated. Regular blood tests, CT scans, and urinalysis will be scheduled to monitor for recurrence or progression of the disease.
+
+Patient Education:
+	Debra George and his family were educated about the treatment options, including surgery, immunotherapy, and targeted therapy. They were instructed on post-surgical care, managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in urine color, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Debra George was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. He was instructed on medication adherence, wound care practices, hydration, physical activity guidelines, and follow-up appointment scheduling.
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence cannot be overstated. Debra George's long-term outlook will depend on the response to treatment, the absence or presence of residual disease, and the development of any new complications.
+
+Final Remarks:
+	Dr. Donna Balado concludes the report by acknowledging Debra George's resilience and cooperation throughout the treatment journey. She emphasizes the importance of continuing the prescribed regimen and adhering to lifestyle recommendations for optimal health maintenance. Both Debra George and Dr. Balado sign the report, validating the documentation on 02/15/2023.

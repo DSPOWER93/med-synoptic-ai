@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: David Martin
+	•Date of Birth: 05/25/1960
+	•Medical Record Number: M1019
+	•Date of Admission: 01/10/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Jesus Martin
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	David Martin presented to the emergency department complaining of hematuria and dysuria of three weeks duration. The initial assessment revealed no signs of abdominal pain, fever, or weight loss. Subsequent diagnostic investigations, including cystoscopy and computed tomography urogram (CTU), confirmed the presence of a 4 cm mass in the bladder wall, consistent with transitional cell carcinoma.
+
+Medical History:
+	Mr. Martin has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone appendectomy in 1985 and cholecystectomy in 2008. His father died of bladder cancer at the age of 65. Allergic to penicillin, he was taking metformin, amlodipine, insulin, and salmeterol/fluticasone prior to admission.
+
+Diagnostic Findings:
+	Pathology results confirmed the diagnosis of invasive urothelial carcinoma. Staging was T3N0M0. Imaging scans revealed no evidence of lymph node or distant metastases. Blood tests showed elevated creatinine levels, suggesting potential kidney involvement due to obstructive effect of the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Martin. The plan included radical cystectomy with ileal conduit formation, followed by six cycles of adjuvant chemotherapy (GCB-AC regimen) and concurrent radiation therapy to the pelvic lymph nodes.
+
+Hospital Course:
+	Postoperatively, Mr. Martin experienced no significant complications. He received intensive post-operative care, including pain management, nutritional support, and antimicrobial prophylaxis. Regular urine analysis was conducted to monitor for signs of infection in the ileal conduit.
+
+Follow-Up Plan:
+	Mr. Martin will return for scheduled outpatient appointments every three months for the first two years, then every six months thereafter. His medications will be adjusted as necessary, and he will continue to take metformin, amlodipine, and insulin. Lifestyle recommendations include smoking cessation, a balanced diet, and regular exercise.
+
+Patient Education:
+	Mr. Martin and his family were educated about the importance of post-surgical care, including proper ileal conduit management, recognizing signs of complications such as urinary leakage or increased frequency, and managing common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, maintaining adequate hydration, and following guidelines for physical activity. He was advised to limit heavy lifting and strenuous exercise for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues associated with bladder cancer.
+
+Final Remarks:
+	We commend Mr. Martin for his resilience and cooperation throughout the treatment journey. His positive attitude and diligent adherence to the treatment plan have been instrumental in his successful recovery. This report is signed by Dr. Jesus Martin on February 15, 2023, confirming the completion of Mr. David Martin's care under her supervision during this hospitalization.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susan Rosenbarger
+	•Date of Birth: 12/03/1980
+	•Medical Record Number: M1062
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 28/02/2023
+	•Attending Physician: Dr. Ann Morgan
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Susan Rosenbarger was admitted to our facility due to persistent abdominal pain, changes in bowel habits, and unintentional weight loss over the past three months. These symptoms, combined with his family history of colorectal cancer, prompted a series of diagnostic investigations, which confirmed the presence of a large mass in his colon. Upon admission, he underwent an extensive workup, including laboratory tests, imaging scans, and endoscopic procedures.
+
+Medical History:
+	Susan Rosenbarger has a significant medical history. He is a known hypertensive patient and was recently diagnosed with Type 2 Diabetes Mellitus. He also suffers from Chronic Obstructive Pulmonary Disease (COPD). Before his hospitalization, he had undergone a partial colectomy for diverticulitis four years ago. He has no known allergies but is sensitive to certain antibiotics due to past reactions. His regular medications include metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The diagnostic findings were consistent with Stage III colorectal cancer. Pathology reports confirmed the malignancy of the excised tissue from the colon. Imaging scans revealed multiple enlarged lymph nodes, indicating the spread of the cancer. Blood tests showed elevated levels of carcinoembryonic antigen (CEA), a tumor marker for colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Susan Rosenbarger. This included a surgical intervention, post-operative care, chemotherapy, and radiation therapy. He underwent an abdominoperineal resection (APR) to remove the cancerous tissue from his colon, followed by an ileostomy creation to facilitate waste elimination. The post-operative phase was marked by close monitoring for complications, wound care, pain management, and nutritional support. Chemotherapy was initiated with a regimen of FOLFOX (Folinic Acid, 5-Fluorouracil, and Oxaliplatin) for six cycles, with the aim of reducing the chances of recurrence. The decision to include radiation therapy in his treatment plan will be made after consultation with the oncology team.
+
+Hospital Course:
+	Susan Rosenbarger's hospital course was marked by an initial recovery from surgery followed by a series of challenges. He faced complications such as post-operative bleeding and anastomotic leakage, which were promptly managed. His diabetes and hypertension needed close monitoring and adjustment of medications throughout his stay. His rehabilitation included physiotherapy to help him regain mobility and strength, while occupational therapy focused on managing the ileostomy.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments with oncology, surgery, and gastroenterology teams. His medications will be continued and adjusted as necessary based on his response to treatment and any potential side effects. Lifestyle modifications such as a low-fat diet and regular exercise are recommended. Susan Rosenbarger should report any signs of complications, such as fever, persistent pain, or changes in bowel habits, promptly.
+
+Patient Education:
+	Susan Rosenbarger and his family were educated about the treatment options, the importance of adhering to the medication regimen, and recognizing signs of complications associated with the ileostomy and chemotherapy. They were instructed on proper wound care, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Prior to discharge, Susan Rosenbarger was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for emotional support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Susan Rosenbarger's long-term health. His prognosis depends on his response to treatment, adherence to the follow-up plan, and overall health status.
+
+Final Remarks:
+	Dr. Ann Morgan expresses her gratitude for Susan Rosenbarger's resilience throughout his treatment journey and emphasizes the importance of continued cooperation and adherence to the follow-up plan. The report is signed by both Dr. Ann Morgan and Susan Rosenbarger on 28/02/2023, validating its accuracy and completeness.

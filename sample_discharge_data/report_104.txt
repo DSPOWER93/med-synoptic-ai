@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tonya Robert
+	•Date of Birth: 12/05/1980
+	•Medical Record Number: M104
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 03/15/2022
+	•Attending Physician: Dr. Charles Matos
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Tonya Robert presented to our facility with a two-month history of progressive abdominal pain, nausea, and unintentional weight loss. He reported the onset of these symptoms following a bout of gastroenteritis. Initial assessment revealed jaundice, and laboratory investigations showed elevated levels of bilirubin and liver enzymes, suggesting obstructive jaundice. An abdominal ultrasound confirmed the presence of a mass in the pancreatic head, which was further investigated with a contrast-enhanced computed tomography (CT) scan, leading to the definitive diagnosis of pancreatic cancer.
+
+Medical History:
+	Tonya Robert had a history of hypertension, for which he was on medication, and a 15-year history of chronic obstructive pulmonary disease (COPD). He had undergone a cholecystectomy ten years ago. There was no significant family history of cancer, but both his paternal grandparents died from heart disease in their sixties. Before admission, he was taking metoprolol and salmeterol for hypertension and COPD, respectively.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of adenocarcinoma of the pancreas. The CT scan showed a 4 cm mass in the pancreatic head invading the duodenum, with metastases to several lymph nodes and liver lesions consistent with secondary deposits. A positron emission tomography (PET) scan corroborated these findings. Blood tests revealed anemia, elevated levels of CA 19-9 (a tumor marker for pancreatic cancer), and abnormal liver function tests.
+
+Treatment Plan:
+	Given the advanced stage of the cancer, a multidisciplinary team developed a comprehensive treatment plan consisting of surgical intervention, chemotherapy, and radiation therapy. Tonya Robert underwent a Whipple procedure to remove the pancreas, duodenum, gallbladder, and surrounding lymph nodes. Post-operative care included pain management, nutritional support via a feeding tube, and antibiotics for secondary infections. He received six cycles of FOLFIRINOX chemotherapy (oxaliplatin, irinotecan, fluorouracil, and leucovorin) and 30 Gy of radiation therapy to the primary tumor bed and regional lymph nodes. Management of side effects included nausea, diarrhea, fatigue, and neuropathy.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Tonya Robert will be followed up every three months for the first year post-treatment, then semi-annually thereafter. He will continue on maintenance chemotherapy with capecitabine, as well as his hypertension and COPD medications. Lifestyle modifications include quitting smoking (if applicable), maintaining a healthy diet low in processed foods, and regular exercise. Warning signs of recurrence or complications include unexplained weight loss, persistent abdominal pain, jaundice, and changes in stool color or consistency.
+
+Patient Education:
+	The patient and his family were educated on the ileal conduit, its care, and recognizing signs of complications such as leakage, blockage, or infection. They were instructed on managing common side effects like nausea, diarrhea, and fatigue. It was emphasized that adherence to the medication regimen and lifestyle modifications is crucial for long-term survival.
+
+Discharge Instructions:
+	Upon discharge, Tonya Robert was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to monitor his blood pressure and oxygen saturation regularly and return for follow-up appointments as scheduled.
+
+Prognosis and Long-Term Outlook:
+	While the prognosis for advanced pancreatic cancer is generally poor, early detection of recurrence through regular monitoring improves survival outcomes. It is essential that Tonya Robert maintains a positive attitude, follows his treatment plan closely, and communicates openly with his healthcare team to optimize his chances of long-term survival.
+
+Final Remarks:
+	Tonya Robert demonstrated remarkable resilience and cooperation throughout his treatment journey. We are hopeful for a favorable outcome, and we will continue to support him in his fight against pancreatic cancer. Signed, Dr. Charles Matos, M.D., FACS. Date 03/15/2022.

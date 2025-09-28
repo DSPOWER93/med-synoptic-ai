@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Bernard Torres
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1203
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 05/10/2022
+	•Attending Physician: Dr. Susan Stewart
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Mr. Bernard Torres presented to the emergency department with complaints of abdominal pain, constipation, and rectal bleeding persisting for over a week. Upon initial assessment, he appeared lethargic, with a palpable abdomen, and a negative rectal examination. Further investigations included complete blood count (CBC), tumor markers (CEA & CA 19-9), and an abdominal computed tomography (CT) scan which revealed a large mass in the sigmoid colon, multiple lymph nodes involvement, and liver metastases.
+
+Medical History:
+	Mr. Torres has a history of hypertension, diagnosed 10 years ago, for which he is currently managed with an angiotensin-converting enzyme (ACE) inhibitor. He also has a 20-year history of type 2 diabetes mellitus controlled by oral hypoglycemic agents and insulin therapy. Furthermore, he has been diagnosed with chronic obstructive pulmonary disease (COPD), requiring regular inhalers for symptomatic relief. Mr. Torres has no known allergies and was on no other significant medications before admission.
+
+Diagnostic Findings:
+	The CBC revealed anemia (hemoglobin 9 g/dL), with normal white blood cell count and platelets. Both CEA and CA 19-9 levels were elevated (CEA 15 ng/mL, CA 19-9 67 U/mL). The CT scan confirmed the colonic mass, lymph node involvement, and liver metastases. A subsequent colonoscopy was performed, confirming the invasive adenocarcinoma of the sigmoid colon.
+
+Treatment Plan:
+	The multidisciplinary team developed a treatment plan involving surgical resection followed by adjuvant chemotherapy and radiation therapy. Mr. Torres underwent an open left hemicolectomy with primary ileo-rectal anastomosis, followed by a loop ileostomy due to technical difficulties during the surgery. Postoperatively, he received a modified FOLFOX regimen (oxaliplatin, fluorouracil, and leucovorin) for six cycles and concurrent pelvic radiation therapy (50.4 Gy in 28 fractions).
+
+Hospital Course:
+	Mr. Torres's initial recovery from surgery was complicated by anastomotic leak, requiring a second surgical intervention to create a permanent ileal conduit. He also experienced several chemotherapy-induced side effects such as neutropenia and diarrhea. Aggressive symptom management, enteral nutrition support, and physical therapy played crucial roles in his recovery process.
+
+Follow-Up Plan:
+	The follow-up plan includes regular oncology appointments every three months for the first year, then every six months thereafter. Mr. Torres will continue taking his hypertension and diabetes medications, with close monitoring of their efficacy and potential interactions with his maintenance chemotherapy. He will also be educated on maintaining a healthy diet, staying active, and recognizing warning signs of recurrence or complications related to the ileal conduit.
+
+Patient Education:
+	Mr. Torres and his family were provided detailed information about the nature of colorectal cancer, the importance of follow-up care, and the role of a healthy lifestyle in managing side effects and improving overall wellbeing. He was instructed on post-surgical care for the ileal conduit, signs of complications such as obstruction or infection, and strategies to manage common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Torres was given detailed instructions on medication adherence, wound care practices, hydration maintenance, and physical activity guidelines. He was also provided with information about community resources for support during his recovery process.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Torres will need to manage ongoing health issues such as hypertension, diabetes, and potential late effects of radiation therapy. He was counseled on the importance of lifestyle modifications, regular exercise, and maintaining a balanced diet in promoting overall wellness.
+
+Final Remarks:
+	Dr. Stewart commends Mr. Torres for his resilience throughout this treatment journey and expresses her confidence in his recovery. She emphasizes the importance of adhering to the follow-up plan and encourages him to seek help whenever needed. Both parties sign the report, validating its completion on 05/10/2022.

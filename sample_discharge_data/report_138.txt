@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kristine Quilliams
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M138
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Traci Otero
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Kristine Quilliams was admitted to the hospital following a series of symptoms including abdominal pain, unexplained weight loss, and changes in bowel habits that persisted for over a month. Upon initial assessment, his vital signs were stable, but he displayed signs of anemia and weakness. Diagnostic tests, including a colonoscopy, biopsy, and CT scan, confirmed the presence of colorectal cancer. The tumor was found to have invaded the muscularis propria and had spread to nearby lymph nodes, making it Kristine Quilliams.
+
+Medical History:
+	Mr. Quilliams has a history of hypertension, for which he was taking lisinopril daily, and COPD, requiring regular use of inhalers. He underwent a total hip replacement surgery in 2018. His family history is significant for colorectal cancer, as his father was diagnosed at age 65. Mr. Quilliams has no known allergies.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma in the sigmoid colon. CT scan revealed a 7cm mass in the sigmoid colon, with multiple enlarged lymph nodes in the mesocolon and perirectal area. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactic dehydrogenase (LDH), indicative of cancer spread.
+
+Treatment Plan:
+	Mr. Quilliams underwent a sigmoid colectomy, followed by a permanent ileostomy due to the extent of cancer spread. He received adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) for six cycles. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	Post-surgery, Mr. Quilliams experienced some complications including anastomotic leakage and dehydration, which were managed with antibiotics, fluid replacement, and nutritional support. His condition gradually improved, and he was able to start ambulating with assistance after a week. He underwent radiation therapy for the treatment of any remaining microscopic cancer cells.
+
+Follow-Up Plan:
+	Mr. Quilliams will be scheduled for follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking lisinopril and pain medication as needed. He has been instructed to maintain a high-fiber diet, avoid heavy lifting, and notify his healthcare provider if he experiences any signs of complications or recurrence.
+
+Patient Education:
+	Mr. Quilliams and his family were educated about the importance of regular screening for colorectal cancer, the role of ileostomy in managing waste, and the recognition of potential complications such as leakage, blockage, or infection. They were also informed about common side effects of chemotherapy, including nausea, fatigue, and neuropathy, and how to manage these symptoms.
+
+Discharge Instructions:
+	Upon discharge, Mr. Quilliams was provided with detailed instructions on wound care, medication adherence, dietary guidelines, and signs of potential complications. He was advised to maintain hydration by drinking at least eight glasses of water daily and to engage in light physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	While the prognosis for Kristine Quilliams colorectal cancer is generally favorable with proper treatment, regular monitoring for early detection of recurrence is crucial. Mr. Quilliams's adherence to follow-up appointments, medication regimen, and lifestyle changes will play a significant role in his long-term health.
+
+Final Remarks:
+	Mr. Quilliams demonstrated remarkable resilience and cooperation throughout his treatment journey. His family provided unwavering support, which greatly contributed to his recovery. We are confident that with continued care and follow-up, Mr. Quilliams will maintain a good quality of life moving forward.

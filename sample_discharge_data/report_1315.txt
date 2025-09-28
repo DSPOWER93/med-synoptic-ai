@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carmen Encarnacion
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1315
+	•Date of Admission: 04/02/2023
+	•Date of Discharge: 06/03/2023
+	•Attending Physician: Dr. Bryan Wellman
+	•Primary Diagnosis: Colorectal Cancer (TNM Stage IIIB)
+
+Reason for Admission:
+	Carmen Encarnacion, a 48-year-old male, presented to the emergency department complaining of persistent lower abdominal pain, constipation, and unexplained weight loss. On admission, his vital signs were stable, but physical examination revealed a palpable abdominal mass. Preliminary laboratory tests showed an elevated carcinoembryonic antigen (CEA) level and fecal occult blood test was positive. Computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large, irregular mass in the sigmoid colon, with evidence of regional lymph node involvement.
+
+Medical History:
+	Carmen Encarnacion had a history of hypertension, for which he was on amlodipine 10mg daily, and type 2 diabetes mellitus, managed with metformin 850mg twice daily. He had no known allergies and did not report any previous surgeries. His family history was significant for colorectal cancer in his father at the age of 65.
+
+Diagnostic Findings:
+	Further investigations, including colonoscopy and pathology reports, confirmed the diagnosis of adenocarcinoma of the sigmoid colon. The tumor was found to have invaded through the muscularis propria but had not penetrated the visceral peritoneum (T3), and there were multiple enlarged lymph nodes in the mesocolon, indicating regional nodal involvement (N2).
+
+Treatment Plan:
+	Carmen Encarnacion underwent a sigmoid colectomy with primary anastomosis, followed by a right lower quadrant ileostomy for fecal diversion. His post-operative care included intravenous antibiotics and pain management, along with close monitoring for complications such as ileus or anastomotic leak. He was also initiated on adjuvant chemotherapy (FOLFOX regimen) consisting of oxaliplatin, fluorouracil, and leucovorin.
+
+Hospital Course:
+	Carmen Encarnacion's initial recovery from surgery was uneventful, with no signs of complications. However, he developed neutropenia during his first cycle of chemotherapy and required hospitalization for intravenous antibiotics to manage an infection. He responded well to treatment and was discharged after 5 days. His subsequent cycles were managed as outpatients, with appropriate supportive care to manage side effects such as nausea, vomiting, and diarrhea.
+
+Follow-Up Plan:
+	Carmen Encarnacion will be followed up every 3 months for the first 2 years, then every 6 months thereafter. He will continue on oral metformin for his diabetes and amlodipine for his hypertension, with close monitoring for any potential interactions with his chemotherapy medications. A low-fiber diet is recommended to minimize complications with his ileostomy.
+
+Patient Education:
+	Carmen Encarnacion was educated about the importance of regular follow-ups, early detection of recurrence, and managing ongoing health issues related to his diabetes and hypertension. He was instructed on post-surgical care, including ileostomy management, recognizing signs of complications such as obstruction or leakage, and managing common side effects of chemotherapy like fatigue, neuropathy, and ototoxicity.
+
+Discharge Instructions:
+	Carmen Encarnacion was provided with comprehensive discharge instructions covering medication adherence, wound care practices for his ileostomy site, hydration guidelines to manage diarrhea, and physical activity recommendations to facilitate recovery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Carmen Encarnacion is guarded due to the advanced stage of his cancer at diagnosis. Regular monitoring for early detection of recurrence is crucial, as is managing ongoing health issues related to diabetes and hypertension.
+
+Final Remarks:
+	I commend Carmen Encarnacion for his courage and resilience throughout this challenging journey. His cooperation and adherence to the treatment plan have been instrumental in his recovery thus far. I encourage him to continue this positive attitude, stay committed to his follow-up appointments, and seek prompt medical attention if any concerns arise.

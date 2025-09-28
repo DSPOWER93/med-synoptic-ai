@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Robertson
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M161
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Thomasina Toupin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Michael Robertson, a 43-year-old male, was admitted to our institution due to persistent lower abdominal pain and rectal bleeding, accompanied by unexplained weight loss over the past two months. The initial assessment revealed abnormalities in his complete blood count (CBC), with a significant drop in hemoglobin levels. Additional investigations, including a colonoscopy and computed tomography (CT) scan, confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Robertson has a medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015 and has a family history of colorectal cancer. Allergic to penicillin and sulfa drugs, he was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology from the colonoscopy biopsy revealed moderately differentiated adenocarcinoma. The CT scan showed a large mass in the sigmoid colon with regional lymph node involvement. Blood tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Robertson. This included a partial colectomy with a right hemicolectomy, creation of an ileal conduit, six cycles of adjuvant chemotherapy (FOLFOX), and radiation therapy to the abdomen and pelvis. The patient was managed post-operatively with pain control, nutritional support, and regular monitoring for complications.
+
+Hospital Course:
+	Mr. Robertson had an initial recovery period following surgery, during which he was closely monitored for complications such as anastomotic leakage and ileus. Challenges faced during the hospital stay included managing post-operative pain and addressing nutritional deficiencies. Therapy sessions were initiated to improve his mobility and strengthen his core muscles.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Robertson will be scheduled for regular follow-up appointments with the oncology team, including oncologists and surgeons. He will continue taking oral chemotherapy, adjusting medications as necessary to manage his hypertension and diabetes. Lifestyle recommendations include a low-fiber diet, regular exercise, and avoiding alcohol. Warning signs requiring immediate medical attention include severe abdominal pain, fever, and changes in bowel habits.
+
+Patient Education:
+	Education provided to Mr. Robertson and his family included instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy.
+
+Discharge Instructions:
+	Discharge instructions were provided to ensure Mr. Robertson's continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Robertson's long-term survival. Managing ongoing health issues such as diabetes and hypertension will be essential in maintaining his overall health.
+
+Final Remarks:
+	I would like to commend Mr. Robertson for his resilience and cooperation throughout the treatment journey. His active participation in his care has been instrumental in achieving a successful outcome. I am confident that with continued follow-up, he will continue to improve and manage his health effectively.

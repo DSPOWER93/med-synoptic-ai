@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Cisneros
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1018
+	•Date of Admission: 04/02/2022
+	•Date of Discharge: 07/03/2022
+	•Attending Physician: Dr. Carolyn Schacht
+	•Primary Diagnosis: Colorectal Cancer, Stage III (T4aN1M0)
+
+Reason for Admission:
+	Michael Cisneros presented to the Michael Cisneros complaining of a persistent lower abdominal pain, rectal bleeding, and unexplained weight loss over the past three months. On physical examination, a palpable mass was found in the lower abdomen, and laboratory tests revealed elevated carcinoembryonic antigen (CEA) levels. Further investigations, including computed tomography (CT), confirmed the presence of a large tumor in the sigmoid colon, with metastasis to one lymph node.
+
+Medical History:
+	Mr. Cisneros has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His family history is notable for colon cancer, with his father being diagnosed at age 60. Mr. Cisneros has a known allergy to penicillin and is currently taking metformin, lisinopril, and albuterol inhaler.
+
+Diagnostic Findings:
+	Pathology of the resected specimen confirmed the diagnosis of moderately differentiated adenocarcinoma of the sigmoid colon. Imaging studies revealed a 7 cm tumor with extension into the abdominal wall and regional lymph node metastasis. Blood tests showed anemia, hyperglycemia, and elevated CEA levels.
+
+Treatment Plan:
+	Mr. Cisneros underwent an elective left hemicolectomy with en bloc resection of the sigmoid colon, regional lymph nodes, and partial abdominal wall resection. He received post-operative care, including intravenous fluids, pain management, and nutritional support. The surgical team decided on a six-cycle adjuvant chemotherapy regimen consisting of oxaliplatin, leucovorin, and 5-fluorouracil (FOLFOX). Radiation therapy was deemed unnecessary based on the staging results.
+
+Hospital Course:
+	Following surgery, Mr. Cisneros experienced a smooth recovery with no significant complications. He required short-term oxygen supplementation due to his pre-existing COPD. Over the course of his hospital stay, he received therapy sessions for mobility and respiratory function improvement. His nutritional status was closely monitored, and dietary adjustments were made to ensure adequate caloric intake and appropriate macronutrient distribution.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Cisneros will continue on the FOLFOX chemotherapy regimen for six cycles. He is scheduled for outpatient follow-up appointments with his oncologist every three months for the first two years and then annually thereafter. His diabetic medications have been adjusted based on blood glucose levels, and he is advised to maintain a healthy diet low in processed foods and high in fruits, vegetables, lean proteins, and whole grains. He is also encouraged to participate in moderate physical activity daily for cardiovascular health.
+
+Patient Education:
+	Mr. Cisneros was educated on the importance of adhering to his chemotherapy regimen, maintaining a healthy diet, and engaging in regular physical activity. Instructions were provided regarding post-surgical care, including ileostomy management, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Cisneros was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of contacts for questions or concerns regarding his health, including his oncologist, primary care physician, and colorectal cancer support groups.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Cisneros is favorable given the complete surgical resection of the tumor and adjuvant chemotherapy. Regular monitoring for early detection of recurrence is crucial, as is managing ongoing health issues such as diabetes and COPD.
+
+Final Remarks:
+	Dr. Carolyn Schacht would like to express her appreciation for Mr. Cisneros's courage throughout this challenging journey. She emphasizes the importance of continuing the prescribed treatments and maintaining a healthy lifestyle. With cooperation and determination, Mr. Cisneros has an excellent chance at overcoming colorectal cancer and living a long, healthy life.

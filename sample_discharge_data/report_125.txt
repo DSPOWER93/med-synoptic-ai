@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Edna Haza
+	•Date of Birth: 01/10/1975
+	•Medical Record Number: M125
+	•Date of Admission: 03/12/2023
+	•Date of Discharge: 05/17/2023
+	•Attending Physician: Dr. Leroy Mccormick
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Edna Haza presented to the emergency room complaining of persistent abdominal pain, unintentional weight loss, and a change in bowel habits over the past three months. Upon initial assessment, he was found to be anemic with a palpable mass on physical examination. A series of diagnostic investigations were initiated, including a CT scan, which confirmed the presence of a large colon tumor and multiple liver metastases, leading to the diagnosis of Edna Haza Edna Haza.
+
+Medical History:
+	Mr. Haza has a history of hypertension, diabetes, and COPD. He underwent a partial colectomy for diverticulitis ten years ago. His family history is significant for colorectal cancer, as his father passed away from the disease at the age of 65. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and fluticasone.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the colon. CT scans showed a large tumor in the transverse colon with multiple liver metastases. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels, anemia, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Haza. This included a total colectomy with primary anastomosis, followed by six cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy and radiation therapy to the liver metastases. Post-operative care involved pain management, wound care, and nutritional support.
+
+Hospital Course:
+	Mr. Haza underwent a successful total colectomy on March 20, 2023. Post-operatively, he faced challenges with pain management and anemia. He received blood transfusions and was managed with opioids for pain. Therapy played a crucial role in his recovery. Nutritional support was provided to manage his weight loss. The disease progression was closely monitored during his hospital stay.
+
+Follow-Up Plan:
+	Mr. Haza will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking metformin and lisinopril, but his diabetes management plan will be adjusted to account for his reduced appetite. A low-fiber diet is recommended, along with regular exercise. He was also educated on signs of complications such as bowel obstruction or perforation, and how to manage common side effects of chemotherapy.
+
+Patient Education:
+	Mr. Haza and his family were educated about the importance of early detection of recurrence and managing ongoing health issues. They were taught how to care for the ileal conduit, recognize signs of complications, and manage common side effects of chemotherapy such as nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Haza was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential to improve outcomes. Mr. Haza's prognosis will depend on the response to chemotherapy and the presence of any remaining metastatic disease.
+
+Final Remarks:
+	Mr. Haza has shown remarkable resilience throughout his treatment journey. We are hopeful that he will continue to respond positively to therapy, and we wish him a speedy recovery and long life in remission. This report is signed by Dr. Leroy Mccormick (Oncologist) on May 17, 2023.

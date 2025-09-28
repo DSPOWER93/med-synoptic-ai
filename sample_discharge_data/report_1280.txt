@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Barjas
+	•Date of Birth: Date of Birth
+	•Medical Record Number: M1280
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Andra Maranda
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	The patient presented with hematuria, or the presence of blood in urine, accompanied by frequent and painful urination. A thorough physical examination revealed abnormalities in the urinary system, leading to additional diagnostic tests such as cystoscopy, intravenous pyelogram (IVP), and computed tomography (CT) scan of the abdomen and pelvis. The diagnostic results confirmed the presence of a large tumor in the bladder, suggesting urothelial carcinoma.
+
+Medical History:
+	[Patient's Name] has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). The patient has undergone multiple surgeries in the past, including an appendectomy and cholecystectomy. There is no significant family history of cancer; however, the patient's mother had diabetes mellitus type 2. [Patient's Name] reported known allergies to penicillin and sulfa drugs. Prior to admission, [Patient's Name] was taking medications for hypertension, diabetes, and COPD management.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy of the bladder tumor confirmed a moderately differentiated urothelial carcinoma. CT scan results showed an irregular mass in the bladder with involvement of the muscularis propria layer, suggesting the tumor has invaded the muscle wall (T2). The patient's complete blood count (CBC) revealed mild anemia, and liver function tests indicated possible hepatic dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for [Patient's Name]. The primary intervention was radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy and radiation therapy. Post-operative care included pain management, fluid balance monitoring, wound care, and nutritional support. Chemotherapy consisted of a regimen involving gemcitabine and cisplatin administered every three weeks for four cycles. The patient was also considered for radiation therapy to address any potential residual tumor or micrometastases, but the final decision was postponed due to recovery from surgery.
+
+Hospital Course:
+	[Patient's Name] underwent radical cystectomy with ileal conduit formation on Day 2 of hospitalization. The surgery was successful, and the immediate recovery was uneventful. However, the patient experienced complications post-operatively, including anastomotic leakage and wound dehiscence. These issues were managed through conservative measures such as antibiotics, fluid resuscitation, and nutritional support. The patient's diabetes and hypertension were carefully monitored during hospitalization and managed accordingly.
+
+Follow-Up Plan:
+	Post-discharge, [Patient's Name] will be scheduled for regular outpatient appointments every three months for the first year, then semi-annually thereafter. The patient is to continue taking medications for diabetes and COPD management, with potential adjustments based on lab results. A low-fat, low-protein diet is recommended to minimize complications related to the ileal conduit. Warning signs such as fever, persistent abdominal pain, or changes in urine output require immediate medical attention.
+
+Patient Education:
+	[Patient's Name] and their family were educated on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. Instructions were given to recognize signs of complications such as leakage or obstruction of the ileal conduit, as well as managing common side effects like nausea, fatigue, and potential hepatic dysfunction.
+
+Discharge Instructions:
+	Prior to discharge, [Patient's Name] was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. The patient was also given information on how to contact the healthcare team for any questions or concerns that may arise post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing [Patient's Name]'s ongoing health. The patient will need to undergo follow-up imaging studies, cystoscopy, and laboratory tests as recommended by the healthcare team. By adhering to a planned lifestyle and dietary regimen, maintaining a positive attitude, and working closely with the healthcare team, [Patient's Name] can improve their chances of a successful recovery and long-term survival.
+
+Final Remarks:
+	The attending physician commends [Patient's Name] for their resilience and cooperation throughout the treatment journey. The physician emphasizes the importance of continued dedication to the prescribed care plan for optimal outcomes. Signed, [Physician's Name], [Date]. Signed, [Patient's Name], [Date].

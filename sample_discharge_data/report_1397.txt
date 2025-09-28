@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Garrett Castro
+	•Date of Birth: 12/01/1985
+	•Medical Record Number: M1397
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 08/01/2022
+	•Attending Physician: Dr. Brian Alexander
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Garrett Castro, a 36-year-old male, presented to the emergency department with complaints of persistent abdominal pain, change in bowel habits, and unexplained weight loss. Upon initial assessment, he exhibited signs of anemia and abnormalities in his abdomen. Further diagnostic investigations, including a colonoscopy, CT scan, and blood tests, confirmed the presence of a colorectal tumor. The cancer was localized to the sigmoid colon and had spread to nearby lymph nodes (T3N2M0).
+
+Medical History:
+	Mr. Castro has a history of hypertension, which is managed with medication. He also has a family history of colorectal cancer, as his father passed away from the disease at the age of 65. Additionally, he has no known allergies and was taking aspirin daily before admission for cardiac health maintenance.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a moderately differentiated adenocarcinoma in the sigmoid colon. Imaging scans indicated that the tumor had invaded through the muscularis propria but had not penetrated the visceral peritoneum (T3). The cancer had spread to 10 of 14 lymph nodes sampled, suggesting a nodal involvement (N2). Blood tests showed anemia (Hb 8.5 g/dL), elevated CEA level (12.5 ng/mL), and normal kidney and liver function.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Castro, which included surgical resection of the tumor followed by chemotherapy. The patient underwent a sigmoid colectomy with primary anastomosis and regional lymph node dissection. Postoperative care was managed by a dedicated nursing staff, and he received total neoadjuvant therapy (TNT) involving FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil, and irinotecan). Radiation therapy was considered but ultimately deemed unnecessary.
+
+Hospital Course:
+	Post-surgery, Mr. Castro experienced some complications, including an ileus that required treatment with nasogastric tube suctioning and intravenous fluids. With proper management, his recovery progressed steadily, and he was eventually discharged in a stable condition.
+
+Follow-Up Plan:
+	Mr. Castro has been scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking aspirin for cardiac health maintenance and undergo CEA level monitoring to screen for recurrence. Dietary modifications have been recommended, including a high-fiber diet and increased fluid intake, along with avoidance of foods that may cause discomfort or constipation.
+
+Patient Education:
+	Mr. Castro and his family were educated about the importance of postoperative care, specifically maintaining the ileal conduit by emptying it regularly and monitoring for signs of complications such as infection, obstruction, or leakage. They were also instructed on how to manage common side effects associated with chemotherapy, including nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Castro was provided detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to take his temperature daily, monitor for signs of infection, and report any concerning symptoms to his healthcare provider immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Castro's ongoing health issues. A positive prognosis has been given considering the successful surgical resection, adherence to chemotherapy regimen, and absence of distant metastasis (M0).
+
+Final Remarks:
+	Dr. Alexander expresses her gratitude for Mr. Castro's resilience throughout the treatment journey and commends his cooperation in adhering to the prescribed care plan. She emphasizes the importance of continuing with regular follow-ups, maintaining a healthy lifestyle, and actively monitoring for any potential complications.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Nutting
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1142
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Frances Dulin
+	•Primary Diagnosis: Colorectal Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Mary Nutting, a 52-year-old male, was admitted to our facility due to persistent lower abdominal pain and rectal bleeding of two weeks duration. The patient reported a change in bowel habits with loose stools and increased frequency. Upon initial assessment, the attending physician noted moderate abdominal tenderness on palpation and ordered a series of diagnostic tests, including complete blood count (CBC), carcinoembryonic antigen (CEA) level, abdominopelvic computed tomography (CT) scan, and colonoscopy. The results confirmed the presence of a mass in the lower sigmoid colon, with signs of local invasion and distant metastasis to the liver.
+
+Medical History:
+	Mr. Nutting has a significant medical history characterized by hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a left hemicolectomy for benign polyps five years prior to his current admission. His family history was notable for colon cancer in his father and uncle. Allergic to penicillin, he was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology results from the surgical resection of the sigmoid colon confirmed the diagnosis of moderately differentiated adenocarcinoma. The CT scan revealed a 5-centimeter mass in the lower sigmoid colon, with regional lymph node involvement and multiple liver metastases. Elevated CEA levels further supported the presence of colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Nutting. This included a primary surgical resection, an ileo-anal anastomosis to create an ileal conduit, and adjuvant chemotherapy with FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) regimen. The patient underwent a successful tumor resection surgery, followed by the construction of the ileal conduit for fecal diversion. Postoperative care involved pain management, antibiotic prophylaxis, and close monitoring for complications such as anastomotic leakage or wound infection.
+
+Hospital Course:
+	During his hospital stay, Mr. Nutting faced several challenges due to the complexity of his medical conditions. He required additional oxygen support for his COPD exacerbation and was closely monitored for blood glucose levels. A nutritionist was consulted to address malnutrition resulting from his bowel resection. The patient made a steady recovery, and by the time of discharge, he was managing his ileal conduit well, with minimal complications.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Nutting will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking metformin and lisinopril as prescribed by his primary care physician but will need to adjust his medications related to his gastrointestinal surgery. A low-residue diet is recommended, along with a focus on maintaining adequate hydration and physical activity levels. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	The patient and his family were provided extensive education regarding the care of the ileal conduit, recognizing potential complications, and managing common side effects such as diarrhea, dehydration, and electrolyte imbalances. They were also informed about the importance of regular monitoring for early detection of recurrence and managing ongoing health issues related to his comorbidities.
+
+Discharge Instructions:
+	Upon discharge, Mr. Nutting was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a contact number for the hospital's 24-hour advice line in case of any concerns or questions.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Nutting is guarded due to the advanced stage of his cancer at diagnosis. Regular monitoring for early detection of recurrence will be crucial, as will managing ongoing health issues related to his comorbidities.
+
+Final Remarks:
+	I would like to acknowledge and commend Mr. Nutting's resilience and cooperation throughout this treatment journey. His determination to fight this disease is truly inspiring. It has been a pleasure working with him, and I have every confidence that he will continue to make progress in his recovery. I wish him the very best for the future.

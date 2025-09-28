@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Merlin Leib
+	•Date of Birth: 10/25/1964
+	•Medical Record Number: M1138
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Sandra Leib
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Leib presented to the Merlin Leib with complaints of hematuria, dysuria, and lower abdominal pain that had persisted for approximately one month prior to admission. Upon initial assessment, his vital signs were stable, but a urinalysis revealed blood in the urine (hematuria) and an elevated white blood cell count. Further diagnostic investigations, including a CT scan of the abdomen and pelvis, revealed a large mass in the bladder with evidence of invasion into adjacent tissues. These findings confirmed the suspicion of bladder cancer.
+
+Medical History:
+	Mr. Leib has a significant past medical history, with a known diagnosis of hypertension and COPD. He underwent coronary artery bypass grafting (CABG) surgery nine years ago. Mr. Leib's father died from lung cancer at the age of 65, while his mother passed away due to a stroke at 72. Allergies include penicillin and sulfa drugs. He was taking medications for hypertension, COPD, and acid reflux prior to admission.
+
+Diagnostic Findings:
+	A CT scan of the abdomen and pelvis demonstrated a large irregular mass in the bladder with evidence of invasion into the muscularis propria and perivesical fat. The lesion measured approximately 7 cm in diameter, with multiple areas of necrosis. An ultrasound-guided fine needle aspiration (FNA) biopsy confirmed the diagnosis of transitional cell carcinoma of the bladder. Pathology results from the surgically resected specimen also supported this diagnosis. Blood tests revealed an elevated white blood cell count, creatinine level, and C-reactive protein (CRP).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Leib, which included radical cystectomy with ileal conduit formation, postoperative chemotherapy, and radiation therapy. Following the surgery, Mr. Leib was managed in the intensive care unit (ICU) due to postoperative complications. He required transfusions of packed red blood cells and platelets. His recovery was slow, but he gradually improved over time with aggressive pain management, nutritional support, and physical therapy. Chemotherapy was initiated as an outpatient four weeks following the surgery, consisting of a platinum-based regimen. The radiation oncology team recommended postoperative radiation therapy to reduce the risk of local recurrence.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Leib to ensure optimal management of his condition. He will undergo regular urologic examinations, cystoscopies, and imaging studies to monitor for signs of disease recurrence. Medications including analgesics for pain management, antacids for gastroesophageal reflux, and hypertensive medications will continue as needed. Lifestyle modifications include maintaining a healthy diet, quitting smoking (if applicable), and engaging in regular exercise to improve overall health. Mr. Leib should report any signs of abnormal urinary symptoms, fever, or persistent pain to his healthcare providers.
+
+Patient Education:
+	Mr. Leib and his family were provided comprehensive education about the treatment options, management of his ileal conduit, recognition of complications, and managing common side effects such as fatigue, nausea, and diarrhea. He was also instructed on proper wound care practices, hydration, and physical activity guidelines to promote healing and prevent infection.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Leib received detailed instructions on medication adherence, wound care practices, dietary modifications, and guidelines for increasing physical activity. He was educated on the importance of following up with his healthcare providers as scheduled, maintaining a healthy lifestyle, and seeking medical attention promptly if any concerning symptoms arise.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing bladder cancer. Mr. Leib will require long-term follow-up care to address ongoing health issues related to his condition, such as sexual dysfunction, urinary incontinence, and potential complications with the ileal conduit. With adherence to treatment recommendations, a good prognosis is possible for Mr. Leib.
+
+Final Remarks:
+	Dr. Sandra Leib commends Mr. Leib for his resilience and cooperation throughout the treatment journey. The healthcare team is confident that Mr. Leib will continue to progress well in his recovery with adherence to the prescribed follow-up plan. It is crucial that Mr. Leib remains diligent in managing his condition, as early detection of recurrence can lead to more favorable outcomes.

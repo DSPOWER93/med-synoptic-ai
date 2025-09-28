@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wanda Morris
+	•Date of Birth: 03/17/1970
+	•Medical Record Number: M160
+	•Date of Admission: 09/08/2021
+	•Date of Discharge: 11/12/2021
+	•Attending Physician: Dr. Shizue Jackson
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIB
+
+Reason for Admission:
+	Wanda Morris presented with a six-month history of lower abdominal pain, changes in bowel habits, and weight loss. Upon initial assessment, a large mass was palpable in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. Further investigations included computed tomography (CT), magnetic resonance imaging (MRI), and a colonoscopy that confirmed the diagnosis of Wanda Morris colorectal cancer.
+
+Medical History:
+	Wanda Morris has a history of hypertension, managed with lisinopril 10mg daily, and type 2 diabetes mellitus controlled with metformin 850mg twice daily. He also has chronic obstructive pulmonary disease (COPD), which requires regular inhalation therapy with a combination of salmeterol and fluticasone. John had a total hip replacement surgery in 2015, and he is allergic to penicillin.
+
+Diagnostic Findings:
+	The CT scan revealed a large tumor in the sigmoid colon, with multiple enlarged lymph nodes in the mesocolon and pelvis. MRI confirmed the tumor's invasion into the surrounding tissues. Pathology results from the biopsy showed moderately differentiated adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Wanda Morris, which included a partial colectomy, followed by chemotherapy and radiation therapy. The surgery was performed on September 20, 2021. Post-operative care involved management of pain, wound care, and prevention of complications such as deep vein thrombosis (DVT). John received a combination of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) chemotherapy for 12 cycles, with the first cycle starting on October 5, 2021. Radiation therapy was initiated on November 1, 2021, and continued for five weeks.
+
+Hospital Course:
+	Wanda Morris's initial recovery from surgery was uneventful; however, he developed a fever on the seventh post-operative day, which resolved after antibiotic treatment. He also experienced nausea and vomiting during chemotherapy cycles, which were managed with anti-emetic medications. John required nutritional support in the form of total parenteral nutrition (TPN) for two weeks due to poor oral intake. His diabetes and hypertension were well-controlled throughout his hospital stay.
+
+Follow-Up Plan:
+	Wanda Morris will be followed up every three months by his oncologist, with CT scans every six months. He will continue the FOLFOX chemotherapy for another 12 cycles and complete radiation therapy. Lifetime follow-up is essential for early detection of recurrence.
+
+Patient Education:
+	Wanda Morris and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, vomiting, diarrhea, and constipation. They were also instructed on maintaining a healthy diet and regular exercise routine to improve overall health and quality of life.
+
+Discharge Instructions:
+	Wanda Morris was discharged with prescriptions for oral analgesics, anti-emetics, and antibiotics as needed. He was educated on wound care practices, hydration, and physical activity guidelines to promote healing and prevent complications. A follow-up appointment with the surgeon was scheduled for two weeks post-discharge, and subsequent appointments were planned according to the oncologist's recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Wanda Morris's long-term survival. Managing ongoing health issues such as hypertension and diabetes will also contribute to his overall wellbeing.
+
+Final Remarks:
+	This report highlights Wanda Morris's successful treatment journey for colorectal cancer, Wanda Morris. His resilience and cooperation throughout the process have been commendable. We wish him a speedy recovery and long, healthy life.

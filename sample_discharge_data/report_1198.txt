@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Regina Breaud
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1198
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Lois Singletary
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Breaud presented to the emergency department with complaints of lower abdominal pain, persistent diarrhea, and unintentional weight loss over a three-month period. His initial assessment revealed abdominal distention, tenderness, and a palpable mass in the lower abdomen. Subsequent imaging studies, including a CT scan and colonoscopy, confirmed the diagnosis of colorectal cancer. The tumor was located in the sigmoid colon and had invaded into adjacent tissues.
+
+Medical History:
+	Mr. Breaud has a past medical history significant for hypertension and Type 2 diabetes, both well-controlled with medications. He is a lifelong non-smoker but has a family history of colorectal cancer, as his father died from the disease at age 65. He has no known allergies. His pre-admission medications included lisinopril (20mg daily), metformin (850mg twice daily), and aspirin (81mg daily).
+
+Diagnostic Findings:
+	Surgical pathology confirmed the diagnosis of moderately differentiated adenocarcinoma. The tumor measured 7cm in diameter, with involved lymph nodes identified on histopathological examination. Blood tests showed elevated levels of CEA (15.6ng/mL) and CA 19-9 (52 U/mL).
+
+Treatment Plan:
+	A multidisciplinary team, including surgeons, medical oncologists, radiation oncologists, and radiologists, developed a treatment plan for Mr. Breaud. He underwent a left hemicolectomy with primary anastomosis followed by 12 cycles of adjuvant FOLFOX (5-FU, leucovorin, oxaliplatin) chemotherapy. Radiation therapy was not deemed necessary due to the absence of positive margins and negative lymph nodes on final pathology.
+
+Hospital Course:
+	Mr. Breaud's postoperative recovery was uncomplicated. He received aggressive pain management, nutritional support, and physical therapy to improve his mobility. During his hospital stay, he was monitored closely for signs of complications, such as anastomotic leak or infection.
+
+Follow-Up Plan:
+	Mr. Breaud will return for outpatient appointments every three months for the first two years following discharge, then every six months thereafter. His medications will be adjusted as necessary, and he will be monitored for any signs of recurrence or new primary cancers. He has been educated on a low-fiber diet and the importance of regular exercise to maintain a healthy weight.
+
+Patient Education:
+	Mr. Breaud was provided with detailed instructions regarding post-surgical care, including managing his ileal conduit, recognizing signs of complications (such as fever, abdominal pain, or diarrhea), and managing common side effects of chemotherapy (nausea, fatigue, and neutropenia).
+
+Discharge Instructions:
+	Upon discharge, Mr. Breaud was given detailed written instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with resources for support and education on colorectal cancer survivorship.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Breaud is good, as he has undergone a complete resection of his tumor and received adjuvant chemotherapy. Regular monitoring will be essential to detect any recurrence early and maintain his long-term health.
+
+Final Remarks:
+	Dr. Singletary commends Mr. Breaud for his courage and resilience throughout his treatment journey. She emphasizes the importance of continued follow-up care and encourages him to maintain a positive attitude as he moves forward in his recovery. Both the patient and physician have signed this report on 04/25/2022.

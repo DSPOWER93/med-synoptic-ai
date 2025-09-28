@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wayne Sowers
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1032
+	•Date of Admission: 02/03/2023
+	•Date of Discharge: 05/05/2023
+	•Attending Physician: Dr. Mary Hopper
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Sowers presented to the emergency department with a two-month history of abdominal pain, constipation, and rectal bleeding. On initial assessment, he appeared lethargic and had significant weight loss. A series of diagnostic tests, including a CT scan and a colonoscopy, revealed a large mass in his sigmoid colon and multiple lymph nodes positive for malignancy.
+
+Medical History:
+	Mr. Sowers has a history of hypertension, controlled with medication, and he is a long-term smoker. He had a cholecystectomy performed in 2015 due to gallstones. There is no significant family history of cancer. Before admission, he was taking Ramipril for his hypertension and Varenicline for nicotine cessation.
+
+Diagnostic Findings:
+	Pathology results from the surgical excision of the sigmoid colon confirmed an adenocarcinoma. Imaging scans, including a PET-CT scan, revealed no evidence of distant metastasis; however, multiple lymph nodes were affected. Blood tests showed elevated levels of CEA (Carcinoembryonic Antigen) and CA 19-9.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sowers. He underwent a partial colectomy, followed by a permanent ileostomy (ileal conduit). Post-operative care included wound management, pain control, and nutritional support via total parenteral nutrition. The oncology team initiated a FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy regimen with six cycles planned. Radiation therapy was also considered but ultimately deemed unnecessary based on the extent of disease and response to chemotherapy.
+
+Hospital Course:
+	Mr. Sowers's initial recovery from surgery was challenging due to post-operative complications, including anastomotic leak and ileus. However, with aggressive management, he made significant progress over the course of his hospital stay. He was eventually able to tolerate oral intake and began a rehabilitation program focusing on ambulation and strengthening exercises.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Sowers will undergo regular follow-up appointments with the surgical oncologist and oncologist. He will continue FOLFOX chemotherapy as scheduled, with close monitoring for side effects such as neutropenia, neuropathy, and nausea. Lifestyle recommendations include quitting smoking, maintaining a balanced diet low in fat and high in fiber, and regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or unexplained weight loss.
+
+Patient Education:
+	Mr. Sowers and his family were provided with comprehensive education regarding post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy. They were also counseled on the importance of quitting smoking and maintaining a healthy lifestyle to improve long-term outcomes.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sowers was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for cancer survivors and a schedule of follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Mr. Sowers's long-term outlook is dependent on the successful completion of his chemotherapy regimen and regular monitoring for signs of recurrence. Regular monitoring will help ensure early detection and prompt treatment if necessary.
+
+Final Remarks:
+	Dr. Hopper concludes this report, acknowledging Mr. Sowers's resilience throughout his treatment journey. She emphasizes the importance of continued cooperation in completing his chemotherapy and maintaining a healthy lifestyle to improve long-term outcomes. Signed Dr. Mary Hopper, M.D., 05/06/2023; Patient Wayne Sowers, 05/07/2023.

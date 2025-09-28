@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Teresa Armstrong
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1258
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Dr. Rodriguez
+	•Primary Diagnosis: Urothelial Carcinoma of the Bladder (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Armstrong presented to the emergency department with persistent hematuria, pain in lower abdomen, and frequency of urination. Initial investigations revealed a large mass in the bladder. Subsequent imaging studies confirmed the presence of a malignant growth, prompting an immediate surgical intervention for a radical cystectomy.
+
+Medical History:
+	Mr. Armstrong's past medical history was significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone laparoscopic cholecystectomy in 2013. His family history was notable for colon cancer in his father at age 65. He had a known allergy to penicillin and contrast agents. Before admission, he was taking metformin, amlodipine, lisinopril, salmeterol/fluticasone, and albuterol as needed for COPD exacerbations.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of Urothelial Carcinoma (T4N0M0), with lymphovascular invasion. Imaging scans showed a large, irregular mass in the bladder, encroaching on the adjacent organs. Blood tests revealed elevated creatinine levels, indicating possible renal dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Armstrong. The primary intervention was an open radical cystectomy with ileal conduit diversion. Post-operative care included management of pain, wound care, and prevention of infection. After recovery from surgery, Mr. Armstrong began adjuvant chemotherapy, using a regimen of Gemcitabine and Cisplatin for four cycles. Radiation therapy was not deemed necessary due to the extent of disease.
+
+Hospital Course:
+	Mr. Armstrong's initial recovery from surgery was complicated by post-operative ileus and electrolyte imbalances, requiring supportive care. He underwent physical therapy and respiratory treatment for COPD exacerbations. Nutritional support was provided to maintain adequate caloric intake. The patient exhibited a strong will to recover and cooperated fully with the medical team throughout his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Armstrong is scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking metformin, lisinopril, and amlodipine. He is advised to maintain a low-salt diet and monitor his blood sugar levels closely. If any symptoms of infection or recurrence arise, he should seek immediate medical attention.
+
+Patient Education:
+	Mr. Armstrong and his family were provided extensive education on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. They were instructed on managing the ileal conduir, recognizing signs of complications such as infection or obstruction, and strategies for managing common side effects of chemotherapy, such as nausea and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Armstrong was given detailed instructions on medication adherence, wound care practices, and hydration guidelines. He was instructed to maintain a balanced diet rich in fiber and low in salt to support kidney function. Physical activity recommendations included gradually increasing activities over the course of several weeks, with a focus on avoiding heavy lifting or straining.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Armstrong is guarded due to the advanced stage of his cancer at the time of diagnosis. Regular monitoring for early detection of recurrence will be crucial in managing his ongoing health issues.
+
+Final Remarks:
+	This report documents the treatment journey of Teresa Armstrong, a resilient and cooperative patient who faced a challenging diagnosis with courage and determination. We are confident that Mr. Armstrong will continue to make progress in his recovery and look forward to supporting him in his ongoing care.

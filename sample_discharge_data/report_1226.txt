@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jay Quesenberry
+	•Date of Birth: 12/06/1985
+	•Medical Record Number: M1226
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Charles Egan
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Jay Quesenberry was admitted to our facility after experiencing persistent lower back pain and increased urinary frequency over a period of three months. Upon initial examination, a visible hematuria (blood in the urine) was observed, prompting further diagnostic investigations. Subsequent cystoscopy revealed a suspicious lesion in the bladder, leading to a biopsy confirming the diagnosis of urothelial carcinoma.
+
+Medical History:
+	Mr. Quesenberry has a history of hypertension and COPD, both of which are under control with prescribed medications. He has had a total hysterectomy in 2016 due to uterine cancer. His family history is significant for breast cancer in his mother and sister, as well as colon cancer in his father. Mr. Quesenberry reports no known allergies and was taking metoprolol, salmeterol, and fluticasone before admission.
+
+Diagnostic Findings:
+	A CT scan of the abdomen and pelvis revealed a 4 cm mass in the bladder, as well as multiple enlarged lymph nodes in the pelvic region. Pathology results from the biopsy indicated moderately differentiated urothelial carcinoma with no evidence of muscle invasion (pTa).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Quesenberry. Given the extent of the tumor and the lack of muscle invasion, a radical cystectomy was performed, followed by an ileal conduit diversion. Post-operative care included pain management, fluid and electrolyte balance, and nutritional support to aid in recovery.
+
+Hospital Course:
+	Mr. Quesenberry's recovery from surgery was uneventful, with no major complications noted. The patient received physical therapy to aid in regaining mobility and strength, as well as occupational therapy for ileal conduit management education. Nutritional support and monitoring of renal function were also crucial components of the care provided during his hospital stay.
+
+Follow-Up Plan:
+	A follow-up plan has been established to ensure close monitoring of Mr. Quesenberry's health. This includes scheduled outpatient appointments, continued administration of prescribed medications, and dietary and lifestyle recommendations to maintain overall health. Specific warning signs requiring immediate medical attention include fever, worsening pain, changes in urine color or frequency, and signs of renal dysfunction.
+
+Patient Education:
+	Mr. Quesenberry and his family were provided extensive education on post-surgical care, ileal conduit management, and recognizing signs of complications. They were also instructed on managing common side effects associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Quesenberry was given detailed instructions to ensure his continued recovery and health maintenance. This includes medication adherence, wound care practices, proper hydration, and guidelines for physical activity.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing ongoing health issues related to urothelial carcinoma.
+
+Final Remarks:
+	Mr. Quesenberry displayed remarkable resilience and cooperation throughout his treatment journey. We are confident that he will continue to make progress as he navigates the recovery process.

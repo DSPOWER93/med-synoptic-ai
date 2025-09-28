@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: William Erickson
+	•Date of Birth: 07/05/1980
+	•Medical Record Number: M1401
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Sandra Bennett
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	William Erickson was admitted to the hospital due to increasing abdominal pain, changes in bowel habits, and unintended weight loss over the past three months. Upon initial assessment, a thorough physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). Further diagnostic investigations including computed tomography (CT) scan and colonoscopy confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	William Erickson has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015 and has a family history of colorectal cancer. Known allergies include penicillin, and he was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a large, irregular mass in the sigmoid colon with multiple enlarged lymph nodes. Imaging studies also indicated possible metastasis to the liver and lung. Blood tests showed elevated levels of CEA (20 ng/mL) and LDH (346 U/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Erickson, which included surgical resection of the tumor followed by adjuvant chemotherapy and radiation therapy. The patient underwent a low anterior resection surgery with the formation of an ileal conduit. Post-operative care involved pain management, wound care, and nutritional support. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, fluorouracil), with a total of six cycles planned.
+
+Hospital Course:
+	Following surgery, Mr. Erickson's recovery was monitored closely. He faced challenges with post-operative pain management and nausea but responded well to adjustments in his pain regimen and anti-emetic medications. Chemotherapy was initiated on day 10 following surgery, and the patient completed two cycles without significant complications.
+
+Follow-Up Plan:
+	A post-discharge follow-up plan has been designed for Mr. Erickson, which includes scheduled outpatient appointments every three months for the first year, six-monthly appointments thereafter, and annual colonoscopies. He will continue on oral metformin and lisinopril, while his hypertension and diabetes management plans will be adjusted as needed. Lifestyle recommendations include quitting smoking, maintaining a balanced diet, and regular physical activity.
+
+Patient Education:
+	Mr. Erickson was educated about the importance of adhering to his medication regimen, monitoring for signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like fatigue, nausea, and diarrhea. He was also instructed on post-surgical care of the ileal conduit and recognizing signs of leakage or infection.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Erickson received detailed instructions on medication adherence, wound care practices, maintaining hydration, and guidelines for physical activity. He was also advised to report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Erickson's long-term prognosis. He will be closely followed by his oncology team to manage ongoing health issues related to diabetes, hypertension, and COPD.
+
+Final Remarks:
+	Dr. Bennett concluded the report by acknowledging Mr. Erickson's resilience throughout his treatment journey and emphasizing the importance of continued cooperation for optimal health outcomes. Both the patient and physician signed the report on 15/01/2022, validating its accuracy and completeness.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rita Barnes
+	•Date of Birth: 12/05/1960
+	•Medical Record Number: M1113
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Brittany Cox
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Rita Barnes, a 61-year-old male, was admitted to our facility on 01/01/2022 due to persistent lower abdominal pain and hematuria (blood in urine) over the past month. Upon initial assessment, his vital signs were stable with a heart rate of 85 bpm, blood pressure of 140/90 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 97% on room air. A thorough examination revealed an abdominal mass that was tender to palpation. Further investigations, including a CT scan and cystoscopy, confirmed the presence of a bladder tumor.
+
+Medical History:
+	Mr. Barnes has a significant past medical history, with hypertension controlled by medication, type 2 diabetes mellitus managed through diet and oral hypoglycemics, and chronic obstructive pulmonary disease (COPD) exacerbated by smoking. He underwent a cholecystectomy for gallstones in 2015. Mr. Barnes has no known allergies and was on daily medications including Atenolol, Metformin, and Salmeterol/Fluticasone prior to admission.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) revealed a high-grade transitional cell carcinoma. Imaging studies, such as CT scans and MRI, showed a 4 cm mass in the bladder with local invasion and no evidence of distant metastasis. Blood tests indicated elevated creatinine levels (1.7 mg/dL), suggesting renal impairment potentially related to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Barnes, which included radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy. Post-operative care involved management of pain, wound infection, and nutritional support. The patient was also advised about the potential need for radiation therapy based on the pathology report.
+
+Hospital Course:
+	Mr. Barnes underwent a successful radical cystectomy with ileal conduit diversion on 03/01/2022. The post-operative period was complicated by a wound infection that required debridement and dressing changes. He also experienced episodes of hypoglycemia due to insulin sensitivity, which were managed through adjustments in his medication regimen.
+
+Follow-Up Plan:
+	Mr. Barnes will be scheduled for regular outpatient appointments every three months for the first year, then six monthly thereafter. He is to continue taking Atenolol and Salmeterol/Fluticasone and adjust his Metformin dosage as needed based on blood glucose levels. A low-sodium and high-protein diet is recommended to support kidney function. Mr. Barnes should avoid heavy lifting, strenuous exercise, and sexual activity for six weeks following surgery. Any signs of fever, increased abdominal pain, changes in urinary output, or worsening renal function require immediate medical attention.
+
+Patient Education:
+	Education was provided to Mr. Barnes on the management of his ileal conduit, including emptying techniques, odor control measures, and signs of complications such as leakage, pain, or fever. Instructions were also given on recognizing common side effects of chemotherapy, such as nausea, fatigue, and neutropenia.
+
+Discharge Instructions:
+	Upon discharge, Mr. Barnes was provided with detailed instructions on medication adherence, wound care practices, dietary recommendations, hydration guidelines, and physical activity restrictions. He was also advised to avoid smoking and maintain a healthy weight.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in the management of bladder cancer. Mr. Barnes's active participation in follow-up appointments, adherence to medication regimen, dietary recommendations, and lifestyle modifications will play a significant role in his long-term outcomes.
+
+Final Remarks:
+	Dr. Cox would like to express her gratitude for Mr. Barnes's resilience throughout this challenging treatment journey. She encourages him to continue taking an active role in managing his health, and looks forward to seeing him at his follow-up appointments.

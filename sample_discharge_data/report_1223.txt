@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Emory Vazquez
+	•Date of Birth: 03/02/1975
+	•Medical Record Number: M1223
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Patricia Johnson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Emory Vazquez presented to the emergency department with a two-month history of intermittent abdominal pain, persistent fatigue, and unexplained weight loss of approximately 20 pounds. On admission, her vital signs were stable, but a digital rectal examination revealed an irregular mass in the lower abdomen. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and cancer antigen 125 (CA-125), confirming a suspicion of colorectal cancer. Further investigations, including a computed tomography scan and colonoscopy, were performed to determine the extent of the disease.
+
+Medical History:
+	Emory Vazquez has been previously diagnosed with hypertension and asthma, for which she is currently controlled on prescribed medications. She has no history of cancer in her family. She underwent a cholecystectomy in 2015 due to gallstones. She has no known allergies and was not taking any medication prior to admission.
+
+Diagnostic Findings:
+	The colonoscopy revealed an invasive adenocarcinoma of the sigmoid colon, with lymph node involvement. The computed tomography scan showed a large mass in the sigmoid colon, with multiple enlarged lymph nodes throughout the abdomen and liver metastases.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Emory Vazquez. She underwent a laparoscopic sigmoid colectomy followed by an ileo-rectal anastomosis. Postoperative care included antibiotics, pain management, and close monitoring of her hypertension and asthma. Emory also received adjuvant chemotherapy consisting of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) for six cycles to reduce the risk of recurrence. Additionally, a decision was made to pursue radiation therapy to the liver metastases.
+
+Hospital Course:
+	Emory Vazquez's initial recovery from surgery was uneventful, but she experienced several challenges during her hospital stay. These included postoperative ileus, which responded well to conservative management and eventual transition to a clear liquid diet. Her asthma required adjustment of her medications, and her blood pressure remained stable throughout the hospital course.
+
+Follow-Up Plan:
+	Emory Vazquez will return for regular follow-up appointments every three months for the first two years, then every six months thereafter. She will continue on her current hypertension medication and asthma inhaler. She has been advised to maintain a healthy diet, low in fat and high in fiber, and engage in regular physical activity as tolerated. Any sudden or persistent abdominal pain, changes in bowel habits, unexplained weight loss, or rectal bleeding should prompt an immediate medical evaluation.
+
+Patient Education:
+	Emory Vazquez and her family were educated on post-surgical care, including wound care practices, hydration, and dietary guidelines. They were instructed on the management of the ileal conduit and signs of complications such as obstruction, leakage, or infection. Emory was also provided education on managing common side effects of chemotherapy and radiation therapy.
+
+Discharge Instructions:
+	Upon discharge, Emory Vazquez was given clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. She was advised to monitor her blood pressure regularly and contact her primary care provider if any concerns arise.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Emory Vazquez's long-term health. Close follow-up, adherence to prescribed medications, a healthy lifestyle, and prompt evaluation of concerning symptoms will help minimize the risk of recurrence and improve her overall prognosis.
+
+Final Remarks:
+	Emory Vazquez has shown remarkable resilience and cooperation throughout her treatment journey. I am confident that she will continue to thrive and adapt to her new normal as she moves forward in her recovery. I extend my sincere appreciation to the entire healthcare team who have supported Emory during this challenging time, and my best wishes for a speedy and full recovery.

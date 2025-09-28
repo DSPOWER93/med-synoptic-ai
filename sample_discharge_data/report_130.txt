@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephen Buster
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M130
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Jaime Henshaw
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Stephen Buster, a 57-year-old male, was admitted to our facility complaining of blood in urine and frequent, painful urination. Upon initial assessment, he exhibited signs of mild abdominal pain, fatigue, and loss of appetite. Further investigation, including laboratory tests, ultrasound, CT scan, and cystoscopy, confirmed the presence of a 4cm TCC mass in his bladder. The severity of symptoms warranted immediate intervention to prevent potential complications.
+
+Medical History:
+	Mr. Buster has a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee replacement surgery in 2015. His family history is notable for colon cancer in his father at age 65 and breast cancer in his mother at age 73. Allergies include penicillin, and he was on various medications including metformin, lisinopril, albuterol, and tiotropium before admission.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of TCC. The CT scan revealed no distant metastases but did indicate regional lymph node involvement. Blood tests showed elevated creatinine and urea levels, indicative of kidney impairment due to the tumor.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by our multidisciplinary team. Mr. Buster underwent a radical cystectomy with ileal conduit creation, followed by adjuvant chemotherapy with a regimen of MVAC (Methotrexate, Vinblastine, Doxorubicin, and Cisplatin) for six cycles. Radiation therapy was not deemed necessary due to the extent of surgical resection.
+
+Hospital Course:
+	Post-operatively, Mr. Buster experienced complications related to his hypertension and COPD. He required close monitoring and adjustment of his medications. His condition stabilized over the next few days, and he started participating in physical therapy to aid recovery.
+
+Follow-Up Plan:
+	Mr. Buster will be scheduled for regular follow-up appointments every three months for the first year, then six-monthly thereafter. He is to continue his current medications, including metformin, lisinopril, albuterol, and tiotropium, with close monitoring for any adverse effects or changes in kidney function. A low-sodium, low-protein diet is recommended, along with adequate hydration. Any signs of hematuria, painful urination, or abdominal pain warrant immediate medical attention.
+
+Patient Education:
+	Mr. Buster and his family were educated about the importance of post-surgical care, including managing the ileal conduir, recognizing signs of complications such as fever, chills, or persistent abdominal pain, and managing common side effects like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Mr. Buster was provided comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial, as TCC is prone to recurrence. Lifelong management of comorbidities such as hypertension and diabetes will be essential for maintaining overall health.
+
+Final Remarks:
+	Mr. Buster has shown remarkable resilience throughout his treatment journey. I commend him for his cooperation and dedication to following the treatment plan. It is my hope that he continues this positive outlook and commitment to his ongoing health and recovery. Signed, Dr. Jaime Henshaw (Date 15/01/2022) // Signed, Stephen Buster (Date 15/01/2022)

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Leroy Miles
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1035
+	•Date of Admission: 08/04/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Sandy Brezenski
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Miles presented to the emergency department complaining of persistent hematuria (blood in urine) and dysuria (painful urination) over the past two weeks. His initial assessment revealed a distended abdomen, and laboratory tests revealed an elevated white blood cell count and increased levels of creatinine, suggesting urinary tract infection or possible bladder cancer. Subsequent imaging studies, including a computed tomography urogram (CTU), confirmed the presence of a mass in the bladder consistent with malignancy.
+
+Medical History:
+	Mr. Miles has a significant medical history that includes hypertension, type 2 diabetes, and chronic obstructive pulmonary disease (COPD). He has undergone two prior abdominal surgeries for appendectomy and hernia repair. His family history is notable for breast cancer in his mother and colon cancer in his father. Allergic to penicillin, he was taking metformin, lisinopril, salmeterol/fluticasone, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) showed a muscularis invasive urothelial carcinoma. Imaging studies, including the CTU and magnetic resonance imaging (MRI), revealed a large mass in the bladder with involvement of the muscle layer. Blood tests showed anemia and elevated creatinine levels, which were expected given the extent of the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Miles. This included radical cystectomy with ileal conduit creation followed by adjuvant chemotherapy and radiation therapy. Post-operative care focused on pain management, wound care, and preventing complications such as urinary tract infections and dehydration. The chemotherapy regimen was a combination of gemcitabine and cisplatin for six cycles, with expected side effects of nausea, fatigue, and nephrotoxicity.
+
+Hospital Course:
+	Mr. Miles underwent the radical cystectomy on 04/25/2022. His post-operative course was complicated by a urinary tract infection but was successfully managed with antibiotics. He received his first cycle of chemotherapy on 05/12/2022 and has tolerated the treatment well so far. Nutritional support, physical therapy, and wound care played crucial roles in his recovery.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Miles includes outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue taking metformin (modified dose due to renal impairment) and inhaled bronchodilators. Lifestyle modifications include maintaining a healthy diet low in processed foods, regular physical activity, and smoking cessation. Warning signs requiring immediate medical attention include fever, persistent hematuria, or changes in urinary habits.
+
+Patient Education:
+	Mr. Miles was educated about the importance of adhering to his medication regimen, proper wound care practices, maintaining adequate hydration, and performing regular self-examinations for early detection of complications or recurrence. He was also taught how to manage common side effects such as nausea, fatigue, and nephrotoxicity. Instructions were given on post-surgical care of the ileal conduit and recognizing signs of complications.
+
+Discharge Instructions:
+	Discharge instructions included detailed information on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a balanced diet, perform daily exercises, and avoid heavy lifting for six weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues such as hypertension and diabetes.
+
+Final Remarks:
+	Mr. Miles demonstrated remarkable resilience throughout his treatment journey, and I am confident that he will continue to make significant progress in his recovery. I wish him the best of luck and look forward to seeing him at our follow-up appointments.

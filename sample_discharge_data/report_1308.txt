@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Janice Wilkerson
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1308
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 06/07/2022
+	•Attending Physician: Dr. Jacquelyn Crawley
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIA)
+
+Reason for Admission:
+	Janice Wilkerson was admitted to the hospital following a series of symptoms that included abdominal pain, unexplained weight loss, and changes in bowel habits. The initial assessment revealed a palpable mass in the lower abdomen. Further diagnostic investigations, including a CT scan, colonoscopy, and biopsy, confirmed the diagnosis of colorectal cancer. The tumor was found to be locally advanced with regional lymph node involvement.
+
+Medical History:
+	Mr. Wilkerson has a history of hypertension, which is well-controlled with medication. He also has a family history of colorectal cancer, as his father passed away from the disease in his late 60s. There was no known allergy to any medications or anesthetics. Before admission, Mr. Wilkerson was taking aspirin daily for cardiovascular health and metformin for his hypertension.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma in the sigmoid colon. Staging based on imaging scans showed no evidence of distant metastasis but lymph node involvement was noted. Laboratory tests revealed anemia and elevated CEA levels, both indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Wilkerson, which included surgical resection of the tumor followed by chemotherapy and radiation therapy. He underwent a partial colectomy with lymph node dissection and the creation of an ileal conduit. Post-operative care involved close monitoring of his bowel function, pain management, and nutritional support. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) for six cycles, followed by radiotherapy to the pelvic region. Side effects were managed with appropriate medications, including nausea, diarrhea, and fatigue.
+
+Hospital Course:
+	Mr. Wilkerson's recovery from surgery was initially challenging due to complications such as anastomotic leakage and infection. However, he responded well to antibiotic therapy and supportive care. His condition gradually improved, and he showed a positive response to the subsequent chemotherapy cycles. He also began radiotherapy as scheduled without any significant side effects.
+
+Follow-Up Plan:
+	Mr. Wilkerson will be scheduled for regular follow-up appointments with his oncologist every three months for the first year, then six-monthly thereafter. He will continue taking aspirin and metformin as per previous regimen, with close monitoring of his cardiovascular health. Dietary recommendations include a high-fiber diet to promote regular bowel movements. Any changes in bowel habits or unexplained weight loss should be reported immediately.
+
+Patient Education:
+	Mr. Wilkerson and his family were educated about the importance of regular follow-ups, early detection of recurrence, and maintaining a healthy lifestyle. They were instructed on post-surgical care, including ileal conduit management, signs of complications such as fever, abdominal pain, or changes in bowel habits, and how to manage common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Wilkerson was provided with clear instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also informed about the importance of maintaining a healthy diet rich in fiber.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Wilkerson is favorable given his response to treatment thus far. However, regular monitoring for early detection of recurrence is essential. Lifelong surveillance is crucial to manage ongoing health issues related to his colorectal cancer diagnosis.
+
+Final Remarks:
+	The attending physician expresses her appreciation for Mr. Wilkerson's resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the treatment plan and regular follow-ups to ensure the best possible outcome. Both the patient and physician have signed this report on 06/07/2022, validating its authenticity.

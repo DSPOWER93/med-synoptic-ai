@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jennifer Hubbell
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1133
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Richard Edgerson
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Jennifer Hubbell was admitted to the hospital due to increasing abdominal pain and weight loss over the past few months. Upon initial assessment, he presented with a palpable mass in the lower abdomen and signs of anemia. Further diagnostic investigations, including computed tomography (CT) scans and blood tests, confirmed the presence of a large mass in the colon and multiple liver metastases.
+
+Medical History:
+	Mr. Hubbell has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone a laparoscopic cholecystectomy in 2015 due to gallstones. His family history is significant for colorectal cancer and breast cancer. Mr. Hubbell was allergic to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, salmeterol/fluticasone, and inhaled albuterol as needed.
+
+Diagnostic Findings:
+	The pathology report from the colon biopsy confirmed an adenocarcinoma of the sigmoid colon. Imaging studies showed a large mass in the sigmoid colon and multiple liver metastases. Blood tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and liver function abnormalities.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hubbell. This included a laparoscopic sigmoid colectomy followed by a permanent ileal conduit formation. He underwent six cycles of adjuvant FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy and radiation therapy to the liver metastases. Management of side effects such as nausea, diarrhea, and fatigue was a significant part of his care.
+
+Hospital Course:
+	Mr. Hubbell's initial recovery from surgery was complicated by anemia, which required a blood transfusion. He responded well to chemotherapy and radiation therapy, with minimal side effects. His pain was effectively managed with oral analgesics. Nutritional support was provided through a high-calorie liquid diet.
+
+Follow-Up Plan:
+	Mr. Hubbell will be followed up in the outpatient clinic every three months for the first year, then every six months thereafter. He will continue on oral fluorouracil and leucovorin as adjuvant therapy. Lifestyle modifications including smoking cessation and regular exercise are recommended. His diet should be high in fiber and low in fat to promote bowel function and reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Hubbell and his family were educated about the importance of adhering to the prescribed medications, managing his ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Mr. Hubbell was discharged with a supply of oral analgesics, anti-diarrheal medication, and fluorouracil/leucovorin tablets. He was instructed to take his medications as directed, maintain a high-calorie diet, monitor his bowel movements, and report any signs of complications promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Hubbell's long-term health. He was advised to maintain a positive attitude and cooperate with the treatment plan to improve his chances of a good outcome.
+
+Final Remarks:
+	I am pleased to see Mr. Hubbell through this challenging journey and applaud his resilience and cooperation throughout the treatment process. I wish him a speedy recovery and hope that he continues to do well in the future.

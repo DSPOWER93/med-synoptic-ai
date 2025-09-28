@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Maria Martinez
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1240
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Veronica Livingston
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Maria Martinez was admitted to the hospital due to recurrent abdominal pain, unintended weight loss, and changes in bowel habits over the past two months. An initial assessment revealed signs of an obstruction, prompting diagnostic investigations including a computed tomography (CT) scan, which confirmed the presence of a large mass in the colon.
+
+Medical History:
+	Mr. Martinez has a history of hypertension and chronic obstructive pulmonary disease (COPD), for which he has been on regular medications. He underwent a laparoscopic cholecystectomy in 2015 due to gallbladder stones. His father died from colon cancer at the age of 65, and his sister was recently diagnosed with breast cancer.
+
+Diagnostic Findings:
+	Pathology reports confirmed colorectal adenocarcinoma, and a CT scan indicated that the tumor had invaded adjacent tissues but had not spread to distant organs (T4aN0M0). Blood tests showed an elevated carcinoembryonic antigen (CEA) level of 12.5 ng/mL (normal range < 3.0 ng/mL), suggesting the presence of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Martinez, which included a right hemicolectomy followed by primary anastomosis or creation of an ileal conduit, depending on surgical feasibility. Post-operative care involved pain management, antibiotic therapy to prevent infection, and close monitoring for complications. He was also scheduled to receive adjuvant chemotherapy (FOLFOX regimen) for six cycles, with a decision on radiation therapy made after histopathological examination of the resected specimen.
+
+Hospital Course:
+	Mr. Martinez underwent an uneventful right hemicolectomy on March 25, 2022, and recovered well from the surgery. He faced challenges with post-operative pain management, but his symptoms were effectively managed with opioids and non-steroidal anti-inflammatory drugs (NSAIDs). Nutritional support was provided to aid in recovery, and he began ambulating on the second day after surgery. The histopathological report confirmed a pT4aN0M0 adenocarcinoma with clear resection margins. Based on this, radiation therapy was not deemed necessary.
+
+Follow-Up Plan:
+	Mr. Martinez is scheduled for regular follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue on adjuvant chemotherapy and will be monitored closely for potential recurrence. A low-fiber diet and good hydration are recommended to manage his ileal conduit, and he is advised to maintain a healthy lifestyle with regular exercise.
+
+Patient Education:
+	Mr. Martinez and his family were educated on the importance of regular follow-up appointments and the signs of potential complications, such as fever, abdominal pain, changes in bowel habits, or persistent nausea and vomiting. They were also instructed on post-surgical care for the ileal conduit, including irrigation techniques, and managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Martinez was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to avoid heavy lifting and strenuous activities for six weeks after surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Martinez's case. Despite his history of colorectal cancer, with appropriate lifestyle modifications and regular follow-up care, he has a good long-term prognosis.
+
+Final Remarks:
+	The attending physician commends Mr. Martinez for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of adhering to the prescribed treatment regimen and maintaining regular follow-up appointments. Both the physician and patient sign the report, validating its accuracy on April 20, 2022.

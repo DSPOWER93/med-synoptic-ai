@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tania Garceau
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1002
+	•Date of Admission: 06/01/2022
+	•Date of Discharge: 20/01/2022
+	•Attending Physician: Dr. James Flanagan
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Tania Garceau was admitted to our institution following a series of symptoms, including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. Initial assessment revealed an abnormal mass in the lower right quadrant of his abdomen, leading to further diagnostic investigations. CT scans confirmed the presence of a large tumor in the colon, along with multiple enlarged lymph nodes, suggesting the possibility of malignancy.
+
+Medical History:
+	Mr. Garceau has a history of hypertension and COPD (Chronic Obstructive Pulmonary Disease), for which he was taking prescribed medications prior to admission. He also had a previous appendectomy in 2015. His family history is significant for colon cancer, as his father passed away from the disease at age 65. Mr. Garceau does not have any known allergies.
+
+Diagnostic Findings:
+	Extensive diagnostic testing was conducted during Mr. Garceau's hospital stay. Pathology reports confirmed the presence of adenocarcinoma in the colon, with multiple positive lymph nodes indicating a Stage III diagnosis. Imaging scans revealed the tumor to be approximately 8 cm in size, involving the ascending and transverse colon. Blood tests showed elevated levels of CEA (Carcinoembryonic Antigen), a marker for colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Garceau, which included a right hemicolectomy (removal of the ascending and transverse colon) followed by chemotherapy and radiation therapy. Post-operative care involved monitoring for complications such as anastomotic leakage and infection. The chemotherapy regimen consisted of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin), administered every two weeks for a total of 12 cycles. Radiation therapy was recommended to target any residual cancer cells and reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. Garceau underwent a successful right hemicolectomy on 07/01/2022, followed by an uneventful recovery period. He faced challenges with managing his COPD during his hospital stay but was closely monitored and managed appropriately. Nutritional support was provided to aid in wound healing and overall recovery.
+
+Follow-Up Plan:
+	Mr. Garceau will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. Medications will continue as prescribed, with close monitoring for any potential side effects or interactions. A low-fat, high-fiber diet is recommended to promote overall health and reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Garceau and his family were educated about the importance of post-surgical care, including managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Garceau was provided with detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Garceau's long-term health. He was encouraged to maintain a positive attitude throughout his treatment journey, as resilience has been shown to improve outcomes in patients with colorectal cancer.
+
+Final Remarks:
+	Dr. Flanagan concluded the report by expressing her appreciation for Mr. Garceau's cooperation during the treatment process and emphasizing the importance of continued vigilance in managing his condition. Both the physician and patient signed the report, validating the documentation of this significant chapter in Mr. Garceau's health journey.

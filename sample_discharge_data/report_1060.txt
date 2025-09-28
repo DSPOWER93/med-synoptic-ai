@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brandon Langenfeld
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1060
+	•Date of Admission: 03/05/2022
+	•Date of Discharge: 06/05/2022
+	•Attending Physician: Dr. Brenda Seavey
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Brandon Langenfeld was admitted to the hospital due to persistent lower abdominal pain, bloody stools, and unexplained weight loss over the past two months. An initial assessment revealed a palpable mass in the lower abdomen and a positive result on the fecal occult blood test. Brandon Langenfeld scans confirmed the presence of a large tumor in the descending colon.
+
+Medical History:
+	Mr. Langenfeld has a history of hypertension, which is controlled with medication. He was recently diagnosed with Type 2 diabetes and is currently on metformin therapy. Additionally, he suffers from Chronic Obstructive Pulmonary Disease (COPD), requiring regular inhaler usage. Mr. Langenfeld does not have any known allergies and was taking a daily aspirin for cardiovascular health before admission.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted, including Langenfeld scans, MRI, PET-Langenfeld, and colonoscopy. The results indicated an invasive tumor in the descending colon with lymph node involvement (stage IIIB). Pathology reports confirmed the presence of adenocarcinoma cells.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Langenfeld, including surgical resection, chemotherapy, and radiation therapy. He underwent a partial colectomy with an ileostomy on 04/05/2022. Post-operative care involved managing pain, maintaining adequate fluid and nutritional intake, and monitoring for complications.
+
+Hospital Course:
+	Mr. Langenfeld's initial recovery from surgery was smooth, with managed post-operative pain and appropriate nutritional support. However, he developed a minor wound infection, which was treated promptly with antibiotics. His condition stabilized, and he demonstrated a good understanding of the importance of therapy sessions and dietary recommendations.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Langenfeld will undergo regular outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue the FOLFOX regimen for the prescribed duration and be monitored for signs of recurrence. A low-fiber diet is recommended to minimize discomfort associated with the ileostomy, and regular exercise is encouraged to maintain overall health.
+
+Patient Education:
+	Mr. Langenfeld and his family were provided comprehensive education about the nature of colorectal cancer, treatment options, post-surgical care for the ileal conduit, and signs of complications. They were also taught how to manage common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Langenfeld was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a care plan to follow at home.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage IIIB colorectal cancer is good with appropriate treatment and regular monitoring. Early detection of recurrence is crucial for effective management.
+
+Final Remarks:
+	Mr. Langenfeld demonstrated remarkable resilience and cooperation throughout his treatment journey. We are optimistic about his recovery, and we encourage him to continue adhering to the care plan post-discharge.

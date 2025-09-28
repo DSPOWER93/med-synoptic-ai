@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jose Raffa
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1377
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Victoria Colwell
+	•Primary Diagnosis: Pancreatic Cancer (Stage IIIB)
+
+Reason for Admission:
+	Jose Raffa, a 38-year-old male, presented to the Jose Raffa with severe abdominal pain, nausea, and loss of appetite. The initial assessment revealed an obstructed pancreatic head on physical examination, prompting diagnostic investigations. Jose Raffa (CT) scan results confirmed a large mass in the head of the pancreas, consistent with malignancy. The severity and rapid progression of symptoms indicated an urgent need for intervention.
+
+Medical History:
+	Mr. Raffa has a history of hypertension, diabetes, and Chronic Obstructive Pulmonary Disease (COPD). He underwent appendectomy in 2018. Family history includes colon cancer in his father at age 65. He is allergic to penicillin. His pre-admission medications included Metformin, Losartan, Albuterol, and Salmeterol.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection confirmed adenocarcinoma of the pancreas. Postoperative imaging showed no evidence of residual disease; however, a metastasis was detected in the liver. Blood tests revealed elevated CA 19-9 levels, consistent with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Raffa. He underwent Whipple's procedure followed by adjuvant chemotherapy (FOLFIRINOX regimen). Radiation therapy was not deemed necessary at this time due to the extent of surgical resection and the presence of liver metastasis. The postoperative care included close monitoring for complications, pain management, nutritional support, and physical therapy.
+
+Hospital Course:
+	Mr. Raffa's initial recovery from surgery was challenging due to complications related to his underlying conditions. He required frequent adjustments in his medications, and the supportive care team provided extensive assistance with managing his hypertension and COPD exacerbation. With the help of physical therapy and occupational therapy, he regained sufficient mobility for discharge.
+
+Follow-Up Plan:
+	Mr. Raffa will follow up with his oncologist every three months for the first year post-treatment, then six-monthly thereafter. He is advised to continue taking Metformin, Losartan, Albuterol, and Salmeterol as prescribed, but adjustments may be necessary based on response to treatment and any adverse effects. A low-fat diet is recommended, along with regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, yellowing of the skin or eyes, or unexplained weight loss.
+
+Patient Education:
+	Mr. Raffa and his family were provided extensive education on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Raffa was provided clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage IIIB pancreatic cancer is guarded; however, regular monitoring for early detection of recurrence is crucial in managing ongoing health issues.
+
+Final Remarks:
+	Mr. Raffa displayed remarkable resilience and cooperation throughout his treatment journey. We are confident that he will continue to make progress in his recovery. I wish him the best in his future endeavors, and I am hopeful for a successful outcome.

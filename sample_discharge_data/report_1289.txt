@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Richard Rodriguez
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1289
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Ellen Tate
+	•Primary Diagnosis: Colorectal Cancer (T4N2M0)
+
+Reason for Admission:
+	Richard Rodriguez presented to the emergency department with a two-week history of worsening abdominal pain, bloody stools, and unintended weight loss. Upon initial assessment, his vital signs were stable but he appeared distressed due to pain. A series of diagnostic tests, including a computed tomography (CT) scan and colonoscopy, revealed a large, invasive colorectal tumor. The severity and progression of John's symptoms indicated the need for immediate surgical intervention.
+
+Medical History:
+	Richard Rodriguez has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2015 due to a renal cell carcinoma. John has a family history significant for colorectal cancer, with his father diagnosed at age 60. Known allergies include penicillin and contrast media. Prior to admission, he was taking lisinopril, metformin, albuterol, and ipratropium.
+
+Diagnostic Findings:
+	Pathology report from the surgical resection confirmed a moderately differentiated adenocarcinoma of the sigmoid colon with perforation. Imaging scans showed no evidence of metastasis (M0). Blood tests revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Richard Rodriguez, consisting of a right hemicolectomy, creation of an ileal conduit, six cycles of adjuvant chemotherapy (FOLFOX regimen), and radiation therapy to the surgical bed. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support.
+
+Hospital Course:
+	Richard Rodriguez's initial recovery from surgery was complicated by anastomotic leakage, which required a second operation to repair. After stabilization, he responded well to medical management and supportive care. He also received regular occupational therapy for mobilization and physical rehabilitation.
+
+Follow-Up Plan:
+	Richard Rodriguez's post-discharge follow-up plan includes scheduled outpatient appointments every three months for the first two years, then annually thereafter. He will continue on oral oxaliplatin and leucovorin for six cycles of chemotherapy. Lifestyle modifications include a low-fat diet, regular exercise, and avoidance of tobacco products. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, increased vomiting, or change in bowel habits.
+
+Patient Education:
+	Richard Rodriguez and his family were provided education on post-surgical care, including proper ileal conduit management, recognizing signs of complications such as obstruction or infection, and managing common side effects like neutropenia and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Richard Rodriguez was provided with detailed instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also advised to seek medical attention promptly for any concerning symptoms.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Richard Rodriguez's long-term health. He will require ongoing management of his pre-existing conditions, particularly hypertension and diabetes.
+
+Final Remarks:
+	Dr. Ellen Tate commends Richard Rodriguez on his resilience and cooperation throughout the treatment journey, expressing hope for a positive outcome in the months ahead. Both the physician and patient have signed this report, validating its accuracy, dated April 15, 2022.

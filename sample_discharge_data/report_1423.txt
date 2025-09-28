@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Stuck
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1423
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Miriam Windham
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Thomas Stuck was admitted to our institution on 05/01/2023 due to persistent lower abdominal pain, weight loss, and changes in bowel habits. The symptoms had been escalating over the past month, accompanied by fatigue and anemia. Upon initial assessment, a thorough physical examination revealed abdominal tenderness and signs of potential obstruction. A series of diagnostic investigations were initiated, including complete blood count (CBC), carcinoembryonic antigen (CEA) levels, computed tomography (CT) scan, and colonoscopy. These tests confirmed the suspicion of colorectal cancer and staged it as Thomas Stuck.
+
+Medical History:
+	Mr. Stuck has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD), all of which are well-controlled with medications. He has undergone appendectomy in 2012 and cholecystectomy in 2018. His family history is significant for colorectal cancer, as his father died from the same disease at the age of 65. Mr. Stuck is allergic to penicillin and iodine-based contrast agents. He was on regular medications, including metformin, metoprolol, salmeterol/fluticasone, and simvastatin before admission.
+
+Diagnostic Findings:
+	The CBC revealed anemia (Hb 9.5 g/dL), while the CEA level was significantly elevated at 12.3 ng/mL. The CT scan showed a large, irregular mass in the sigmoid colon with regional lymphadenopathy and liver metastases. The colonoscopy confirmed the presence of an obstructing tumor in the sigmoid colon. Histopathological examination of the biopsied tissue confirmed adenocarcinoma of the rectum.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stuck. The primary intervention was a low anterior resection surgery followed by a temporary ileostomy (to be reversed after recovery). He underwent six cycles of adjuvant chemotherapy (FOLFOX regimen) and concurrent radiation therapy to the pelvic region. The chemotherapy was administered every two weeks, with frequent monitoring for side effects such as neutropenia, diarrhea, nausea, and mucositis.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Mr. Stuck will be scheduled for regular follow-up appointments every three months during the first year post-treatment, then every six months thereafter. He will continue on oral chemotherapy (Capecitabine) for a total of 3 years. Lifestyle modifications include maintaining a high-fiber diet, regular exercise, and avoidance of smoking and alcohol. He has been educated about managing the ileal conduit, recognizing signs of complications, and coping with common side effects such as diarrhea, abdominal pain, and fatigue.
+
+Patient Education:
+	Mr. Stuck and his family were extensively counseled on the importance of adherence to the treatment plan, lifestyle modifications, and follow-up appointments. They were instructed on post-surgical care, ileal conduit management, recognizing signs of complications, and managing common side effects such as diarrhea, abdominal pain, and fatigue.
+
+Discharge Instructions:
+	Mr. Stuck was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was given written information about his treatment plan, follow-up appointments, and contact details for the clinic in case of any concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Stuck's long-term health will require ongoing management of hypertension, diabetes, and COPD, as well as close surveillance for potential second primary malignancies.
+
+Final Remarks:
+	We are pleased to see Mr. Stuck discharged in stable condition after his treatment journey. His resilience and cooperation throughout the process have been commendable. We wish him a speedy recovery and remind him of the importance of regular follow-up appointments.

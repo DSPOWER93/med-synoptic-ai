@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Herman Wetzel
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M11
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Craig Miller
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Herman Wetzel was admitted to the hospital following a series of symptoms including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. Initial assessment revealed a palpable mass in the lower abdomen, leading to further diagnostic investigations such as computed tomography (CT) scan, endoscopy, and pathology tests. The severity of these symptoms indicated a potentially advanced stage of colorectal cancer.
+
+Medical History:
+	Mr. Wetzel has a significant medical history, including hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has had three prior surgeries appendectomy at age 14, cholecystectomy in 2010, and a right total knee replacement in 2015. His family history is notable for colorectal cancer, with his father being diagnosed at the age of 60. Known allergies include penicillin and sulfa drugs. Pre-admission medications included metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during Mr. Wetzel's hospital stay revealed a large, locally advanced tumor in the sigmoid colon with regional lymph node involvement and distant metastasis to the liver. Pathology reports confirmed the diagnosis of moderately differentiated adenocarcinoma. Blood tests showed anemia, elevated carbohydrate antigen 125 (CA-125) levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wetzel, which included surgical resection of the primary tumor followed by systemic therapy. The surgical intervention was an extended sigmoid colectomy with end ileostomy and lymph node dissection. Post-operative care involved close monitoring for complications, nutritional support, and pain management. A chemotherapy regimen consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) was initiated, with a planned cycle of every two weeks. Radiation therapy was not deemed necessary in this case due to the extent of the disease.
+
+Hospital Course:
+	Mr. Wetzel's hospital course began with an initial recovery from surgery, followed by challenges with post-operative ileus and pain management. Throughout his stay, he received extensive therapy services, nutritional support, and ongoing management of diabetes and hypertension. His condition improved steadily, and he was discharged when it was deemed safe to continue his treatment as an outpatient.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Wetzel includes regular oncology appointments every three months for the first year, then every six months thereafter. Continuation of FOLFOX chemotherapy will be assessed based on his response to treatment and tolerance. Lifestyle modifications include a low-fiber diet, maintenance of a healthy weight, and regular exercise. Dietary recommendations focus on balanced meals, adequate hydration, and avoiding foods that may cause discomfort or exacerbate symptoms. Warning signs requiring immediate medical attention include fever, severe abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Wetzel was educated about his diagnosis, treatment options, and post-surgical care. He was instructed on the management of his ileal conduit, recognizing signs of complications such as blockages or leakage. Common side effects of FOLFOX were discussed, including nausea, diarrhea, fatigue, and potential nerve damage.
+
+Discharge Instructions:
+	Upon discharge, Mr. Wetzel was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for emotional support and information about cancer-related organizations in his area.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for colorectal cancer patients depends on various factors such as stage at diagnosis, histology, and response to treatment. Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues like diabetes and COPD.
+
+Final Remarks:
+	Dr. Miller's final remarks emphasized Mr. Wetzel's resilience throughout the treatment journey, noting his strong adherence to the treatment plan and positive attitude. She expressed confidence in his ability to continue fighting against the disease with support from his family and medical team. Both the physician and patient sign their names on the report, with the date of discharge serving as validation.

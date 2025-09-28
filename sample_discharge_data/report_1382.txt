@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dede Woodard
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1382
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Solomon Peterson
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Dede Woodard was admitted to the hospital following persistent abdominal pain and a change in bowel habits, which had been ongoing for approximately two months prior to admission. Upon initial assessment, a mass was palpated in the lower abdomen, and laboratory tests revealed elevated levels of carcinoembryonic antigen (CEA). Subsequent imaging studies, including a computed tomography (CT) scan, confirmed the presence of a large mass in the sigmoid colon.
+
+Medical History:
+	Mr. Woodard has a history of hypertension, which is managed with medication, and he was diagnosed with Type 2 diabetes mellitus five years ago. He underwent appendectomy seven years ago due to an appendicitis. His family has a history of colorectal cancer, with his father having passed away from the disease ten years prior. Mr. Woodard is not allergic to any medications and was taking metformin for diabetes management before admission.
+
+Diagnostic Findings:
+	Pathology reports revealed malignant cells in the sigmoid colon biopsy. Imaging studies showed a large, invasive tumor that had spread to several lymph nodes near the cancer site. Blood tests also indicated anemia and elevated CEA levels.
+
+Treatment Plan:
+	A multidisciplinary team, including surgical oncologists, medical oncologists, radiation oncologists, and nurse practitioners, developed a comprehensive treatment plan for Mr. Woodard. He underwent a sigmoid colon resection with an ileal conduit formation, followed by chemotherapy. The initial chemotherapy regimen consisted of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) and Capecitabine for six cycles. Radiation therapy was considered post-surgery but ultimately deemed unnecessary based on the surgical margin results.
+
+Hospital Course:
+	Mr. Woodard's initial recovery from surgery was successful, although he experienced some postoperative complications related to anastomotic leakage. This required a second surgical intervention and a brief period of treatment with intravenous antibiotics. He received nutritional support through a peripherally inserted central catheter (PICC) line, which was later removed following recovery.
+
+Follow-Up Plan:
+	Following discharge, Mr. Woodard will have regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue taking metformin for diabetes management and will be prescribed a proton pump inhibitor to manage potential gastrointestinal side effects related to his treatment. Lifestyle recommendations include maintaining a healthy diet low in processed foods, regular exercise, and adequate hydration. Mr. Woodard should also monitor for any signs of complications related to the ileal conduit, such as abnormal drainage or discomfort.
+
+Patient Education:
+	Mr. Woodard and his family were provided education on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. They were also instructed on managing common side effects of chemotherapy, such as nausea, fatigue, and potential neurological changes related to oxaliplatin treatment. Importantly, they were educated on recognizing signs of complications, including fever, increased abdominal pain, or significant changes in bowel habits.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Woodard was provided with detailed written instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about community resources for cancer support, including support groups and financial assistance programs.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Woodard's long-term health. In addition to managing ongoing health issues related to his diabetes, he will need to maintain close communication with his healthcare team and adhere to any recommended follow-up care.
+
+Final Remarks:
+	Dr. Solomon Peterson commends Mr. Woodard for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued support from family, friends, and healthcare professionals in ensuring a successful recovery. Both Dr. Solomon Peterson and Mr. Woodard sign the report to validate its completion on April 20, 2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michelle Lee
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1081
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Megan Cooper
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	The patient, Mr. Michelle Lee, presented to the emergency department complaining of persistent lower abdominal pain, altered bowel habits, and unexplained weight loss over the past few months. On admission, his abdomen was distended, tender on palpation, and no masses were palpable. Initial laboratory investigations showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of malignancy. Further investigation with a computed tomography (CT) scan of the abdomen and pelvis revealed a large mass in the descending colon, multiple liver metastases, and localized lymph node involvement.
+
+Medical History:
+	Mr. Lee has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2018 due to gallstones. His family history is significant for colorectal cancer, with his father diagnosed at the age of 65. The patient is allergic to penicillin and has been taking metformin, amlodipine, salmeterol/fluticasone, and simvastatin before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the colon. Imaging studies showed extensive disease with a large tumor in the descending colon, multiple liver metastases, and localized lymph node involvement. Blood tests revealed elevated CEA (10.3 ng/mL) and LDH (457 U/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Lee, which included a partial colectomy with primary anastomosis, followed by adjuvant chemotherapy. The patient underwent surgery successfully on 08/01/2023. He received a combination of FOLFOX (oxaliplatin, leucovorin, and fluorouracil) as part of his chemotherapy regimen. Due to the extensive liver metastases, radiation therapy was also considered post-operatively.
+
+Hospital Course:
+	Post-surgery, Mr. Lee's recovery progressed well with appropriate pain management, nutritional support, and physiotherapy. He developed a minor wound infection that was managed promptly with antibiotics. The patient was educated about the importance of follow-up appointments, medication adherence, and lifestyle modifications to manage his underlying conditions.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Lee includes regular oncology visits every three months for the first year, six-monthly visits from years two to five, and annual visits thereafter. He will continue taking metformin, amlodipine, salmeterol/fluticasone, and simvastatin, with close monitoring of his blood glucose levels, blood pressure, and lung function. A low-fiber diet is recommended to minimize discomfort from the ileal conduit.
+
+Patient Education:
+	The patient was educated about post-surgical care, recognizing signs of complications such as fever, increased abdominal pain, or changes in bowel habits. He was also instructed on managing common side effects of chemotherapy, including fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Lee was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing ongoing health issues for Mr. Lee.
+
+Final Remarks:
+	We are pleased to see that Mr. Michelle Lee has cooperated well throughout his treatment journey, demonstrating resilience and determination. We wish him a successful recovery and look forward to his continued improvement.

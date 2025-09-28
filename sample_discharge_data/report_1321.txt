@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terry Sipper
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1321
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/25/2023
+	•Attending Physician: Dr. Thomas Daniels
+	•Primary Diagnosis: Stage IIIB Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Terry Sipper, a 43-year-old male, was admitted to the hospital due to worsening abdominal pain, persistent diarrhea, and weight loss of approximately 20 pounds over three months. Upon initial assessment, he exhibited signs of anemia and abnormalities in his digital rectal examination. Further diagnostic investigations, including a colonoscopy, CT scan, and MRI, revealed a tumor in the transverse colon with liver metastasis.
+
+Medical History:
+	John has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His family history is significant for colorectal cancer, with his father being diagnosed at the age of 65. He has known allergies to penicillin and sulfa drugs. Before admission, John was taking metformin, lisinopril, albuterol, and tiotropium bromide.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of moderately differentiated adenocarcinoma in the transverse colon. Imaging studies revealed multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA 19-9).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. This included a right hemicolectomy with primary anastomosis, followed by six cycles of FOLFOX chemotherapy and concurrent radiation therapy to the liver metastases. The chemotherapy regimen consisted of oxaliplatin, leucovorin, and 5-fluorouracil (FUDR). Anticipated side effects included myelosuppression, peripheral neuropathy, nausea, vomiting, and diarrhea.
+
+Hospital Course:
+	John's initial recovery from surgery was successful, but he faced challenges during chemotherapy cycles due to myelosuppression and peripheral neuropathy. Intensive therapy, nutritional support, and pain management were crucial in helping him manage these side effects. His condition improved over time, and he was discharged in stable condition after the completion of his initial treatment course.
+
+Follow-Up Plan:
+	John will undergo regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue taking metformin and lisinopril and adjust his medications as needed. A low-fiber, high-protein diet is recommended to aid digestion. Any sudden increase in abdominal pain, persistent diarrhea, or unexplained weight loss should be reported immediately.
+
+Patient Education:
+	John and his family were provided with detailed instructions on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as diarrhea and neuropathy.
+
+Discharge Instructions:
+	John was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications at the same time each day and report any side effects or concerns to his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for John's long-term survival. Managing ongoing health issues related to diabetes, hypertension, and COPD will also be essential.
+
+Final Remarks:
+	Dr. Thomas Daniels commends Terry Sipper for his resilience and cooperation throughout the treatment journey. She encourages him to maintain a positive attitude and follow the post-discharge plan closely to ensure continued recovery and health maintenance. Both the physician and patient have signed this report on [04/25/2023].

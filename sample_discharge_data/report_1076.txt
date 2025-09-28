@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tracey Doughty
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1076
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Stella Cataldo
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Tracey Doughty presented with symptoms of abdominal pain, constipation, and unexplained weight loss over the past three months. Upon initial assessment, a mass was palpable in the lower abdomen, and laboratory tests revealed anemia and elevated carcinoembryonic antigen (CEA) levels. Subsequent colonoscopy and CT scan confirmed the presence of a large tumor in the sigmoid colon, along with lymph node involvement.
+
+Medical History:
+	Tracey Doughty has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), for which he was on multiple medications including metformin, amlodipine, and albuterol. He had a laparoscopic cholecystectomy in 2016 due to gallstones. His father died of colon cancer at the age of 65.
+
+Diagnostic Findings:
+	Pathology report from the excised specimen confirmed adenocarcinoma of the sigmoid colon. The CT scan showed a large tumor in the sigmoid colon with involved regional lymph nodes, as well as multiple liver metastases. Blood tests revealed anemia, elevated CEA levels, and normal kidney and liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Tracey Doughty, which included a primary tumor resection through a laparotomy, followed by a permanent ileal conduit creation for urinary diversion. Post-operative care involved management of pain, wound care, and bowel function. He was also started on adjuvant chemotherapy (FOLFOX regimen) with five cycles planned. Radiation therapy was deferred due to the extensive liver metastases.
+
+Hospital Course:
+	Tracey Doughty underwent a successful tumor resection and ileal conduit creation. The post-operative period was complicated by anastomotic leak, which required surgical repair. He also developed neutropenia during chemotherapy, requiring growth factor support. Physical therapy and nutritional support were crucial for his recovery.
+
+Follow-Up Plan:
+	Tracey Doughty is scheduled for outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue on oral chemotherapy (Capecitabine) and undergo periodic CEA tests, CT scans, and colonoscopies. Lifestyle recommendations include a healthy diet low in fat and high in fiber, regular exercise, and avoidance of tobacco products.
+
+Patient Education:
+	Tracey Doughty and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as fever, abdominal pain, or foul-smelling drainage from the stoma, and managing common side effects like diarrhea and hand-foot syndrome.
+
+Discharge Instructions:
+	Tracey Doughty was provided with detailed discharge instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for cancer support.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Tracey Doughty's long-term health issues. Achieving remission from colorectal cancer requires ongoing care and adherence to the treatment plan.
+
+Final Remarks:
+	This report documents Tracey Doughty's journey with colorectal cancer, his successful surgery, chemotherapy, and management of complications. The resilience shown by Tracey Doughty throughout this challenging time is commendable. With continued cooperation and adherence to the treatment plan, we hope for a positive outcome in the fight against this disease.

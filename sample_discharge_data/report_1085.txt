@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Adrienne Toscano
+	•Date of Birth: 03/12/1985
+	•Medical Record Number: M1085
+	•Date of Admission: 08/20/2021
+	•Date of Discharge: 09/10/2021
+	•Attending Physician: Dr. Susan Wilder
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Adrienne Toscano was admitted to the hospital following a routine colonoscopy that revealed a large tumor in his colon. The initial assessment suggested the presence of colorectal cancer, which was further confirmed through biopsy and imaging tests such as CT scan and MRI. The severity of the condition was evident from the size of the tumor, and the cancer had invaded nearby lymph nodes.
+
+Medical History:
+	Mr. Toscano has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a partial colectomy in 2015 due to diverticulitis. His family has a history of colorectal cancer, and he is allergic to penicillin and sulfa drugs. Before admission, Mr. Toscano was taking metformin, amlodipine, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the colon. The CT scan and MRI indicated the tumor's size and the extent of cancer spread to nearby lymph nodes. Blood tests revealed anemia, elevated CA-125 levels, and slightly elevated CEA levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Toscano. He underwent a total colectomy followed by an ileal conduit formation. Post-operative care included managing fluid balance, pain control, and preventing complications such as infection. As part of the cancer treatment, he received adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) for six cycles. Radiation therapy was not deemed necessary due to the extent of surgical resection.
+
+Hospital Course:
+	Following surgery, Mr. Toscano recovered well with minimal complications. He underwent regular checks for wound healing and managed side effects of chemotherapy such as nausea, fatigue, and neutropenia. He received nutritional support to help manage his diabetes and maintain weight. Physical therapy was also provided to aid in recovery and mobilization.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Toscano will have regular outpatient appointments with the oncology team for follow-ups every three months for the first year, then six-monthly thereafter. His current medications include metformin, amlodipine, and a proton pump inhibitor for acid reflux management. He is advised to maintain a balanced diet low in fat and high in fiber, avoid heavy lifting, and engage in light physical activity as tolerated.
+
+Patient Education:
+	Mr. Toscano and his family were educated about the importance of post-surgical care, particularly managing the ileal conduit, recognizing signs of complications such as fever, persistent abdominal pain, or changes in urine color, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Mr. Toscano was provided with detailed discharge instructions emphasizing medication adherence, wound care practices, maintaining adequate hydration, and gradual return to physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Toscano's long-term health. He is advised to maintain a healthy lifestyle, including regular exercise, balanced diet, and smoking cessation if applicable.
+
+Final Remarks:
+	The attending physician commends Mr. Toscano's resilience throughout the treatment journey and notes his cooperation in following the prescribed regimen. This report is signed by Dr. Susan Wilder and Adrienne Toscano on September 10, 2021, validating the documentation of Mr. Toscano's care.

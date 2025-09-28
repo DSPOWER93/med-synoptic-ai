@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eliza Halvorson
+	•Date of Birth: 12/05/1980
+	•Medical Record Number: M1307
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 03/31/2022
+	•Attending Physician: Dr. Daniel Taylor
+	•Primary Diagnosis: Pancreatic Cancer, Stage III
+
+Reason for Admission:
+	Eliza Halvorson was admitted to the hospital due to persistent abdominal pain and significant weight loss over a period of two months. Initial assessment revealed that he had lost approximately 20% of his body weight, and abdominal palpitation showed tenderness in the upper quadrant. Laboratory tests revealed elevated levels of CA 19-9, a tumor marker associated with pancreatic cancer. A Eliza Halvorson (CT) scan confirmed the presence of a large tumor in his pancreas.
+
+Medical History:
+	Mr. Halvorson has a history of hypertension and COPD. He had undergone a laparoscopic cholecystectomy 10 years ago, with no known complications. His family has a history of pancreatic cancer, and he is allergic to penicillin. Before admission, he was taking Metoprolol for his hypertension and Albuterol inhaler for COPD.
+
+Diagnostic Findings:
+	Further diagnostic tests, including endoscopic ultrasound (EUS), magnetic resonance imaging (MRI), and a biopsy of the pancreatic tumor confirmed the diagnosis of Stage III Pancreatic Cancer. The tumor was found to have invaded surrounding tissues but did not metastasize. His complete blood count showed anemia, and liver function tests were elevated, indicating potential spread to the liver.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Halvorson. This included a Whipple procedure (pancreaticoduodenectomy) followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring of his surgical wound, fluid balance, and nutritional status. The chemotherapy regimen consisted of FOLFIRINOX (a combination of 5-FU, leucovorin, irinotecan, and oxaliplatin). Radiation therapy was recommended to target any residual disease in the pancreas.
+
+Hospital Course:
+	Mr. Halvorson underwent a successful Whipple procedure on 03/05/2022. His initial recovery was complicated by post-operative anemia, requiring blood transfusions, and a prolonged stay in the intensive care unit. He subsequently developed chemotherapy-induced diarrhea and peripheral neuropathy. However, with aggressive management of these side effects, his condition gradually improved.
+
+Follow-Up Plan:
+	Mr. Halvorson will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue on oral 5-FU for adjuvant chemotherapy. A low-fat diet and pancreatic enzymes are recommended to manage his nutrition. He is advised to maintain a healthy weight, avoid smoking, and engage in regular physical activity.
+
+Patient Education:
+	Mr. Halvorson was provided with detailed instructions on post-surgical care, including wound care practices, hydration, and dietary restrictions. He was also educated about managing his ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Halvorson was provided with detailed discharge instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of warning signs that require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Pancreatic Cancer is generally poor due to late diagnosis and aggressive disease progression. However, with regular monitoring for early detection of recurrence, managing ongoing health issues, and adhering to a healthy lifestyle, Mr. Halvorson has a chance at prolonged survival.
+
+Final Remarks:
+	I am pleased to report that Eliza Halvorson has shown remarkable resilience throughout his treatment journey. His cooperation and determination have been instrumental in his recovery. I wish him all the best for his continued health and hope that he will be able to maintain a good quality of life in the future.

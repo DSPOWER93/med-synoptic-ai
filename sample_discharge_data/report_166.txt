@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jose Sanchez
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M166
+	•Date of Admission: 02/02/2022
+	•Date of Discharge: 04/04/2022
+	•Attending Physician: Dr. Hubert Stinett
+	•Primary Diagnosis: Stage IIIB Colorectal Cancer (Carcinoma)
+
+Reason for Admission:
+	Mr. Sanchez presented to the emergency department with a two-month history of persistent abdominal pain, constipation, and unexplained weight loss. Initial laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and an abnormal colonoscopy. Subsequent imaging studies confirmed the presence of a large mass in the descending colon with regional lymph node involvement.
+
+Medical History:
+	Mr. Sanchez had a significant past medical history, including hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He had undergone laparoscopic cholecystectomy in 2015 due to gallstones. His father passed away from colon cancer at the age of 65. Mr. Sanchez was taking aspirin daily for his hypertension, metformin and glipizide for diabetes, and albuterol and ipratropium bromide for COPD prior to admission.
+
+Diagnostic Findings:
+	Pathology confirmed the presence of a moderately differentiated adenocarcinoma in the descending colon. Computed tomography (CT) scans revealed tumor invasion into the muscularis propria, with regional lymph node involvement and no evidence of distant metastasis. Positron emission tomography (PET) scan confirmed these findings.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sanchez. He underwent a partial colectomy with an ileal conduit, followed by six cycles of FOLFOX chemotherapy (5-Fluorouracil, Leucovorin, and Oxaliplatin) and radiation therapy to the tumor bed. The patient experienced several side effects, including neutropenia, diarrhea, and peripheral neuropathy.
+
+Hospital Course:
+	Mr. Sanchez made a good recovery from surgery and was discharged after 10 days of hospitalization. He was managed aggressively with pain control and anti-nausea medications. The role of occupational therapy, physical therapy, and nutritional support were crucial in his recovery. His disease was well controlled during his hospital stay.
+
+Follow-Up Plan:
+	Mr. Sanchez is scheduled for regular outpatient follow-up appointments with the oncology team every three months for the first year, then six months thereafter. He will continue taking aspirin, metformin, and glipizide, but his COPD medications will be adjusted based on symptoms. A low-fiber diet is recommended to manage diarrhea. The patient was counseled about recognizing signs of complications related to the ileal conduit and managing common side effects.
+
+Patient Education:
+	Mr. Sanchez and his family were provided detailed education about post-surgical care, management of the ileal conduit, and signs of complications. They were also counseled on recognizing and managing common side effects such as neutropenia, diarrhea, and peripheral neuropathy.
+
+Discharge Instructions:
+	Mr. Sanchez was provided with comprehensive discharge instructions to ensure continued recovery and health maintenance. He was advised to adhere strictly to his medication schedule, practice good wound care, maintain adequate hydration, and engage in light physical activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Sanchez's long-term survival. He was counseled about the importance of maintaining a healthy lifestyle, including regular exercise, a balanced diet, and stress management.
+
+Final Remarks:
+	Dr. Stinett commends Mr. Sanchez for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued vigilance and compliance with the follow-up plan for optimal outcomes. Both the physician and patient have signed this report, validating its authenticity on 04/04/2022.

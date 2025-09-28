@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Karen Moody
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1192
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 02/10/2022
+	•Attending Physician: Dr. Ruben Swinehart
+	•Primary Diagnosis: Colorectal Cancer (T4N2M1)
+
+Reason for Admission:
+	Karen Moody was admitted to the hospital due to symptoms of persistent abdominal pain, weight loss, and changes in bowel habits over a period of several months. Upon initial assessment, he reported feeling weak and experiencing occasional fatigue. Blood tests revealed anemia and elevated levels of CEA (Karen Moody), both indicative of potential malignancy. Further diagnostic investigations, including CT scans and colonoscopy, confirmed the presence of a large tumor in his colon.
+
+Medical History:
+	Mr. Moody has a history of hypertension, managed with medications. He also has a family history of colorectal cancer, as his father passed away from the disease at age 65. He underwent appendectomy in 2010. He is not known to have any allergies and was taking aspirin daily for his hypertension before admission.
+
+Diagnostic Findings:
+	Pathology results confirmed adenocarcinoma of the colon. Imaging scans revealed a large, invasive tumor in his sigmoid colon with regional lymph node involvement and distant metastases to the liver. Blood tests also showed elevated levels of alkaline phosphatase (ALP) and lactate dehydrogenase (LDH), both markers of increased cancer activity.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Moody, which included surgical resection of the tumor followed by systemic therapy with chemotherapy and potential radiation therapy. He underwent a colectomy with ileostomy creation in early March 2022. Post-operative care involved managing his ileal conduit, monitoring for complications such as infection or leakage, and ensuring proper nutritional support.
+
+Hospital Course:
+	Mr. Moody's initial recovery from surgery was complicated by an infection at the ileostomy site, which required antibiotic treatment. His energy levels improved gradually over time, and he began to regain his appetite. Throughout his hospital stay, he received ongoing support from a dedicated team of nurses, therapists, and social workers, ensuring both his physical and emotional well-being.
+
+Follow-Up Plan:
+	Following discharge, Mr. Moody will return for outpatient appointments every 3 months for the first year, then every 6 months thereafter. He will continue taking the prescribed chemotherapy regimen, which includes FOLFOX (oxaliplatin, leucovorin, and fluorouracil) with bevacizumab. Lifestyle recommendations include maintaining a balanced diet, engaging in gentle exercise as tolerated, and avoiding alcohol and tobacco. If any warning signs arise, such as persistent abdominal pain, fever, or unexplained weight loss, he should seek immediate medical attention.
+
+Patient Education:
+	Mr. Moody and his family were provided extensive education on post-surgical care for his ileal conduit, including instructions on managing output, monitoring for complications, and proper hygiene practices. They were also educated about potential side effects of the chemotherapy regimen, such as nausea, diarrhea, and fatigue, and provided strategies to manage these symptoms.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Moody was given detailed instructions on medication adherence, wound care practices for his ileostomy site, hydration guidelines, and physical activity recommendations. He was also advised to maintain a well-balanced diet, avoid heavy lifting, and engage in gentle exercise as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Given the advanced stage of Mr. Moody's cancer at diagnosis, regular monitoring for early detection of recurrence is essential. He will require ongoing management of any related health issues, such as hypertension, to maintain his overall well-being.
+
+Final Remarks:
+	I am pleased to see Karen Moody through this challenging journey and commend him on his resilience and cooperation throughout treatment. I wish him continued success in his recovery and look forward to monitoring his progress moving forward.

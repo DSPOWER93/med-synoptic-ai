@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kenneth Earnest
+	•Date of Birth: Date of Birth
+	•Medical Record Number: M101
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Kathleen Peralta
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient presented to our facility with complaints of hematuria, dysuria, and frequent urination. An initial assessment revealed a distended abdomen, palpable lower quadrant mass, and renal angle tenderness. Urinalysis showed gross hematuria, prompting further diagnostic investigations including cystoscopy and CT scan of the abdomen and pelvis. These tests confirmed the presence of a 4 cm TCC of the bladder with evidence of extravesical spread.
+
+Medical History:
+	The patient has a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). The patient underwent a left nephrectomy 10 years ago due to renal cell carcinoma. The patient is allergic to penicillin and has a family history of colon cancer in his father. Before admission, the patient was taking amlodipine, metformin, insulin, albuterol, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of TCC with extravesical spread. CT scan showed a 4 cm mass in the bladder with local invasion of the uterus and right broad ligament, as well as lymph node involvement. Blood tests revealed elevated creatinine level, suggesting possible kidney dysfunction due to the tumor's presence.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for the patient. The plan included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring of the ileal conduit, management of pain, and prevention of urinary tract infections. Chemotherapy consisted of a combination of gemcitabine and cisplatin administered every three weeks for four cycles. Radiation therapy was considered after assessing the pathology report's findings.
+
+Hospital Course:
+	The patient underwent a successful radical cystectomy with ileal conduit formation. The immediate post-operative period was uneventful, but the patient experienced delayed complications such as urinary leakage and small bowel obstruction, which were managed conservatively. During hospitalization, the patient received aggressive pain management, nutritional support, and physical therapy to aid in recovery.
+
+Follow-Up Plan:
+	The patient will be scheduled for outpatient follow-up appointments every three months for the first year, then every six months thereafter. Medications to be continued include amlodipine, metformin, insulin, albuterol, and ibuprofen, with adjustments as necessary. The patient was educated on post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue and neuropathy.
+
+Patient Education:
+	The patient and his family were provided with detailed instructions regarding post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were also educated on the importance of recognizing signs of complications such as fever, abdominal pain, or changes in urine output and color.
+
+Discharge Instructions:
+	The patient was discharged with a comprehensive set of instructions to ensure continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing this condition. The patient was advised about the importance of maintaining a healthy lifestyle, including a balanced diet and regular exercise.
+
+Final Remarks:
+	We commend the patient's resilience and cooperation throughout the treatment journey. We look forward to monitoring their progress in the outpatient setting and hope for continued success in managing this challenging condition.

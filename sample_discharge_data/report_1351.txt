@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joyce Laswell
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1351
+	•Date of Admission: 06/12/2022
+	•Date of Discharge: 12/16/2022
+	•Attending Physician: Dr. John Laswell
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Joyce Laswell presented to the emergency department with complaints of hematuria and dysuria that had persisted for over a week. The patient also reported weight loss, fatigue, and lower back pain. Upon initial assessment, his vital signs were stable, but his abdomen was tender on palpation. A urinalysis revealed hematuria, prompting further investigation with CT scans of the abdomen and pelvis that confirmed a mass in the bladder.
+
+Medical History:
+	Mr. Laswell has a significant past medical history of hypertension, for which he has been on lisinopril for several years. He is also diagnosed with type 2 diabetes mellitus and is currently on metformin. His father died of colon cancer at the age of 65. Mr. Laswell denied any known allergies and was not taking any other medications before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of urothelial carcinoma. CT scan revealed a 4cm mass in the bladder with involvement of the muscularis propria, indicating T2 disease. A cystoscopy was performed, which confirmed the presence of the tumor and biopsy samples were taken for histopathological examination. Blood tests showed mild anemia, elevated creatinine levels, and abnormal liver function tests.
+
+Treatment Plan:
+	The multidisciplinary team developed a treatment plan that included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved pain management, wound care, and management of complications such as urine leakage and constipation. Chemotherapy regimen consisted of gemcitabine and cisplatin every three weeks for four cycles. Radiation therapy was not deemed necessary due to the extent of the disease.
+
+Hospital Course:
+	Mr. Laswell underwent a successful radical cystectomy with ileal conduit formation on 12/09/2022. Post-operative recovery was initially challenging due to pain management and urine leakage, but he responded well to conservative measures. He also received nutritional support due to weight loss. Regular follow-ups with the surgical team, medical oncologist, and radiation oncologist were conducted.
+
+Follow-Up Plan:
+	The patient will continue chemotherapy outpatient appointments every three weeks for four more cycles. He is advised to maintain a low-fiber diet due to constipation and to report any signs of urine leakage or fever. Regular follow-ups with the urologist, oncologist, and nephrologist are scheduled.
+
+Patient Education:
+	The patient was educated about post-surgical care, including proper ileal conduit management, recognizing signs of complications such as urinary tract infections or obstruction, and managing common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	The patient was discharged with a supply of pain medication, wound care instructions, guidelines for hydration, and physical activity recommendations. He was advised to follow up with his primary care physician within one week for a check-up.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient will undergo periodic imaging studies and cystoscopies as per the oncologist's recommendations. Managing ongoing health issues related to hypertension and diabetes mellitus is also essential.
+
+Final Remarks:
+	Mr. Laswell demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team. His family was instrumental in his care, providing emotional support and assistance during hospital stays. The attending physician, Dr. John Laswell, expressed optimism for Mr. Laswell's recovery and encouraged him to continue his treatment plan diligently.

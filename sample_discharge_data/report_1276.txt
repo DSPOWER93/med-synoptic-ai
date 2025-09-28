@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tom Cohran
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1276
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Julie Fancher
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Tom Cohran presented with symptoms of abdominal pain, weight loss, and a change in bowel habits. Upon admission, a comprehensive assessment was conducted, followed by series of diagnostic tests. The investigations revealed an obstructive lesion in the colon, which was further confirmed through a colonoscopy. A biopsy report indicated adenocarcinoma, leading to the primary diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Cohran has a history of hypertension and COPD. He had undergone a right total hip replacement surgery in 2018 due to osteoarthritis. His family history is significant for colon cancer, with his father being diagnosed at the age of 65. Allergic to penicillin, Mr. Cohran was previously on a regimen of ACE inhibitors and inhaled bronchodilators.
+
+Diagnostic Findings:
+	During the hospital stay, diagnostic tests included computed tomography (CT) scan, magnetic resonance imaging (MRI), and a biopsy report. The CT scan revealed an obstructing mass in the right colon, while the MRI confirmed an infiltrative lesion. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating the aggressiveness of the cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cohran, consisting of surgery, chemotherapy, and radiation therapy. He underwent a right hemicolectomy followed by an ileo-rectal anastomosis. Postoperative care included pain management, bowel movements regulation, and wound care. A six-cycle regimen of FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) chemotherapy was initiated, with a decision to consider radiation therapy post-chemotherapy completion.
+
+Hospital Course:
+	Mr. Cohran's hospital course was marked by an initial recovery from the surgery, followed by complications such as postoperative ileus and dehydration. He received nutritional support, physical therapy, and psychological counseling to manage these challenges. His condition stabilized following intervention, with regular monitoring of his symptoms and laboratory values.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Cohran will have regular outpatient appointments for follow-ups, including cancer screenings and CEA level checks. He will continue on the same medications, but their dosages may be adjusted based on his response to treatment. A dietitian has recommended a high-fiber, low-fat diet, along with regular exercise. In case of signs of complications such as fever, abdominal pain, or changes in bowel habits, immediate medical attention is advised.
+
+Patient Education:
+	Mr. Cohran and his family were provided education on post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were also instructed about managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea, fatigue, and hair loss.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cohran was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a contact number for the oncology department in case of any queries or emergencies.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Cohran will need to manage ongoing health issues such as hypertension and COPD, along with potential late effects from chemotherapy and radiation therapy.
+
+Final Remarks:
+	Dr. Fancher concluded the report, expressing her appreciation for Mr. Cohran's resilience throughout his treatment journey. She emphasized the importance of continued cooperation and adherence to the follow-up plan for the best possible outcomes. Both the physician and patient signed the report on April 15, 2023, validating the documentation.

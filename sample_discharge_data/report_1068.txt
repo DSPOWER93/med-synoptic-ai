@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Georgia Holtzman
+	•Date of Birth: 03/15/1970
+	•Medical Record Number: M1068
+	•Date of Admission: 09/10/2021
+	•Date of Discharge: 10/20/2021
+	•Attending Physician: Dr. Kathryn Holtzman
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage III)
+
+Reason for Admission:
+	Georgia Holtzman, a 51-year-old male with a history of hypertension and COPD, presented to the emergency department with worsening abdominal pain, nausea, and jaundice. Upon initial assessment, he was found to have an elevated white blood cell count, increased liver enzymes, and a positive CA 19-9 tumor marker. A CT scan revealed a mass in the pancreas, along with evidence of local invasion and regional lymph node involvement, suggesting the presence of pancreatic adenocarcinoma.
+
+Medical History:
+	Georgia Holtzman had been managing hypertension and COPD for several years. He underwent a coronary artery bypass graft (CABG) in 2015 due to angina pectoris. His father died from colon cancer, and his mother had a history of breast cancer. Prior to admission, he was taking aspirin daily, lisinopril for hypertension, and an inhaler for COPD.
+
+Diagnostic Findings:
+	Further diagnostic workup confirmed the diagnosis of pancreatic adenocarcinoma (Stage III) based on pathology findings, CT scan results, and endoscopic retrograde cholangiopancreatography (ERCP) findings. The tumor was found to be 4 cm in size with local invasion into the adjacent vessels and regional lymph node involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Georgia Holtzman, which included surgical intervention (Whipple procedure), post-operative care, chemotherapy, and radiation therapy. The Whipple procedure was performed on September 15, 2021. Post-operative care involved close monitoring of nutritional status, management of pain, and prevention of complications such as infection and bleeding.
+
+Hospital Course:
+	Georgia Holtzman's recovery from surgery was initially challenging due to complications such as delayed gastric emptying and post-operative pancreatic fistula, which required management with total parental nutrition and antibiotics. However, he showed remarkable resilience throughout his hospital stay.
+
+Follow-Up Plan:
+	Georgia Holtzman will be closely followed up with regular outpatient appointments every three months for the first two years, then every six months thereafter. He is advised to continue taking aspirin daily, lisinopril for hypertension, and an inhaler for COPD. A low-fat diet is recommended to manage the ileal conduit.
+
+Patient Education:
+	
+
+Discharge Instructions:
+	Upon discharge, Georgia Holtzman was provided with detailed instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a regular follow-up schedule, manage his condition effectively, and seek immediate medical attention in case of any concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Georgia Holtzman's ongoing health issues. The prognosis for Stage III pancreatic adenocarcinoma patients with surgical resection and chemotherapy is generally poor, but aggressive treatment can improve survival rates.
+
+Final Remarks:
+	Dr. Kathryn Holtzman expresses her appreciation for Georgia Holtzman's resilience throughout his treatment journey. She emphasizes the importance of continued cooperation in managing his health and encourages him to stay positive and hopeful. The report is signed by Dr. Kathryn Holtzman and Georgia Holtzman on October 20, 2021, validating the documentation of his care.

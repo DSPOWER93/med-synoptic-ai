@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jessica Rodgers
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1302
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 05/12/2023
+	•Attending Physician: Dr. Jade Pitts
+	•Primary Diagnosis: Stage III Colon Cancer
+
+Reason for Admission:
+	Jessica Rodgers, a 38-year-old male, was admitted to the hospital due to persistent abdominal pain and changes in bowel habits over the past month. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed anemia and increased levels of carcinoembryonic antigen (CEA). Subsequent colonoscopy and computed tomography (CT) scan confirmed the presence of a large tumor in the transverse colon.
+
+Medical History:
+	Mr. Rodgers has a history of hypertension, for which he was taking daily medication. He also had a previous surgery to remove an appendix six years ago. His family history is significant for colon cancer, as his father and grandfather both died from the disease in their late sixties. Mr. Rodgers has no known allergies and was not on any special medications before admission.
+
+Diagnostic Findings:
+	The pathology report of the biopsy sample showed adenocarcinoma of the colon, consistent with Stage III cancer. CT scan revealed the tumor to be 10 cm in size, with lymph node involvement and possible liver metastasis. Blood tests also showed elevated levels of lactate dehydrogenase (LDH), a marker for tumor burden.
+
+Treatment Plan:
+	Mr. Rodgers underwent a surgical procedure called a right hemicolectomy to remove the affected colon segment, along with lymph nodes. The surgery was followed by chemotherapy, which consisted of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) regimen for six cycles. Radiation therapy was considered but ultimately deemed unnecessary due to the absence of local recurrence.
+
+Hospital Course:
+	Mr. Rodgers's recovery from surgery was initially challenging due to complications such as anastomotic leakage, which required a second surgical intervention. However, with proper management and support from physical therapy, nutritional support, and wound care, he eventually made significant progress. The disease was managed effectively through chemotherapy cycles, with appropriate monitoring for side effects such as neutropenia, nausea, and diarrhea.
+
+Follow-Up Plan:
+	Mr. Rodgers will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. His medications will include oral 5-Fluorouracil and Capecitabine to maintain remission. He will also need to maintain a low-fiber diet to avoid complications related to his ileal conduit. If any signs of recurrence or complications arise, immediate medical attention is advised.
+
+Patient Education:
+	Mr. Rodgers and his family were educated about the importance of post-surgical care, including proper wound care, hydration, and physical activity guidelines. They were also taught to recognize signs of complications such as fever, abdominal pain, or changes in bowel habits. Common side effects of chemotherapy were discussed, and strategies for managing these symptoms were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rodgers was given instructions on medication adherence, wound care practices, and hydration guidelines. He was also advised to gradually increase physical activity levels under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	The long-term outlook for Mr. Rodgers is cautiously optimistic given his response to treatment so far. Regular monitoring will be crucial for early detection of recurrence and management of ongoing health issues.
+
+Final Remarks:
+	This report documents the successful treatment journey of Jessica Rodgers, who demonstrated remarkable resilience throughout his battle with colon cancer. We wish him continued strength and good health in the future.

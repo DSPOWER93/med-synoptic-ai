@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: David Jones
+	•Date of Birth: 06/15/1970
+	•Medical Record Number: M1263
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 03/15/2022
+	•Attending Physician: Dr. Keith Bergmark
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	David Jones was admitted to the hospital due to persistent abdominal pain, changes in bowel habits, and unexplained weight loss over a period of three months. Initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels. Further investigations including computed tomography (CT) scan, magnetic resonance imaging (MRI), and colonoscopy confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Jones has a significant medical history characterized by hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He underwent a left hip replacement surgery in 2015 and is allergic to penicillin. His family history includes colon cancer, with his father diagnosed at the age of 65. Prior to admission, he was taking metformin for diabetes management, lisinopril for hypertension, albuterol for COPD, and aspirin as a cardioprotective agent.
+
+Diagnostic Findings:
+	Pathology results from the tumor biopsy showed moderately differentiated adenocarcinoma with involvement of multiple lymph nodes. Imaging studies revealed a large mass in the transverse colon, with local invasion and multiple enlarged lymph nodes. Blood tests revealed anemia (hemoglobin 8.5 g/dL), elevated CEA levels (20 ng/mL), and mildly elevated liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Jones, which included a laparoscopic colectomy followed by ileostomy formation to remove the affected segment of the colon. Post-operative care involved managing ileus, pain, and wound infection. He was also scheduled to receive adjuvant chemotherapy with FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for six cycles and radiation therapy to the pelvic region to reduce the risk of recurrence.
+
+Hospital Course:
+	Mr. Jones's recovery from surgery was initially challenging due to post-operative complications such as ileus and wound infection. However, with supportive care including fluid management, antibiotics, and nutritional support, he made significant progress over the subsequent weeks. The role of physiotherapy in helping him regain strength and mobility was crucial during his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Jones will have scheduled follow-up appointments with his oncologist and primary care provider every three months for the first year, then six-monthly thereafter. He is to continue taking aspirin as a cardioprotective agent and metformin for diabetes management, but the dosage of lisinopril will be adjusted based on blood pressure readings. A high-fiber, low-fat diet is recommended to prevent constipation and promote overall health. He should also monitor his weight and report any changes in bowel habits or persistent abdominal pain.
+
+Patient Education:
+	Mr. Jones and his family were educated on post-surgical care, including ileostomy management, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea, dehydration, and electrolyte imbalances.
+
+Discharge Instructions:
+	Upon discharge, Mr. Jones was provided with comprehensive instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised to maintain a healthy diet and attend all scheduled follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in Mr. Jones's case. He will be closely monitored for ongoing health issues related to his comorbidities, including hypertension, diabetes, and COPD.
+
+Final Remarks:
+	The attending physician, Dr. Keith Bergmark, commends Mr. Jones for his resilience and cooperation throughout the treatment journey. She encourages him to continue this positive attitude during the recovery phase and emphasizes the importance of regular follow-ups and adherence to the prescribed care plan. The report is signed by both the physician and patient on March 15, 2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Christina Alston
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1117
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/28/2023
+	•Attending Physician: Dr. Sheree Neace
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Christina Alston was admitted to our hospital due to persistent lower abdominal pain, bloody stools, and unintentional weight loss over the past three months. The initial assessment revealed a moderately distended abdomen with localized tenderness in the lower right quadrant. A series of diagnostic tests were performed including a complete blood count (CBC), comprehensive metabolic panel (CMP), carcinoembryonic antigen (CEA) test, and a computerized tomography (CT) scan of the abdomen and pelvis. These investigations confirmed the presence of a large mass in the sigmoid colon, lymph node involvement, and liver metastasis, suggesting a diagnosis of colorectal cancer.
+
+Medical History:
+	Christina Alston had a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015. His father died of colorectal cancer at the age of 65. John was allergic to penicillin and aspirin. Before admission, he was on metformin, ramipril, and a combination of bronchodilators for his chronic conditions.
+
+Diagnostic Findings:
+	The CBC revealed mild anemia (Hb 10.5 g/dL) with a normal white blood cell count and platelet levels. The CMP showed slightly elevated liver enzymes (ALT 45 U/L, AST 38 U/L). The CEA level was significantly increased (27 ng/mL). The CT scan demonstrated a large sigmoid colon mass (9 cm), multiple enlarged lymph nodes in the mesocolon and retroperitoneum, and several liver metastases.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Christina Alston, which included a low anterior resection of the sigmoid colon followed by an ileo-rectal anastomosis, permanent ileostomy creation (ileal conduit), and six cycles of adjuvant chemotherapy with FOLFOX regimen. Radiation therapy was not deemed necessary due to the extensive liver metastasis. The postoperative care involved pain management, antibiotics to prevent infections, and a high-protein, low-residue diet.
+
+Hospital Course:
+	Christina Alston underwent surgery successfully on March 23, 2023. Postoperatively, he developed an ileus which was managed with nasogastric suctioning and intravenous fluids. He received the first cycle of chemotherapy during his hospital stay. His pain was well-controlled, and his recovery was smooth. He received regular physiotherapy sessions to prevent deep vein thrombosis and maintain mobility.
+
+Follow-Up Plan:
+	Christina Alston will be scheduled for regular follow-ups every three months for the first year, then every six months for the next two years, and annually thereafter. He is to continue taking metformin and ramipril with close monitoring of his blood sugar and blood pressure levels. A low-fiber diet and adequate fluid intake are recommended to prevent constipation and maintain hydration. Any changes in bowel habits or signs of abdominal distress should be reported promptly.
+
+Patient Education:
+	Christina Alston was educated about the importance of regular follow-ups, the role of chemotherapy, and the management of his ileal conduit, including emptying, cleansing, and skin care around the stoma. He was instructed to recognize signs of complications such as inflammation, bleeding, or obstruction. Common side effects of chemotherapy were discussed, and strategies for managing these were provided.
+
+Discharge Instructions:
+	Upon discharge, Christina Alston was given detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to return to the hospital immediately if he experiences fever, severe abdominal pain, or signs of bleeding from the stoma.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Christina Alston is good given that the disease has been surgically resected with negative margins and adjuvant chemotherapy will be initiated. Regular monitoring for early detection of recurrence is crucial to improve outcomes.
+
+Final Remarks:
+	I would like to commend Christina Alston for his resilience and cooperation throughout this challenging treatment journey. We are hopeful that the measures we have taken will lead to a favorable outcome. I encourage him to continue adhering to the treatment plan, maintain a positive attitude, and seek medical attention promptly if any concerns arise.

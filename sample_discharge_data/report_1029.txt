@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Francisco Hurdle
+	•Date of Birth: 03/12/1980
+	•Medical Record Number: M1029
+	•Date of Admission: 01/27/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Austin Givens
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIA)
+
+Reason for Admission:
+	Francisco Hurdle presented to the emergency department complaining of persistent lower abdominal pain, decreased appetite, and unintentional weight loss over the past two months. On initial assessment, he was found to be pale, with a palpable mass in the lower abdomen. Laboratory tests revealed anemia and an elevated carcinoembryonic antigen (CEA) level. A computed tomography (CT) scan confirmed the presence of a tumor in the colon.
+
+Medical History:
+	Francisco Hurdle has a history of hypertension, which is well-controlled with medication. He also has a family history of colorectal cancer, with his father being diagnosed at age 60. Previously, he underwent appendectomy in 2010. Allergies include penicillin and sulfa drugs. His pre-admission medications included lisinopril for hypertension and aspirin for cardiovascular prophylaxis.
+
+Diagnostic Findings:
+	A series of tests were conducted to confirm the diagnosis and assess the extent of the disease. Pathology reports from a biopsy revealed adenocarcinoma, and imaging studies such as CT scan and positron emission tomography (PET) scan showed that the cancer had invaded the muscularis propria but had not metastasized to distant organs.
+
+Treatment Plan:
+	After consultation with a multidisciplinary team, a treatment plan was developed for Francisco Hurdle. This included a surgical intervention (partial colectomy with primary anastomosis), followed by adjuvant chemotherapy and potential radiation therapy. Post-operative care involved monitoring for complications such as infection, bleeding, and anastomotic leakage. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) every two weeks for 12 cycles.
+
+Hospital Course:
+	Francisco Hurdle underwent a successful partial colectomy on February 10, 2023. The initial recovery was uneventful, but he experienced post-operative nausea and vomiting managed with anti-emetics. On the tenth day after surgery, he developed a fever and abdominal pain, which were found to be due to a small bowel obstruction. This was managed conservatively with bowel rest, hydration, and antibiotics. He resumed oral intake on the seventeenth day post-surgery.
+
+Follow-Up Plan:
+	Francisco Hurdle will undergo his first cycle of chemotherapy one week after discharge. Subsequent cycles will be administered every two weeks for a total of 12 cycles. He will also require regular follow-ups with his oncologist and surgeon every three months for the first two years, then every six months thereafter. Lifestyle changes include maintaining a high-fiber diet and avoiding alcohol and tobacco.
+
+Patient Education:
+	Francisco Hurdle and his family were educated about the importance of adhering to the prescribed chemotherapy regimen, recognizing signs of complications such as bowel obstruction or anastomotic leakage, and managing common side effects like fatigue, nausea, and diarrhea. They were also instructed on post-surgical care of the ileal conduit and the importance of regular monitoring for early detection of recurrence.
+
+Discharge Instructions:
+	Upon discharge, Francisco Hurdle was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated on the signs of complications requiring immediate medical attention, such as fever, severe abdominal pain, or rectal bleeding.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Francisco Hurdle is favorable, given that the cancer has not metastasized to distant organs. However, regular monitoring for early detection of recurrence is crucial. It is essential for him to maintain a healthy lifestyle, attend all scheduled follow-ups, and adhere to his treatment plan for the best possible outcome.
+
+Final Remarks:
+	I am pleased to report that Francisco Hurdle has shown great resilience and cooperation throughout this treatment journey. His strong willpower and determination have been instrumental in his recovery thus far. I wish him a speedy and complete recovery, and I look forward to seeing him at our follow-up appointments.

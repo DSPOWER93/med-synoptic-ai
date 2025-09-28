@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephen Richards
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1109
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 05/20/2023
+	•Attending Physician: Dr. Michael Ewing
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Richards presented to the emergency department with complaints of hematuria, frequent urination, and lower back pain. The initial assessment revealed a distended abdomen and tenderness in the lower right quadrant. Subsequent investigations, including computed tomography (CT) scans and cystoscopy, confirmed a mass in the bladder. Further diagnostic workup showed that the tumor was invasive, with metastasis to regional lymph nodes.
+
+Medical History:
+	Mr. Richards has a history of hypertension, diabetes, and COPD. He had undergone a cholecystectomy in 2015 for gallstones. His family history is significant for colon cancer, with his father dying from the disease at the age of 65. Mr. Richards is allergic to penicillin and has been taking metformin, losartan, and albuterol prior to admission.
+
+Diagnostic Findings:
+	Pathology report confirmed a Transitional Cell Carcinoma. Imaging studies revealed a large tumor in the bladder with metastasis to the regional lymph nodes. Blood tests showed elevated levels of creatinine, hemoglobin A1c, and white blood cell count.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Richards. He underwent a radical cystectomy with ileal conduit formation. Post-operative care included pain management, wound care, and nutritional support. A neoadjuvant chemotherapy regimen consisting of Gemcitabine and Cisplatin was initiated, followed by adjuvant radiation therapy to the pelvis.
+
+Hospital Course:
+	Mr. Richards's initial recovery from surgery was smooth, but he faced complications such as urinary tract infection and delayed wound healing. These were managed through antibiotics and wound care. The role of physical therapy was instrumental in helping Mr. Richards regain his strength and mobility. Nutritional support was provided to manage weight loss associated with cancer treatment.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Richards includes outpatient appointments every three months for the first year, then every six months thereafter. Medications will be adjusted as necessary based on his response to therapy and any side effects. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise. Warning signs such as fever, persistent pain, or changes in urinary habits should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Richards and his family were educated about the nature of his disease, treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications, and managing common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Richards was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given contact information for the oncology department for any questions or concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Richards. He will need to manage ongoing health issues related to his comorbidities.
+
+Final Remarks:
+	Dr. Michael Ewing commends Mr. Richards for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued follow-up, adherence to the care plan, and maintaining a positive attitude for optimal health outcomes. Both the physician and patient have signed this report on May 20, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Bradley Walker
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1131
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 12/01/2022
+	•Attending Physician: Dr. Mario Anderson
+	•Primary Diagnosis: Pancreatic Cancer, Stage III
+
+Reason for Admission:
+	Mr. Walker presented to the emergency department with persistent abdominal pain, weight loss, and jaundice. Initial assessment revealed a palpable mass in the upper abdomen, elevated liver enzymes, and a positive CA 19-9 marker. Further investigations included CT scan, MRI, and endoscopic ultrasound which confirmed the diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Walker has a history of hypertension, diabetes, and COPD. He underwent coronary artery bypass graft surgery in 2015. His family history is significant for colon cancer and breast cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, Mr. Walker was on medications including metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology report from the pancreatic mass biopsy confirmed adenocarcinoma of the pancreas. Imaging studies showed a large, irregular mass in the head of the pancreas with evidence of local invasion and metastasis to the liver. Blood tests revealed elevated CA 19-9 levels, anemia, and hyperbilirubinemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Walker, which included surgical resection of the pancreatic mass followed by chemotherapy and radiation therapy. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support via a feeding tube. He received FOLFIRINOX as his chemotherapy regimen, consisting of four cycles with expected side effects such as nausea, fatigue, and myelosuppression. Radiation therapy was considered for local control but deferred due to post-operative complications.
+
+Hospital Course:
+	Mr. Walker underwent a Whipple procedure on [03/01/2022]. Recovery from surgery was initially challenging due to complications such as anastomotic leak and delayed gastric emptying. He received supportive care including total parenteral nutrition, wound care, and antibiotics. Therapy sessions were initiated to improve his mobility and lung function.
+
+Follow-Up Plan:
+	Mr. Walker will have regular follow-up appointments with the oncologist every three months for the first year, then every six months thereafter. Medications include oral gemcitabine for maintenance therapy, metformin, lisinopril, and salmeterol/fluticasone. He is advised to maintain a low-fat diet and quit smoking. Warning signs requiring immediate medical attention include fever, severe abdominal pain, or worsening jaundice.
+
+Patient Education:
+	Mr. Walker and his family were educated about the nature of his disease, treatment options, and post-surgical care. Instructions included managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence, wound care practices, maintaining hydration, and guidelines for physical activity. He is advised to contact his healthcare provider immediately if any complications arise or if he experiences fever, severe abdominal pain, or worsening jaundice.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial. Mr. Walker's prognosis will depend on the response to treatment, his overall health status, and any potential complications.
+
+Final Remarks:
+	I commend Mr. Walker for his courage and resilience throughout this challenging journey. His cooperation and positive attitude have greatly facilitated his care. We will continue to support him in his recovery and hope for the best possible outcome.

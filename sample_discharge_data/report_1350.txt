@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Paul Morabito
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1350
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Jay Mccreery
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Paul Morabito was admitted to the hospital due to persistent abdominal pain and unintentional weight loss over a period of several months. Upon admission, his initial assessment revealed elevated levels of pancreatic enzymes in blood tests and a palpable mass in the upper left quadrant of his abdomen. Further diagnostic investigations, including CT scans and endoscopic ultrasound, confirmed the presence of a large tumor in his pancreas.
+
+Medical History:
+	Mr. Morabito has a history of hypertension and chronic obstructive pulmonary disease (COPD). He had undergone a left nephrectomy for renal cell carcinoma 10 years ago. His family history is significant for pancreatic cancer, with his father and two uncles diagnosed at ages 62, 58, and 73 respectively. Mr. Morabito has no known allergies and was taking Ramipril, Salmeterol/Fluticasone, and Metformin prior to admission.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of a pancreatic adenocarcinoma, with a tumor size of approximately 5 cm. CT scans showed no evidence of metastasis, but the cancer had encased the celiac artery and superior mesenteric artery. Blood tests revealed elevated levels of CA19-9 (206 U/mL), a tumor marker for pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Morabito, which included a Whipple procedure followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring of nutritional status, management of surgical complications, and pain control. The planned chemotherapy regimen consisted of FOLFIRINOX (Folinic acid, Irinotecan, 5-Fluorouracil, and Oxaliplatin) with a cycle duration of every two weeks. Radiation therapy was considered as part of the adjuvant treatment plan, but was deferred due to Mr. Morabito's poor performance status after surgery.
+
+Hospital Course:
+	Mr. Morabito underwent a successful Whipple procedure on March 15, 2022. His initial recovery was complicated by pancreatic fistula, which required drainage for two weeks. He also experienced post-operative pain and delayed gastric emptying, both of which were managed effectively with medication and dietary adjustments. Throughout his hospital stay, Mr. Morabito received physical therapy to improve mobility and nutritional support to aid in wound healing and overall recovery.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Morabito, which includes regular outpatient appointments every three months for the first year, then every six months thereafter. Medications will continue as prescribed, with a gradual taper of opioids for pain management. Lifestyle modifications, such as smoking cessation and moderate alcohol consumption, are strongly advised. Dietary recommendations include high-protein, low-fat meals and regular exercise to improve overall health and maintain a healthy weight.
+
+Patient Education:
+	Mr. Morabito and his family were provided extensive education on post-surgical care for the ileal conduit, including signs of complications such as leakage, blockage, or obstruction. They were also instructed on managing common side effects of chemotherapy, such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Morabito was given comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with a list of contacts for support during his recovery and beyond.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Morabito's long-term health. Given the aggressive nature of pancreatic cancer, ongoing support and care will be essential to help him maintain quality of life.
+
+Final Remarks:
+	It has been a privilege to care for Paul Morabito during this challenging time. His resilience and cooperation throughout the treatment journey have been inspiring. We are confident that he will continue to face the challenges ahead with strength and determination. This report is signed by Dr. Jay Mccreery, Date April 25, 2022, and Paul Morabito, Date April 25, 2022.

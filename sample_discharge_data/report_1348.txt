@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph Heath
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1348
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Sandra Leib
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Heath presented to the emergency department with complaints of hematuria (blood in urine) and dysuria (painful urination) that had persisted for several weeks. Upon initial assessment, his vital signs were stable, but he appeared distressed. A thorough physical examination was conducted, revealing no abnormalities apart from a palpable mass in the lower abdomen. Subsequent imaging studies, such as CT scans and cystoscopy, confirmed the presence of a bladder tumor.
+
+Medical History:
+	Mr. Heath has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2015 due to a renal cell carcinoma. His family history is notable for breast cancer in his mother and prostate cancer in his father. Mr. Heath is allergic to penicillin and has been taking metformin, lisinopril, and salmeterol/fluticasone as his pre-admission medications.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of a T2 bladder tumor with no evidence of nodal involvement or distant metastasis (T2N0M0). Imaging studies revealed an irregular mass in the bladder, and cystoscopy revealed a sessile, fungating lesion. Laboratory test results showed elevated levels of creatinine and hemoglobin A1c, indicative of renal dysfunction and poorly controlled diabetes.
+
+Treatment Plan:
+	The multidisciplinary team, led by Dr. Leib, developed a comprehensive treatment plan for Mr. Heath. After extensive discussions with the patient, a radical cystectomy was performed, followed by an ileal conduit creation and pelvic lymph node dissection. Post-operative care included pain management, antibiotics to prevent urinary tract infections, and monitoring for complications such as ileus or wound dehiscence. A chemotherapy regimen consisting of gemcitabine and cisplatin was initiated and will be continued for six cycles. Radiation therapy was not deemed necessary due to the absence of nodal involvement.
+
+Hospital Course:
+	Mr. Heath's initial recovery from surgery was smooth, with no major complications reported. However, he experienced post-operative ileus, which resolved after conservative management and bowel rest. Over the course of his hospitalization, Mr. Heath received nutritional support through a nasogastric tube, and his diabetes was closely monitored to maintain optimal glycemic control. He also underwent physical therapy sessions to help improve his mobility and prevent deep vein thrombosis.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Heath will be scheduled for outpatient follow-up appointments every three months for the first year, then six months thereafter. He will continue to take metformin, lisinopril, and salmeterol/fluticasone, but the doses may be adjusted based on his response to treatment. A low-sodium, low-protein diet is recommended due to his renal dysfunction. Mr. Heath should monitor for signs of infection, such as fever or changes in urine color, and seek immediate medical attention if any occur.
+
+Patient Education:
+	Mr. Heath was provided with thorough instructions regarding post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as diarrhea, nausea, and fatigue. He was also educated about the importance of adhering to his medications, maintaining a healthy diet, and engaging in regular physical activity.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Heath was provided with comprehensive discharge instructions. These included medication adherence, wound care practices (such as keeping the area clean and dry), hydration guidelines, and physical activity recommendations. He was also informed about the importance of attending all follow-up appointments and contacting his healthcare provider immediately if any concerns arise.
+
+Prognosis and Long-Term Outlook:
+	The overall prognosis for patients with early-stage bladder cancer, such as Mr. Heath, is favorable; however, regular monitoring for recurrence is essential to ensure early detection and treatment. Management of ongoing health issues, such as diabetes and hypertension, will also play a crucial role in Mr. Heath's long-term outlook.
+
+Final Remarks:
+	Dr. Leib expresses her appreciation for Mr. Heath's resilience throughout the treatment process and his active participation in discussions regarding his care plan. She emphasizes the importance of continuing to work closely with his healthcare team as he recovers from surgery and undergoes chemotherapy. Mr. Heath signs this report on 05/01/2022, acknowledging his understanding of the instructions provided. Dr. Leib also signs the report on the same date, confirming the accuracy of the documentation.

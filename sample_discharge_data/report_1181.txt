@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eric Addison
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1181
+	•Date of Admission: 03/07/2021
+	•Date of Discharge: 08/15/2021
+	•Attending Physician: Dr. Katherine Wheeler
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Addison presented to the emergency department with a three-week history of progressive abdominal pain, decreased appetite, and weight loss. On initial assessment, he appeared visibly uncomfortable and was tachycardic. Abdominal examination revealed a tender, distended abdomen with palpable masses. Initial laboratory investigations indicated anemia, leukocytosis, and elevated carcinoembryonic antigen (CEA) levels. Computerized tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large mass in the transverse colon with multiple lymph node involvement, consistent with colorectal cancer.
+
+Medical History:
+	Mr. Addison has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015. He has a family history of colorectal cancer, with his father diagnosed at the age of 60. His known allergies include penicillin, and he was on metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Further investigations during his hospital stay included a colonoscopy, which revealed an obstructing tumor in the transverse colon. Pathology results from the resected specimen confirmed adenocarcinoma of the colon. Staging was determined as T3N2M0 (Stage III).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Addison, which included a right hemi-colectomy with primary anastomosis, followed by adjuvant chemotherapy. Post-operative care focused on pain management, wound healing, and prevention of thromboembolic events. The initial chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) with a plan for six cycles. Radiation therapy was deferred due to the risk of radiation toxicity in the setting of an active surgical wound.
+
+Hospital Course:
+	Mr. Addison's post-operative course was complicated by anastomotic leak requiring re-exploration and temporary ostomy creation (ileal conduit). He received adequate nutritional support through total parenteral nutrition (TPN) during this time. His pain was well-controlled with opioids, and he participated actively in physical therapy to promote mobility and prevent complications related to prolonged bedrest.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Addison was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue on oral 5-Fluorouracil for adjuvant therapy, and his diabetes and hypertension medications were adjusted as needed. A low-fat diet with high fiber content was recommended to help prevent recurrence. He was instructed to report any signs of complications related to the ileal conduit or common side effects of chemotherapy such as nausea, vomiting, and fatigue.
+
+Patient Education:
+	Mr. Addison and his family were educated on the importance of regular follow-up appointments and the role of adjuvant therapy in reducing the risk of recurrence. They received instructions on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Addison was provided with comprehensive discharge instructions detailing medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised on how to contact the hospital in case of an emergency.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Addison is favorable with successful surgical resection and adjuvant therapy. Regular monitoring for early detection of recurrence is crucial, and he was reminded to report any concerning symptoms promptly.
+
+Final Remarks:
+	Throughout his treatment journey, Mr. Addison demonstrated remarkable resilience and cooperation. His positive attitude and diligence in adhering to the treatment plan have contributed significantly to his successful recovery. I am confident that he will continue to make progress in his journey towards full health.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eric Frame
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M147
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. George Shurts
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Eric Frame was admitted to the hospital due to persistent hematuria, a condition characterized by blood in the urine, which had been ongoing for several weeks. On admission, his initial assessment revealed abdominal pain and a weakened immune system. A series of diagnostic investigations were conducted, including urine cytology, computed tomography (CT) scans of the abdomen and pelvis, and a cystoscopy. The results of these tests confirmed the presence of a bladder tumor, indicating bladder cancer.
+
+Medical History:
+	Eric Frame has a history of hypertension, which is well-controlled with medication. He also has a family history of colon cancer and breast cancer, with his mother passing away from breast cancer at the age of 56. Prior to admission, he underwent a total knee replacement surgery due to a severe knee injury. Allergies include penicillin and sulfa drugs. He was taking aspirin for his hypertension and ibuprofen for occasional joint pain.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) procedure revealed moderately differentiated, muscularis-invasive transitional cell carcinoma (TCC). The CT scans showed a large tumor in his bladder with involvement of the muscularis propria and extension to the right obturator fossa. Blood tests indicated abnormalities in kidney function and an elevated white blood cell count, suggesting infection or inflammation.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Eric Frame. The primary intervention was radical cystectomy with ileal conduit formation. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support. He underwent four cycles of chemotherapy (GCB-3 regimen) to reduce the risk of recurrence. Radiation therapy was considered but deemed unnecessary due to the extent of surgical resection.
+
+Hospital Course:
+	Eric Frame's initial recovery from surgery was challenging due to post-operative complications, including anastomotic leakage and a urinary tract infection. However, with aggressive management, he overcame these obstacles. Throughout his hospital stay, he participated in physical therapy and underwent daily wound care. His nutritional needs were met through enteral feeding, and his diabetes was well-managed.
+
+Follow-Up Plan:
+	Eric Frame will have scheduled outpatient appointments every three months for the first year post-discharge. He will continue with his current medications (antihypertensives and pain relievers) but may require adjustments based on his kidney function. Lifestyle recommendations include quitting smoking, maintaining a healthy diet low in processed foods, and staying hydrated. Warning signs of complications include fever, persistent abdominal pain, changes in urine color or amount, and difficulty emptying the ileal conduit.
+
+Patient Education:
+	Eric Frame and his family were provided extensive education about post-surgical care, including instructions on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea. They were also advised to maintain a healthy lifestyle to improve overall health and reduce the risk of recurrence.
+
+Discharge Instructions:
+	Eric Frame was discharged with instructions to continue his current medications, maintain strict wound care practices, ensure proper hydration, and engage in light physical activity as tolerated. He was advised to avoid heavy lifting and strenuous activities for at least six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Eric Frame should undergo regular cystoscopies, CT scans, and blood tests to monitor his bladder cancer status.
+
+Final Remarks:
+	I commend Eric Frame for his resilience and cooperation throughout his treatment journey. His strong spirit and positive attitude have played a significant role in his successful recovery. Together with the multidisciplinary team, we will continue to support him in maintaining optimal health and monitoring for any signs of recurrence.

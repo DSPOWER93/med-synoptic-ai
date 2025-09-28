@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brandi Dougherty
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1309
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/25/2023
+	•Attending Physician: Dr. Stacey Segal
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Brandi Dougherty presented to the emergency room with complaints of hematuria, pain in the lower abdomen, and frequent urination. His initial assessment revealed a distended bladder, and laboratory investigations indicated an elevated white blood cell count and increased levels of creatinine. Further diagnostic tests, including cystoscopy and CT scan, confirmed the presence of a tumor in his bladder.
+
+Medical History:
+	Mr. Dougherty has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 for gallbladder stones. His family history is significant for bladder cancer, and he has a known allergy to penicillin. Prior to admission, he was on metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and albuterol.
+
+Diagnostic Findings:
+	Pathology findings from the transurethral resection of bladder tumor (TURBT) revealed a moderately differentiated urothelial carcinoma with positive muscularis propria invasion. Imaging scans showed no evidence of metastasis, but there were multiple suspicious lesions in his lungs. Blood tests indicated anemia and elevated creatinine levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Dougherty. He underwent radical cystectomy followed by ileal conduit urinary diversion, with lymph node dissection on March 20, 2023. His post-operative care included pain management, wound care, and antibiotic therapy to prevent infection. A six-month regimen of adjuvant chemotherapy with Gemcitabine and Cisplatin was initiated. Radiation therapy was deferred due to the risk of radiation cystitis.
+
+Hospital Course:
+	Mr. Dougherty's initial recovery from surgery was uneventful, but he developed a urinary tract infection on day 10 post-operatively. This was managed with antibiotics, and he was discharged when his condition stabilized. During his hospital stay, he received physical therapy for ambulation and nutritional support to manage his diabetes and malnutrition secondary to poor oral intake.
+
+Follow-Up Plan:
+	Mr. Dougherty will be followed up every three months for the first two years after discharge, then every six months thereafter. He will continue on metformin for his diabetes, but his blood pressure medication and COPD inhalers are to be adjusted based on post-discharge assessments. A low-fat, high-protein diet is recommended, and he should maintain regular physical activity. Any symptoms of fever, chills, flank pain, or hematuria warrant immediate medical attention.
+
+Patient Education:
+	Mr. Dougherty and his family were educated about the nature of his disease, treatment options, and post-surgical care for the ileal conduit. They were instructed on recognizing signs of complications such as urinary leakage, foul-smelling drainage, fever, or abdominal pain. Common side effects like nausea, fatigue, and neuropathy were discussed, and strategies to manage these symptoms were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Dougherty was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a diet low in fat and high in protein and fiber, and to monitor his blood sugar levels closely.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial, as bladder cancer can have a high rate of recurrence. Mr. Dougherty will need to manage ongoing health issues related to his diabetes, hypertension, and COPD in the long term.
+
+Final Remarks:
+	Dr. Stacey Segal commends Brandi Dougherty for his resilience throughout the treatment journey and expresses her hope that he continues to recover well post-discharge. Both the physician's and patient's signatures are affixed, along with the date of April 25, 2023, to validate this report.

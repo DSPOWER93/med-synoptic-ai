@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Travis Duval
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1431
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 10/01/2022
+	•Attending Physician: Dr. Everett Gaskins
+	•Primary Diagnosis: Pancreatic Cancer (Adencarcinoma)
+
+Reason for Admission:
+	Mr. Travis Duval, a 42-year-old male with no significant past medical history, presented to the emergency department complaining of severe abdominal pain and jaundice. Upon admission, his vital signs were stable, but a physical examination revealed a palpable mass in the epigastric region and signs of hepatomegaly. Laboratory tests showed elevated levels of bilirubin, alkaline phosphatase, and amylase, indicative of an obstructive jaundice caused by a pancreatic head mass. A CT scan confirmed the presence of a 4cm tumor in the pancreatic head with surrounding lymph node involvement.
+
+Medical History:
+	Prior to this admission, Mr. Duval was generally healthy and had no known chronic conditions or allergies. He underwent an appendectomy at age 16 due to appendicitis. His family history was significant for colon cancer in his father and breast cancer in his mother. He was not taking any regular medications before admission.
+
+Diagnostic Findings:
+	Following the CT scan, a biopsy of the mass was performed, confirming the diagnosis of pancreatic adenocarcinoma. Pathology reports indicated moderately differentiated carcinoma with positive lymph node involvement (T3N1M0). Additional tests including MRCP and EUS were performed to assess the extent of the disease and plan the treatment strategy.
+
+Treatment Plan:
+	A multidisciplinary team, consisting of surgeons, medical oncologists, radiation oncologists, and palliative care specialists, developed a comprehensive treatment plan for Mr. Duval. Given the size and location of the tumor, he underwent a distal pancreatectomy with splenectomy followed by a Whipple procedure (pancreaticoduodenectomy). Post-operative care involved close monitoring for complications such as anastomotic leak and delayed gastric emptying. He was also started on a 6-month regimen of FOLFIRINOX chemotherapy, with each cycle consisting of irinotecan, oxaliplatin, and fluorouracil. Radiation therapy was not deemed necessary due to the extent of the disease.
+
+Hospital Course:
+	Mr. Duval's post-operative course was complicated by a delayed gastric emptying. He received total parenteral nutrition for several days until his oral intake resumed. His pain was well controlled with opioids, and he actively participated in physical therapy to promote mobility and prevent deep vein thrombosis. Throughout the hospital stay, Mr. Duval demonstrated a strong will to fight and cooperated fully with the treatment plan.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Duval was scheduled for regular outpatient follow-ups with his oncologist every 3 months for the first year and then every 6 months thereafter. He was prescribed oral gemcitabine to be continued indefinitely as maintenance therapy. Lifestyle modifications were recommended, including a low-fat diet and avoidance of smoking and alcohol. He was also educated on recognizing signs of complications such as bowel obstruction or cholangitis and instructed to seek immediate medical attention if these symptoms arise.
+
+Patient Education:
+	Prior to discharge, Mr. Duval and his family were extensively educated about the nature of his disease, the role of chemotherapy in managing the cancer, and post-surgical care instructions. He was taught how to manage his ileal conduit, recognize signs of complications, and cope with common side effects of chemotherapy such as nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Mr. Duval was provided with detailed discharge instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a balanced diet, avoid heavy lifting, and report any unusual symptoms to his oncologist immediately.
+
+Prognosis and Long-Term Outlook:
+	Mr. Duval's prognosis is guarded due to the advanced stage of his disease at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues is essential to improve his quality of life.
+
+Final Remarks:
+	Throughout this challenging journey, Mr. Travis Duval demonstrated remarkable resilience, courage, and cooperation. I am confident that with continued support from his family, friends, and healthcare team, he will continue to fight this disease with determination and hope for a brighter future ahead.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Earnest Miller
+	•Date of Birth: 20 January 1980
+	•Medical Record Number: M1389
+	•Date of Admission: 1 February 2023
+	•Date of Discharge: 10 March 2023
+	•Attending Physician: Dr. Shay Garcia
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Earnest Miller, a 43-year-old male, was admitted to our facility on February 1st, 2023, presenting with symptoms of hematuria, frequent urination, and lower back pain. The initial assessment revealed an abdominal mass, which prompted further diagnostic investigations. A Earnest Miller (CT) scan and cystoscopy confirmed the presence of a bladder tumor. Given the size and location of the tumor (T2), John was scheduled for a radical cystectomy.
+
+Medical History:
+	Mr. Miller has a history of hypertension, diabetes mellitus type 2, and Chronic Obstructive Pulmonary Disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstone disease. His family history is significant for colon cancer in his father at the age of 65. John has known allergies to penicillin and aspirin. Prior to admission, he was taking metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	The pathology report from the cystectomy revealed a moderately differentiated transitional cell carcinoma of the bladder with no evidence of lymph node or distant metastasis (N0M0). Blood tests showed anemia, elevated creatinine level, and glucose level above the normal range.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Earnest Miller. He underwent a radical cystectomy with ileal conduit formation on February 10th, 2023. Post-operative care included wound management, pain control, and nutritional support. Following the surgery, he commenced a chemotherapy regimen consisting of gemcitabine and cisplatin every three weeks for four cycles. Radiation therapy was not deemed necessary due to the absence of lymph node involvement.
+
+Hospital Course:
+	During his hospital stay, John faced challenges with post-operative pain management and delayed recovery from anemia. He received physical therapy sessions to regain mobility and underwent occupational therapy for wound care education. The multidisciplinary team worked closely to manage his diabetes and hypertension throughout the treatment journey.
+
+Follow-Up Plan:
+	Earnest Miller is scheduled for a follow-up appointment with his oncologist in one month, and then every three months for the first year. He will continue taking metformin and lisinopril, adjusting the dosage as necessary. A low-fiber diet and adequate fluid intake are recommended to manage the ileal conduit. Any signs of fever, chills, increased abdominal pain, or changes in urine color should prompt immediate medical attention.
+
+Patient Education:
+	Earnest Miller and his family were educated about the importance of recognizing potential complications such as urinary tract infections, bowel obstruction, and cancer recurrence. They were instructed on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects like nausea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Earnest Miller was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was given a follow-up appointment schedule and advised to maintain regular communication with his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Earnest Miller's ongoing health management.
+
+Final Remarks:
+	We are grateful for Mr. Miller's resilience and cooperation throughout his treatment journey, and we wish him a swift recovery. This report has been prepared by Dr. Shay Garcia on March 10th, 2023, and is signed by both the patient and physician.

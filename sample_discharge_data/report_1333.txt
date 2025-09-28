@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Saundra Seawood
+	•Date of Birth: 1980-03-15
+	•Medical Record Number: M1333
+	•Date of Admission: 2022-07-10
+	•Date of Discharge: 2022-07-25
+	•Attending Physician: Dr. Edwin Boggioni
+	•Primary Diagnosis: Advanced Colorectal Cancer (Stage IV)
+
+Reason for Admission:
+	Mr. Seawood presented to the emergency room with symptoms of abdominal pain, weight loss, and altered bowel habits persisting over several weeks. Initial assessment revealed a distended abdomen and signs of possible obstruction. Various diagnostic tests, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large, obstructing tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Seawood has a significant medical history, which includes hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a total knee replacement surgery ten years ago. His father passed away due to prostate cancer at the age of 65. Mr. Seawood is allergic to penicillin and contrast agents. He was taking several medications before admission, including metformin for diabetes, lisinopril for hypertension, albuterol inhaler for COPD, and ibuprofen as needed for joint pain.
+
+Diagnostic Findings:
+	Pathology results from the tumor resection confirmed adenocarcinoma of the colon. The CT scan revealed multiple liver metastases and a large obstructing tumor in the sigmoid colon. Blood tests showed anemia, elevated CEA levels, and signs of kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Seawood. The primary intervention was a sigmoid colectomy, followed by creation of an ileal conduit and systemic chemotherapy. Post-operative care included pain management, wound care, and nutritional support. The oncology team prescribed a FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) chemotherapy regimen consisting of six cycles. Radiation therapy was considered but ultimately deemed unnecessary due to the extent of metastatic disease.
+
+Hospital Course:
+	Mr. Seawood's initial recovery from surgery was complicated by an infection at the surgical site and kidney dysfunction. He required intravenous antibiotics and fluid management for the infection, as well as dialysis for the kidney function issues. Once these conditions were stabilized, he began chemotherapy. Throughout his hospital stay, Mr. Seawood demonstrated resilience in facing challenges and cooperated fully with therapy and care.
+
+Follow-Up Plan:
+	After discharge, Mr. Seawood will continue on the FOLFOX chemotherapy regimen as an outpatient. He will have regular appointments with his oncologist to monitor his progress and manage any side effects. His dietitian will provide guidance on maintaining a balanced diet, and his primary care physician will manage his ongoing conditions of hypertension, diabetes, and COPD. Mr. Seawood should report immediately to the emergency room for any signs of complications such as fever, severe abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	The medical team provided extensive education to Mr. Seawood and his family about the ileal conduit, managing potential complications, and common side effects of chemotherapy. They were instructed on proper wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Upon discharge, Mr. Seawood was given detailed instructions on medication adherence, wound care, and hydration. He was also provided with a schedule of follow-up appointments and emergency contact information.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Seawood's ongoing health management. It is essential that he maintains a close relationship with his oncologist and primary care physician to manage any new or ongoing health issues.
+
+Final Remarks:
+	Dr. Edwin Boggioni, MD, expressed her gratitude for Mr. Seawood's resilience and cooperation throughout his treatment journey. She emphasized the importance of continued follow-up appointments, medication adherence, and vigilance in managing potential complications. The report was signed by both Dr. Boggioni and Mr. Seawood on 2022-07-25.

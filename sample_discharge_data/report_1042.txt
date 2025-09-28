@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lanita Lopez
+	•Date of Birth: 01/15/1978
+	•Medical Record Number: M1042
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Dr. Williams
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Lanita Lopez was admitted to the hospital due to persistent abdominal pain, changes in bowel habits, and unexplained weight loss over several months. Upon admission, he underwent a series of diagnostic investigations, including blood tests, CT scans, and a colonoscopy. These tests confirmed the presence of a large tumor in his colon, indicating colorectal cancer.
+
+Medical History:
+	Mr. Lopez has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee replacement surgery in 2019. His family history is significant for colorectal cancer in his father and maternal grandmother. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and albuterol inhaler.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy revealed a large, invasive adenocarcinoma of the sigmoid colon. CT scan results showed tumor involvement of the surrounding tissues, as well as liver metastases. Blood tests revealed anemia and elevated CA 19-9 levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Lopez. This included a sigmoid colectomy, creation of an ileal conduit, six cycles of FOLFOX chemotherapy, and radiation therapy to the liver metastases. The patient experienced expected side effects from chemotherapy, including nausea, fatigue, and diarrhea.
+
+Hospital Course:
+	Mr. Lopez underwent a successful sigmoid colectomy on March 23, 2022. Post-operative care focused on pain management, preventing complications, and ensuring proper wound healing. He received nutritional support through a nasogastric tube during the initial recovery phase. His condition stabilized, and he was able to begin mobilizing and participating in therapy sessions.
+
+Follow-Up Plan:
+	Mr. Lopez has scheduled outpatient appointments every three months for the first year, followed by six-month visits thereafter. He will continue his medications for hypertension, diabetes, and COPD. Dietary recommendations include a low-fiber diet initially, followed by a balanced diet focused on lean proteins, fruits, vegetables, and whole grains. He should avoid alcohol and spicy foods. Warning signs of complications include fever, persistent abdominal pain, changes in bowel habits, or unexpected weight loss.
+
+Patient Education:
+	Mr. Lopez was educated on post-surgical care, including emptying and caring for his ileal conduit. He was instructed to recognize signs of complications such as inflammation, obstruction, or leakage from the conduit. Common side effects of chemotherapy were discussed, and strategies for managing these were provided.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Lopez was given clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to gradually increase his physical activity level, starting with short walks and gradually building up to more strenuous exercise as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in colorectal cancer survivors. Lifelong management of underlying conditions such as hypertension, diabetes, and COPD will be necessary.
+
+Final Remarks:
+	Dr. Williams concludes this report by commending Mr. Lopez's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued care and close follow-up to ensure the best possible outcome. The report is signed by both Dr. Williams and Lanita Lopez, validating the information presented.

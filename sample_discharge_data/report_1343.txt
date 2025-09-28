@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Brown
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1343
+	•Date of Admission: 04/02/2023
+	•Date of Discharge: 05/15/2023
+	•Attending Physician: Dr. Richard Edgerson
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mary Brown, a 53-year-old male, was admitted to our facility on April 2, 2023, due to persistent lower abdominal pain and rectal bleeding that had been escalating over the past three weeks. The initial assessment revealed a moderately distended abdomen with localized tenderness in the lower right quadrant. Further investigations, including laboratory tests, computed tomography (CT), and colonoscopy, were ordered to confirm the diagnosis.
+
+Medical History:
+	Mr. Brown has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His father passed away from colorectal cancer at the age of 65, and his mother had type 2 diabetes. Mr. Brown was taking metformin, lisinopril, and albuterol inhaler before admission.
+
+Diagnostic Findings:
+	The colonoscopy confirmed a large mass occupying the ascending colon, and the pathology report indicated an invasive adenocarcinoma. The CT scan revealed multiple liver metastases. Blood tests showed elevated carcinoembryonic antigen (CEA) levels and mild anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Brown. He underwent a right hemicolectomy, followed by a permanent ileostomy. Post-operative care included pain management, nutritional support, and bowel management. He was administered adjuvant chemotherapy, with the regimen consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin). Radiation therapy was not deemed necessary due to the extensive liver metastases.
+
+Hospital Course:
+	Mr. Brown's recovery from surgery was initially challenging due to post-operative complications such as anemia and dehydration. However, with the support of our dedicated team, he successfully overcame these obstacles. He received regular chemotherapy cycles throughout his hospital stay. His condition stabilized as the disease was brought under control.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Brown will be scheduled for frequent outpatient appointments for close monitoring and potential additional treatment options. His medications will be adjusted to manage his hypertension, diabetes, and any side effects from chemotherapy. He has been advised to maintain a balanced diet, rich in fiber, and avoid heavy lifting or strenuous activity for at least six weeks post-discharge.
+
+Patient Education:
+	The team provided extensive education to Mr. Brown and his family about the care of his ileal conduit, recognizing signs of complications such as abscesses or leakage, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	The discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations to facilitate recovery and maintain overall health.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Brown's long-term management. He has been advised to maintain a healthy lifestyle, including regular exercise and a balanced diet.
+
+Final Remarks:
+	Dr. Edgerson commends Mr. Brown on his resilience and cooperation throughout the treatment journey. This report is signed by both Dr. Edgerson and Mary Brown, validating the contents on May 15, 2023.

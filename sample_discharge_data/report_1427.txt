@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Benjamin Cross
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1427
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Beverly Clark
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Benjamin Cross was admitted to the hospital due to persistent hematuria and dysuria, which had been ongoing for several weeks. An initial urinalysis revealed blood in the urine, and a computed tomography urogram (CTU) confirmed the presence of a bladder mass. The severity of his symptoms led to an urgent surgical intervention to remove the tumor.
+
+Medical History:
+	Mr. Cross has a history of hypertension, for which he was prescribed amlodipine. He also has a family history of colon cancer and type 2 diabetes, managed with metformin. Prior to this admission, he had undergone a laparoscopic appendectomy in 2015. He is allergic to penicillin.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of TCC in the bladder. Staging was determined through a combination of transrectal ultrasound, CTU, and cystoscopy. The tumor was invasive, with evidence of extravesical extension. Blood tests revealed elevated creatinine levels, suggesting possible kidney dysfunction due to the tumor's size.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cross. He underwent a radical cystectomy with ileal conduit formation on 08/01/2022. Post-operative care included pain management, fluid and electrolyte balance maintenance, and monitoring for complications such as urinary tract infections and ileus. A course of adjuvant chemotherapy was prescribed, consisting of gemcitabine and cisplatin every three weeks for four cycles. Radiation therapy was deemed unnecessary due to the complete excision of the tumor during surgery.
+
+Hospital Course:
+	The initial post-operative recovery was challenging due to a delayed return of bowel function. However, with aggressive management and supportive care, Mr. Cross's condition stabilized. He received regular physical therapy to aid in his mobility and prevent complications such as deep vein thrombosis (DVT). Nutritional support was crucial, as Mr. Cross experienced a significant loss of appetite due to the surgery and post-operative nausea.
+
+Follow-Up Plan:
+	Mr. Cross will be scheduled for regular outpatient follow-ups every three months for the first year, then every six months thereafter. He is to continue taking amlodipine and metformin, adjusting dosages as necessary based on his blood pressure and blood glucose levels. Dietary recommendations include a high-fiber diet to promote regular bowel movements and reduce the risk of constipation.
+
+Patient Education:
+	Mr. Cross and his family were educated about post-surgical care, including ileal conduit management, recognizing signs of complications such as fever, abdominal pain, or changes in urine color or odor, and managing common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Cross was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a balanced diet, monitor his urine output and color, and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial, as TCC is known to have a high risk of recurrence. Lifelong follow-up will be essential to manage ongoing health issues such as hypertension and diabetes.
+
+Final Remarks:
+	Mr. Cross demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team and adhering to the prescribed regimen. We wish him a speedy recovery and a healthy future.

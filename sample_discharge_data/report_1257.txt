@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Erin Glidewell
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1257
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Dr. Garcia
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Erin Glidewell, a 42-year-old male, was admitted to our facility on 02/01/2022 due to hematuria (blood in urine), persistent dysuria (painful urination), and frequent urinary tract infections over the past three months. The initial assessment revealed a distended abdomen, and a CT scan confirmed the presence of a large mass in his bladder. A cystoscopy was performed to obtain a biopsy sample, which later confirmed the diagnosis of urothelial carcinoma.
+
+Medical History:
+	Mr. Glidewell has a history of hypertension and COPD. He had previously undergone a laparoscopic appendectomy in 2015. His father passed away from colon cancer, and his sister is a Type 2 Diabetes Mellitus patient. Mr. Glidewell was allergic to penicillin and certain anesthetics. He was regularly taking metoprolol, salmeterol, and fluticasone for hypertension and COPD management before admission.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted during Mr. Glidewell's hospital stay. The pathology report from the biopsy indicated moderately differentiated urothelial carcinoma, with a muscularis propria invasion and lymphovascular invasion. The CT scan revealed a large bladder mass with local extension into the urinary tract, and multiple lymph nodes were enlarged. Blood tests showed elevated creatinine levels indicative of renal impairment.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Glidewell. The primary intervention was a radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy and radiation therapy. Post-operative care included wound management, pain control, antibiotics to prevent urinary tract infections, and nutritional support. The chemotherapy regimen involved Gemcitabine and Cisplatin, administered every three weeks for four cycles.
+
+Hospital Course:
+	Mr. Glidewell underwent a successful radical cystectomy on 07/01/2022. He experienced initial post-operative complications, including anastomotic leakage, which was managed with conservative measures and antibiotics. As he recovered, he began physical therapy to aid in his mobility and nutritional support to improve his overall health. His renal function improved gradually during the hospital stay, but frequent follow-ups were scheduled for monitoring.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments every three months for the first year, then semi-annually thereafter. Mr. Glidewell will continue taking metoprolol and salmeterol/fluticasone, with adjustments as necessary. A low-sodium, high-fiber diet is recommended to support kidney function and promote regular bowel movements. He should also maintain adequate hydration and engage in light physical activity as tolerated.
+
+Patient Education:
+	Mr. Glidewell and his family were provided with detailed information about the ileal conduit diversion, post-surgical care, and managing potential complications. They were taught to recognize signs of infection, blockage, or leaks in the ileal conduit. Common side effects of chemotherapy, such as fatigue, nausea, and hair loss, were discussed, along with management strategies.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Glidewell was given detailed instructions on wound care practices, medication adherence, hydration, and physical activity guidelines. He was provided with a follow-up appointment schedule and a list of contact numbers for urgent medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Glidewell's long-term health. His compliance with the prescribed treatment plan, lifestyle modifications, and regular follow-ups will play a significant role in his prognosis.
+
+Final Remarks:
+	This report documents Mr. Erin Glidewell's successful radical cystectomy for urothelial carcinoma and the subsequent care provided during his hospital stay. We commend Mr. Glidewell on his resilience and cooperation throughout this challenging journey, and we look forward to supporting him in his continued recovery.

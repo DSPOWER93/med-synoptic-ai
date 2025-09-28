@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: George Matta
+	•Date of Birth: 25/09/1985
+	•Medical Record Number: M1408
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Lois Singletary
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. George Matta presented to the emergency department with complaints of intermittent hematuria and dysuria, accompanied by lower abdominal pain, that had been progressively worsening over the past month. On initial assessment, his vital signs were stable, but a urinary cytology revealed malignant cells, prompting further diagnostic investigations including computed tomography (Matta) scan of the abdomen and pelvis. George Matta scan revealed a mass in the bladder with evidence of local invasion and lymph node involvement, confirming the diagnosis of urothelial carcinoma.
+
+Medical History:
+	Mr. Matta has a significant past medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2015 due to a renal cell carcinoma. He has no known allergies but is sensitive to certain antibiotics. His pre-admission medications included metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of high-grade urothelial carcinoma. Matta scan revealed a 5cm mass in the bladder with evidence of local invasion and regional lymph node involvement. Blood tests showed an elevated creatinine level, suggesting possible renal impairment due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Matta. This included radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy (GCB-18 regimen) and concurrent radiation therapy to the pelvic region. George surgery was successfully performed, followed by post-operative care, which included management of pain, wound care, and nutritional support.
+
+Hospital Course:
+	Mr. Matta's initial recovery from surgery was smooth, with no major complications. However, he experienced post-operative ileus that required bowel rest and nasogastric tube insertion for a few days. He was later transitioned to oral intake and started on physical therapy. His creatinine levels were closely monitored and managed with hydration and medication adjustments.
+
+Follow-Up Plan:
+	Mr. Matta will be scheduled for regular outpatient appointments for follow-up care, including cystoscopy, abdominal Matta scans, and blood tests to monitor kidney function. His medications will be adjusted as necessary, and he will be advised on a low-sodium, high-fluid diet to support kidney health. Any signs of complications such as fever, increased pain, or changes in urine color should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Matta and his family were provided with detailed instructions on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue and nausea. They were also educated about the importance of regular follow-up care for early detection of recurrence.
+
+Discharge Instructions:
+	Mr. Matta was provided with a detailed discharge plan, including medication adherence instructions, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to avoid heavy lifting and strenuous activities for at least six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Mr. Matta's prognosis will be closely monitored given the aggressive nature of his cancer. Regular monitoring for early detection of recurrence is crucial in managing this condition.
+
+Final Remarks:
+	I am pleased to report that Mr. George Matta has shown remarkable resilience and cooperation throughout his treatment journey. His diligence and positive attitude have contributed significantly to his recovery. I wish him continued success in his healing process, and I look forward to seeing him at his follow-up appointments.

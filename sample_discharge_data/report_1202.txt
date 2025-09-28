@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Amanda Ceaser
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1202
+	•Date of Admission: 09/01/2021
+	•Date of Discharge: 20/01/2021
+	•Attending Physician: Dr. Esther Minyard
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Amanda Ceaser was admitted to the hospital due to a persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss of approximately 15 kg over the past three months. The initial assessment revealed a palpable mass in the lower left abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. A computed tomography (CT) scan confirmed the presence of a large tumor in the colon with lymph node involvement.
+
+Medical History:
+	Mr. Ceaser has a history of hypertension, for which he was being treated with amlodipine and hydrochlorothiazide. He is also a known diabetic, managed with metformin and insulin therapy. He has a family history of colorectal cancer, with his father diagnosed at the age of 65. He had undergone appendectomy in 2015 due to appendicitis.
+
+Diagnostic Findings:
+	Pathology report from the colonoscopy revealed an adenocarcinoma, and CT scans showed involvement of regional lymph nodes. Further tests including a positron emission tomography (PET) scan confirmed metastasis in the liver. Blood tests revealed mild anemia and elevated liver enzymes.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Ceaser, which included a partial colectomy followed by a right hemihepatectomy (removal of the right lobe of the liver) due to metastasis. Post-operative care involved management of pain, prevention and treatment of complications such as infection, and nutritional support. The patient was also started on adjuvant chemotherapy consisting of FOLFOX regimen (Folinic acid, 5-Fluorouracil, Oxaliplatin) for six cycles. Due to the extensive surgery and chemotherapy, Mr. Ceaser was advised to undergo radiation therapy to the liver metastasis sites.
+
+Hospital Course:
+	After the surgical intervention, Mr. Ceaser experienced post-operative complications including an ileus, which was managed with bowel rest and intravenous fluids. The patient's blood glucose levels were closely monitored and adjusted as needed due to his diabetic condition. Therapy and nutritional support played a crucial role in his recovery.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Ceaser is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue his current medications for hypertension and diabetes, with adjustments as needed. Lifestyle recommendations include a balanced diet, regular exercise, and avoidance of tobacco and alcohol. The patient should also maintain proper wound care practices and report any signs of complications such as fever, increased pain, or changes in bowel habits to his primary care provider immediately.
+
+Patient Education:
+	Mr. Ceaser and his family were provided detailed instructions on post-surgical care, including how to manage the ileal conduit (a surgically created opening from the small intestine to an artificial opening in the abdominal wall). They were also educated about recognizing signs of complications such as infection, obstruction, or leakage. The family was provided information on managing common side effects of chemotherapy, including nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Ceaser was provided detailed instructions for medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, rich in fruits, vegetables, lean proteins, and whole grains. The patient was also encouraged to participate in regular physical activities as tolerated, starting with short walks and gradually increasing the duration and intensity over time.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Mr. Ceaser. He will require long-term management of his colorectal cancer and any associated health issues such as hypertension and diabetes.
+
+Final Remarks:
+	Dr. Minyard's final remarks to Mr. Ceaser emphasized his resilience throughout the treatment journey, highlighting that he played a crucial role in his successful recovery. The report is signed by both Dr. Minyard and Mr. Ceaser, validating its accuracy on 20/01/2021.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dawn Sellers
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1209
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 07/15/2022
+	•Attending Physician: Dr. Michael Brock
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Dawn Sellers, was admitted to our facility due to persistent hematuria and dysuria over a period of two months. Initial assessment revealed anemia, abdominal pain, and a palpable mass in the lower left abdomen. Subsequent diagnostic investigations included a cystoscopy, CT scan of the abdomen and pelvis, and blood tests. These tests confirmed the presence of TCC of the bladder with local invasion and lymph node involvement.
+
+Medical History:
+	Dawn Sellers has a significant past medical history. He is a 52-year-old male with a 20-year history of hypertension, managed with lisinopril 10mg daily. He was also recently diagnosed with type 2 diabetes and is currently on metformin 850mg twice daily. He has a 30-pack-year smoking history and a positive family history for TCC and colorectal cancer. Dawn Sellers underwent a left total knee arthroplasty three years ago. He reported no known allergies and was on no other medications before admission.
+
+Diagnostic Findings:
+	Pathology of the resected bladder tumor showed moderately differentiated TCC invading the muscularis propria with lymphovascular invasion. The CT scan showed a 6cm x 5cm mass in the left lateral bladder wall, involving the adjacent pelvic sidewall and left external iliac lymph node. Blood tests revealed anemia (Hb 8.2g/dL), elevated white blood cell count (11.2k/mcL), and elevated creatinine (1.5mg/dL).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Dawn Sellers. He underwent radical cystectomy with urinary diversion using an ileal conduit. Post-operative care included management of pain, prevention and treatment of infection, and monitoring for complications such as anastomotic leakage and wound dehiscence. A post-operative CT scan confirmed the absence of residual disease. Dawn Sellers was started on a standard adjuvant chemotherapy regimen (GCB-T). The first cycle was administered without significant side effects, but he is expected to experience fatigue, nausea, and alopecia during subsequent cycles. Radiation therapy was not deemed necessary.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Dawn Sellers will have regular follow-ups with his oncologist every three months for the first year, then every six months thereafter. He is to continue his hypertension and diabetes medications as prescribed, but adjustments may be made based on blood pressure and glucose levels. A low-salt diet and regular exercise are recommended to manage his hypertension. He was provided with instructions for managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy.
+
+Patient Education:
+	Dawn Sellers and his family were educated about TCC, its treatment options, and the importance of regular follow-ups and monitoring for recurrence. They were also instructed on post-surgical care, including wound care practices, hydration guidelines, and physical activity recommendations.
+
+Discharge Instructions:
+	Dawn Sellers was provided with a detailed discharge summary, including medication adherence instructions, wound care practices, hydration guidelines, and physical activity recommendations. He was also given a list of contact numbers for urgent medical attention in case of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Dawn Sellers's long-term survival. He was advised to maintain a healthy lifestyle, including a balanced diet, regular exercise, and abstaining from tobacco use.
+
+Final Remarks:
+	We commend Dawn Sellers for his resilience and cooperation throughout the treatment journey. We wish him a speedy recovery and a healthy future.

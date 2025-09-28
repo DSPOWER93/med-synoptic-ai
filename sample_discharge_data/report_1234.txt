@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gwen Wender
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1234
+	•Date of Admission: 03/22/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Philip Gamble
+	•Primary Diagnosis: Colon Cancer (Stage IIIB)
+
+Reason for Admission:
+	Gwen Wender was admitted to our facility due to a worsening abdominal pain and changes in bowel habits, which persisted over the past month. Upon initial assessment, he displayed signs of severe anemia, weight loss, and a palpable mass in his lower abdomen. Subsequent diagnostic investigations confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Mr. Wender has a history of hypertension, which is well-controlled with medication. He also suffers from COPD, requiring regular use of an inhaler and occasional hospitalizations for exacerbations. He underwent a knee replacement surgery ten years ago due to osteoarthritis. His family has a history of colon cancer, colorectal polyps, and breast cancer. Allergic to penicillin and sulfa drugs, Mr. Wender was taking a variety of medications, including metformin, lisinopril, tiotropium, and ibuprofen before admission.
+
+Diagnostic Findings:
+	Biopsy results confirmed the diagnosis of adenocarcinoma of the colon. Computed Tomography (CT) scans revealed a large tumor in the sigmoid colon with regional lymph node involvement, as well as multiple liver metastases. Blood tests indicated anemia, elevated carcinoembryonic antigen (CEA) levels, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wender. He underwent a sigmoid colon resection with an ileal conduit creation. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support via a nasogastric tube. After recovery from surgery, he began a six-month regimen of FOLFOX chemotherapy (oxaliplatin, leucovorin, and 5-fluorouracil) to target remaining cancer cells. A decision was made to administer radiation therapy to the liver metastases after the completion of chemotherapy cycles.
+
+Hospital Course:
+	Mr. Wender's initial recovery from surgery was successful, with managed postoperative complications such as anemia and electrolyte imbalances. He participated in physical therapy sessions to improve his mobility and endurance. During the hospital stay, he received supportive care, including pain management, nutritional support, and emotional counseling.
+
+Follow-Up Plan:
+	Mr. Wender has scheduled outpatient appointments every three months for the first year following discharge, then every six months thereafter. He will continue his current medications, with adjustments as necessary. Lifestyle modifications include a low-fat, high-fiber diet and regular exercise to maintain a healthy weight and promote overall wellness. Warning signs of complications, such as increased abdominal pain, fever, or changes in bowel habits, should be reported promptly.
+
+Patient Education:
+	Mr. Wender was provided with instructions on post-surgical care, including wound care practices, hydration guidelines, and restrictions on heavy lifting and strenuous activity. He was taught how to manage his ileal conduit, recognize signs of complications, and manage common side effects of chemotherapy such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Wender was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given educational materials to reinforce the information received during his stay.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Wender is guarded due to the advanced stage of his cancer and the presence of liver metastases. Regular monitoring for early detection of recurrence and managing ongoing health issues is essential.
+
+Final Remarks:
+	I would like to commend Mr. Wender on his resilience throughout this challenging treatment journey. His cooperation, positive attitude, and determination have been instrumental in his recovery. I wish him continued strength and hope for a successful outcome. Signed, Dr. Philip Gamble (date). Gwen Wender (date).

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Larry Wedemeyer
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1106
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Sandra Miller
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Miller presented to the Larry Wedemeyer complaining of persistent abdominal pain, weight loss, and changes in bowel habits over the past two months. Upon admission, his vital signs were stable, but a thorough physical examination revealed a palpable mass in the lower abdomen. Larry initial workup included complete blood count (CBC), carcinoembryonic antigen (CEA) levels, and computed tomography (Wedemeyer) scan of the abdomen and pelvis. Larry Wedemeyer scan confirmed the presence of a large mass in the sigmoid colon, with evidence of metastases to several lymph nodes and liver.
+
+Medical History:
+	Mr. Miller has a significant past medical history including hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee replacement surgery in 2015. His family history is notable for colorectal cancer, as his father was diagnosed at the age of 65. Mr. Miller is allergic to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, albuterol, and tiotropium for his comorbidities.
+
+Diagnostic Findings:
+	Larry CBC showed mild anemia (hemoglobin 10.2 g/dL), with normal white blood cell count and platelets. Larry CEA level was significantly elevated at 15.6 ng/mL (normal range < 3.0 ng/mL). Larry Wedemeyer scan confirmed the presence of a large mass in the sigmoid colon, measuring approximately 8 cm, with evidence of metastases to several lymph nodes and liver. Pathology report from the biopsy of the mass confirmed adenocarcinoma of the colon.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Miller. This included a low anterior resection surgery to remove the tumor, followed by a permanent ileostomy. Post-operative care involved pain management, antibiotics to prevent infection, and nutritional support. He was also initiated on adjuvant chemotherapy with FOLFOX (oxaliplatin, leucovorin, fluorouracil) regimen for six cycles. Radiation therapy was considered but deferred due to the patient's comorbidities and surgical recovery.
+
+Hospital Course:
+	Mr. Miller underwent a successful low anterior resection surgery on 04/01/2022. Post-operative recovery was uneventful, with appropriate pain management, antibiotics, and nutritional support. He tolerated the first cycle of chemotherapy well without any significant side effects.
+
+Follow-Up Plan:
+	Mr. Miller will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue on the FOLFOX regimen until completion of therapy, and will have CEA levels checked regularly. Lifestyle modifications include smoking cessation, a balanced diet rich in fruits, vegetables, and whole grains, and regular physical activity.
+
+Patient Education:
+	Mr. Miller and his family were educated about the importance of adhering to the prescribed chemotherapy regimen, proper wound care for the ileostomy, recognizing signs of complications such as fever, increased abdominal pain, or changes in bowel habits, and managing common side effects such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Mr. Miller was discharged with a detailed list of medications to continue, including metformin (glucophage), lisinopril (prinivil), albuterol (proventil), tiotropium (spiriva), and the FOLFOX regimen. He was also provided instructions on wound care for his ileostomy, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Larry prognosis for Stage III colorectal cancer patients is favorable with adjuvant chemotherapy. Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues.
+
+Final Remarks:
+	Mr. Miller demonstrated resilience and cooperation throughout his treatment journey. We are confident that he will continue to make progress in his recovery. I encourage him to keep up the good work, adhere to the prescribed medications, and attend all scheduled appointments.

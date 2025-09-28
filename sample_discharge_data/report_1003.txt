@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Martha Alcala
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1003
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Miriam Windham
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Martha Alcala presented to the emergency department with a 1-week history of hematuria, dysuria, and lower abdominal pain. Upon initial assessment, his vital signs were stable. A urinalysis revealed blood and an elevated white blood cell count, prompting further investigation. Martha Alcala (CT) scan of the abdomen and pelvis revealed a mass in the bladder. A cystoscopy confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Alcala has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015. His father died of prostate cancer at the age of 65. He is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of high-grade urothelial carcinoma. A CT scan showed a large, irregular mass in the bladder with extension into the muscle layer. The positron emission tomography (PET) scan revealed no evidence of distant metastasis. Blood tests showed elevated creatinine levels, suggesting potential renal involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Alcala. This included radical cystectomy, removal of the affected kidney, and creation of an ileal conduit. Post-operative care included monitoring vital signs, management of pain, and close observation for complications such as urine leakage, wound infection, or renal failure. He was started on adjuvant chemotherapy with gemcitabine and cisplatin, followed by radiation therapy to the pelvis.
+
+Hospital Course:
+	Mr. Alcala underwent a successful radical cystectomy with nephrectomy and ileal conduit formation. Post-operative recovery was initially challenging due to persistent hyponatremia and electrolyte imbalances, but these were managed with fluid restriction and electrolyte supplementation. He also developed a urinary tract infection which responded well to antibiotic treatment.
+
+Follow-Up Plan:
+	Mr. Alcala will return for outpatient appointments every 3 months for the first year, then every 6 months thereafter. He will continue taking metformin and lisinopril but adjust his albuterol inhaler as needed for COPD symptoms. A low-sodium diet is recommended to prevent fluid overload. Any new onset of hematuria, dysuria, or lower abdominal pain should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Alcala and his family were educated about the importance of regular follow-up appointments and early detection of recurrence. They were also instructed on post-surgical care, including emptying the ileal conduit regularly, maintaining good personal hygiene, and recognizing signs of complications such as fever, increased abdominal pain, or changes in urine color or odor.
+
+Discharge Instructions:
+	Upon discharge, Mr. Alcala was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given a brochure detailing signs of complications and when to seek medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Alcala's long-term health. Given the aggressive nature of his cancer, it is essential that he adheres to his follow-up schedule and lifestyle modifications.
+
+Final Remarks:
+	Dr. Miriam Windham commends Mr. Martha Alcala for his resilience and cooperation throughout his treatment journey. The report is signed by both the attending physician and the patient on [04/15/2023].

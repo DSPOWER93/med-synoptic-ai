@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nina Bechtold
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1268
+	•Date of Admission: 10/05/2022
+	•Date of Discharge: 12/15/2022
+	•Attending Physician: Dr. Yvonne Barr
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Nina Bechtold was admitted to the hospital due to persistent abdominal pain, constipation, and unexplained weight loss over a two-month period. The initial assessment revealed a palpable mass in the lower abdomen, and lab results showed anemia and elevated carcinoembryonic antigen (CEA) levels. Subsequent diagnostic investigations confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Bechtold had a past medical history significant for hypertension, controlled with lisinopril and hydrochlorothiazide. He was also a diagnosed diabetic, managed with metformin. He has been a lifelong smoker and was diagnosed with COPD five years ago. He underwent a left hip replacement surgery in 2018. His family history was significant for colorectal cancer in his father at the age of 65.
+
+Diagnostic Findings:
+	A colonoscopy revealed an invasive adenocarcinoma in the descending colon. The tumor had invaded the submucosa and was T3 (moderately differentiated). Lymph nodes were positive, indicating stage III disease. CT scans of the chest, abdomen, and pelvis showed no evidence of metastatic disease.
+
+Treatment Plan:
+	Mr. Bechtold underwent a left hemicolectomy with lymph node dissection followed by chemotherapy. The post-operative care included pain management, wound care, and bowel management. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, 5-fluorouracil, leucovorin) for six cycles. Radiation therapy was not deemed necessary due to the absence of metastatic disease.
+
+Hospital Course:
+	Mr. Bechtold's initial recovery from surgery was uneventful. However, he developed chemotherapy-induced neutropenia and anemia during his treatment course. These were managed with supportive care and transfusions as necessary. Physical therapy was initiated to help with mobility and prevent complications associated with prolonged bed rest.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Bechtold is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue on adjuvant chemotherapy as prescribed and undergo CEA level monitoring. A low-fiber diet and lifestyle modifications are recommended to aid bowel function and promote overall health.
+
+Patient Education:
+	Mr. Bechtold was educated about the importance of adhering to his medication schedule, recognizing signs of complications such as fever, chills, or persistent abdominal pain, and managing common side effects like nausea and fatigue. Instructions on post-surgical care, including ileal conduit management, were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bechtold was given a detailed list of medications to continue, along with instructions for wound care, hydration, and physical activity guidelines. He was advised to contact his primary care provider or oncologist if he experiences any unusual symptoms or complications.
+
+Prognosis and Long-Term Outlook:
+	With adjuvant chemotherapy, the likelihood of recurrence can be reduced. Regular monitoring for early detection of recurrence is crucial.
+
+Final Remarks:
+	Dr. Barr concludes this report commending Mr. Bechtold for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for optimal outcomes. Both the physician's and patient's signatures are appended, along with the date of discharge.

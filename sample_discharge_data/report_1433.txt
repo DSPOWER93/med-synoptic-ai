@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Norman Wells
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1433
+	•Date of Admission: 04/01/2023
+	•Date of Discharge: 20/01/2023
+	•Attending Physician: Dr. Patricia Johnson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Norman Wells was admitted to the hospital due to a worsening abdominal pain and frequent instances of rectal bleeding over the past two months. Upon initial assessment, he presented with signs of anemia and a palpable mass in the lower right quadrant of his abdomen. Further diagnostic investigations included complete blood count (CBC), computed tomography (CT) scan, and colonoscopy, all of which confirmed the presence of colorectal cancer.
+
+Medical History:
+	Norman Wells has a significant medical history that includes hypertension, type 2 diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft surgery in 2018 and was allergic to penicillin. His medications prior to admission included metformin, lisinopril, amlodipine, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	The CBC revealed anemia with a hemoglobin level of 8 g/dL, a marked decrease from his baseline value of 14 g/dL. The CT scan showed a large mass in the descending colon, as well as multiple enlarged lymph nodes and liver metastases. Pathology results from the colonoscopy confirmed adenocarcinoma.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by the multidisciplinary team. This included a right hemi-colectomy, followed by a permanent ileostomy due to the advanced stage of the cancer. Post-operative care involved monitoring for complications such as anastomotic leakage and sepsis. Norman Wells also underwent six cycles of FOLFOX chemotherapy, which was followed by radiation therapy to the liver metastases.
+
+Hospital Course:
+	Norman Wells's initial recovery from surgery was uneventful. However, he experienced several complications during his hospital stay, including post-operative ileus and anemia. These were managed with appropriate medical intervention and supportive care. He received nutritional support through a nasogastric tube until his bowel function returned.
+
+Follow-Up Plan:
+	Norman Wells will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue with his current medications for hypertension and diabetes. A low-fiber diet is recommended to minimize discomfort associated with the ileostomy. Any signs of rectal bleeding, persistent abdominal pain, or unexplained weight loss should prompt immediate medical attention.
+
+Patient Education:
+	Norman Wells and his family were educated about the importance of maintaining a healthy lifestyle, including regular exercise, a balanced diet, and avoiding tobacco products. They were also instructed on post-surgical care for the ileostomy, signs of complications, and managing common side effects such as diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, Norman Wells was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to monitor his blood sugar levels closely due to the ongoing management of his diabetes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Norman Wells's long-term health. It is important that he adheres to his follow-up plan, maintains a healthy lifestyle, and seeks immediate medical attention for any concerning symptoms.
+
+Final Remarks:
+	Dr. Patricia Johnson commends Norman Wells for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the follow-up plan and encourages him to take an active role in managing his health. Both the physician and patient sign this report on 20/01/2023, validating its completion.

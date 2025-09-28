@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Roy Barnett
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1347
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 05/15/2022
+	•Attending Physician: Dr. Beth Mcmillin
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Roy Barnett was admitted to the hospital due to persistent abdominal pain, unexplained weight loss, and jaundice over the past two months. Upon admission, a thorough physical examination and initial laboratory tests were conducted, revealing elevated levels of bilirubin and alkaline phosphatase, as well as a positive CA 19-9 tumor marker. An abdominal CT scan confirmed the presence of a large mass in the head of the pancreas with local invasion and metastasis to the liver.
+
+Medical History:
+	Mr. Barnett has a significant past medical history, including hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He has undergone previous surgeries for appendicitis and a cholecystectomy. His family history is notable for breast cancer in his mother and prostate cancer in his father. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, salmeterol/fluticasone, albuterol, and omeprazole.
+
+Diagnostic Findings:
+	Pathology results confirmed the diagnosis of pancreatic adenocarcinoma. The tumor was found to be large, locally invasive, and metastatic to the liver. The CA 19-9 level upon admission was 350 U/mL. Additional diagnostic tests included an MRI for staging, which showed further involvement of the portal vein, as well as a PET-CT scan to assess the extent of metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Barnett, which included a Whipple procedure (pancreaticoduodenectomy), post-operative care, adjuvant chemotherapy, and radiation therapy. The surgery was successful, with the resection of the pancreatic tumor along with the adjacent stomach, duodenum, gallbladder, bile ducts, and portions of the small intestine. A temporary ileostomy was created to allow the pancreas and biliary limbs to heal. He underwent six cycles of FOLFIRINOX chemotherapy (irinotecan, fluorouracil, leucovorin, and oxaliplatin) over a period of four months, with management of common side effects such as neutropenia and diarrhea. Radiation therapy was administered to the liver lesions for three weeks.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Post-discharge, Mr. Barnett will follow up with his oncologist every two months for a comprehensive evaluation, including CA 19-9 monitoring and imaging studies. He will continue taking metformin, lisinopril, salmeterol/fluticasone, albuterol, and omeprazole as well as oral anti-emetics for nausea. A low-fat diet is recommended to minimize stress on the remnant pancreas. He should maintain good hydration and engage in light physical activities as tolerated.
+
+Patient Education:
+	Mr. Barnett was educated about the importance of adhering to his medication regimen, maintaining a healthy diet, and recognizing signs of complications such as fever, chills, persistent abdominal pain, or worsening diarrhea. He was instructed on post-surgical care for the ileostomy, including irrigation techniques and ostomy bag changes. He was also provided guidance on managing common side effects like fatigue, nausea, and pain.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Barnett received instructions on wound care practices for his abdominal incision, hydration guidelines, and physical activity recommendations. He was educated about the importance of follow-up appointments, medication adherence, and symptom management.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing pancreatic cancer. Mr. Barnett will require ongoing care to manage any long-term complications associated with the surgery and his underlying medical conditions.
+
+Final Remarks:
+	The attending physician would like to commend Mr. Barnett on his resilience and cooperation throughout the treatment journey. The report is signed by Dr. Beth Mcmillin, M.D., and Roy Barnett on May 15th, 2022.

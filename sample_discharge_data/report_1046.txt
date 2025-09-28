@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tina Haslam
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1046
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 15-02-2023
+	•Attending Physician: Dr. Dr. Davis
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Haslam presented to the emergency department complaining of persistent abdominal pain, unexplained weight loss, and altered bowel habits over the past month. Initial assessment included a physical exam, laboratory tests, and imaging studies, which revealed an obstructive lesion in the transverse colon. A subsequent colonoscopy confirmed the presence of a large, invasive tumor.
+
+Medical History:
+	Mr. Haslam has a history of hypertension, which is controlled with medication. He was diagnosed with diabetes mellitus type 2 five years ago and currently manages his condition with dietary modifications and oral medications. He also suffers from chronic obstructive pulmonary disease (COPD), for which he uses an inhaler regularly. Mr. Haslam has no known allergies and was taking aspirin daily before admission.
+
+Diagnostic Findings:
+	During his hospital stay, Mr. Haslam underwent several diagnostic tests. Pathology results from the tumor resection showed moderately differentiated adenocarcinoma with lymphovascular invasion and positive margins. Imaging studies indicated that the cancer had invaded the muscularis propria but had not penetrated the serosa or spread to adjacent organs. Blood tests revealed elevated CA 19-9 and CEA levels, indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Haslam. He underwent a right hemicolectomy with primary anastomosis and regional lymph node dissection. Post-operative care involved monitoring for complications, such as anastomotic leakage or infection. Mr. Haslam also received adjuvant chemotherapy consisting of four cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) and capecitabine. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	Mr. Haslam's initial recovery from surgery was complicated by post-operative ileus, which required nasogastric suction and intravenous fluids. He eventually regained normal bowel function and was able to start a regular diet. Throughout his hospital stay, Mr. Haslam received extensive nutritional support to optimize his overall health. The disease was managed with symptomatic treatment for pain and nausea as needed.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Haslam will return for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking his hypertension and diabetes medications but should consult his primary care physician regarding any changes in dosage or regimen. A low-fiber diet is recommended to minimize discomfort associated with the ileal conduit. Mr. Haslam should report any signs of abdominal pain, fever, chills, persistent nausea, vomiting, constipation, or diarrhea promptly.
+
+Patient Education:
+	During his hospital stay, Mr. Haslam was educated about the importance of taking his medications as prescribed and attending follow-up appointments. He was instructed on how to care for his ileal conduit, including irrigating it regularly with saline solution. Mr. Haslam was also taught how to recognize signs of complications, such as abdominal pain, fever, or changes in bowel habits, and when to seek medical attention. He received information about managing common side effects of chemotherapy, such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Haslam was provided with detailed instructions on wound care practices, including keeping the incision clean and dry and monitoring for signs of infection. He was advised to maintain adequate hydration by drinking at least eight cups of water daily and engage in gentle physical activity as tolerated. Mr. Haslam was encouraged to follow a balanced diet rich in fiber to promote overall health and minimize the risk of constipation.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for colorectal cancer depends on factors such as stage, location, and histological grade. Mr. Haslam's case is considered Stage III colon cancer, which has a five-year survival rate of approximately 60%. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in ensuring the best possible outcome.
+
+Final Remarks:
+	Dr. Davis commends Mr. Haslam on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of maintaining a positive attitude, adhering to the recommended follow-up plan, and working closely with the medical team to manage any concerns that may arise in the future. Both Dr. Davis and Mr. Haslam have signed this report on [15-02-2023].

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Williams Bridges
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1224
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Gail Ziegler
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Williams Bridges was admitted to the hospital due to complaints of frequent urinary tract infections and hematuria, which had persisted for several months. Upon initial assessment, the patient exhibited signs of abdominal pain and distension. Subsequent diagnostic investigations, including a cystoscopy, computed tomography (CT) scan, and urine analysis, confirmed the presence of a tumor in the bladder. The extent of the cancer was determined to be stage T2b N0 M0.
+
+Medical History:
+	Williams Bridges has a history of hypertension, which is controlled through medications. He also has a family history of colon cancer, with his father having been diagnosed at age 65. John underwent a cholecystectomy in 2018 due to gallstones. Allergies include penicillin and sulfa drugs. Prior to admission, he was on metoprolol, lisinopril, and simvastatin for his hypertension.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a transitional cell carcinoma in the bladder. Imaging scans showed no evidence of metastasis, but the tumor was found to be invading the muscularis propria. Blood tests revealed elevated creatinine and blood urea nitrogen (BUN) levels, indicating kidney dysfunction.
+
+Treatment Plan:
+	The treatment plan developed by the multidisciplinary team included a partial cystectomy followed by intravesical BCG therapy. Post-operative care included management of pain, prevention of urinary tract infections, and monitoring of kidney function. Chemotherapy was also initiated with a regimen of gemcitabine and cisplatin. The patient was advised to undergo radiation therapy after completion of the sixth cycle of chemotherapy.
+
+Hospital Course:
+	Williams Bridges's hospital course was marked by an initial recovery from surgery, followed by management of post-operative complications such as urinary leakage and kidney dysfunction. The patient received physiotherapy to aid in mobilization and wound care was provided regularly. The chemotherapy cycles were well-tolerated, with minimal side effects managed effectively through medication and supportive care.
+
+Follow-Up Plan:
+	Williams Bridges will be scheduled for outpatient appointments every three months for the first year post-discharge, followed by six-monthly visits thereafter. He will continue taking his hypertension medications and the prescribed anti-cancer drugs. A low-sodium, high-fiber diet is recommended to manage his hypertension and promote overall health. Any signs of urinary symptoms, increased fatigue, or abdominal pain should be reported immediately.
+
+Patient Education:
+	Williams Bridges and his family were educated about the importance of adhering to the prescribed medication schedule, proper care of the ileal conduit, and recognizing signs of complications such as fever, increased pain, or changes in urine color. They were also instructed on managing common side effects like nausea, fatigue, and hair loss.
+
+Discharge Instructions:
+	Prior to discharge, Williams Bridges was given instructions on medication adherence, wound care practices, maintaining hydration, and guidelines for physical activity. He was also provided with contact information for the cancer support group and counseling services.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Williams Bridges's long-term health. His continued adherence to the prescribed treatment plan, healthy lifestyle choices, and regular follow-ups will play a significant role in his prognosis.
+
+Final Remarks:
+	The attending physician commends Williams Bridges for his resilience and cooperation throughout the treatment journey. The report is signed by Dr. Gail Ziegler and Williams Bridges on April 20, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Edwin Byas
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M178
+	•Date of Admission: 02/28/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Carolyn Schacht
+	•Primary Diagnosis: Stage III Colorectal Cancer with liver metastases
+
+Reason for Admission:
+	Edwin Byas was admitted to the hospital after presenting with severe abdominal pain, unexplained weight loss, and changes in bowel habits. An initial assessment revealed a palpable mass in the lower right quadrant of his abdomen, accompanied by abnormal laboratory results indicating anemia, elevated carcinoembryonic antigen (CEA), and an irregular carbohydrate deficient transferrin profile. Subsequent imaging studies, such as computed tomography (CT) scans, confirmed the presence of a large colorectal tumor with multiple liver metastases.
+
+Medical History:
+	Edwin Byas had a history of hypertension and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft (CABG) surgery in 2015. His father passed away from colon cancer at the age of 65, which raised concerns about hereditary factors. John had known allergies to penicillin and sulfa drugs, and he was taking medications for hypertension and COPD prior to admission.
+
+Diagnostic Findings:
+	During his hospital stay, John underwent multiple diagnostic tests to determine the extent of his colorectal cancer. A colonoscopy revealed a large tumor in the transverse colon, while a CT scan confirmed the presence of liver metastases. Pathology reports from the surgical biopsy showed adenocarcinoma with moderately differentiated features, consistent with colorectal cancer. Blood tests further revealed elevated levels of alkaline phosphatase, suggesting possible involvement of the liver.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Edwin Byas. He underwent an elective right hemicolectomy with liver metastasectomy. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support. After recovery from surgery, he started on a six-month regimen of FOLFOX chemotherapy (consisting of oxaliplatin, leucovorin, and fluorouracil) and radiation therapy targeting the remaining liver metastases. Management of side effects such as nausea, diarrhea, and peripheral neuropathy were an essential part of his care plan.
+
+Hospital Course:
+	Edwin Byas's hospital course was marked by initial recovery from surgery, followed by a few challenges related to chemotherapy-induced side effects. However, he responded well to therapy and showed signs of improvement in his overall condition. Physical therapy helped manage his post-operative mobility issues, while nutritional support ensured adequate caloric intake to aid in recovery.
+
+Follow-Up Plan:
+	Following discharge, Edwin Byas will be scheduled for regular follow-up appointments every three months for the first year and then semi-annually thereafter. He is to continue taking his medications for hypertension and COPD, with adjustments made as needed based on blood pressure readings and pulmonary function tests. Lifestyle modifications, such as quitting smoking and maintaining a balanced diet, are also crucial in his long-term care plan.
+
+Patient Education:
+	Edwin Byas and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications, and coping with common side effects like fatigue, nausea, and diarrhea. They were also instructed on how to manage symptoms of his underlying conditions, hypertension and COPD.
+
+Discharge Instructions:
+	Upon discharge, Edwin Byas was provided with clear instructions regarding medication adherence, wound care practices, proper hydration, and guidelines for physical activity. He was advised to maintain a balanced diet, avoid foods that might cause digestive issues, and take necessary precautions to prevent infection.
+
+Prognosis and Long-Term Outlook:
+	The successful removal of the colorectal tumor and liver metastases, coupled with the appropriate chemotherapy regimen, offers Edwin Byas a relatively good prognosis. However, regular monitoring for early detection of recurrence is essential in managing his ongoing health issues.
+
+Final Remarks:
+	Dr. Carolyn Schacht expressed her appreciation for Edwin Byas's resilience and cooperation throughout the treatment journey. She emphasized the importance of continued follow-up care to ensure optimal outcomes. Edwin Byas signed the report, acknowledging his understanding of the discharge instructions and follow-up plan, along with the date (April 15, 2022).

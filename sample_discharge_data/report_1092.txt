@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Willie Godby
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1092
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Jade Pitts
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient was admitted to our facility due to persistent hematuria, or blood in the urine, accompanied by lower abdominal pain and frequent urination. Upon initial assessment, the patient appeared uncomfortable but alert, with a stable vital sign profile. Blood work revealed an elevated creatinine level, suggestive of kidney dysfunction, and an abnormal urinalysis consistent with hematuria. A CT scan was performed, which demonstrated a mass in the bladder and invasion into adjacent tissues. These findings led to the diagnosis of TCC of the bladder.
+
+Medical History:
+	The patient has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). The patient underwent a left total knee arthroplasty five years ago. The patient's father died from colon cancer at the age of 65, and his brother was recently diagnosed with prostate cancer. The patient was taking metformin for diabetes, lisinopril for hypertension, albuterol inhaler for COPD, and ibuprofen as needed for joint pain.
+
+Diagnostic Findings:
+	A cystoscopy and biopsy confirmed the diagnosis of TCC of the bladder. Pathology report indicated high-grade (stage III) cancer. Further investigations including a bone scan and PET scan did not reveal any evidence of metastatic disease. The patient's creatinine level remained elevated throughout their hospital stay, indicating ongoing kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. This included a radical cystectomy with ileal conduit diversion followed by chemotherapy. Post-operative care involved pain management, wound care, and nutritional support to aid in recovery. The patient received six cycles of chemotherapy, which were well tolerated with minimal side effects. The radiation therapy was deemed unnecessary due to the absence of metastatic disease.
+
+Hospital Course:
+	The patient's initial recovery from surgery was successful, but they experienced post-operative complications, including a urinary tract infection and delayed bowel function. These were managed effectively through antibiotics and supportive care. The patient was also closely monitored for kidney function, with intravenous fluids administered as needed to maintain proper hydration.
+
+Follow-Up Plan:
+	The follow-up plan includes outpatient appointments every three months for the first year, six months thereafter, and annually thereafter. The patient will continue on maintenance chemotherapy for a year. Lifestyle modifications, including quitting smoking and maintaining a healthy diet, are recommended to optimize long-term health.
+
+Patient Education:
+	Education provided to the patient and family included instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue and nausea.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence, wound care practices, strict hydration, and physical activity guidelines to promote healing and overall health maintenance. The patient was also advised on the importance of follow-up appointments and regular monitoring for early detection of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues associated with TCC of the bladder. The patient's prognosis will be closely monitored, with the goal of achieving long-term remission and maintaining quality of life.
+
+Final Remarks:
+	This report concludes with the attending physician's final remarks, expressing appreciation for the patient's resilience and cooperation throughout their treatment journey. The physician's and patient's signatures are affixed, along with the date to validate the report.

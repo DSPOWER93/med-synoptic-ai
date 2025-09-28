@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Maria Harris
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1403
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Irene Wilson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Harris presented to the emergency department with severe abdominal pain, constipation, and unexplained weight loss over a period of two months. A physical examination revealed abnormalities in his abdomen, prompting further investigations. Subsequent diagnostic tests, including a computed tomography (CT) scan, confirmed the presence of a mass in the colon, along with lymph node involvement.
+
+Medical History:
+	Mr. Harris has a history of hypertension and diabetes, both of which are well-controlled with medication. He is a long-term smoker and occasional drinker. His family history is significant for colorectal cancer in his father and a sister who passed away from the disease at a young age. Prior to this admission, Mr. Harris had undergone a cholecystectomy. He is allergic to penicillin and iodine-based contrast agents.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of invasive adenocarcinoma in the colon. The CT scan revealed a large mass in the ascending colon, with multiple enlarged lymph nodes in the mesocolon and retroperitoneum. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of the disease's severity.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Harris, which included a right colectomy followed by an ileo-rectal anastomosis and a creation of an ileal conduit for urinary diversion. Postoperative care involved managing complications such as anastomotic leak, infection, and wound dehiscence. Mr. Harris was also started on adjuvant chemotherapy consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles and radiation therapy to the pelvis.
+
+Hospital Course:
+	Following the surgery, Mr. Harris experienced a few postoperative complications, including an ileus, which was managed with conservative measures and eventual placement of a nasogastric tube. He showed significant improvement in his condition over the following weeks. Regular follow-ups with the oncology team revealed that he tolerated chemotherapy well, experiencing only mild myelosuppression and neuropathy.
+
+Follow-Up Plan:
+	Mr. Harris will be scheduled for regular outpatient appointments every three months for the first year post-discharge, followed by six-monthly visits thereafter. His medications will include 5-fluorouracil (5-FU) for oral chemotherapy and antibiotics to manage urinary tract infections associated with the ileal conduit. He has been advised to maintain a balanced diet, avoid smoking and excessive alcohol consumption, and engage in regular physical activity.
+
+Patient Education:
+	Mr. Harris and his family were provided detailed information about post-surgical care, including wound care practices, signs of complications such as anastomotic leak or infection, and strategies for managing side effects like diarrhea, nausea, and fatigue. He was also educated on the importance of recognizing warning signs that require immediate medical attention, such as severe abdominal pain, fever, or changes in bowel habits.
+
+Discharge Instructions:
+	Mr. Harris was provided with clear discharge instructions to ensure his continued recovery and health maintenance. These included adhering to the prescribed medication regimen, practicing good wound care, maintaining adequate hydration, and engaging in light physical activity as tolerated. He was also advised to avoid lifting heavy objects and participating in contact sports for several months.
+
+Prognosis and Long-Term Outlook:
+	Mr. Harris's prognosis is favorable with the aggressive treatment he has received; however, regular monitoring for early detection of recurrence is crucial. He will need to manage ongoing health issues related to his diabetes and hypertension while undergoing routine cancer surveillance.
+
+Final Remarks:
+	Dr. Wilson commends Mr. Harris for his resilience throughout the treatment journey and cooperative attitude during his hospital stay. She emphasizes the importance of maintaining a positive outlook and adhering to the follow-up plan for optimal outcomes. The report is signed by Dr. Wilson and Maria Harris on 04/15/2023.

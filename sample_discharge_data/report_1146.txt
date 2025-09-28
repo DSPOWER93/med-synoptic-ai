@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Evans
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1146
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 20/01/2022
+	•Attending Physician: Dr. Lindsay Powell
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Evans presented to the James Evans complaining of lower abdominal pain, constipation, and unintended weight loss over the past two months. Upon initial assessment, a palpable mass was observed in his lower abdomen, and laboratory tests revealed elevated carcinoembryonic antigen (CEA) levels. Subsequent imaging studies, including computed tomography (CT) scan and colonoscopy, confirmed the diagnosis of colorectal cancer with liver metastasis.
+
+Medical History:
+	Mr. Evans has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a left total hip replacement surgery in 2018. His father died of colon cancer at the age of 65, and his mother had a history of breast cancer. Mr. Evans is allergic to penicillin and sulfa drugs. Prior to admission, he was taking medications for hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	Pathology report from the colon biopsy showed moderately differentiated adenocarcinoma with extensive lymphovascular invasion and perineural invasion. The CT scan revealed a 7cm x 5cm mass in the sigmoid colon with multiple liver metastases, as well as signs of obstruction at the splenic flexure. Blood tests showed anemia (Hb 9.2 g/dL), elevated CEA levels (10.3 ng/mL), and normal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Evans, which included a left hemicolectomy with primary anastomosis, followed by adjuvant chemotherapy (FOLFOX regimen 5-FU, leucovorin, and oxaliplatin) every two weeks for six cycles, and consideration of radiation therapy if needed. Postoperative care included pain management, bowel movement regulation, and monitoring for complications such as anastomotic leak or infection.
+
+Hospital Course:
+	After the surgery, Mr. Evans had an uneventful recovery period. He received regular physical therapy to maintain mobility and prevent thromboembolism. Nutritional support was provided through a high-calorie diet and total parenteral nutrition (TPN) when necessary. The patient also received education on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as neuropathy and nausea.
+
+Follow-Up Plan:
+	Mr. Evans will be scheduled for regular outpatient appointments every three months for the first year post-treatment, then every six months thereafter. He will continue taking medications for hypertension and diabetes, with adjustments as necessary based on his response to therapy. A low-fiber diet is recommended, along with regular exercise and adequate hydration. Mr. Evans should report any signs of recurrence, such as abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Evans and his family were provided with detailed education on the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as neuropathy and nausea. They were also educated on the importance of regular follow-up appointments for early detection of recurrence and monitoring ongoing health issues.
+
+Discharge Instructions:
+	Mr. Evans was provided with detailed discharge instructions, including medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given written instructions on managing the ileal conduit, recognizing signs of complications, and contact information for emergency situations.
+
+Prognosis and Long-Term Outlook:
+	Mr. Evans's prognosis is dependent on his response to adjuvant chemotherapy and close monitoring for recurrence. Regular follow-up appointments are essential for early detection of any potential recurrences or complications. It is important to emphasize the importance of a healthy lifestyle, including a balanced diet, regular exercise, and avoiding tobacco use, to improve overall health outcomes.
+
+Final Remarks:
+	Dr. Powell would like to commend Mr. Evans for his resilience and cooperation throughout the treatment journey. The medical team is optimistic about his recovery and will continue to provide support and guidance as he moves forward in his treatment plan. This report is signed by Dr. Lindsay Powell on 20/01/2022, and Mr. James Evans on 20/01/2022.

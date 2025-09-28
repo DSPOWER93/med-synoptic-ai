@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alissa Rominger
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1175
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 03/31/2023
+	•Attending Physician: Dr. Leroy Mccormick
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Rominger presented to the emergency department with complaints of abdominal pain, constipation, and unexplained weight loss over a period of several weeks. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. Subsequent imaging studies, including computed tomography (CT) scans, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Rominger has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015 for gallbladder stones. His family history is significant for colon cancer, as his father died from the disease at age 65. Mr. Rominger has a known allergy to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	Pathology of the resected specimen confirmed the diagnosis of moderately differentiated adenocarcinoma of the sigmoid colon. CT scans revealed multiple enlarged lymph nodes in the mesorectum, suggesting lymph node involvement. Blood tests showed anemia and elevated CEA levels (12.5 ng/mL).
+
+Treatment Plan:
+	The multidisciplinary team developed a treatment plan for Mr. Rominger. He underwent a laparoscopic sigmoid colectomy with primary anastomosis and lymph node dissection on [02/15/2023]. Post-operative care included pain management, antibiotics to prevent infection, and management of ileus. Mr. Rominger started adjuvant chemotherapy with FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) on [03/07/2023]. He was also recommended for radiation therapy to the pelvic area, which is to be initiated once he regains sufficient strength.
+
+Hospital Course:
+	Mr. Rominger's initial recovery from surgery was uneventful. However, he developed a fever on post-operative day 3, and further investigations revealed an infection in the abdominal cavity. He was treated with intravenous antibiotics and made a full recovery. Throughout his hospital stay, Mr. Rominger demonstrated strong adherence to his treatment regimen, and he showed good appetite and responded well to physical therapy.
+
+Follow-Up Plan:
+	Mr. Rominger will return for regular outpatient follow-ups every 3 months for the first year post-treatment, then every 6 months thereafter. He will continue taking metformin and lisinopril, but the dosage of albuterol may be reduced once his COPD is better controlled. A low-fiber diet is recommended to minimize discomfort associated with the ileal conduit. Mr. Rominger should also maintain a healthy weight, avoid smoking, and participate in regular exercise. In case of any signs of bleeding, abdominal pain, or rapid unexplained weight loss, he must seek immediate medical attention.
+
+Patient Education:
+	Mr. Rominger was educated about the importance of adhering to his medication regimen, practicing good wound care, maintaining proper hydration, and engaging in regular physical activity. He was also instructed on recognizing signs of complications related to the ileal conduit, such as leakage, obstruction, or infection. Common side effects of chemotherapy, including nausea, fatigue, and neuropathy, were discussed, along with strategies for managing these symptoms.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Rominger was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with information about follow-up appointments, contact information for the cancer center, and resources for emotional support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Mr. Rominger's prognosis will depend on the effectiveness of adjuvant chemotherapy and radiation therapy in eradicating any residual disease. Regular monitoring for early detection of recurrence is essential, as well as management of ongoing health issues such as hypertension and diabetes mellitus.
+
+Final Remarks:
+	Mr. Rominger demonstrated tremendous resilience throughout his treatment journey, and I am confident that he will continue to do so in the months ahead. I am proud of his progress and cooperation, and I look forward to seeing him return for follow-up appointments as scheduled.

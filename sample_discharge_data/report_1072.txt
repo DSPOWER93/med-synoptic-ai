@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carolyn Desmond
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1072
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Barbara Mulligan
+	•Primary Diagnosis: Colorectal Cancer (Stage III) with metastasis to the liver
+
+Reason for Admission:
+	Carolyn Desmond presented at our facility with persistent lower abdominal pain, change in bowel habits, and unintentional weight loss over the past two months. A series of diagnostic tests were conducted, including a computed tomography (CT) scan, which revealed a large mass in his colon and multiple liver lesions. The subsequent biopsy confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Carolyn Desmond is a 47-year-old male with a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has undergone two laparoscopic cholecystectomies in the past due to gallstones. John has no known family history of colorectal cancer but is a smoker with a 30-pack year history. He was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	The colonoscopy revealed an obstructing mass in the sigmoid colon. A biopsy confirmed the presence of moderately differentiated adenocarcinoma. The CT scan showed a 9 cm tumor in the sigmoid colon, with multiple liver metastases. Further laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and positive fecal occult blood test.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Carolyn Desmond. He underwent an elective sigmoid colectomy with primary ileo-rectal anastomosis, followed by a left lower quadrant loop ileostomy for postoperative management (ileal conduit). A hepatic metastasectomy was performed to remove the liver lesions. Carolyn Desmond's treatment regimen included adjuvant chemotherapy with FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) for six cycles, with regular monitoring for side effects such as neutropenia, neuropathy, and nausea.
+
+Hospital Course:
+	Carolyn Desmond's initial recovery from surgery was challenging due to postoperative ileus. He required bowel rest and total parenteral nutrition (TPN) for several days. His condition improved gradually, with the removal of his nasogastric tube, reinstatement of oral intake, and eventual reversal of the ileostomy. Carolyn Desmond actively participated in physical therapy sessions to facilitate a smooth recovery.
+
+Follow-Up Plan:
+	The follow-up plan for Carolyn Desmond includes regular outpatient appointments every three months for the first two years and then annually thereafter. He will continue taking metformin, lisinopril, and albuterol, with close monitoring of his blood glucose levels and lung function. Carolyn Desmond has been advised to maintain a healthy diet, rich in fruits, vegetables, lean proteins, and whole grains while avoiding red meat and processed foods. He should also avoid alcohol and tobacco.
+
+Patient Education:
+	Carolyn Desmond was educated about his condition, treatment options, and the importance of adhering to the follow-up plan. He received instructions on caring for his ileal conduit, recognizing signs of complications such as leakage, blockage, or inflammation, and managing common side effects like diarrhea, abdominal pain, and skin irritation.
+
+Discharge Instructions:
+	Carolyn Desmond was discharged with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take metformin and lisinopril as prescribed, while albuterol inhalation should be used as needed for COPD management. Carolyn Desmond should maintain a low residue diet initially and gradually reintroduce higher fiber foods once his ileostomy is functioning properly.
+
+Prognosis and Long-Term Outlook:
+	Carolyn Desmond's prognosis will depend on the successful detection and treatment of any recurrence. Regular monitoring for early detection of recurrence is crucial, as well as managing ongoing health issues such as hypertension and diabetes.
+
+Final Remarks:
+	Dr. Barbara Mulligan expresses her appreciation for Carolyn Desmond's resilience throughout his treatment journey and emphasizes the importance of adhering to the follow-up plan for optimal outcomes. Both Carolyn Desmond and Dr. Mulligan have signed this report on 15/01/2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Fred Riso
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1228
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/25/2023
+	•Attending Physician: Dr. Carolyn Schacht
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Fred Riso was admitted to the hospital due to increasing abdominal pain, changes in bowel habits, and unexplained weight loss over a period of several months. Upon initial assessment, his symptoms were severe, with signs of obstruction evident from the abdominal examination. Subsequent investigations, including computerized tomography (CT) scan and colonoscopy, confirmed the presence of a large mass in the descending colon, consistent with colorectal cancer.
+
+Medical History:
+	Mr. Riso has a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His family history is noteworthy for colon cancer in his father at age 65. He has no known allergies and was taking medications for hypertension, diabetes, and COPD before admission.
+
+Diagnostic Findings:
+	Pathology reports from the surgically resected specimen confirmed a moderately differentiated adenocarcinoma of the colon. CT scan and PET-CT revealed multiple liver metastases, as well as nodal involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Riso. This included a right hemicollectomy with primary anastomosis, followed by 12 cycles of FOLFOX and bevacizumab chemotherapy. Radiation therapy was also considered given the extent of liver metastases but ultimately deferred due to the immediate post-operative period and potential complications.
+
+Hospital Course:
+	Post-surgery, Mr. Riso experienced a smooth recovery with minimal complications. He received aggressive pain management, nutritional support, and physical therapy to aid in his recovery. His condition was closely monitored for signs of sepsis, anastomotic leakage, or bowel obstruction.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Riso will return for scheduled outpatient appointments every three months for the first year, then every six months thereafter. His medications, including metformin, ramipril, and inhaled bronchodilators, will be continued. A low-fat, high-fiber diet is recommended, along with regular exercise. Any worsening of symptoms or signs of dehydration should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Riso and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as infection or obstruction, and managing common side effects of chemotherapy like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Riso was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also provided with a list of contact numbers for the cancer center in case of emergencies.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Riso's long-term health.
+
+Final Remarks:
+	Dr. Schacht concludes this report, commending Mr. Riso for his resilience throughout the treatment journey and expressing confidence in his ability to manage the disease with continued care and follow-up. Both the physician and patient have signed the report, dated April 25, 2023, validating its contents.

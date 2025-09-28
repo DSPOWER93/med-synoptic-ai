@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alicia Henson
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1022
+	•Date of Admission: 09/01/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Milagros Poormon
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the liver and lungs
+
+Reason for Admission:
+	Alicia Henson, a 38-year-old male patient, was admitted to our hospital after presenting with persistent lower back pain, hematuria, and anemia. Upon initial assessment, it was noted that his vital signs were stable, but a thorough physical examination revealed palpable masses in the abdomen and lower back, and the presence of anemia was confirmed by laboratory tests. Following these findings, diagnostic investigations including CT scans, MRI, and biopsies were conducted to determine the underlying cause. The results confirmed the suspicion of advanced RCC with metastasis to the liver and lungs.
+
+Medical History:
+	Alicia Henson has a history of hypertension and asthma, which he has been managing effectively through medications. He has no known family history of cancer. Prior to his admission, John had undergone a cholecystectomy in 2018. He is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of RCC, with metastasis to the liver and lungs as indicated by CT scans and MRI images. Blood tests revealed elevated levels of creatinine, suggesting kidney dysfunction, and a low hemoglobin level, consistent with anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Alicia Henson. The initial step was a partial nephrectomy to remove the tumor from his left kidney. Post-operative care included pain management, blood transfusions, and close monitoring of kidney function. Following recovery from surgery, John underwent four cycles of neoadjuvant sunitinib therapy to shrink the liver and lung metastases prior to potentially curative surgical resection. Radiation therapy was also considered but ultimately deferred due to the progressive nature of his disease.
+
+Hospital Course:
+	John's initial recovery from surgery was successful, and he tolerated neoadjuvant sunitinib therapy well with minimal side effects. However, during the fourth cycle, he experienced severe diarrhea and fatigue, requiring temporary dose reduction and aggressive hydration. A multidisciplinary team approach ensured his nutritional support throughout his hospital stay.
+
+Follow-Up Plan:
+	John has been scheduled for regular outpatient appointments every three months with his oncologist and nephrologist for monitoring of kidney function and disease progression. His current medications include sunitinib, iron supplements, and antihypertensives. He is advised to maintain a healthy diet low in sodium and high in lean proteins and fruits and vegetables, with regular exercise as tolerated. Any signs of severe abdominal pain, significant weight loss, or persistent fatigue should prompt immediate medical attention.
+
+Patient Education:
+	John was provided detailed education on post-surgical care, managing the ileal conduit, recognizing signs of complications such as urinary leakage and obstruction, and managing common side effects like diarrhea and fatigue. His family was also instructed in these areas to ensure a supportive home environment during his recovery.
+
+Discharge Instructions:
+	Prior to discharge, John was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and contact sports for six weeks following discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing John's ongoing health issues. Given the aggressive nature of his disease, it is essential that he adheres to his medication regimen, maintains a healthy lifestyle, and attends all scheduled appointments.
+
+Final Remarks:
+	Dr. Milagros Poormon commends Alicia Henson for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-ups and adherence to his medication regimen. Both patient and physician have signed this report on 02/15/2023, validating its content.

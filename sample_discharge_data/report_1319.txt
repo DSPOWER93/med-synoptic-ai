@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Douglas Michael
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1319
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Michael Ewing
+	•Primary Diagnosis: Urothelial Carcinoma of the Bladder
+
+Reason for Admission:
+	Douglas Michael Michael was admitted to our facility due to a persistent hematuria, or blood in the urine, accompanied by severe abdominal pain. Initial assessments and subsequent laboratory tests indicated an elevated white blood cell count and increased creatinine levels, suggesting a possible urinary tract infection or kidney stones. However, further diagnostic investigations, including a computed tomography (CT) scan and cystoscopy, revealed a mass in his bladder, leading to the primary diagnosis of urothelial carcinoma.
+
+Medical History:
+	Mr. Michael has a history of hypertension, which is managed with prescribed medication. He also has a family history of colon cancer, and his father passed away from pancreatic cancer at the age of 65. In addition, he is allergic to penicillin and sulfa drugs. Before admission, he was taking aspirin daily for his hypertension and lisinopril twice daily.
+
+Diagnostic Findings:
+	A CT scan showed a 4 cm mass in the bladder with evidence of invasion into the muscularis propria. Histopathology findings from cystoscopy-guided biopsy confirmed urothelial carcinoma. Blood tests revealed an elevated creatinine level, indicative of possible renal impairment.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Michael. This included a partial cystectomy followed by a ileal conduit creation, chemotherapy, and radiation therapy. Post-operative care involved managing pain, preventing infections, and monitoring renal function. The chosen chemotherapy regimen was MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin), with six cycles administered every three weeks. Radiation therapy was considered after the completion of chemotherapy to reduce the chances of recurrence.
+
+Hospital Course:
+	Following the surgical intervention, Mr. Michael made an initial recovery and was soon able to tolerate a regular diet and engage in physical activity as prescribed by his healthcare team. However, he faced challenges with nausea and fatigue due to chemotherapy treatments. His kidney function stabilized, and he received nutritional support to maintain adequate weight and energy levels.
+
+Follow-Up Plan:
+	Mr. Michael has been scheduled for regular follow-up appointments every three months for the first year post-discharge, with semi-annual visits thereafter. His current medication regimen includes continuation of aspirin and lisinopril, as well as an anti-inflammatory drug for managing pain related to his ileal conduit. He has been advised to maintain a healthy diet low in fat and high in fiber, avoid alcohol and caffeine, and engage in regular exercise.
+
+Patient Education:
+	Mr. Michael and his family were educated about the importance of post-surgical care, including management of the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, dehydration, and constipation.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Michael was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given educational materials regarding the importance of regular follow-up appointments and the signs of potential complications that require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for urothelial carcinoma depends on various factors, including the stage at diagnosis and the patient's overall health. Regular monitoring for early detection of recurrence is crucial in managing this disease.
+
+Final Remarks:
+	Dr. Michael Ewing commends Mr. Michael for his resilience and cooperation throughout the treatment journey and looks forward to continued success in his recovery. Both the physician and patient have signed this report, validating its authenticity on [April 20, 2023].

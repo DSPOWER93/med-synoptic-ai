@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eugene Velasquez
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1020
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Henrietta Aviles
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Eugene Velasquez was admitted to the hospital due to persistent abdominal pain, jaundice, and significant weight loss over the past few months. Upon initial assessment, he displayed signs of a potential obstruction in the pancreatic duct. Diagnostic investigations, including an endoscopic retrograde cholangiopancreatography (ERCP) and computed tomography (CT) scan, revealed a large tumor in his pancreas causing the obstruction.
+
+Medical History:
+	Eugene Velasquez has been diagnosed with hypertension and COPD, for which he was taking prescribed medications before admission. He also has a family history of pancreatic cancer. His past medical records indicate that he underwent a left knee replacement surgery 5 years ago. John is allergic to penicillin and iodine.
+
+Diagnostic Findings:
+	Pathology results from the surgical biopsy confirmed a diagnosis of pancreatic adenocarcinoma. The CT scan showed a large, irregular mass in his pancreas with encroachment on surrounding organs. Blood tests revealed elevated levels of CA 19-9 and bilirubin, both indicative of a malignant condition affecting the pancreas.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Eugene Velasquez, including surgery followed by chemotherapy and radiation therapy. He underwent a Whipple procedure to remove the tumor along with parts of his pancreas, duodenum, gallbladder, and regional lymph nodes. Post-operative care involved pain management, nutritional support through a feeding tube, and monitoring for complications. John was also started on a FOLFIRINOX chemotherapy regimen consisting of four 28-day cycles. Given the location and size of the tumor, radiation therapy was deemed necessary following his last cycle of chemotherapy.
+
+Hospital Course:
+	Eugene Velasquez's recovery from surgery was challenging due to complications such as pancreatic fistula and delayed gastric emptying. He received supportive care including antibiotics, fluid and electrolyte management, and proton pump inhibitors to address these issues. As his condition stabilized, he began physical therapy to regain strength and mobility. The tumor marker levels (CA 19-9) were monitored closely throughout his stay.
+
+Follow-Up Plan:
+	Eugene Velasquez will have regular outpatient appointments with his oncologist and surgeon for monitoring and management of potential recurrence. His medication regimen will include continued FOLFIRINOX and management of any side effects. A healthy diet rich in fruits, vegetables, lean proteins, and whole grains is recommended, along with regular exercise to maintain overall health.
+
+Patient Education:
+	Eugene Velasquez and his family were provided comprehensive education about the ileal conduit, recognizing signs of complications such as leakage or blockages, and managing common side effects like fatigue, neuropathy, and nausea associated with chemotherapy. They were also instructed on how to manage changes in bowel habits and maintain skin integrity around the stoma site.
+
+Discharge Instructions:
+	Upon discharge, Eugene Velasquez was provided detailed instructions about medication adherence, wound care practices including dressing changes, hydration guidelines, and physical activity restrictions during his recovery period. He was also advised to monitor his weight and report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Eugene Velasquez's long-term survival. Managing ongoing health issues such as hypertension, COPD, and potential complications related to his surgery will be essential in maintaining his quality of life.
+
+Final Remarks:
+	In conclusion, Eugene Velasquez has shown remarkable resilience throughout his treatment journey for pancreatic cancer. His cooperation and adherence to the prescribed treatment plan have been commendable. We hope that he will continue to recover well post-discharge and look forward to seeing him at his follow-up appointments.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marcus Reilly
+	•Date of Birth: 12/05/1978
+	•Medical Record Number: M1171
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Danny Williams
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the bladder
+
+Reason for Admission:
+	Mr. Reilly presented to our facility with a three-month history of hematuria and dysuria. On initial assessment, he reported intermittent gross hematuria, pain during urination, and frequent urination. A thorough physical examination was performed, followed by diagnostic investigations, including urinalysis, cystoscopy, and computed tomography (Reilly) scan of the abdomen and pelvis. Marcus Reilly scan revealed a mass in the bladder wall, and cystoscopic biopsy confirmed the diagnosis of TCC.
+
+Medical History:
+	Mr. Reilly has a history of hypertension for which he is currently on Lisinopril 20mg daily. He was diagnosed with type II diabetes mellitus in 2015 and is managed with Metformin 850mg twice daily and Glipizide 5mg daily. He underwent a left lower lobe lung resection for a benign lesion in 2019. His father died of colon cancer at age 65, and his maternal grandmother had breast cancer. Mr. Reilly has no known allergies, and he was not on any significant medications prior to admission.
+
+Diagnostic Findings:
+	Marcus pathology report from the bladder biopsy revealed a moderately differentiated TCC with invasive properties. Further investigation with Reilly scan showed a large (5cm) bladder mass invading the muscularis propria, with multiple nodules in both kidneys, consistent with metastatic disease. Blood tests revealed mild anemia and elevated creatinine levels, likely due to the presence of the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Reilly. Marcus primary intervention was radical cystectomy with intravesical neobladder construction. Post-operative care included pain management, wound care, and antibiotic therapy to prevent urinary tract infections. As part of the treatment regimen, Mr. Reilly received four cycles of gemcitabine and cisplatin chemotherapy, followed by adjuvant radiation therapy. Marcus plan for managing side effects included anti-emetics for nausea and vomiting, painkillers for discomfort, and prophylactic antibiotics to prevent infection.
+
+Hospital Course:
+	Mr. Reilly's recovery from the surgical procedure was uneventful, with initial challenges in urinary continence being addressed through intensive physical therapy and education on bladder control techniques. During his hospital stay, he received nutritional support to manage his diabetes and maintain adequate energy levels. Close monitoring of his renal function and anemia ensured appropriate management throughout the treatment course.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Reilly will be scheduled for regular follow-up appointments every three months. He will continue with Metformin and Glipizide but may require adjustments based on blood glucose levels. A low-fat diet is recommended to manage his diabetes, along with regular exercise and weight management. In the event of any complications such as fever, persistent abdominal pain, or changes in urinary habits, he should seek immediate medical attention.
+
+Patient Education:
+	Mr. Reilly and his family were provided detailed instructions on post-surgical care, including proper wound healing practices, techniques for managing the ileal conduit, and signs of complications such as infection or anastomotic leakage. They were also educated about common side effects of chemotherapy and radiation therapy, including fatigue, nausea, and changes in bowel habits, and how to manage these symptoms effectively.
+
+Discharge Instructions:
+	Mr. Reilly was discharged with a comprehensive list of medications, including analgesics for pain management, antibiotics for infection prophylaxis, and anti-emetics for nausea and vomiting. He was advised to maintain adequate hydration, follow a low-fat diet, and engage in regular physical activity as tolerated. Wound care instructions were provided, along with information about when to seek medical attention for any concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Reilly's condition. He will be closely followed up on for signs of disease progression or treatment failure, and appropriate interventions will be taken as necessary. His diabetes and hypertension will also require ongoing management to ensure overall health maintenance.
+
+Final Remarks:
+	Throughout his treatment journey, Mr. Reilly demonstrated remarkable resilience and cooperation. We are confident that he will continue to do well post-discharge with the comprehensive follow-up plan in place. I would like to take this opportunity to thank the multidisciplinary team for their excellent care and support throughout Mr. Reilly's treatment, and I wish him a speedy and full recovery.

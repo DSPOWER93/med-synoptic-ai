@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: William Bagwell
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1026
+	•Date of Admission: 02/20/2023
+	•Date of Discharge: 03/15/2023
+	•Attending Physician: Dr. Brianna Dill
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	William Bagwell was admitted to the hospital due to recurrent abdominal pain, changes in bowel habits, and unexplained weight loss. Upon initial assessment, his symptoms were severe, with persistent abdominal cramps, frequent bowel movements, and a noticeable decrease in appetite. As part of the diagnostic process, a series of tests were conducted, including a complete blood count (CBC), CT scan of the abdomen and pelvis, and colonoscopy. The results revealed an advanced stage colorectal cancer with metastasis to several lymph nodes.
+
+Medical History:
+	William Bagwell has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a left lower quadrant laparotomy for an appendectomy ten years ago. His family history is significant for colon cancer, with his father having been diagnosed at the age of 60. William Bagwell has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and salmeterol/fluticasone inhaler for his respective conditions.
+
+Diagnostic Findings:
+	The CBC showed anemia (Hb 9.5 g/dL) with a high neutrophil count (74%) and platelet count (300,000/μL). The CT scan revealed a mass in the descending colon with several enlarged lymph nodes. Pathology results from the colonoscopy confirmed adenocarcinoma of the colon. Additionally, a PET-CT scan was performed to assess the extent of metastasis, confirming involvement of multiple lymph nodes and distant metastases in the liver.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Bagwell, which included a laparoscopic left hemicolectomy followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved monitoring for complications such as anastomotic leakage and infection. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, 5-fluorouracil) with a cycle of every two weeks, accompanied by irinotecan in the second and third cycles due to the advanced stage of his cancer. Radiation therapy was planned to target the liver metastases.
+
+Hospital Course:
+	William Bagwell underwent the laparoscopic left hemicolectomy without complications. He experienced a few challenges post-surgery, including abdominal distention and nausea due to ileus, which were managed with supportive care and medication adjustments. The role of occupational therapy was crucial in helping him regain mobility and strength. Nutritional support included enteral feeding via the ileal conduit to maintain his nutritional status during the recovery phase.
+
+Follow-Up Plan:
+	Mr. Bagwell's follow-up plan includes scheduled outpatient appointments with the oncologist every three months for the first year, then every six months thereafter. He will continue to take metformin and lisinopril while adjusting his inhaler as needed based on lung function tests. Dietary recommendations focus on a high-fiber diet with adequate protein intake to support wound healing and promote healthy bowel function. Warning signs that require immediate medical attention include fever, worsening abdominal pain, severe vomiting, and sudden weight loss.
+
+Patient Education:
+	William Bagwell and his family were provided education on post-surgical care, management of the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like diarrhea and fatigue. They were also taught how to monitor his blood glucose levels closely during treatment and adjust insulin doses accordingly.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bagwell was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to maintain a regular follow-up schedule with his primary care physician and oncologist, as well as report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence cannot be overstated. William Bagwell will require ongoing management of his underlying conditions while navigating the challenges associated with cancer survivorship.
+
+Final Remarks:
+	Dr. Dill would like to commend Mr. Bagwell for his resilience and cooperation throughout this challenging journey. She encourages him to continue fighting against this disease and looks forward to seeing him in her clinic for follow-up appointments. The report is signed by both Dr. Brianna Dill and William Bagwell on March 15, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Irma Reneau
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1050
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 20/01/2023
+	•Attending Physician: Dr. Jennifer Griffin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Irma Reneau presented to the emergency department complaining of persistent abdominal pain, change in bowel habits, and unintended weight loss over the past few months. Upon initial assessment, he exhibited signs of abdominal distention, tenderness, and anemia. Subsequent diagnostic investigations including a CT scan, colonoscopy, and complete blood count (CBC) confirmed the presence of a large mass in the descending colon and severe anemia due to blood loss.
+
+Medical History:
+	Irma Reneau is a 43-year-old male with a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has a family history of colorectal cancer. Prior to admission, he was on multiple medications including metformin, lisinopril, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy revealed a large (7cm) tumor in the descending colon, invading the muscularis propria with regional lymph node involvement. The CT scan showed multiple enlarged nodes along the mesocolon consistent with metastasis. CBC revealed severe anemia with a hemoglobin level of 6 g/dL.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by our multidisciplinary team, consisting of surgery, medical oncology, and radiation oncology specialists. Irma Reneau underwent an open right hemicolectomy with primary anastomosis and a temporary loop ileostomy (ileal conduit). Post-operative care included intravenous antibiotics, pain management, and nutritional support. He was started on adjuvant chemotherapy consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) with planned cycles for six months, along with careful monitoring for side effects such as neutropenia, neuropathy, and diarrhea. Radiation therapy was deferred due to the surgical site's proximity.
+
+Hospital Course:
+	Irma Reneau's initial recovery from surgery was unremarkable. However, he faced a setback due to neutropenia secondary to chemotherapy. He required intravenous antibiotics for a bacterial infection and was isolated in the hospital for a period. His condition stabilized with supportive care, including fluid hydration, blood transfusions, and continued antibiotics. The role of physiotherapy was crucial in helping John regain his strength and mobility.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Irma Reneau post-discharge. This includes regular outpatient visits with the oncology team, CBC every month to monitor blood counts, and colonoscopy after six months to evaluate the anastomosis site. He is advised to continue his diabetes and hypertension medications and make lifestyle changes such as smoking cessation, a balanced diet, and regular exercise.
+
+Patient Education:
+	Irma Reneau and his family were educated about the importance of adjuvant chemotherapy in reducing the risk of recurrence. They were also instructed on post-surgical care, including ileal conduit management, signs of complications such as leakage or obstruction, and managing common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Irma Reneau was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to follow a high-fiber diet to prevent constipation and maintain proper bowel function.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Irma Reneau's long-term health. He has been informed about the importance of attending all scheduled appointments and reporting any suspicious symptoms promptly.
+
+Final Remarks:
+	I am pleased to see Irma Reneau's resilience throughout his treatment journey, and I appreciate his cooperation in adhering to our treatment plan. I wish him a speedy recovery and a long, healthy life.

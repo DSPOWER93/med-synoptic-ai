@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stacey Mitchell
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1222
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Thomas Zamudio
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient was admitted to our institution following the presentation of hematuria (blood in urine) accompanied by dysuria (painful urination), and frequent urge to urinate. Initial assessment included a thorough physical examination, which revealed no abnormalities apart from mild tenderness on palpation of the lower abdomen. Subsequent laboratory investigations showed an elevated white blood cell count (WBC) of 12,500 cells/mm³ and microscopic hematuria in a urinalysis. An intravenous pyelogram (IVP) revealed a mass lesion within the bladder, leading to the suspicion of a bladder tumor. A cystoscopy was performed, confirming the diagnosis of TCC of the bladder.
+
+Medical History:
+	The patient has a history of hypertension and Type 2 diabetes mellitus, both of which were well-controlled with medications. The patient has no known allergies and has not undergone any significant surgeries in the past. The patient's father had a history of colon cancer and the mother had breast cancer, both of which were diagnosed at advanced stages.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted during the hospital stay. Pathology reports confirmed the diagnosis of TCC with moderately differentiated features and pT2 depth invasion. Computed tomography (CT) scans revealed no evidence of metastasis, but a positron emission tomography (PET) scan showed slight activity in the regional lymph nodes.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for the patient. The primary intervention was a radical cystectomy with an ileal conduit creation, followed by adjuvant chemotherapy with a regimen of MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin). Radiation therapy was not deemed necessary. Post-operative care included pain management, antibiotics to prevent infection, and dietary support for wound healing and nutritional requirements.
+
+Hospital Course:
+	The patient underwent a successful radical cystectomy with an ileal conduit creation on [Date of Surgery]. Post-operative recovery was initially challenging due to complications such as post-operative ileus, which required bowel rest and subsequent enteral feeds. However, the patient responded well to therapy and was eventually discharged in stable condition.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments for check-ups and cystoscopies every 3 months for the first year, then every 6 months thereafter. The patient will continue with maintenance chemotherapy for one year. Dietary recommendations include a balanced diet rich in protein, vitamins, and minerals to promote healing and prevent nutritional deficiencies. Lifestyle modifications include regular exercise and avoidance of tobacco products. Warning signs requiring immediate medical attention include fever, abdominal pain, or changes in urinary habits.
+
+Patient Education:
+	The patient and family were educated about the nature of the disease, the surgical procedure, and the importance of adhering to the post-operative care instructions. Instructions included management of the ileal conduit, recognition of signs of complications such as urinary tract infections or bowel obstruction, and management of common side effects like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	The patient was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to promote healing and prevent complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. The patient should also focus on managing ongoing health issues such as hypertension and diabetes effectively.
+
+Final Remarks:
+	I am proud to have been part of the team that cared for this resilient and cooperative patient throughout their treatment journey. I wish them a speedy recovery and good health in the future.

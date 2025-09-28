@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Matthew Manning
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1207
+	•Date of Admission: 06/12/2022
+	•Date of Discharge: 07/15/2022
+	•Attending Physician: Dr. April Kroll
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Manning presented with symptoms of hematuria (blood in urine) and dysuria (painful urination) that had been persistent for the past two months. A urinalysis revealed the presence of red blood cells, leading to further investigations including a CT scan, which confirmed a mass in the bladder. The findings were consistent with bladder cancer.
+
+Medical History:
+	Mr. Manning has a history of hypertension and COPD, for which he was on regular medications. He had no known allergies. His family history was significant for colon cancer, with his father diagnosed at the age of 60. Before admission, he was not taking any other medications.
+
+Diagnostic Findings:
+	Biopsy results confirmed a T2N0M0 bladder cancer. A cystoscopy was performed to examine the bladder, and an intravesical BCG (Bacillus Calmette-Guérin) therapy was initiated for superficial bladder cancer. However, the cancer was found to be invasive, requiring a radical cystectomy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Manning. He underwent a radical cystectomy, which included removal of the bladder, prostate, and nearby lymph nodes. The ileal conduit method was used to create a new way for urine to leave his body. Post-operative care involved monitoring for complications such as infections and fluid imbalances. He also underwent six cycles of chemotherapy (GCB Gemcitabine, Cisplatin, and BCG intravesical therapy) with appropriate management of side effects like nausea, vomiting, and kidney damage.
+
+Hospital Course:
+	Following the surgery, Mr. Manning experienced a smooth initial recovery. However, he faced challenges due to complications from chemotherapy, including neutropenia (low white blood cell count) and thrombocytopenia (low platelet count). He was provided with therapy sessions for pain management and to aid in his physical rehabilitation. Nutritional support was essential to maintain his strength during the treatment period.
+
+Follow-Up Plan:
+	A follow-up plan has been designed, which includes outpatient appointments every three months for the first year post-discharge, then six-monthly thereafter. His medication regimen will continue, and adjustments may be made as necessary based on his health status. Lifestyle changes, such as quitting smoking, maintaining a healthy diet, and regular exercise, are recommended to improve his overall health.
+
+Patient Education:
+	Mr. Manning was educated about the importance of post-surgical care for his ileal conduit, including cleaning and emptying it regularly. He was also taught how to recognize signs of complications such as infection or blockage. Managing common side effects like fatigue, diarrhea, and changes in bowel habits was discussed.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. Mr. Manning was advised to maintain a balanced diet rich in fiber, lean proteins, and fruits and vegetables.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Manning will need ongoing care to manage any long-term health issues that may arise from this experience.
+
+Final Remarks:
+	The attending physician commends Mr. Manning's resilience and cooperation throughout his treatment journey, expressing optimism for a positive prognosis. This report is signed by Dr. April Kroll, M.D., on July 15, 2022.

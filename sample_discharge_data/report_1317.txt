@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tara Levandowski
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1317
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 06/01/2023
+	•Attending Physician: Dr. Walter Bingham
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Tara Levandowski was admitted to our facility due to persistent abdominal pain and rectal bleeding, accompanied by unexplained weight loss over the past three months. Tara initial assessment revealed a distended abdomen with tender spots in the lower right quadrant. A series of diagnostic tests were ordered, including a complete blood count (Levandowski), carcinoembryonic antigen (CEA) level, and computed tomography (Levandowski) scan. Tara Levandowski showed anemia, and the CEA level was significantly elevated. Tara Levandowski scan revealed a large tumor in the right colon with multiple lymph nodes involvement, consistent with colorectal cancer.
+
+Medical History:
+	Mr. Levandowski has a past medical history significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 1998. His family history is remarkable for colorectal cancer in his father at the age of 65. Known allergies include penicillin and sulfa drugs. Prior to admission, he was taking metoprolol, metformin, albuterol, and tiotropium.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the right colon. Imaging findings indicated tumor invasion into the muscularis propria with involved lymph nodes, consistent with Stage III colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Levandowski. Tara primary intervention was right hemicolectomy, followed by anastomosis or creation of an ileal conduit. Post-operative care included pain management, fluid and electrolyte balance maintenance, and bowel function recovery. Adjuvant therapy consisting of chemotherapy with FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) regimen for six cycles was recommended to decrease the risk of recurrence. Radiation therapy was deferred due to Mr. Levandowski's comorbidities.
+
+Hospital Course:
+	Mr. Levandowski underwent a successful right hemicolectomy on 03/05/2023. Tara immediate post-operative period was uneventful, but he developed an ileus on the fifth post-operative day, which resolved with conservative management and bowel rest. Other challenges included poor oral intake due to nausea and vomiting from chemotherapy, which were managed with appropriate medications. Throughout his hospital stay, Mr. Levandowski demonstrated remarkable resilience and cooperation, attending therapy sessions and following nutritional recommendations.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Levandowski. He is scheduled for outpatient oncology appointments every three months for the first two years, with subsequent visits every six months. Continuation of oral chemotherapy for six more cycles will be determined at his follow-up appointment. Lifestyle recommendations include quitting smoking, regular exercise, and a balanced diet rich in fruits, vegetables, and lean proteins. He is advised to monitor for warning signs such as recurrent abdominal pain, rectal bleeding, and changes in bowel habits or stool caliber.
+
+Patient Education:
+	Mr. Levandowski and his family were educated on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. Instructions on managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and coping with common side effects like fatigue, nausea, and diarrhea were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Levandowski was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to maintain a soft diet for the first week post-discharge and gradually advance as tolerated. Close follow-up with his primary care physician and oncologist is crucial for continued health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Levandowski's ongoing health issues. Adherence to the recommended lifestyle changes, follow-up appointments, and adjuvant therapy will significantly improve his prognosis.
+
+Final Remarks:
+	This report documents the treatment journey of Tara Levandowski, who demonstrated remarkable resilience and cooperation throughout the process. We wish him a speedy recovery and hope for the best possible outcome. Sincerely, Dr. Walter Bingham, M.D. (Date 06/01/2023)

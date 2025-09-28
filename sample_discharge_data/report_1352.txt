@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Steven Keith
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1352
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 06/10/2022
+	•Attending Physician: Dr. Frances Dulin
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Steven Keith was admitted to the hospital following a persistent hematuria episode and frequent urge to urinate over the past month. Upon admission, a thorough physical examination revealed no abnormalities other than the presence of blood in his urine. Subsequent laboratory investigations showed elevated levels of creatinine and urea, suggesting possible renal impairment. A computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large bladder mass, and cystoscopy was performed for biopsy, confirming the diagnosis of Steven Keith.
+
+Medical History:
+	Steven Keith has a history of hypertension and COPD that are well-controlled with medication. He also has a family history of bladder cancer on his mother's side. Before admission, he was taking Amlodipine, Atrovent HFA Inhalation, Metformin, and Furosemide.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of malignant cells in the bladder mass. The CT scan also revealed lymph node involvement, with enlarged nodes located near the aorta and vena cava. Blood tests showed slight anemia and mildly elevated white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan that included radical cystectomy, followed by ileal conduit formation, and post-operative chemotherapy with Gemcitabine and Cisplatin. The patient underwent the surgery successfully, and the post-operative recovery was uneventful. Chemotherapy was initiated four weeks after the surgery and completed after six cycles without significant side effects.
+
+Hospital Course:
+	During his hospital stay, Steven Keith experienced temporary complications related to anastomotic leakage but responded well to conservative management with intravenous antibiotics and drainage of the abscess. The patient also received nutritional support via enteral feeding for a brief period due to poor oral intake. He was subsequently discharged when his condition stabilized and he demonstrated adequate wound healing.
+
+Follow-Up Plan:
+	Steven Keith will be scheduled for regular follow-up appointments with the oncology department, every three months for the first year, then every six months thereafter. He is to continue taking Amlodipine and Atrovent HFA Inhalation as prescribed. Metformin and Furosemide have been temporarily discontinued due to the risk of nephrotoxicity from chemotherapy. It is recommended that John maintain a healthy diet low in sodium and rich in fruits, vegetables, and lean proteins.
+
+Patient Education:
+	Steven Keith and his family were educated about the importance of post-surgical care, including wound care practices, maintaining hydration, and managing bowel movements using the ileal conduit. They were also instructed on how to recognize signs of complications such as fever, increased abdominal pain, or changes in urine output.
+
+Discharge Instructions:
+	Steven Keith was provided with clear discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He is advised to avoid heavy lifting and strenuous activities for four weeks following discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence will be crucial in managing John's ongoing health issues.
+
+Final Remarks:
+	Dr. Frances Dulin commends Steven Keith for his resilience and cooperation throughout the treatment journey, emphasizing that he has played a vital role in his successful recovery. Both the physician and patient have signed this report on 06/10/2022 to validate its authenticity.

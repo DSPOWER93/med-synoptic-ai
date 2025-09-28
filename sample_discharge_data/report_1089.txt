@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Estella Hammond
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1089
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 07/01/2023
+	•Attending Physician: Dr. Tracy Quackenbush
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Estella Hammond was admitted to the hospital after experiencing persistent abdominal pain, weight loss, and a change in bowel habits over the past two months. Initial assessment revealed a mass in his lower abdomen, and laboratory tests detected elevated carcinoembryonic antigen (CEA) levels. Further investigations including computed tomography (CT) scan, magnetic resonance imaging (MRI), and colonoscopy confirmed the presence of a large tumor in the sigmoid colon, invading the surrounding tissue and lymph nodes.
+
+Medical History:
+	Estella Hammond has a history of hypertension and controlled diabetes mellitus type 2, managed with regular medication. He has no known allergies and does not have a significant family history of colorectal cancer. Before admission, he was taking metformin, lisinopril, and atorvastatin for his pre-existing conditions.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection revealed moderately differentiated adenocarcinoma of the sigmoid colon. Imaging studies indicated a tumor that had invaded the muscularis propria, with multiple involved lymph nodes. Blood tests showed anemia (Hb 9 g/dL), elevated CEA levels (14 ng/ml), and slightly elevated liver enzymes (AST 35 U/L and ALT 40 U/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Estella Hammond, which included partial colectomy with primary anastomosis followed by adjuvant chemotherapy. Post-operative care involved monitoring of surgical site infection and management of pain. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for six cycles, with close monitoring for side effects such as neutropenia, neuropathy, and diarrhea. Radiation therapy was not deemed necessary based on the extent of disease and post-surgical findings.
+
+Hospital Course:
+	Estella Hammond underwent a successful partial colectomy with primary anastomosis. The immediate recovery period was uneventful, but he faced challenges in managing pain and maintaining adequate hydration. He received supportive care including intravenous fluids, analgesics, and enteral nutrition. As his condition stabilized, he began physical therapy to regain mobility.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. Estella Hammond will continue taking metformin and lisinopril, but his atorvastatin dose will be adjusted based on liver enzyme levels. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and abstaining from alcohol. Warning signs requiring immediate medical attention include fever, increasing abdominal pain, and unexplained weight loss.
+
+Patient Education:
+	Estella Hammond and his family were educated about the importance of post-surgical care, including recognizing signs of complications such as infection or anastomotic leak. They were also instructed on managing the ileal conduit, including irrigation techniques and dietary restrictions. Common side effects such as diarrhea, neuropathy, and fatigue were discussed, along with management strategies.
+
+Discharge Instructions:
+	Upon discharge, Estella Hammond was provided detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given written materials to reinforce the information provided during his hospital stay.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Estella Hammond's long-term health. It is essential that he maintains a healthy lifestyle, attends all scheduled appointments, and reports any concerning symptoms promptly.
+
+Final Remarks:
+	This report documents the successful treatment journey of Estella Hammond, who demonstrated resilience and cooperation throughout his treatment process. We commend his determination to overcome this challenging experience and wish him a speedy recovery.

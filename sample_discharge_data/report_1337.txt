@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Bethke
+	•Date of Birth: 1960-02-15
+	•Medical Record Number: M1337
+	•Date of Admission: 2021-08-25
+	•Date of Discharge: 2021-09-10
+	•Attending Physician: Dr. Richard Hardy
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	James Bethke, a 61-year-old male with a history of hypertension and type 2 diabetes, was admitted to the hospital due to persistent lower abdominal pain, rectal bleeding, and weight loss over the past two months. Initial assessment revealed a palpable mass in the lower abdomen, anemia, and elevated levels of carcinoembryonic antigen (CEA) in blood tests. A computed tomography (CT) scan was performed, confirming the suspicion of colorectal cancer with liver metastasis.
+
+Medical History:
+	John had a history of hypertension and type 2 diabetes managed with oral medications. He was a former smoker but quit ten years ago. His father died from lung cancer at the age of 65, and his elder sister suffered from breast cancer at the age of 50. He had undergone a cholecystectomy five years prior due to gallstones.
+
+Diagnostic Findings:
+	Biopsy results confirmed adenocarcinoma of the colon, with liver metastasis evident on CT scan. The CEA level was 12.5 ng/ml (normal range <5 ng/ml). Liver function tests showed mildly elevated levels of alkaline phosphatase and gamma-glutamyl transferase.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. He underwent a partial colectomy, followed by an ileal conduit formation and liver metastasectomy. Post-operative care included pain management, antibiotics for infection prevention, and nutritional support. He received adjuvant chemotherapy with FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles. The decision to include radiation therapy was deferred due to his overall health status.
+
+Hospital Course:
+	After the surgery, John showed a good initial recovery but faced complications during the hospital stay. A post-operative infection required intravenous antibiotics, and he experienced nausea and diarrhea from the chemotherapy regimen. His condition stabilized after several adjustments to his medication and diet.
+
+Follow-Up Plan:
+	John was scheduled for regular follow-up appointments every three months for the first year, then six months thereafter. He will continue with oral Xeloda (Capecitabine) as adjuvant therapy for a total of 3 years. Lifestyle modifications include maintaining a healthy diet, regular exercise, and avoiding tobacco products. Warning signs such as increased abdominal pain, fever, or rectal bleeding require immediate medical attention.
+
+Patient Education:
+	John and his family were educated about the importance of adhering to the prescribed medication regimen, proper ileal conduit care, recognizing complications, and managing common side effects such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices (dressing changes and monitoring for signs of infection), maintaining hydration by drinking at least eight cups of water per day, and gradually increasing physical activity levels as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. John was advised to maintain a healthy lifestyle and attend all scheduled follow-up appointments.
+
+Final Remarks:
+	Dr. Hardy commended John for his resilience throughout the treatment journey and emphasized the importance of adhering to the prescribed regimen for optimal outcomes. Both the physician and patient signed the report on September 10, 2021, validating the complete documentation.

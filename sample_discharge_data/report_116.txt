@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Judy Whaley
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M116
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Christine Roy
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Judy Whaley presented to the emergency department with complaints of severe abdominal pain, nausea, and vomiting that had progressed over the past week. Upon initial assessment, his vital signs were stable but he appeared visibly uncomfortable. Abdominal examination revealed a palpable mass in the epigastric region, which was tender to touch. Laboratory investigations revealed an elevated CA 19-9 level, a marker for pancreatic cancer, prompting further diagnostic tests including CT scan and endoscopic ultrasound, both of which confirmed the diagnosis.
+
+Medical History:
+	Mr. Whaley has a significant medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a total knee replacement five years ago. His father died from colorectal cancer at the age of 65. Mr. Whaley is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the head of the pancreas with metastasis to several surrounding lymph nodes. The endoscopic ultrasound confirmed the presence of a 4cm x 4cm mass in the pancreatic head and invasion into the duodenum. Pathology results from the biopsy were consistent with adenocarcinoma, confirming the diagnosis of pancreatic cancer.
+
+Treatment Plan:
+	Given the advanced stage of the cancer, a multidisciplinary team developed a comprehensive treatment plan for Mr. Whaley. This included a Whipple procedure to remove the tumor, followed by six cycles of FOLFIRINOX chemotherapy and concurrent radiation therapy to the pancreatic bed. The post-operative care involved managing potential complications such as leakage from the anastomosis site and controlling pain.
+
+Hospital Course:
+	Mr. Whaley underwent a successful Whipple procedure on 02/01/2023. He experienced some post-operative complications, including delayed gastric emptying and a minor leak at the anastomosis site, which were managed with conservative treatment. He received his first cycle of chemotherapy and radiation therapy as planned. His condition stabilized, and he demonstrated improvement in his symptoms during his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Whaley was scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue with oral chemotherapy and undergo additional radiation therapy as recommended by his oncologist. A strict diet focused on small, frequent meals and avoiding fatty foods was advised to manage his symptoms and prevent weight loss.
+
+Patient Education:
+	Mr. Whaley and his family were provided extensive education about the disease, its treatment options, and potential complications. They were instructed on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as fever, increased abdominal pain, or abnormal drainage from the surgical site, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Whaley was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing ongoing health issues associated with pancreatic cancer. Mr. Whaley was counseled on the importance of maintaining a healthy lifestyle, including a balanced diet and regular exercise, to improve his overall wellbeing.
+
+Final Remarks:
+	Dr. Christine Roy commends Mr. Whaley for his courage and resilience throughout his treatment journey. The report is signed by both Dr. Roy and Judy Whaley on 05/01/2023, validating the comprehensive care provided during his hospital stay.

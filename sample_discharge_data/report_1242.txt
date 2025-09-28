@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jane Martin
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1242
+	•Date of Admission: 06/10/2023
+	•Date of Discharge: 07/25/2023
+	•Attending Physician: Dr. Mary Hopper
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Martin presented to the emergency department with a three-month history of persistent abdominal pain, alteration in bowel habits, and unintentional weight loss. The initial assessment revealed an abdominal mass and anemia, prompting urgent diagnostic investigations. These investigations included computerized tomography (CT) scans, colonoscopy, and biopsy, which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Martin has a significant past medical history. He is known to have hypertension for which he was prescribed amlodipine, diabetes mellitus type 2 managed with metformin, and chronic obstructive pulmonary disease (COPD) requiring inhaled bronchodilators. Mr. Martin's mother died of breast cancer at the age of 55. He is allergic to penicillin and has a history of non-adherence to medication regimens.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the rectum, and CT scans revealed tumor invasion into adjacent organs and multiple lymph nodes. Blood tests showed elevated carcinoembryonic antigen (CEA) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Martin. He underwent an abdominoperineal resection, followed by a permanent ileostomy formation. Post-operative care involved managing pain, preventing infection, and ensuring adequate wound healing. He received adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, fluorouracil) for six cycles. Radiation therapy was not deemed necessary due to the advanced stage of his cancer.
+
+Hospital Course:
+	After the surgery, Mr. Martin experienced initial recovery challenges due to post-operative complications. These included wound infection and anastomotic leak, which were managed with antibiotics and drainage procedures. He also required nutritional support via a nasogastric tube for a week. Throughout his hospital stay, Mr. Martin demonstrated resilience and cooperation, following the treatment plan closely.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Martin will be scheduled for regular outpatient appointments with his oncologist and primary care physician. He will continue with oral fluorouracil as maintenance therapy and monitor CEA levels regularly. Lifestyle modifications include maintaining a balanced diet, regular exercise, and smoking cessation. Warning signs requiring immediate medical attention include fever, severe abdominal pain, and changes in stool characteristics.
+
+Patient Education:
+	Education was provided to Mr. Martin and his family on post-surgical care for the ileostomy, recognizing signs of complications, managing common side effects of chemotherapy, and adhering to medication regimens.
+
+Discharge Instructions:
+	Upon discharge, Mr. Martin was provided with detailed instructions on wound care practices, hydration guidelines, physical activity recommendations, and follow-up appointment schedules.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Martin's long-term survival. He will need to manage ongoing health issues related to his comorbidities effectively.
+
+Final Remarks:
+	Dr. Hopper commends Mr. Martin for his courage and resilience throughout the treatment journey. She emphasizes the importance of continued adherence to the treatment plan for his best chances of a full recovery. Signed, Dr. Mary Hopper and Jane Martin, July 25, 2023.

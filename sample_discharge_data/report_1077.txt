@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephen Mcneese
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1077
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Ernest Gillespie
+	•Primary Diagnosis: Urothelial Cell Carcinoma of the Bladder
+
+Reason for Admission:
+	Stephen Mcneese was admitted to the hospital after experiencing recurring hematuria, or blood in urine, and lower abdominal pain for approximately two weeks. The initial assessment revealed a mildly distended bladder on physical examination, and subsequent laboratory tests showed an elevated creatinine level, suggesting possible kidney involvement. Further investigations, including a computed tomography (CT) scan of the abdomen and pelvis, confirmed the presence of a large mass in the bladder, consistent with urothelial cell carcinoma.
+
+Medical History:
+	Mr. Mcneese has a history of hypertension, for which he is currently managed with lisinopril. He also has a family history of colon cancer, and his mother passed away from the disease at age 62. He does not have any known allergies and was taking no medications prior to admission.
+
+Diagnostic Findings:
+	During the hospital stay, several diagnostic tests were conducted. A cystoscopy revealed a large, irregular growth within the bladder. A biopsy of the tumor confirmed the diagnosis of urothelial cell carcinoma. Imaging studies, including CT and magnetic resonance imaging (MRI), demonstrated that the cancer had invaded the muscularis propria layer of the bladder but had not metastasized beyond the pelvis at this stage. Blood tests revealed mild anemia and elevated creatinine levels, which were monitored closely throughout Mr. Mcneese's stay.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Mcneese. This included radical cystectomy with ileal conduit diversion and post-operative chemotherapy using gemcitabine and cisplatin. The surgery was performed on 09/01/2023, followed by an uneventful recovery period. Mr. Mcneese completed the first cycle of chemotherapy without any significant side effects. Radiation therapy was not deemed necessary at this time due to the lack of distant metastases.
+
+Hospital Course:
+	During his hospital stay, Mr. Mcneese's condition improved steadily. He experienced some post-operative pain managed with analgesics and had minimal complications related to the ileal conduit. Therapy sessions focused on promoting bowel function and improving mobility. Nutritional support was provided to ensure adequate caloric intake and prevent weight loss.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Mcneese will continue with follow-up appointments every three months for the first year after surgery, then every six months thereafter. He will be prescribed medication for long-term management of hypertension and may require additional medications to manage any side effects from chemotherapy. Lifestyle modifications, including quitting smoking and maintaining a balanced diet, are strongly recommended. Mr. Mcneese should report any symptoms suggestive of recurrence or complications immediately.
+
+Patient Education:
+	Education was provided to Mr. Mcneese and his family regarding the importance of regular follow-up appointments, management of the ileal conduit, recognizing signs of complications, and managing common side effects from chemotherapy. Instructions on post-surgical care were emphasized, including wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Mr. Mcneese was provided with comprehensive discharge instructions, including medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about community resources for cancer support and rehabilitation.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Mcneese is favorable at this stage, with a five-year survival rate of approximately 50%. Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues.
+
+Final Remarks:
+	Dr. Gillespie would like to express her appreciation for Mr. Mcneese's resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Gillespie and Mr. Mcneese, validating its authenticity on 15/01/2023.

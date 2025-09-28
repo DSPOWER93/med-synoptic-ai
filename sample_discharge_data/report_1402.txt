@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Swinehart
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1402
+	•Date of Admission: 02/06/2023
+	•Date of Discharge: 07/06/2023
+	•Attending Physician: Dr. Ruben Swinehart
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Thomas Swinehart, a 38-year-old male, was admitted to our hospital due to persistent abdominal pain, weight loss, and changes in bowel habits over the past three months. Upon initial assessment, he presented with anemia and a palpable mass in the lower abdomen. Subsequent diagnostic tests, including a CT scan and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Swinehart had a history of hypertension and was previously diagnosed with COPD (Chronic Obstructive Pulmonary Disease). He had undergone appendectomy ten years ago. His father passed away from colorectal cancer at the age of 50, which prompted genetic testing, revealing a positive familial adenomatous polyposis (FAP) mutation.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of moderately differentiated adenocarcinoma in the sigmoid colon. The CT scan showed tumor invasion into the muscularis propria and perforation, with regional lymph node involvement. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels, indicating the presence of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Swinehart, including a partial colectomy followed by an ileal conduit formation, six cycles of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy, and radiation therapy to the pelvic area.
+
+Hospital Course:
+	Mr. Swinehart underwent a successful partial colectomy on 06/03/2023, followed by an uneventful recovery period. However, he faced challenges related to his pre-existing COPD, which required close monitoring and additional oxygen support. He received enteral nutrition via the ileal conduit for optimal nutritional support during his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Swinehart will return for regular outpatient appointments every three months for the first year, followed by six-monthly visits thereafter. He will continue to take prescribed medications, including metformin for his diabetes and inhalers for COPD management. A low-fat, high-fiber diet is recommended to promote long-term health and reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Swinehart was educated on post-surgical care, including proper wound care practices, hydration guidelines, and physical activity recommendations. He received instructions on managing his ileal conduit, recognizing signs of complications such as infection or obstruction, and strategies for managing common side effects of chemotherapy.
+
+Discharge Instructions:
+	Mr. Swinehart was provided with detailed discharge instructions, emphasizing the importance of medication adherence, proper wound care practices, maintaining adequate hydration, and following physical activity guidelines prescribed by his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Swinehart's case due to the aggressive nature of his cancer and positive FAP mutation. He was informed about the importance of maintaining a healthy lifestyle, including regular exercise, a balanced diet, and routine screenings as prescribed by his healthcare team.
+
+Final Remarks:
+	We commend Mr. Swinehart for his resilience and cooperation throughout his treatment journey. His family and caregivers have been instrumental in supporting him, and we encourage continued collaboration to ensure the best possible outcome in his recovery. Signed Dr. Ruben Swinehart. Date 07/06/2023.

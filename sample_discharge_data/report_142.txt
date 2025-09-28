@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dorothy Perry
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M142
+	•Date of Admission: 02/15/2023
+	•Date of Discharge: 03/20/2023
+	•Attending Physician: Dr. Ruben Swinehart
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Dorothy Perry was admitted to the hospital due to persistent hematuria and a lower abdominal mass, which had been observed during a routine physical examination. The initial assessment revealed anemia and increased creatinine levels in blood tests, indicating potential urinary tract obstruction. Further investigations included a CT scan, cystoscopy, and a biopsy, confirming the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Perry has a past medical history of hypertension, which is well-controlled with medication, and chronic obstructive pulmonary disease (COPD), requiring regular bronchodilator therapy. He has no known allergies and has undergone prior abdominal surgeries for appendectomy and cholecystectomy. His family history is significant for colon cancer in his father and breast cancer in his mother. Before admission, he was taking medications for hypertension, COPD, and gastroesophageal reflux disease (GERD).
+
+Diagnostic Findings:
+	The pathology report revealed a muscle-invasive bladder tumor with lymph node involvement. Imaging scans showed localized lesions in the right kidney and multiple liver metastases, suggesting advanced staging of the disease (T3N1M1). Additional blood tests indicated elevated tumor markers such as lactate dehydrogenase (LDH) and C-reactive protein (CRP), further supporting the diagnosis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Perry, including radical cystectomy with ileal conduit formation, followed by six cycles of chemotherapy (Gemcitabine and Cisplatin) and adjuvant radiation therapy to the pelvic region. The post-operative care involved close monitoring of wound healing, management of pain, and catheterization of the ileal conduit.
+
+Hospital Course:
+	Mr. Perry underwent a successful radical cystectomy and ileal conduit formation on February 25, 2023. The post-operative period was characterized by initial recovery and gradual improvement in symptoms. However, complications such as anastomotic leakage and urinary tract infection were managed effectively with proper care and antibiotics. Throughout his hospital stay, Mr. Perry received nutritional support to promote healing and manage his underlying COPD.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Perry was scheduled for regular follow-up appointments every three months for the first year, then six months thereafter, for cancer surveillance and monitoring of any potential recurrence. He will continue taking medications for hypertension and COPD and receive adjuvant chemotherapy as planned. Lifestyle modifications include a low-fat diet with plenty of fruits and vegetables, smoking cessation, and regular exercise.
+
+Patient Education:
+	Mr. Perry was educated on post-surgical care for his ileal conduit, including the importance of hydration to prevent urinary tract infections, recognizing signs of complications such as fever or abdominal pain, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Perry received detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also educated on recognizing signs of dehydration, infection, or complications and the importance of following up with his healthcare team regularly.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Perry is guarded given the advanced staging of his bladder cancer. However, regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in promoting a positive long-term outlook.
+
+Final Remarks:
+	This report documents the treatment journey of Dorothy Perry, who displayed remarkable resilience throughout the management of his bladder cancer. We appreciate his cooperation and are optimistic for continued progress in his recovery process. Signed [Dr. Ruben Swinehart, M.D.] Date [March 20, 2023].

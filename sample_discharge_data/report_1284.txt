@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Leonard Cashman
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1284
+	•Date of Admission: 08/12/2022
+	•Date of Discharge: 12/15/2022
+	•Attending Physician: Dr. William Fleury
+	•Primary Diagnosis: Pancreatic Cancer (AdenoCarcinoma)
+
+Reason for Admission:
+	Leonard Cashman, a 47-year-old male, was admitted to our institution after experiencing persistent abdominal pain, loss of appetite, and significant weight loss over the past two months. On admission, he reported feeling lethargic and had frequent nausea and vomiting. Initial assessments included vital signs monitoring, blood tests, and a CT scan, which revealed a large mass in his pancreas.
+
+Medical History:
+	Mr. Cashman has a history of hypertension and COPD, which were well-controlled with medications prior to admission. He underwent a left nephrectomy due to kidney cancer five years ago. He does not have any known allergies and was taking Amlodipine, Seretide, and Metformin before his hospitalization.
+
+Diagnostic Findings:
+	Further investigations confirmed the presence of a pancreatic mass with local invasion and regional lymph node metastasis. Pathology reports revealed an adenocarcinoma with poor differentiation. Blood tests showed elevated CA19-9 levels, consistent with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cashman, which included a Whipple procedure followed by chemotherapy and radiation therapy. Post-operative care focused on pain management, wound healing, and nutritional support. The proposed chemotherapy regimen was FOLFIRINOX with a total of six cycles.
+
+Hospital Course:
+	Mr. Cashman underwent the Whipple procedure successfully. Recovery from surgery was initially challenging due to post-operative complications such as anastomotic leakage and pancreatic fistula, which were managed conservatively. He also received nutritional support through a nasogastric tube during his recovery phase.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Cashman will be scheduled for regular outpatient appointments with oncology and surgical specialists every three months. His medications will be adjusted to manage his chronic conditions and to cope with the side effects of chemotherapy. He has been advised to maintain a balanced diet, avoid smoking, and engage in light physical activity as tolerated.
+
+Patient Education:
+	Mr. Cashman and his family were educated about the nature of pancreatic cancer, the importance of regular follow-ups, and the role of chemotherapy and radiation therapy in managing the disease. They were also instructed on post-surgical care, including management of the ileal conduit, recognizing signs of complications, and coping with common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cashman was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to contact his primary care provider or the emergency department in case of any unusual symptoms.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Cashman's condition is guarded due to the advanced stage at diagnosis and the presence of metastases. However, regular monitoring for early detection of recurrence and managing ongoing health issues is crucial for his long-term survival.
+
+Final Remarks:
+	Throughout Mr. Cashman's treatment journey, he demonstrated remarkable resilience and cooperation. I am confident that with continued support and adherence to the prescribed care plan, he will make a positive recovery. I wish him all the best in his future health endeavors.

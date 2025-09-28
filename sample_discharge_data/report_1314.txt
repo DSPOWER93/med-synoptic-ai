@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rene Odonnell
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1314
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 07/01/2023
+	•Attending Physician: Dr. Thomas Lilley
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Rene Odonnell, a 37-year-old male, presented to the emergency department with severe abdominal pain, constipation, and unexplained weight loss. The initial assessment revealed an abdominal mass, and subsequent diagnostic investigations, including a colonoscopy, CT scan, and biopsy, confirmed the presence of colorectal cancer. The disease was found to have spread beyond the primary site (Rene Odonnell).
+
+Medical History:
+	Mr. Odonnell has a past medical history significant for hypertension and asthma. He underwent a laparoscopic cholecystectomy in 2018 due to gallstones. His father died of colon cancer at the age of 55, and his mother is a diabetes patient. Mr. Odonnell is allergic to penicillin. Prior to admission, he was taking aspirin daily for his hypertension and albuterol for asthma.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of adenocarcinoma in the colon. The CT scan revealed a 6cm mass in the descending colon with metastasis to multiple lymph nodes and liver. Complete blood count (CBC) showed anemia, while liver function tests (LFTs) were slightly elevated.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Odonnell. He underwent a laparoscopic colectomy with ileostomy followed by 8 cycles of FOLFOX chemotherapy and concurrent radiation therapy to the liver metastasis. The post-operative care included managing pain, preventing complications such as infection, and promoting bowel function.
+
+Hospital Course:
+	Mr. Odonnell's initial recovery from surgery was successful, with gradual improvement in his abdominal pain and constipation. Challenges arose when he developed chemotherapy-induced neutropenia, which required close monitoring and aggressive management. Nutritional support, including enteral nutrition through the ileostomy, was essential during this period. Throughout his hospital stay, Mr. Odonnell demonstrated resilience and cooperation.
+
+Follow-Up Plan:
+	The post-discharge follow-up plan includes scheduled oncology appointments every three months for the first year, then every six months thereafter. Medications such as 5-ASA for colitis prophylaxis will be continued, while other medications may need to be adjusted based on his response and side effects. A low-fiber diet is recommended initially, with gradual reintroduction of fiber-rich foods once bowel function stabilizes. Any signs of fever, chills, or increasing abdominal pain should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Odonnell and his family were provided education on post-surgical care for the ileostomy, including emptying, cleaning, and skin care. They were instructed on recognizing signs of complications such as obstruction, bleeding, or infection. Common side effects of chemotherapy, like nausea, fatigue, and diarrhea, were also discussed, along with management strategies for these symptoms.
+
+Discharge Instructions:
+	Upon discharge, Mr. Odonnell was given instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a healthy diet low in fiber initially, gradually increasing fiber intake as tolerated. Hydration was essential for bowel function and overall health.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. Mr. Odonnell will need to manage ongoing health issues such as hypertension and asthma while also maintaining a healthy lifestyle, including regular exercise and a balanced diet.
+
+Final Remarks:
+	I am pleased to see Mr. Odonnell successfully complete his initial treatment course for colorectal cancer. His resilience and cooperation throughout this journey have been commendable. I wish him continued health and recovery in the months ahead.

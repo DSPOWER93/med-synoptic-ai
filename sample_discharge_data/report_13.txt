@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Willie Love
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M13
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Christi Weatherall
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Willie Love, a 47-year-old male, was admitted to the hospital due to persistent abdominal pain and changes in bowel habits over the past two months. The initial assessment revealed severe abdominal distention, tenderness, and palpable mass. Subsequent diagnostic investigations, including computed tomography (CT) scans and colonoscopy, confirmed a large tumor in the sigmoid colon. The severity of the symptoms indicated advanced-stage colorectal cancer.
+
+Medical History:
+	Mr. Love had a history of hypertension managed with medication, diabetes mellitus type 2 controlled through diet and oral medications, and chronic obstructive pulmonary disease (COPD) requiring regular inhalers. He had undergone appendectomy for appendicitis at the age of 30 and had a family history of colon cancer. He was allergic to penicillin and sulfa drugs. His pre-admission medications included lisinopril, metformin, insulin, albuterol, and ipratropium bromide inhalers.
+
+Diagnostic Findings:
+	Pathology report of the excised tumor confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a large mass in the sigmoid colon with regional lymph node involvement, as well as liver metastasis. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Love. This included a laparoscopic sigmoid colectomy with primary ileo-rectal anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, wound care, and monitoring for complications such as anastomotic leakage or infection. The chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) every two weeks for six cycles. Radiation therapy was considered after the completion of chemotherapy to address the liver metastasis.
+
+Hospital Course:
+	Mr. Love underwent a successful laparoscopic sigmoid colectomy on March 20, 2022. He experienced initial recovery difficulties due to post-operative ileus but responded well to bowel rest and intravenous fluids. His pain was managed effectively with opioid analgesics. Therapy and nutritional support were instrumental in his rapid recuperation.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments every three months for the first year, then six-monthly thereafter. Mr. Love is to continue taking lisinopril, metformin, and insulin. Albuterol and ipratropium bromide inhalers are to be used as needed. A low-fiber, high-protein diet is recommended to facilitate proper bowel function with the ileal conduit. Any signs of abdominal pain, increased bowel movements, or blood in stool should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Love and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Love was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Love's ongoing health issues.
+
+Final Remarks:
+	Dr. Weatherall concludes the report, expressing her appreciation for Mr. Love's resilience and cooperation throughout his treatment journey. The report is signed by both Dr. Weatherall and Mr. Love on April 12, 2022, validating the record.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gerald Ballou
+	•Date of Birth: 12/01/1975
+	•Medical Record Number: M1182
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 01/15/2022
+	•Attending Physician: Dr. Rebecca Mangual
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	The patient, Mr. Gerald Ballou, presented to the emergency department with a one-month history of hematuria, dysuria, and frequent urination. Initial examination revealed a distended bladder on abdominal palpation. Subsequent investigations, including a computed tomography urogram (CTU), confirmed the presence of a large bladder mass with obstructive hydroureteronephrosis in both kidneys.
+
+Medical History:
+	Mr. Ballou has a history of hypertension, for which he was prescribed amlodipine 10mg daily. He also has a 20-year history of diabetes mellitus type II, currently managed with insulin glargine and metformin. His family history is significant for colorectal cancer in his father and prostate cancer in his grandfather. Mr. Ballou reported no known allergies to medications and had no prior surgical interventions.
+
+Diagnostic Findings:
+	Upon admission, laboratory tests revealed an elevated white blood cell count (WBC 12.5 × 10^9/L), increased creatinine level (1.8mg/dL), and a positive urinalysis for blood. The CTU confirmed the presence of a large bladder mass, extending into both ureters with hydrocephalus in both kidneys. A transurethral resection of the bladder tumor (TURBT) was performed, which revealed high-grade urothelial carcinoma.
+
+Treatment Plan:
+	After a multidisciplinary team discussion, a radical cystectomy with ileal conduit formation was planned for Mr. Ballou. Post-operative care included close monitoring of wound healing, electrolyte balance, and renal function. A chemotherapy regimen consisting of Gemcitabine and Cisplatin was initiated on day 14 post-surgery. Radiation therapy was considered but deferred due to the patient's overall health status and comorbidities.
+
+Hospital Course:
+	Mr. Ballou underwent a successful radical cystectomy on day 2 of his hospital stay. The initial recovery was uneventful, with minimal post-operative complications. However, he developed a wound infection on the sixth post-operative day, requiring intravenous antibiotics and local wound care. Therapy sessions were initiated to aid in rehabilitation and improve overall strength. His diabetes management remained challenging due to the fluctuation of his glucose levels.
+
+Follow-Up Plan:
+	Mr. Ballou is scheduled for a follow-up appointment with Dr. Mangual on day 30 post-discharge, where he will undergo a cystogram and a CT scan of the abdomen and pelvis. He will continue his current medications and be closely monitored for changes in kidney function. Dietary recommendations include a high-protein, low-salt diet to aid in healing and maintain renal health.
+
+Patient Education:
+	Mr. Ballou and his family were educated on the importance of regular follow-up appointments, recognizing signs of complications such as fever, increased pain, or changes in urinary habits, and managing common side effects of chemotherapy like nausea and fatigue. They were also instructed on proper ileal conduit care, including emptying the bag regularly, maintaining good hygiene, and monitoring for any abnormalities.
+
+Discharge Instructions:
+	Upon discharge, Mr. Ballou was provided with detailed instructions on medication adherence, wound care practices, fluid intake guidelines, and physical activity restrictions. He was advised to maintain a balanced diet, monitor his blood glucose levels, and report any concerns promptly to Dr. Mangual's office.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Ballou is guarded, given the advanced stage of his bladder cancer at diagnosis. Regular monitoring for early detection of recurrence will be crucial in managing his ongoing health issues.
+
+Final Remarks:
+	Throughout this treatment journey, Mr. Gerald Ballou demonstrated resilience and cooperation. His dedication to following the treatment plan is commendable, and I am confident that he will continue to fight this battle with the same determination. This report is signed by Dr. Rebecca Mangual on 01/15/2022.

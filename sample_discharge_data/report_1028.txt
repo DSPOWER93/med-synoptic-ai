@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nicolas Velasquez
+	•Date of Birth: 1960-01-01
+	•Medical Record Number: M1028
+	•Date of Admission: 2022-03-15
+	•Date of Discharge: 2022-04-05
+	•Attending Physician: Dr. Theresa Mccoy
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Nicolas Velasquez, a 62-year-old male, was admitted to our facility on March 15, 2022, due to persistent hematuria (blood in the urine) and lower abdominal pain. Initial assessments included a thorough physical examination and laboratory tests, which revealed an elevated white blood cell count, creatinine levels, and positive cytology results. Further investigations, including computed tomography (CT), magnetic resonance imaging (MRI), and cystoscopy, confirmed the presence of a tumor in John's bladder.
+
+Medical History:
+	John has a past medical history significant for hypertension, which is well-controlled with medication. He also has chronic obstructive pulmonary disease (COPD) and diabetes mellitus type 2, both of which are managed through regular medications and lifestyle modifications. John underwent a left total hip replacement surgery in 2015. He has no known allergies but is sensitive to certain antibiotics.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) procedure revealed moderately differentiated transitional cell carcinoma, with a T2 stage based on the size and depth of invasion. Imaging studies showed no evidence of lymph node involvement or distant metastasis (M0).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. He underwent a radical cystectomy with ileal conduit formation on March 22, 2022. Post-operative care included management of pain, monitoring of vital signs, and prevention of complications such as urinary tract infections. John was also initiated on adjuvant chemotherapy (GCB regimen - Gemcitabine and Cisplatin) for four cycles to reduce the risk of recurrence. Radiation therapy was deferred due to the extensive surgical intervention.
+
+Hospital Course:
+	John's initial recovery from surgery was uneventful, with adequate pain management and prompt resolution of wound-related issues. He experienced some post-operative complications, including urinary retention and anemia, both of which were managed effectively. Physical therapy played a crucial role in helping him regain his mobility and strength during his hospital stay.
+
+Follow-Up Plan:
+	John is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue his chemotherapy until completion of all cycles. Lifestyle modifications, including quitting smoking and maintaining a balanced diet, are strongly recommended to improve overall health.
+
+Patient Education:
+	John and his family were educated about post-surgical care, management of the ileal conduit, and signs of complications such as infection or obstruction. They were also instructed on managing common side effects of chemotherapy, including nausea, fatigue, and potential kidney damage from Cisplatin.
+
+Discharge Instructions:
+	Upon discharge, John was provided with clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure a smooth transition back home.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential, as well as management of ongoing health issues such as hypertension and diabetes mellitus.
+
+Final Remarks:
+	Throughout his treatment journey, John demonstrated remarkable resilience and cooperation. We commend him on his progress thus far and wish him a successful recovery. Signed, Dr. Theresa Mccoy, MD - Attending Physician. Date 2022-04-05.

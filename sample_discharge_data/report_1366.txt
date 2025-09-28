@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dennis Stern
+	•Date of Birth: 02/12/1970
+	•Medical Record Number: M1366
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. John Brackenridge
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Dennis Stern was admitted to the hospital following the discovery of a large mass in his colon during a routine colonoscopy. The mass was biopsied, and pathology results confirmed the diagnosis of colorectal cancer. A series of imaging tests, including a CT scan and MRI, were conducted to determine the extent of the disease and potential metastases.
+
+Medical History:
+	Dennis Stern has a history of hypertension and COPD. He underwent a laparoscopic cholecystectomy in 2015. His family history includes colon cancer, and he is allergic to penicillin and sulfa drugs. Before admission, he was taking medication for hypertension and COPD.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of adenocarcinoma in the colon. The imaging tests revealed a large mass in the transverse colon with regional lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating a more aggressive form of cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Dennis Stern, which included a radical colectomy with permanent ileostomy, followed by six cycles of FOLFOX chemotherapy and radiation therapy to the pelvic area. The patient was closely monitored for side effects such as nausea, diarrhea, and myelosuppression.
+
+Hospital Course:
+	Dennis Stern underwent a successful surgical intervention on March 25, 2022. Post-operative recovery was challenging due to complications related to his COPD. Intensive care and supportive measures were provided, including oxygen therapy, antibiotics, and pain management. As his condition stabilized, he was transitioned to a regular ward and began chemotherapy on April 5, 2022.
+
+Follow-Up Plan:
+	Dennis Stern will be scheduled for follow-up appointments every three months for the first year after discharge. He will continue taking his hypertension medication and inhalers for COPD. A low-fiber diet is recommended, and he should maintain a healthy weight to manage the risk of recurrence. If any concerning symptoms arise, immediate medical attention is advised.
+
+Patient Education:
+	Dennis Stern and his family were educated about post-surgical care for the ileal conduit, managing potential complications, and recognizing signs of dehydration or infection. They were also instructed on how to manage common side effects such as diarrhea, fatigue, and nausea.
+
+Discharge Instructions:
+	Dennis Stern was provided with detailed discharge instructions, including medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a healthy lifestyle, which includes regular exercise and balanced meals.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in Dennis Stern's case. He should also manage ongoing health issues such as hypertension and COPD to improve his overall quality of life.
+
+Final Remarks:
+	The attending physician, Dr. John Brackenridge, expressed her appreciation for Dennis Stern's resilience and cooperation throughout the treatment journey. She emphasized the importance of regular follow-ups and self-care in maintaining his health moving forward. Both the physician and patient have signed this report on April 15, 2022.

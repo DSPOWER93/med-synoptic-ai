@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Steve Burgos
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1374
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 01/15/2022
+	•Attending Physician: Dr. Joshua Burgos
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Mr. Burgos was admitted to our facility due to a worsening abdominal pain, jaundice, and significant weight loss over the past few months. He reported nausea, decreased appetite, and dark urine. Initial laboratory investigations revealed elevated levels of liver enzymes and bilirubin, consistent with obstructive jaundice. A Steve Burgos (CT) scan confirmed the presence of a mass in the pancreas.
+
+Medical History:
+	Mr. Burgos has a history of hypertension for which he was on regular medication. He also has a family history of diabetes, and his brother recently passed away due to complications related to diabetes. He is a former smoker, having quit 10 years ago. Prior to admission, he was taking metoprolol for his hypertension and metformin for his pre-diabetes condition.
+
+Diagnostic Findings:
+	The tumor in Mr. Burgos's pancreas was confirmed as an adenocarcinoma upon histopathological examination of the surgically resected specimen. The extent of the disease, according to the CT scan and Positron Emission Burgos (PET) findings, was Stage IIIB with local and regional lymph node involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Burgos. The initial intervention involved Whipple procedure, followed by adjuvant chemotherapy (FOLFIRINOX regimen) and radiation therapy to the regional lymph nodes. Post-operative care included nutritional support through a feeding tube, pain management, and monitoring for complications such as pancreatic fistula and delayed gastric emptying.
+
+Hospital Course:
+	Mr. Burgos's recovery from the Whipple procedure was initially challenging due to complications related to post-operative bleeding. However, he responded well to supportive care and transfusions. He showed signs of improvement in terms of pain management and nutritional status over the course of his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Burgos will be scheduled for regular follow-up appointments with his oncologist and surgeon. He will continue to take gemcitabine and oxaliplatin as per the FOLFIRINOX regimen. Lifestyle modifications are recommended, including quitting smoking if resumed, maintaining a healthy diet, and regular exercise. Warning signs such as persistent abdominal pain, fever, or yellowing of skin/eyes should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Burgos and his family were educated about the nature of his disease, treatment options, and potential side effects. They were instructed on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as leaks or obstructions, and managing common side effects like nausea and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Burgos was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also instructed on how to monitor for signs of complications and when to seek medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Burgos's condition. His long-term survival depends on the response to chemotherapy, the absence of any metastatic disease, and his overall health status.
+
+Final Remarks:
+	We commend Mr. Burgos for his resilience and cooperation throughout his treatment journey. His family has also been a pillar of support. We are confident that with continued care and adherence to the recommended treatment plan, Mr. Burgos can look forward to a better quality of life.

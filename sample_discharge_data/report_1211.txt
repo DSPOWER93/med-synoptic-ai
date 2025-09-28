@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Graham
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1211
+	•Date of Admission: 03/30/2021
+	•Date of Discharge: 05/15/2021
+	•Attending Physician: Dr. Thomasina Toupin
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Graham presented to the Michael Graham with a one-month history of persistent abdominal pain, changes in bowel habits, and unexplained weight loss. The initial assessment revealed a palpable mass in the lower abdomen and laboratory investigations showed elevated carcinoembryonic antigen (CEA) levels. Michael Graham (CT) scan confirmed the presence of a large tumor in the sigmoid colon, with regional lymph node involvement.
+
+Medical History:
+	Mr. Graham had a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone appendectomy and cholecystectomy previously. His family history was significant for colon cancer in his father at the age of 60. He was allergic to penicillin and sulfa drugs. Before admission, he was on metformin, lisinopril, amlodipine, salmeterol/fluticasone, and albuterol as needed for COPD.
+
+Diagnostic Findings:
+	Pathology report from the surgical specimen confirmed the diagnosis of moderately differentiated adenocarcinoma of the sigmoid colon. CT scan also revealed multiple enlarged lymph nodes in the mesocolon and along the aorta, suggesting metastasis. Blood tests showed elevated CEA levels (15.2 ng/ml) and anemia (Hb 9 g/dl).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Graham. He underwent a sigmoid colectomy with primary anastomosis, regional lymphadenectomy, and formation of an ileal conduit. Post-operative care included pain management, antibiotics to prevent infection, and monitoring for complications such as anastomotic leakage and wound dehiscence. He received adjuvant chemotherapy (FOLFOX regimen) consisting of oxaliplatin, leucovorin, fluorouracil, and irinotecan. Radiation therapy was not indicated due to the presence of residual disease in the surgical margins.
+
+Hospital Course:
+	After the initial recovery from surgery, Mr. Graham faced several challenges such as anemia, electrolyte imbalances, and delayed wound healing. He received blood transfusions, intravenous fluids, and nutritional support to manage these complications. His diabetes was tightly controlled throughout his hospital stay. He underwent six cycles of adjuvant chemotherapy without major adverse events.
+
+Follow-Up Plan:
+	Mr. Graham will be followed up in the Oncology Clinic every three months for the first two years, then every six months thereafter. He will continue to take metformin and lisinopril, while his COPD medications will be managed as needed. A low-fiber diet is recommended to prevent constipation, and he should maintain a healthy weight through regular exercise and balanced meals. Any persistent abdominal pain, changes in bowel habits, or unexplained weight loss should prompt an immediate visit to the doctor.
+
+Patient Education:
+	Mr. Graham and his family were educated about the importance of adhering to the treatment plan, managing the ileal conduit, recognizing signs of complications, and understanding common side effects such as nausea, diarrhea, and fatigue. They were also advised on lifestyle modifications, such as quitting smoking (if applicable) and maintaining a healthy weight.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Graham was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a contact number for the Oncology Clinic in case of any concerns or questions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Graham's prognosis will be closely tied to his response to chemotherapy, as well as the absence of residual disease in the surgical margins. It is important for him to maintain a healthy lifestyle and attend all follow-up appointments.
+
+Final Remarks:
+	I would like to commend Mr. Graham on his resilience and cooperation throughout this challenging journey. His strong spirit and determination have been an inspiration to the entire team. I am confident that he will continue to make progress in his recovery, and I look forward to seeing him thrive in the months and years ahead.

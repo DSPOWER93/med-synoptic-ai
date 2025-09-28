@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Charles Cummings
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1030
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 20/01/2023
+	•Attending Physician: Dr. Veronica Livingston
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Charles Cummings presented with symptoms of abdominal pain, weight loss, and changes in bowel habits. Upon initial assessment, a mass was palpable in the lower abdomen. Further diagnostic investigations including computed tomography (CT), magnetic resonance imaging (MRI), and colonoscopy confirmed a tumor in the sigmoid colon with lymph node involvement, suggesting Charles Cummings colorectal cancer.
+
+Medical History:
+	Charles Cummings has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), which were well-controlled before his admission. He underwent appendectomy in 2015 and has no known allergies. His medications included metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of moderately differentiated adenocarcinoma in the sigmoid colon with involved lymph nodes. CT scan and MRI revealed a large, irregular mass in the lower abdomen, with multiple enlarged lymph nodes. Blood tests showed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Charles Cummings. He underwent a sigmoid colectomy, with formation of an ileal conduit followed by post-operative care. Additionally, he received adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, and fluorouracil) for six cycles and radiation therapy to the pelvis for five sessions. Management of side effects such as nausea, diarrhea, and neutropenia was also part of the plan.
+
+Hospital Course:
+	Charles Cummings's initial recovery from surgery was uneventful; however, he experienced delayed wound healing due to his underlying conditions. Aggressive wound care and nutritional support were provided. He tolerated chemotherapy well, with management of side effects as needed. His disease was managed effectively throughout the hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Charles Cummings will have follow-up appointments every three months for the first year and then every six months thereafter. He will continue his medications as prescribed and maintain a healthy diet low in fiber. He has been advised to avoid heavy lifting or strenuous activities for at least six weeks post-discharge. Any signs of fever, increased abdominal pain, or changes in bowel habits should prompt immediate medical attention.
+
+Patient Education:
+	Charles Cummings and his family were educated about the importance of adhering to the prescribed medications and lifestyle modifications. Instructions on post-surgical care for the ileal conduit, signs of complications such as infection or obstruction, and management of common side effects like diarrhea and nausea were provided.
+
+Discharge Instructions:
+	Charles Cummings was discharged with a detailed plan to ensure his continued recovery and health maintenance. This included medication adherence instructions, wound care practices, hydration guidelines, and physical activity restrictions. He was also provided written information about the signs of complications and when to seek medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Charles Cummings's long-term care plan. He will need to manage ongoing health issues such as hypertension, diabetes, and COPD effectively.
+
+Final Remarks:
+	Dr. Veronica Livingston commends Charles Cummings on his resilience and cooperation throughout the treatment journey. She encourages him to continue taking care of himself, attend all scheduled follow-ups, and not hesitate to seek medical attention if any concerns arise. Both the physician's and patient's signatures are affixed, along with the date, validating the report.

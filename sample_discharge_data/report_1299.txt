@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eric Shutt
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1299
+	•Date of Admission: 04/15/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Tracy Quackenbush
+	•Primary Diagnosis: Bladder Cancer, Muscle Invasive (T2N0M0)
+
+Reason for Admission:
+	Mr. Shutt presented to our facility with a two-month history of hematuria and dysuria. Initial assessment revealed no signs of systemic illness; however, a urinalysis demonstrated the presence of blood in the urine, which warranted further investigation. A cystoscopy and biopsy were performed, confirming the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Shutt is a 52-year-old male with a past medical history of hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and obesity. He has undergone laparoscopic appendectomy in 1998 and cholecystectomy in 2005. Mr. Shutt is allergic to penicillin and sulfa drugs. His pre-admission medications include metformin, lisinopril, hydrochlorothiazide, albuterol, ipratropium bromide, tiotropium, and salmeterol/fluticasone inhalation.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) showed invasive urothelial carcinoma. A computed tomography (CT) scan of the abdomen and pelvis demonstrated a 4 cm mass in the bladder with no evidence of regional or distant metastasis, indicating Stage T2N0M0 disease.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Shutt, which included radical cystectomy, ileal conduit creation, and adjuvant chemotherapy with gemcitabine and cisplatin. The surgical procedure was performed without complications, followed by post-operative care for wound healing and pain management.
+
+Hospital Course:
+	Mr. Shutt's initial recovery from surgery was uneventful, with the exception of some post-operative nausea and vomiting managed effectively with antiemetics. He received three cycles of adjuvant chemotherapy during his hospital stay, which were well-tolerated with minimal side effects. The patient also received extensive therapy, nutritional support, and disease management to help prepare for discharge.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Shutt will follow up with Dr. Quackenbush every three months for the first two years, then semi-annually thereafter for long-term monitoring. He is to continue taking metformin, lisinopril, and hydrochlorothiazide, while adjusting his inhalers as needed. Lifestyle modifications such as smoking cessation, weight loss, and regular exercise are recommended for optimal health maintenance.
+
+Patient Education:
+	Mr. Shutt was educated on the importance of post-surgical care for his ileal conduit, recognizing signs of complications like infection or obstruction, and managing common side effects such as diarrhea and dehydration. He was also informed about the risks associated with recurrence and the need for regular follow-ups.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Shutt was provided comprehensive instructions on medication adherence, wound care practices, hydration management, and guidelines for physical activity. He was also reminded to schedule his outpatient appointments as scheduled by Dr. Quackenbush.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues in bladder cancer survivors. By maintaining a healthy lifestyle and adhering to the prescribed treatment plan, Mr. Shutt can improve his prognosis and reduce the risk of disease recurrence.
+
+Final Remarks:
+	It has been a pleasure working with Mr. Shutt throughout his treatment journey. His resilience and cooperation have been instrumental in achieving a successful outcome. I am confident that he will continue to make positive strides toward recovery and overall health maintenance.

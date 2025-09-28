@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brenda Gable
+	•Date of Birth: 02/06/1985
+	•Medical Record Number: M1391
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Katherine Wheeler
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Gable was admitted to the hospital following a routine colonoscopy, which revealed an invasive adenocarcinoma in the sigmoid colon. His presenting symptoms included rectal bleeding, abdominal pain, and unexplained weight loss. Initial assessments confirmed that the tumor had perforated, leading to peritonitis. Emergency surgery was performed promptly to remove the affected segment of the colon, followed by a temporary ileostomy (ileal conduit).
+
+Medical History:
+	Mr. Gable's past medical history includes hypertension and type II diabetes, both well-controlled with oral medications. He is also a long-term smoker, which contributed to his COPD diagnosis several years ago. Mr. Gable has no known allergies but reported an intolerance to certain antibiotics due to previous adverse reactions.
+
+Diagnostic Findings:
+	Pathology results from the surgical specimen confirmed a moderately differentiated adenocarcinoma with lymphovascular invasion and involvement of two of six lymph nodes. Imaging scans indicated that the cancer had not metastasized beyond the local area. Blood tests showed mild anemia, elevated C-reactive protein (CRP), and slightly abnormal liver function tests.
+
+Treatment Plan:
+	The treatment plan involved a combination of surgery, chemotherapy, and radiation therapy. Mr. Gable underwent an extended sigmoid colectomy with permanent ileostomy. Postoperative care focused on managing pain, preventing infections, and monitoring for complications. He was started on adjuvant chemotherapy (FOLFOX) consisting of oxaliplatin, leucovorin, and fluorouracil, administered every two weeks for a total of 12 cycles. The decision to incorporate radiation therapy was deferred due to the need for additional evaluations.
+
+Hospital Course:
+	Mr. Gable's initial recovery from surgery was challenging, requiring close monitoring and management of complications such as anastomotic leak and electrolyte imbalances. With intensive care and support from therapy and nutrition teams, he regained stability, gradually improving his mobility and appetite. The cancer was managed with chemotherapy during this hospital stay.
+
+Follow-Up Plan:
+	Following discharge, Mr. Gable is scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. His medications will include his pre-existing hypertension and diabetes drugs, as well as antidiarrheal agents for managing his ileostomy. He was advised to maintain a high-fiber, low-fat diet and avoid irritants such as spicy foods. Warning signs of complications, including fever, abdominal pain, and changes in stool consistency or color, were discussed with Mr. Gable and his family.
+
+Patient Education:
+	Extensive education was provided to Mr. Gable regarding post-surgical care, ileal conduit management, and recognizing signs of complications. He was taught how to care for his ostomy, including emptying the pouch, cleaning the skin around the stoma, and monitoring for changes in output or appearance. Common side effects such as diarrhea, fatigue, and neuropathy were discussed, along with strategies for managing them effectively.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Gable was provided detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet and ensure adequate fluid intake to prevent dehydration. Regular exercise was recommended to improve overall health and facilitate healing.
+
+Prognosis and Long-Term Outlook:
+	Despite the challenging diagnosis, Mr. Gable's prognosis is good due to his early detection and aggressive treatment plan. Regular monitoring for recurrence will be crucial in managing his long-term health.
+
+Final Remarks:
+	Dr. Wheeler commended Mr. Gable on his courage and resilience throughout the treatment journey. She emphasized that while there are challenges ahead, with continued support and dedication to his health, he can look forward to a positive outcome. Both the physician and patient signed the report, validating the comprehensive documentation of Mr. Gable's care and treatment plan.

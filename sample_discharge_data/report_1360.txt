@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Remedios Andrews
+	•Date of Birth: 03/02/1960
+	•Medical Record Number: M1360
+	•Date of Admission: 01/15/2023
+	•Date of Discharge: 02/28/2023
+	•Attending Physician: Dr. Walter Burrows
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Mr. Burrows presented with persistent hematuria, pain in the lower abdomen, and frequent urination over a period of two months. An initial examination revealed blood in the urine, and further investigations including cystoscopy and biopsy confirmed the diagnosis of TCC. The disease had progressed to stage IIIa.
+
+Medical History:
+	Mr. Burrows has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass grafting surgery in 2018. His family history is significant for breast cancer in his mother and colon cancer in his father. Mr. Burrows is allergic to penicillin and sulfa drugs. He was on medications including metformin, ramipril, insulin, and albuterol before admission.
+
+Diagnostic Findings:
+	The pathology report from the biopsy showed invasive TCC with muscularis propria invasion. A CT scan revealed a 5 cm mass in the bladder with regional lymph node involvement. Blood tests showed elevated creatinine levels, suggesting renal dysfunction due to the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan. Mr. Burrows underwent radical cystectomy with ileal conduit formation and pelvic lymph node dissection. Post-operative care included management of surgical site infection, fluid and electrolyte imbalance, and pain control. He was administered adjuvant chemotherapy consisting of Gemcitabine and Cisplatin for four cycles, along with radiation therapy to the pelvic region.
+
+Hospital Course:
+	Mr. Burrows had an uneventful post-operative recovery period. He faced some challenges related to managing his diabetes and COPD during the hospital stay. Therapy and nutritional support helped him regain strength. The disease was well controlled, but regular monitoring for recurrence was essential.
+
+Follow-Up Plan:
+	Mr. Burrows is scheduled for follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue with maintenance chemotherapy and radiation therapy as advised by his oncologist. Lifestyle modifications include maintaining a healthy diet, regular exercise, and avoidance of tobacco products. Warning signs such as hematuria, pain, or changes in urinary habits require immediate medical attention.
+
+Patient Education:
+	Mr. Burrows was educated about post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, neuropathy, and diarrhea.
+
+Discharge Instructions:
+	Mr. Burrows was provided with discharge instructions emphasizing medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to follow a diet low in sodium, fat, and processed foods.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with TCC depends on the stage at diagnosis and response to treatment. Regular monitoring for early detection of recurrence is crucial. Lifelong follow-up and managing ongoing health issues are essential for long-term survival.
+
+Final Remarks:
+	Mr. Burrows has demonstrated remarkable resilience and cooperation throughout his treatment journey. We are optimistic about his recovery, and we encourage him to maintain a positive attitude during this challenging time. This report is signed by Dr. Walter Burrows on March 7th, 2023, validating the information provided herein.

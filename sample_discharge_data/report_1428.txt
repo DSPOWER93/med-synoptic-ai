@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dana Elston
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1428
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Liberty Heisserer
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient presented to the emergency department with a two-week history of abdominal pain, change in bowel habits, and unexplained weight loss. Upon initial assessment, the patient appeared lethargic, had a palpable mass in the lower abdomen, and showed signs of dehydration. Subsequent diagnostic investigations, including a computed tomography (CT) scan and colonoscopy, confirmed the presence of a large, invasive colorectal tumor.
+
+Medical History:
+	The patient has a history of hypertension, controlled with medication. He also has a significant family history of colorectal cancer, with his father being diagnosed at the age of 60 and passing away at 65. The patient does not have any known allergies and was taking aspirin daily for cardiovascular prophylaxis before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed a moderately differentiated adenocarcinoma. The CT scan revealed a large tumor in the descending colon, with evidence of metastasis to several lymph nodes and the liver. Blood tests indicated anemia, elevated CA 19-9 levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for the patient. This included a partial colectomy followed by a formation of an ileal conduit, six cycles of FOLFOX chemotherapy, and radiation therapy to the liver metastasis sites. The post-operative care involved management of pain, prevention of deep vein thrombosis, and monitoring for signs of infection.
+
+Hospital Course:
+	Following surgery, the patient recovered well and was able to tolerate oral intake within a week. He faced challenges with nausea and fatigue, which were managed with medication adjustments. Radiation therapy was initiated as planned, followed by the first cycle of chemotherapy. The patient's condition stabilized, and he was actively engaged in physical therapy and rehabilitation.
+
+Follow-Up Plan:
+	The patient will return for outpatient appointments every three months for the first year, then every six months thereafter. He will continue the prescribed chemotherapy, with adjustments as necessary based on response and side effects. A low-fiber diet is recommended to minimize discomfort associated with the ileal conduit.
+
+Patient Education:
+	The patient and his family were educated about the importance of continued chemotherapy, management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, the patient was provided instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	The patient's prognosis is guarded due to the advanced stage of his cancer at diagnosis. Regular monitoring for early detection of recurrence and management of ongoing health issues are crucial.
+
+Final Remarks:
+	We commend Dana Elston for his resilience and cooperation throughout this challenging journey. It has been a pleasure to care for him, and we wish him continued strength and healing as he moves forward in recovery.

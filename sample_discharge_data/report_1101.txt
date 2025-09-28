@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lisa Puente
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1101
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 06/01/2022
+	•Attending Physician: Dr. Sallie Plunkett
+	•Primary Diagnosis: Colorectal Cancer (Stage III) with metastasis to the liver
+
+Reason for Admission:
+	The patient presented to the emergency department with a two-week history of weight loss, abdominal pain, and change in bowel habits. A digital rectal examination revealed a mass in the lower abdomen. Initial laboratory results showed elevated levels of carcinoembryonic antigen (CEA), and abdominal computed tomography (CT) scan confirmed a primary lesion in the colon with metastasis to the liver.
+
+Medical History:
+	The patient has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has no known family history of colorectal cancer but is a lifetime smoker. His regular medications include metformin for diabetes, losartan for hypertension, and salmeterol/fluticasone for COPD.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of adenocarcinoma in the colon. Abdominal CT scan demonstrated a 5cm mass in the descending colon with multiple liver metastases. Further diagnostic tests included a positron emission tomography (PET) scan and a liver function test, which indicated a worsening liver function due to the metastatic lesions.
+
+Treatment Plan:
+	The patient underwent a right hemicolectomy with lymph node dissection followed by adjuvant chemotherapy. Post-operative care included pain management, monitoring for complications such as anastomotic leak, and nutritional support. The chemotherapy regimen consisted of FOLFOX (folinic acid, 5-fluorouracil, and oxaliplatin) with bevacizumab, administered every two weeks for a total of 12 cycles. Radiation therapy was not deemed necessary due to the size and number of liver metastases.
+
+Hospital Course:
+	The patient's initial recovery from surgery was complicated by anastomotic leak, requiring a second operation for closure. He received supportive care including antibiotics, fluid and electrolyte replacement, and nutritional support to aid in healing. His condition gradually improved over the next few days, and he was eventually able to tolerate oral intake and begin physical therapy.
+
+Follow-Up Plan:
+	The patient will have a follow-up appointment with the oncologist in one week, where CEA levels will be checked and imaging studies may be ordered to assess the response to treatment. He will continue to take metformin, losartan, and salmeterol/fluticasone but will need to adjust his diabetes management due to the addition of chemotherapy. Lifestyle modifications to include a balanced diet, regular exercise, and cessation of smoking are strongly recommended.
+
+Patient Education:
+	The patient was provided with extensive education regarding post-surgical care, management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects of chemotherapy like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	The patient was discharged with instructions to continue his medications, maintain good wound care practices, ensure adequate hydration, and gradually increase physical activity as tolerated. He was also advised to monitor his blood glucose levels closely and adjust his insulin dosage accordingly.
+
+Prognosis and Long-Term Outlook:
+	The patient's prognosis will depend on the response to chemotherapy and any potential recurrence of the disease. Regular monitoring for early detection of recurrence is essential, as it increases the chances of successful treatment.
+
+Final Remarks:
+	Lisa Puente demonstrated remarkable resilience throughout his treatment journey, cooperating fully with all medical recommendations and maintaining a positive attitude. We are optimistic about his recovery and will continue to provide him with the best possible care.

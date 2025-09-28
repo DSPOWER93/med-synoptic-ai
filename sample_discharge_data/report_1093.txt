@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brandie Harmon
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1093
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Mary Mckay
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Brandie Harmon, a 48-year-old male with no significant past medical history, presented to the emergency department with intermittent lower abdominal pain and a change in bowel habits. Upon initial assessment, a palpable mass was found in the lower abdomen, prompting further diagnostic investigations. Brandie Harmon (CT) scan and colonoscopy confirmed a large tumor in the sigmoid colon, with metastases to the liver.
+
+Medical History:
+	Prior to admission, Mr. Harmon had no known chronic conditions or significant family history of diseases. He had undergone appendectomy at age 10 due to appendicitis. Allergies include penicillin and contrast dye. Pre-admission medications included only multivitamins.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a 7 cm mass in the sigmoid colon with liver metastases. Liver function tests showed abnormal liver enzymes, indicating potential liver damage. Blood tests showed anemia and elevated CEA levels, indicative of malignancy.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Harmon, which included a laparoscopic sigmoid colectomy, creation of ileal conduit, and systemic chemotherapy. Post-operative care involved monitoring for complications such as anastomotic leakage and wound infection. Chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, and fluorouracil) every two weeks for six cycles. Radiation therapy was not deemed necessary due to the extent of metastases.
+
+Hospital Course:
+	Mr. Harmon underwent successful surgery on March 20th. Post-operative recovery was initially challenging due to anemia and wound infection, requiring antibiotics and blood transfusions. He received his first cycle of chemotherapy on April 5th. Throughout his hospital stay, he showed remarkable resilience, adhering to the treatment plan and therapy sessions.
+
+Follow-Up Plan:
+	Mr. Harmon will have scheduled outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue taking chemotherapy until completion of six cycles, followed by adjuvant capecitabine therapy. Lifestyle recommendations include a balanced diet rich in fiber, regular exercise, and abstinence from alcohol and tobacco.
+
+Patient Education:
+	Mr. Harmon and his family were educated on the importance of post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were instructed on managing the ileal conduit, recognizing signs of complications such as blockage or infection, and common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Harmon was provided comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of contact numbers for emergencies.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Harmon's long-term health.
+
+Final Remarks:
+	This report concludes with the attending physician, Dr. Mary Mckay, commending Mr. Harmon's resilience and cooperation throughout his treatment journey, and expressing optimism for his recovery. The date of this report is April 20th, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Halliday
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1273
+	•Date of Admission: 08/02/2021
+	•Date of Discharge: 04/03/2021
+	•Attending Physician: Dr. Christi Weatherall
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mary Halliday was admitted to the hospital due to a rapid increase in abdominal pain and weight loss over a period of two months. His initial assessment revealed a distended abdomen, reduced appetite, and fatigue. A series of diagnostic investigations, including computed tomography (CT) scan, colonoscopy, and carcinoembryonic antigen (CEA) blood test, confirmed the diagnosis of Mary Halliday Mary Halliday.
+
+Medical History:
+	Mr. Halliday has a history of hypertension, which is controlled with medication. He also has a family history of colorectal cancer, with his father being diagnosed at the age of 60. Previously, he underwent a cholecystectomy for gallstones in 1995. Mr. Halliday is allergic to penicillin and was taking aspirin daily for his hypertension prior to admission.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the descending colon, multiple liver metastases, and several lymph nodes with irregular contours. The pathology report from the surgical specimen confirmed adenocarcinoma of the colon. The CEA level was elevated at 15.6 ng/mL (normal range is 0-2.5 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Halliday. He underwent a right hemicolectomy, followed by a temporary loop ileostomy. Postoperative care included pain management, wound care, and nutritional support. He received adjuvant chemotherapy with FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) for six cycles. Radiation therapy was deemed unnecessary due to the extent of the disease.
+
+Hospital Course:
+	Mr. Halliday's initial recovery from surgery was complicated by anastomotic leakage, requiring a second surgical intervention to manage the leak. He responded well to intravenous antibiotics and supportive care. During his hospital stay, he received enteral nutrition through the ileostomy. His condition stabilized, and he showed signs of improvement in energy levels and appetite.
+
+Follow-Up Plan:
+	Mr. Halliday will have regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue the prescribed oral chemotherapy regimen for a total of 12 cycles. A low-fiber diet and hydration are recommended to manage his ileostomy.
+
+Patient Education:
+	Mr. Halliday and his family were educated about the importance of adhering to the medication schedule, recognizing signs of complications such as fever, abdominal pain, or changes in stool consistency, and managing common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Mr. Halliday was provided with discharge instructions detailing his medications, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Halliday was informed about the importance of maintaining a healthy lifestyle, including regular exercise, a balanced diet, and stress management techniques.
+
+Final Remarks:
+	The attending physician commends Mr. Halliday for his resilience and cooperation throughout the treatment journey. She encourages him to continue seeking support from his family and healthcare team as he transitions back to home care. The report is signed by Dr. Christi Weatherall on 04/03/2021, and by Mary Halliday on 05/03/2021.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nancy Solano
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1213
+	•Date of Admission: 06/15/2022
+	•Date of Discharge: 07/15/2022
+	•Attending Physician: Dr. Miriam Windham
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer) with T4N0M0 stage at presentation
+
+Reason for Admission:
+	Nancy Solano, a 57-year-old male, was admitted to our facility on June 15th due to hematuria and lower abdominal pain of one-month duration. Initial assessment revealed a distended bladder, and laboratory tests indicated anemia. Subsequent imaging studies including computed tomography (CT) scan, cystoscopy, and biopsy confirmed the diagnosis of Nancy Solano.
+
+Medical History:
+	Mr. Solano has a significant past medical history with Hypertension, Type 2 Diabetes Mellitus, and Chronic Obstructive Pulmonary Disease (COPD). He underwent a laparoscopic cholecystectomy in 2018. His family history is notable for Colon Cancer, and he has known allergies to Penicillin and Sulfa drugs. Prior to admission, Mr. Solano was on Atenolol, Metformin, Insulin, Salmeterol/Fluticasone, and Furosemide.
+
+Diagnostic Findings:
+	The tumor measured approximately 6 cm in size and invaded the muscularis propria, making it a T4 lesion. The CT scan also revealed no lymph node involvement (N0), but distant metastases could not be ruled out due to the absence of metastatic workup at presentation (Mx). Pathology results showed high-grade urothelial carcinoma with positive surgical margins. Blood tests showed anemia with a hemoglobin level of 8 g/dL.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Solano. This included radical cystectomy, creation of an ileal conduit, and adjuvant chemotherapy with Gemcitabine and Cisplatin. Post-operative care involved pain management, catheter care, dietary support, and monitoring for complications. A decision was made to consider radiation therapy if recurrence occurred post-surgery.
+
+Hospital Course:
+	Mr. Solano underwent a successful radical cystectomy on June 21st. Postoperative recovery was initially challenging due to anemia and diabetes management issues. However, intensive care and support from the nursing staff resulted in gradual improvement. The patient's ileal conduit functioned well post-surgery, and he was discharged on July 15th in stable condition.
+
+Follow-Up Plan:
+	Mr. Solano is scheduled for a series of outpatient appointments to monitor his recovery progress and for regular cystoscopies to detect early signs of recurrence. His medications have been adjusted, with a focus on blood sugar control and continued hypertension management. He has been advised to maintain a balanced diet and avoid strenuous activity for six weeks post-discharge.
+
+Patient Education:
+	Mr. Solano and his family were provided comprehensive education about his condition, treatment options, and the importance of regular follow-ups. They were also instructed on post-surgical care, managing the ileal conduit, recognizing signs of complications, and coping with common side effects like fatigue and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Solano was given clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain regular follow-ups with his oncologist and primary care physician.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Solano's long-term survival. He has been informed about the importance of managing ongoing health issues, such as diabetes and hypertension, to improve his overall prognosis.
+
+Final Remarks:
+	This report concludes with a heartfelt appreciation for Mr. Solano's resilience and cooperation throughout his treatment journey. We wish him a speedy recovery and continued good health. Sincerely, Dr. Miriam Windham [Date]

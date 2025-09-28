@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clark Costain
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1188
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/02/2022
+	•Attending Physician: Dr. Traci Otero
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient was admitted to the hospital following a positive fecal occult blood test and colonoscopy, which revealed a large tumor in the descending colon. Further investigations with computed tomography (CT) scan confirmed the presence of multiple liver metastases. The patient presented with symptoms such as persistent abdominal pain, weight loss, and changes in bowel habits.
+
+Medical History:
+	Clark Costain has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2018 for gallbladder stones. His family history is significant for colorectal cancer. The patient is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of moderately differentiated adenocarcinoma in the descending colon. CT scan showed multiple liver metastases, some of which were larger than 1cm. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels, indicating the spread of cancer.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Clark Costain. He underwent a colectomy with ileostomy and liver metastasectomy. Post-operative care included pain management, wound care, and nutrition support. A chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) was initiated. Radiation therapy was considered but deemed unnecessary due to the number and size of metastases.
+
+Hospital Course:
+	Clark Costain's initial recovery from surgery was smooth, with minimal complications. However, he faced challenges during chemotherapy cycles, including neutropenia, fatigue, and nausea. He received supportive care, including blood transfusions, hydration, and anti-emetic medication. The patient responded well to the treatment and showed a stable condition during his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Clark Costain will be scheduled for outpatient appointments every three months for the first year, then six months thereafter. His CEA levels will be monitored regularly. He is to continue taking oral fluorouracil and capecitabine as adjuvant therapy. A healthy diet rich in fiber and low in fat is recommended, along with regular exercise. Warning signs such as fever, increased abdominal pain, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	Clark Costain and his family were educated about the importance of adhering to the prescribed medication regimen. They were instructed on ileostomy care, including emptying, cleaning, and changing the pouch as needed. They were also taught how to recognize signs of complications such as blockage or infection. Common side effects like diarrhea, skin irritation, and dehydration were discussed and managed accordingly.
+
+Discharge Instructions:
+	Upon discharge, Clark Costain was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a well-balanced diet and engage in regular, low-impact exercise.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Clark Costain's prognosis will be determined by factors such as the extent of surgery, response to chemotherapy, and regular follow-ups.
+
+Final Remarks:
+	The attending physician commends Clark Costain for his resilience and cooperation throughout the treatment journey. The report is signed by Dr. Traci Otero, MD, on 05/02/2022. The patient's signature validates that he has received and understood the information provided in this medical report.

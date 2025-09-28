@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Raymon Wheeler
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M144
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Maria Golson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Upon admission, Raymon Wheeler presented with symptoms of abdominal pain, unintentional weight loss, and changes in bowel habits persisting for over a month. The initial assessment included a comprehensive physical exam and blood tests that revealed elevated levels of carcinoembryonic antigen (CEA), a potential marker for colorectal cancer. Subsequent imaging scans confirmed a large mass in the lower right quadrant of his abdomen, as well as multiple lymph nodes involvement.
+
+Medical History:
+	Mr. Wheeler has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2010 and a coronary artery bypass graft surgery in 2015. His family history is significant for colorectal cancer, with his father being diagnosed at age 60. Allergies include penicillin, and he was taking metformin, lisinopril, and salmeterol/fluticasone prior to admission.
+
+Diagnostic Findings:
+	Further diagnostic tests confirmed the presence of colorectal cancer (Stage III) with involvement of multiple lymph nodes. Pathology reports showed tumor cells exhibiting moderate differentiation, a factor that influences the prognosis and treatment plan. Blood tests also revealed anemia and elevated liver enzymes, indicative of disease progression.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wheeler. He underwent a right hemicolectomy with lymph node dissection followed by a temporary ileostomy. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support. His oncology regimen consisted of six cycles of FOLFOX (oxaliplatin, fluorouracil, and leucovorin) chemotherapy, with the potential for radiation therapy based on response evaluation.
+
+Hospital Course:
+	During his hospital stay, Mr. Wheeler showed an initial recovery from surgery, but faced several challenges related to managing his diabetes and COPD exacerbations. Aggressive management of these issues was necessary to support his overall recovery. He received physical therapy for mobility and was encouraged to participate in occupational therapy for self-care activities.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Wheeler will be scheduled for regular outpatient follow-up appointments to monitor his progress and manage any potential complications. His medications will be adjusted as necessary, with a focus on maintaining control of his diabetes and managing symptoms related to his ileal conduit. A low-residue diet is recommended to minimize discomfort, while also addressing his ongoing nutritional needs.
+
+Patient Education:
+	Prior to discharge, Mr. Wheeler was educated about post-surgical care for his ileal conduit, including emptying, cleaning, and maintaining the stoma. He was instructed on recognizing signs of complications such as bleeding, blockage, or infection. Management strategies for common side effects like diarrhea, fatigue, and neuropathy were also discussed.
+
+Discharge Instructions:
+	Discharge instructions emphasized the importance of medication adherence, proper wound care, hydration, and physical activity guidelines. Mr. Wheeler was provided with a comprehensive discharge plan that included detailed information on managing his diabetes, COPD, and post-surgical recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in the long-term management of Mr. Wheeler's colorectal cancer. A combination of lifestyle modifications, dietary changes, and timely medical interventions will be essential in maintaining his health and reducing the risk of recurrence.
+
+Final Remarks:
+	I commend Raymon Wheeler for his resilience throughout this challenging treatment journey. His cooperation and determination have been instrumental in achieving a successful outcome. I wish him continued strength and good health as he moves forward with his recovery.

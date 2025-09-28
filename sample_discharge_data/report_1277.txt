@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Terry
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1277
+	•Date of Admission: 03/03/2023
+	•Date of Discharge: 05/05/2023
+	•Attending Physician: Dr. Sybil Raio
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the liver and lungs
+
+Reason for Admission:
+	John Terry, a 38-year-old male, was admitted to our facility due to persistent lower back pain, weight loss, and hematuria. Initial assessment revealed a palpable mass in his abdomen and abnormal results from routine blood tests, prompting further investigations. John Terry (CT) scans confirmed the presence of a large renal tumor with metastases to the liver and lungs.
+
+Medical History:
+	John Terry has a history of hypertension, which was managed with medication. He also had a past history of smoking but quit one year prior to admission. No family history of cancer was noted. Prior to this admission, he was on amlodipine for his hypertension and no other medications.
+
+Diagnostic Findings:
+	Upon admission, John underwent various diagnostic tests including CT scans, MRI, and a biopsy of the renal tumor. Pathology reports confirmed the diagnosis of advanced RCC with metastatic spread to the liver and lungs. Blood tests revealed anemia, elevated creatinine levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John Terry. He underwent nephrectomy followed by partial hepatectomy to remove the affected portions of his kidney and liver. Post-operative care included management of pain, fluid and electrolyte balance, and nutritional support.
+
+Hospital Course:
+	John's initial recovery from surgery was uneventful. However, he experienced nausea and fatigue following the start of his chemotherapy regimen. This was managed with antiemetics and supportive care. Regular oncology consultations, nutritional support, and physical therapy were provided to optimize his recovery.
+
+Follow-Up Plan:
+	John Terry will be followed up in the outpatient clinic every three months for the first year post-discharge, then every six months thereafter. He will continue sunitinib and undergo regular imaging studies to monitor disease progression. A low-sodium diet is recommended due to his history of hypertension, and he should maintain a healthy lifestyle with regular exercise.
+
+Patient Education:
+	John Terry and his family were educated about the nature of his illness, treatment options, and post-surgical care instructions. They were informed about recognizing signs of complications such as fever, increased pain, or changes in urine color, and advised to seek immediate medical attention if these occur.
+
+Discharge Instructions:
+	John was provided with discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about managing his ileal conduit and recognizing signs of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for John Terry's long-term survival. He should adhere to a healthy lifestyle, maintain regular follow-ups, and promptly report any concerning symptoms to his healthcare team.
+
+Final Remarks:
+	This report concludes John Terry's treatment journey at our facility thus far. We commend his resilience and cooperation throughout this challenging time, and we wish him a successful recovery. The attending physician, Dr. Sybil Raio, has signed the report on 05/05/2023.

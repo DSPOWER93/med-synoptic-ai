@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Diane Loats
+	•Date of Birth: 05/06/1980
+	•Medical Record Number: M1120
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 09/20/2022
+	•Attending Physician: Dr. Ann Burge
+	•Primary Diagnosis: Pancreatic Adenocarcinoma, Stage IIIB
+
+Reason for Admission:
+	Mr. Loats presented to the emergency department with severe abdominal pain and jaundice. Initial assessments revealed obstructive jaundice, weight loss, and a palpable mass in the epigastric region. Diagnostic investigations included an ultrasound, CT scan, MRI, and ERCP which confirmed the presence of a large pancreatic tumor causing obstruction of the common bile duct.
+
+Medical History:
+	Mr. Loats has a history of hypertension, controlled with medication, and COPD, requiring regular nebulizer treatments. He underwent a partial knee replacement surgery in 2018. His father died at the age of 65 due to lung cancer, and his mother succumbs to breast cancer at the age of 70. He is allergic to penicillin. Pre-admission medications include Amlodipine, Albuterol, and Metformin.
+
+Diagnostic Findings:
+	Pathology report confirmed the tumor as a moderately differentiated adenocarcinoma. Imaging scans revealed a 5cm x 6cm mass in the head of the pancreas with involvement of adjacent organs. Blood tests showed elevated CA19-9 levels, suggesting the presence of pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Loats. The surgical intervention was a Whipple procedure, followed by chemotherapy and radiation therapy. Post-operative care included nutritional support, pain management, and monitoring of wound healing. Chemotherapy regimen consisted of FOLFIRINOX (Folinic acid, Irinotecan, 5-Fluorouracil, and Oxaliplatin), with cycles lasting every two weeks.
+
+Hospital Course:
+	The initial postoperative recovery was complicated by a prolonged ileus, requiring nasogastric tube insertion for decompression. Subsequent challenges included managing pain and preventing infection. Therapy sessions helped improve Mr. Loats's mobility, and nutritional support aided in weight maintenance.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Loats will have follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. Continuation of chemotherapy is advised for a total of 12 cycles, followed by radiation therapy. Lifestyle modifications include quitting smoking and maintaining a healthy diet rich in fruits and vegetables.
+
+Patient Education:
+	Mr. Loats was educated about post-surgical care, including managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like nausea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included adhering to medication schedules, practicing good wound care, maintaining adequate hydration, and engaging in light physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage IIIB pancreatic cancer is generally poor, but early detection of recurrence through regular monitoring can improve outcomes.
+
+Final Remarks:
+	Dr. Burge commended Mr. Loats's resilience and cooperation throughout his treatment journey, emphasizing the importance of continued effort to manage ongoing health issues. This report is signed by both the physician and patient on 09/20/2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susan Wince
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1001
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Thomasina Toupin
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Susan Wince presented to the emergency department with complaints of persistent lower back pain, flank pain, and hematuria for the past three weeks. His initial assessment revealed a palpable mass in the right lumbar region and abnormalities in his urine analysis. Diagnostic investigations including computed tomography (CT) scan, magnetic resonance imaging (MRI), and blood tests confirmed the presence of an advanced RCC with metastases to the lungs and bones.
+
+Medical History:
+	Mr. Wince has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy for RCC five years ago. His family history is significant for breast cancer in his mother and colon cancer in his father. He is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, amlodipine, insulin, and albuterol inhalers.
+
+Diagnostic Findings:
+	The pathology report from the nephrectomy confirmed a clear cell RCC with high-grade features. CT scans showed multiple pulmonary nodules and bone lesions. Blood tests revealed anemia (hemoglobin 8 g/dL) and elevated creatinine levels (1.5 mg/dL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wince. He underwent a radical nephrectomy followed by adjuvant sunitinib therapy. Post-operative care included pain management, nutritional support, and anticoagulation due to the risk of thrombosis. The oncology team recommended four cycles of sunitinib therapy with close monitoring for side effects such as hypertension, hand-foot syndrome, and diarrhea. Radiation therapy was not deemed necessary at this time.
+
+Hospital Course:
+	Mr. Wince's initial recovery from surgery was uneventful, but he experienced side effects of sunitinib therapy, including fatigue, nausea, and hand-foot syndrome. He was closely monitored for these side effects, and his medication regimen was adjusted as necessary. His pain was well-controlled with oral analgesics, and his anemia was managed with iron supplementation and erythropoietin injections.
+
+Follow-Up Plan:
+	Mr. Wince will be followed up closely in the outpatient clinic every three months for the first year after discharge. His medications will be adjusted based on his response to treatment and side effect profile. He will continue taking metformin, amlodipine, and insulin but will discontinue albuterol inhalers unless symptoms of COPD worsen. A low-sodium, low-protein diet is recommended due to his history of hypertension and renal dysfunction. He has been educated on recognizing signs of complications such as fever, persistent pain, or rapid weight loss.
+
+Patient Education:
+	Mr. Wince was provided extensive education on post-surgical care, including wound care practices, signs of infection, and activity guidelines. He was also taught how to manage the ileal conduit, recognize signs of complications, and manage common side effects such as fatigue, nausea, and hand-foot syndrome.
+
+Discharge Instructions:
+	Mr. Wince was discharged with a comprehensive set of instructions for continued recovery and health maintenance. He was advised to take his medications regularly, maintain good wound care practices, stay hydrated, and engage in light physical activity as tolerated. He was also instructed on how to monitor his blood sugar levels and manage his diabetes effectively.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Wince's long-term prognosis. He has been advised to maintain a healthy lifestyle, including a balanced diet, regular exercise, and stress management techniques. He will also be monitored closely for ongoing health issues related to his comorbidities (hypertension, diabetes, and COPD).
+
+Final Remarks:
+	In conclusion, Mr. Wince demonstrated resilience and cooperation throughout his treatment journey for advanced RCC. His prognosis is favorable with regular follow-up and adherence to the treatment plan. The attending physician (Dr. Thomasina Toupin) expresses her appreciation for his patience and understanding during this challenging time and wishes him a speedy recovery.

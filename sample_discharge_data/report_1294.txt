@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Annie Priest
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1294
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Christine Priest
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the bladder
+
+Reason for Admission:
+	Annie Priest was admitted to our institution due to persistent hematuria (blood in urine), dysuria (painful urination), and frequent urination over a span of three weeks, which were initially managed as a UTI (Annie Priest Infection) but failed to respond to antibiotics. A follow-up cystoscopy confirmed the presence of a 3cm tumor in the bladder, leading to the diagnosis of Annie Priest Carcinoma (TCC).
+
+Medical History:
+	The patient has a significant past medical history, including hypertension and diabetes mellitus type II, which are well-controlled with oral medications. He is a long-time smoker and occasional alcohol consumer. His father passed away at the age of 70 due to lung cancer. The patient has no known allergies. Prior to admission, he was taking Metformin, Losartan, Hydrochlorothiazide, Atenolol, and Aspirin.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted during the hospital stay. Pathology reports confirmed the presence of TCC in the resected bladder specimen. Imaging scans (CT and MRI) showed no evidence of metastasis, but a small lymph node enlargement in the pelvic region was noted. Blood tests revealed slightly elevated creatinine levels, suggesting potential kidney involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Annie Priest. The initial treatment consisted of a radical cystectomy (removal of the bladder), followed by an ileal conduit formation and lymph node dissection. Post-operative care included wound management, pain control, and monitoring for complications such as infections and kidney function.
+
+Hospital Course:
+	Annie's hospital course was marked by an initial recovery from the cystectomy, followed by a few challenges due to post-operative complications such as urinary leakage and electrolyte imbalances. A brief hospital readmission for wound dehiscence was necessary before being discharged. Throughout his stay, he received supportive care, including physical therapy, nutritional support, and pain management.
+
+Follow-Up Plan:
+	Annie will be closely monitored through scheduled outpatient appointments every three months during the first year, then six-monthly for two years, and annually thereafter. Medications such as Sodium bicarbonate and Potassium supplements will be prescribed to manage his electrolyte levels. Lifestyle modifications, including quitting smoking, maintaining a healthy diet, and regular exercise, are strongly recommended.
+
+Patient Education:
+	Annie and his family were educated on post-surgical care, managing the ileal conduit, recognizing signs of complications such as infection, kidney issues, or recurrence, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence (continuation of Metformin, Losartan, Hydrochlorothiazide, Atenolol, Aspirin, and the prescribed chemotherapy regimen), wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Annie's long-term survival. The importance of managing ongoing health issues such as diabetes and hypertension was emphasized to ensure a better quality of life.
+
+Final Remarks:
+	Dr. Christine Priest concludes this report, expressing her admiration for Annie's resilience and cooperation throughout the treatment journey. The report is signed by both the physician and patient on April 12, 2023, validating the documentation.

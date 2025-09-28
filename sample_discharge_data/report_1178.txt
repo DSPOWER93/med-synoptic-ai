@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Victoria Shay
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1178
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 05/02/2023
+	•Attending Physician: Dr. Winnie Goldstein
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Victoria Shay, a 38-year-old male, presented to the emergency department with complaints of persistent abdominal pain, change in bowel habits, and unexplained weight loss over the past three months. The initial assessment revealed abnormalities in his vital signs, particularly anemia and leukocytosis. Subsequent diagnostic investigations including a complete blood count, carcinoembryonic antigen (CEA) levels, and computed tomography (CT) scan confirmed the presence of colorectal cancer, with metastasis to regional lymph nodes.
+
+Medical History:
+	Mr. Shay has a history of hypertension for which he was on medication. He also had a previous appendectomy in 2018. His father and grandfather both died from colon cancer at the ages of 65 and 70 respectively. He is allergic to penicillin and some contrast agents used in imaging tests. Prior to admission, he was taking Losartan, Metformin, and Aspirin daily.
+
+Diagnostic Findings:
+	The CT scan revealed a large tumor in the sigmoid colon with multiple enlarged lymph nodes in the pelvis and abdomen. Pathology report from the excised specimen confirmed adenocarcinoma of the colon. CEA levels were significantly elevated at 12 ng/mL (normal range <5 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Shay. He underwent a sigmoid colectomy, followed by an ileal conduit formation and lymph node dissection on 03/02/2023. Post-operative care included management of pain, prevention of deep vein thrombosis, and monitoring for complications such as anastomotic leakage and sepsis. He was also started on adjuvant chemotherapy with a regimen of FOLFOX (Folinic Acid, 5-Fluorouracil, Oxaliplatin) for six cycles. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	Following surgery, Mr. Shay's initial recovery was uneventful. However, he developed post-operative ileus which required conservative management with bowel rest and intravenous fluids. He received regular physical therapy to prevent complications related to prolonged bed rest. His chemotherapy cycles were initiated on 03/16/2023 and completed without significant adverse events.
+
+Follow-Up Plan:
+	Mr. Shay will have scheduled follow-up appointments every three months for the first two years, then every six months thereafter. He will continue to take Losartan and Metformin but will discontinue Aspirin due to the increased risk of bleeding during chemotherapy. A high-fiber diet is recommended to prevent constipation and maintain a healthy bowel function. Any unexplained weight loss, persistent abdominal pain, or change in bowel habits should prompt an immediate medical consultation.
+
+Patient Education:
+	Detailed instructions were provided to Mr. Shay and his family regarding post-surgical care, management of the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Shay was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to report any signs of infection, fever, or increased abdominal pain immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Shay's long-term health issues. The prognosis for patients with Stage IIIB colorectal cancer is generally favorable with adjuvant chemotherapy, but close follow-up and compliance with treatment are essential for optimal outcomes.
+
+Final Remarks:
+	I am pleased to see Mr. Shay through this challenging journey, and I commend his resilience and cooperation throughout the treatment process. I wish him a swift recovery and a successful long-term management of his health.

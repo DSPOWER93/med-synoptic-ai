@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Meg Harris
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1384
+	•Date of Admission: 02/15/2022
+	•Date of Discharge: 03/15/2022
+	•Attending Physician: Dr. Federico Rocha
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Upon admission, the patient presented with severe abdominal pain, hematuria, and fatigue. The initial assessment included physical examination and laboratory investigations to determine the cause of these symptoms. Further diagnostic imaging, such as a computed tomography (CT) scan, confirmed the presence of an advanced RCC in the right kidney, with multiple metastases throughout the liver.
+
+Medical History:
+	The patient's past medical history includes hypertension and chronic obstructive pulmonary disease (COPD), which have been well-controlled with medications. He has no known allergies and a family history of colon cancer in his mother. Prior to admission, the patient was taking medications for hypertension and COPD, as well as analgesics for pain management.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of RCC based on biopsy samples taken during nephrectomy. Imaging scans indicated extensive metastases in the liver, suggesting a stage IV RCC. Blood tests revealed anemia, elevated levels of creatinine, and abnormal liver function markers.
+
+Treatment Plan:
+	Given the advanced stage of the cancer, a comprehensive treatment plan was developed involving surgery, chemotherapy, and radiation therapy. The patient underwent a nephrectomy followed by an ileal conduit procedure for urinary diversion. Post-operative care involved pain management, wound care, and nutritional support. A six-month course of sunitinib was administered as part of the chemotherapy regimen to manage the disease progression. The patient also received radiation therapy to the liver to help control the metastases.
+
+Hospital Course:
+	The initial recovery from surgery was smooth, with the patient showing signs of improvement in terms of abdominal pain and fatigue. Challenges faced during the hospital stay included management of anemia and side effects from chemotherapy, such as nausea and vomiting. These were managed through appropriate medications and supportive care. The patient's condition was closely monitored throughout the hospital stay to ensure proper healing and disease control.
+
+Follow-Up Plan:
+	Following discharge, the patient will have regular follow-up appointments with the oncologist every three months for a complete examination and laboratory tests. Medications for hypertension and COPD will be continued, while sunitinib therapy will be adjusted based on disease response and side effects. Lifestyle recommendations include maintaining a healthy diet, regular exercise, and avoiding tobacco products.
+
+Patient Education:
+	The patient was educated on post-surgical care for the ileal conduit, managing complications such as blockages or infections, and recognizing signs of dehydration. Instructions were provided on managing common side effects of sunitinib therapy, such as fatigue, diarrhea, and skin changes.
+
+Discharge Instructions:
+	Discharge instructions focus on medication adherence, wound care practices, maintaining proper hydration, and engaging in gentle physical activity as tolerated. The patient was also given resources for emotional support during the treatment journey.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for advanced RCC can be challenging, but regular monitoring for early detection of recurrence is crucial to managing ongoing health issues. The patient has shown resilience and cooperation throughout the treatment journey, and it is hoped that with continued care and support, they will be able to manage their condition effectively.
+
+Final Remarks:
+	As the attending physician, I am impressed by the patient's strength and determination throughout this challenging journey. I wish them all the best in their recovery and am confident that with ongoing care and support, they will continue to persevere and find hope in the face of adversity. Signed, Dr. Federico Rocha (Date March 15, 2022). Signed, Meg Harris (Date March 15, 2022).

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Simone Atherton
+	•Date of Birth: 12/01/1965
+	•Medical Record Number: M141
+	•Date of Admission: 02/05/2023
+	•Date of Discharge: 03/25/2023
+	•Attending Physician: Dr. Sandra Bennett
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Simone Atherton, aged 57, presented to our facility with a four-month history of persistent lower abdominal pain and rectal bleeding. He also reported unexplained weight loss and changes in bowel habits. Upon initial assessment, he appeared weak and anemic, with a palpable mass in the lower abdomen. Laboratory investigations revealed elevated carcinoembryonic antigen (CEA) levels and positive fecal occult blood test results. A subsequent colonoscopy confirmed a large tumor in the sigmoid colon, which was biopsied for histopathological analysis, revealing adenocarcinoma.
+
+Medical History:
+	Mr. Atherton's past medical history included hypertension and diabetes mellitus type 2, both well-controlled with medication. He had a significant family history of colorectal cancer, as his father had succumbed to the disease at age 65. He was not known to have any allergies and was taking metoprolol, glipizide, and aspirin before admission.
+
+Diagnostic Findings:
+	Further diagnostic tests, including computerized tomography (CT) scan, magnetic resonance imaging (MRI), and positron emission tomography (PET) scan, revealed extensive tumor growth in the sigmoid colon, with lymph node involvement. Pathology results from the biopsy confirmed the diagnosis of adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Atherton. This included a laparoscopic sigmoid colectomy, removal of regional lymph nodes, and formation of an ileal conduit. Post-operative care involved pain management, nutritional support, and monitoring for complications such as leaks or infections. Adjuvant therapy consisted of six cycles of FOLFOX chemotherapy, with the first cycle commencing one month post-surgery, followed by radiation therapy to the pelvic region.
+
+Hospital Course:
+	Mr. Atherton's recovery from surgery was initially challenging due to complications such as anastomotic leak and sepsis. However, he responded well to conservative management and antibiotics. His condition stabilized, and he began radiation therapy as scheduled. He also received nutritional support via a nasogastric tube during his hospital stay.
+
+Follow-Up Plan:
+	Following discharge, Mr. Atherton will undergo six cycles of FOLFOX chemotherapy at our outpatient clinic. He will return for regular follow-up appointments with his oncologist and surgeon to monitor his progress and manage any complications. His medications will be adjusted as needed based on his response to treatment. A low-fiber, high-protein diet is recommended, along with regular exercise.
+
+Patient Education:
+	Mr. Atherton and his family were educated about the importance of adhering to the treatment plan, recognizing signs of complications such as fever, increased pain, or changes in bowel habits, and managing common side effects like nausea and fatigue. They were also provided with instructions on post-surgical care, including wound care practices, hydration guidelines, and physical activity recommendations.
+
+Discharge Instructions:
+	Upon discharge, Mr. Atherton was given detailed written instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated about recognizing signs of complications that require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Atherton's long-term health. He will be closely followed by his oncologist and surgeon to assess his response to treatment and manage ongoing health issues.
+
+Final Remarks:
+	I would like to commend Mr. Atherton for his resilience and cooperation throughout his treatment journey. His progress has been remarkable, and I am confident that he will continue to respond positively to further treatment. I wish him the best of luck in his recovery, and I look forward to seeing him at our clinic for follow-up appointments.

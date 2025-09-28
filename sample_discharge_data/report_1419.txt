@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jillian Faulkner
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1419
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 01/02/2022
+	•Attending Physician: Dr. Michael Brock
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Brock presented to the emergency department with recurrent hematuria, pain in the lower abdomen, and urinary frequency. An initial assessment revealed that the patient was in moderate distress, with a tender, distended abdomen and decreased appetite. Further investigations including CT scans and cystoscopy confirmed the presence of a large mass in the bladder.
+
+Medical History:
+	Mr. Brock has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), all of which were poorly controlled at the time of admission. He had no known allergies and was on a combination of metformin, losartan, and albuterol for his pre-existing conditions. His family history was significant for colon cancer in his father and breast cancer in his mother.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of urothelial cell carcinoma with a moderate grade of differentiation. Imaging scans revealed that the tumor had invaded the muscularis propria and had spread to the surrounding perivesical fat tissue, indicating T3a stage disease. Laboratory tests showed elevated creatinine levels, suggestive of renal impairment secondary to obstruction caused by the bladder tumor.
+
+Treatment Plan:
+	A comprehensive treatment plan was developed by a multidisciplinary team consisting of oncologists, urologists, radiologists, and nursing staff. The primary intervention was a radical cystectomy followed by an ileal conduit creation. Post-operative care included intravenous antibiotics, pain management, and close monitoring for complications such as urine leakage or fistula formation. Chemotherapy consisting of GC regimen (Gemcitabine and Cisplatin) was initiated on the third post-operative day and completed over six cycles. The role of radiation therapy was discussed but ultimately deferred due to the patient's poor renal function and the risk of further kidney damage.
+
+Hospital Course:
+	Mr. Brock underwent a successful radical cystectomy on 09/02/2022, followed by an uneventful recovery period. He experienced post-operative nausea and vomiting, which was managed with anti-emetics. His pain levels were well-controlled with oral analgesics. Regular check-ups of his renal function and electrolytes were conducted to monitor for any complications related to dehydration or electrolyte imbalance. Nutritional support was provided as the patient had difficulty eating due to post-operative ileus.
+
+Follow-Up Plan:
+	A follow-up appointment with the oncologist is scheduled for one week post-discharge, followed by regular three-monthly visits thereafter for check-ups and monitoring of his renal function and creatinine levels. He will continue to take metformin and losartan but will discontinue albuterol as it is no longer indicated due to the resolution of his COPD symptoms post-operatively. A low-sodium, high-protein diet is recommended for maintaining renal health and promoting healing of the ileal conduit.
+
+Patient Education:
+	The patient was educated on the importance of regular follow-up appointments and the need for close monitoring of his renal function. He was instructed on post-surgical care, including managing the ileal conduir, recognizing signs of complications such as leakage or fistula formation, and managing common side effects like nausea, vomiting, and pain.
+
+Discharge Instructions:
+	The patient was discharged with a supply of oral analgesics, anti-emetics, and instructions on wound care practices. He was advised to maintain adequate hydration by drinking at least 2 liters of water daily, avoid heavy lifting, and engage in light walking as tolerated for physical activity.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Brock is guarded given the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension, diabetes, and COPD will be crucial in optimizing his long-term outcome.
+
+Final Remarks:
+	The attending physician acknowledges Mr. Brock's resilience throughout the treatment journey and expresses appreciation for his cooperation during various procedures and tests. The report is signed by Dr. Michael Brock, M.D., FACS, and John D. Brock. Date of discharge 01/02/2022.

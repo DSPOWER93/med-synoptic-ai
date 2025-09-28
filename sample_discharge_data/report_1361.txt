@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jason Martinez
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1361
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Kathleen Peralta
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Mr. Martinez presented to the emergency department complaining of severe abdominal pain, nausea, and unexplained weight loss over the past month. Initial assessment revealed a distended abdomen, jaundice, and laboratory tests showed elevated bilirubin levels, alkaline phosphatase, and amylase. A CT scan confirmed the suspicion of a mass in the pancreas, leading to further investigations that included an endoscopic retrograde cholangiopancreatography (ERCP) and a biopsy, which confirmed the diagnosis of Jason Martinez.
+
+Medical History:
+	Mr. Martinez has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), for which he was taking medication regularly before admission. He underwent a left nephrectomy due to renal cell carcinoma five years ago. His father died from colon cancer at the age of 65, and his mother had breast cancer in her late sixties. Mr. Martinez is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	The pathology report from the biopsy showed a moderately differentiated adenocarcinoma arising from the pancreatic duct, invading the surrounding tissue but without lymph node metastasis or distant metastases. Imaging scans showed a 5 cm mass in the head of the pancreas, with involvement of the superior mesenteric artery and vein. Blood tests revealed elevated CA 19-9 levels, indicating the presence of pancreatic cancer.
+
+Treatment Plan:
+	Given the advanced stage of Mr. Martinez's cancer, a multidisciplinary team developed a comprehensive treatment plan. This included a Whipple procedure (pancreatoduodenectomy), followed by adjuvant chemotherapy with FOLFIRINOX (Folinic acid, Irinotecan, 5-Fluorouracil, and Oxaliplatin) for six cycles, and concurrent radiation therapy to the pancreatic bed. The patient was closely monitored for complications related to surgery and chemotherapy, such as nausea, vomiting, diarrhea, and neutropenia.
+
+Hospital Course:
+	Mr. Martinez underwent a successful Whipple procedure and recovered well from the surgery. However, he experienced severe side effects from the chemotherapy regimen, including neutropenia, anemia, and thrombocytopenia. He also required nutritional support due to poor oral intake. Despite these challenges, Mr. Martinez remained positive and cooperated fully with his treatment plan.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Martinez will be closely followed up by an oncologist every three months for the first year, then every six months thereafter. He will continue FOLFIRINOX therapy for a total of six cycles and then undergo imaging studies to assess treatment response. Lifestyle modifications include smoking cessation, maintaining a healthy diet, and engaging in moderate physical activity.
+
+Patient Education:
+	Mr. Martinez was educated about the importance of following his medication regimen, recognizing signs of complications such as fever, persistent abdominal pain, or changes in bowel habits, and managing common side effects like nausea and diarrhea. He was also instructed on post-surgical care, including management of his ileal conduit and identifying potential complications.
+
+Discharge Instructions:
+	Upon discharge, Mr. Martinez received clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity limitations. He was also advised to seek immediate medical attention for any signs of complications or worsening symptoms.
+
+Prognosis and Long-Term Outlook:
+	Given the advanced stage of Mr. Martinez's cancer and the potential for recurrence, regular monitoring is crucial for early detection and management of ongoing health issues. Mr. Martinez was advised to maintain a positive attitude, engage in support groups, and seek help when needed to improve his quality of life.
+
+Final Remarks:
+	Dr. Peralta expressed her appreciation for Mr. Martinez's resilience throughout the treatment journey and his cooperation with the care team. She emphasized the importance of regular follow-ups, adherence to the medication regimen, and lifestyle modifications to improve outcomes and increase chances of long-term survival.

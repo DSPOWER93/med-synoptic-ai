@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Heather Driscoll
+	•Date of Birth: 10/10/1980
+	•Medical Record Number: M1274
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Corey Sansone
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Heather Driscoll, a 42-year-old male, presented to the emergency department with persistent hematuria and dysuria. The initial assessment included a thorough physical examination, laboratory tests, and imaging studies that revealed a tumor in his bladder. Subsequent cystoscopy and biopsy confirmed the diagnosis of Heather Driscoll Carcinoma (TCC) of the bladder.
+
+Medical History:
+	John has a history of hypertension, which is well-controlled with medication. He was diagnosed with type 2 diabetes mellitus five years ago and has been managing it through diet and oral medications. Additionally, he was recently diagnosed with Chronic Obstructive Pulmonary Disease (COPD), for which he uses an inhaler regularly. He has no known family history of cancer. Prior to admission, John was taking Ramipril, Metformin, Insulin Glargine, and Salmeterol/Fluticasone.
+
+Diagnostic Findings:
+	The diagnostic workup included a complete blood count (CBC), comprehensive metabolic panel, urinalysis, cystoscopy, biopsy, and computed tomography (CT) scan of the abdomen and pelvis. CBC showed mild anemia, while the metabolic panel was unremarkable. Urinalysis revealed hematuria. The CT scan revealed a 4cm mass in the bladder with no evidence of lymph node involvement or distant metastasis.
+
+Treatment Plan:
+	A multidisciplinary team, including oncologists, urologists, and radiologists, developed a treatment plan for John. This involved radical cystectomy followed by ileal conduit formation, six cycles of chemotherapy (Gemcitabine and Cisplatin), and radiation therapy to the pelvic area. Post-operative care included pain management, wound care, and nutritional support.
+
+Hospital Course:
+	John underwent a successful radical cystectomy on March 27, 2023. The post-operative period was challenging due to complications from anastomotic leakage. However, with intensive care and multiple interventions, the leakage was managed, and John's condition stabilized. His recovery was further supported by physical therapy, occupational therapy, and dietary counseling.
+
+Follow-Up Plan:
+	John will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue with his medications (Ramipril, Metformin, Insulin Glargine) but may need to adjust the doses. A low-sodium, high-fiber diet is recommended, and he should avoid heavy lifting and strenuous activity for at least six weeks post-discharge. Any signs of bleeding, fever, or increased pain require immediate medical attention.
+
+Patient Education:
+	John was educated about the ileal conduir and its care, including emptying methods, cleaning techniques, and signs of complications. He was also instructed on managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, John was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, avoid heavy lifting for at least six weeks, and report any unusual symptoms to his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. John should also manage ongoing health issues such as hypertension and diabetes effectively.
+
+Final Remarks:
+	Dr. Corey Sansone commends John for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of following the prescribed plan to ensure the best possible outcome. The report is signed by Dr. Corey Sansone on April 15, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Samuel Roper
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1124
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 05/06/2022
+	•Attending Physician: Dr. Julie Albrecht
+	•Primary Diagnosis: Stage III Colorectal Cancer with Lymph Node Involvement
+
+Reason for Admission:
+	Samuel Roper, a 42-year-old male, presented to the emergency department complaining of persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss over the past two months. Upon initial assessment, he appeared dehydrated with signs of abdominal distention and tenderness. Blood tests revealed anemia, elevated white blood cell count, and increased levels of carcinoembryonic antigen (CEA). A computed tomography scan (CT) of the abdomen and pelvis confirmed the presence of a large mass in the sigmoid colon with regional lymph node involvement.
+
+Medical History:
+	Samuel Roper has a past medical history significant for hypertension, managed with medication, and COPD, controlled with an inhaler. He underwent a left total knee replacement surgery five years ago. His family history is notable for colon cancer in his father at age 65. He has no known allergies and was taking aspirin daily and metoprolol for hypertension before admission.
+
+Diagnostic Findings:
+	The pathology report of the excised specimen confirmed the diagnosis of moderately differentiated adenocarcinoma of the sigmoid colon. Imaging studies demonstrated multiple enlarged lymph nodes in the mesocolon and along the aorta, consistent with metastatic disease. Further tests, including blood tests, revealed elevated levels of alkaline phosphatase and lactate dehydrogenase, suggesting possible liver metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Samuel Roper. He underwent an elective sigmoid colectomy with primary anastomosis and regional lymph node dissection. Post-operative care included pain management, antibiotics to prevent infection, and measures to prevent deep vein thrombosis. Samuel Roper was also started on adjuvant chemotherapy, consisting of FOLFOX regimen (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for six cycles. Radiation therapy was deemed unnecessary due to the extent of surgical resection and the absence of distant metastasis.
+
+Hospital Course:
+	Samuel Roper's initial recovery from surgery was complicated by anastomotic leakage, which required a temporary ostomy (ileostomy). He received supportive care including fluid resuscitation, antibiotics, and nutritional support via total parenteral nutrition. With the improvement of his condition, the ostomy was closed successfully. Throughout his hospital stay, Samuel Roper demonstrated remarkable resilience and cooperation in managing his disease.
+
+Follow-Up Plan:
+	Samuel Roper will be scheduled for regular follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue on oral Xelira (capecitabine) as adjuvant therapy for an additional 12 months. Lifestyle modifications, including a low-fat diet and regular exercise, are recommended to maintain optimal health. Samuel Roper should report any signs of abdominal pain, changes in bowel habits, unexplained weight loss, or yellowing of the skin (jaundice) immediately.
+
+Patient Education:
+	Samuel Roper and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as obstruction or leakage, and managing common side effects like diarrhea and hand-foot syndrome. They were also instructed on the importance of medication adherence, proper wound care practices, maintaining adequate hydration, and gradually increasing physical activity levels.
+
+Discharge Instructions:
+	Upon discharge, Samuel Roper was provided with written instructions detailing his medications, wound care practices, hydration guidelines, and physical activity restrictions. He is encouraged to maintain a healthy diet and engage in regular exercise as tolerated. Follow-up appointments have been scheduled for the next three months, at which time lab work and imaging studies will be performed to monitor his progress.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Samuel Roper's long-term survival. Managing ongoing health issues such as hypertension and COPD will also be important in maintaining his overall wellbeing.
+
+Final Remarks:
+	Dr. Julie Albrecht, Samuel Roper's attending physician, expresses her admiration for John's resilience throughout the treatment journey and emphasizes the importance of continued cooperation during follow-up care to ensure optimal outcomes. She signs the report along with Samuel Roper, validating the comprehensive medical documentation provided in this report.
