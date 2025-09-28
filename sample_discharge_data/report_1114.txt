@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Steven Trejo
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1114
+	•Date of Admission: 07/05/2022
+	•Date of Discharge: 08/12/2022
+	•Attending Physician: Dr. Sarah Morgan
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Trejo presented to the emergency department with a one-month history of persistent lower abdominal pain, changes in bowel habits, and unintentional weight loss. The initial assessment revealed tenderness in the lower abdomen and a palpable mass. Further diagnostic investigations including computed tomography (CT) scan, colonoscopy, and carcinoembryonic antigen (CEA) levels confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Trejo has a significant past medical history, with hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He has had two prior surgeries appendectomy in 1987 and cholecystectomy in 2005. His family history is notable for colon cancer in his father and brother. He is known to be allergic to penicillin. Before admission, he was on a regimen of metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	During his hospital stay, Mr. Trejo underwent a series of diagnostic tests. The pathology report from the tumor resection revealed moderately differentiated adenocarcinoma. Imaging scans, including CT scan and positron emission tomography (PET) scan, showed extensive lymph node involvement and no evidence of distant metastases. Blood tests indicated anemia, elevated CEA levels, and mildly deranged liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Trejo. He underwent a right hemicolectomy with lymph node dissection. Post-operative care included pain management, fluid and electrolyte balance, and nutrition support via total parenteral nutrition (TPN). Following recovery from surgery, he commenced adjuvant chemotherapy with FOLFOX regimen (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for a planned six cycles. The decision to include radiation therapy was deferred due to the patient's overall health status and the need for further assessment of the disease extent.
+
+Hospital Course:
+	During his hospital stay, Mr. Trejo faced several challenges, including post-operative ileus and neutropenia during chemotherapy cycles. He received intensive care for these complications, with supportive management and close monitoring. The role of physical therapy was crucial in facilitating mobility and preventing deep vein thrombosis. Nutritional support was provided to ensure adequate caloric intake and maintenance of fluid balance.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Trejo will be followed up every three months for the first two years, then six-monthly thereafter. He will continue the FOLFOX regimen for the remaining cycles. Lifestyle modifications include quitting smoking (if applicable), maintaining a healthy diet, and regular physical activity. His medications will be adjusted as needed to manage his comorbidities effectively. Specific warning signs requiring immediate medical attention include fever, severe abdominal pain, rectal bleeding, and unexplained weight loss.
+
+Patient Education:
+	Mr. Trejo and his family were educated about the importance of adhering to the treatment plan, managing the ileal conduit, recognizing signs of complications, and understanding common side effects such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Trejo was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also educated about the signs of infection or complications that necessitate immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Trejo is guarded, given his underlying health conditions and the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence is crucial to ensure optimal outcomes.
+
+Final Remarks:
+	This report concludes with the attending physician's admiration for Mr. Trejo's resilience throughout his treatment journey and appreciation for his cooperation in adhering to the prescribed regimen. The report is signed by Dr. Sarah Morgan and Steven Trejo on August 12, 2022.

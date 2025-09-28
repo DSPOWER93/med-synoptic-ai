@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Denise Coffland
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1169
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Roberta Salais
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	The patient was admitted following the presentation of hematuria, a persistent and painful urinary condition. Initial assessments included a thorough physical examination and urinalysis, which confirmed the presence of blood in the urine. Subsequent imaging scans (computed tomography urography) revealed an irregular mass in the bladder. A cystoscopy was performed to further investigate the suspicious lesion, confirming the diagnosis of Denise Coffland Carcinoma.
+
+Medical History:
+	The patient has a history of hypertension and COPD, managed through prescribed medications. Previous surgeries include a left nephrectomy due to kidney cancer 10 years ago. The patient's father also passed away from colon cancer at the age of 65. Allergies include penicillin and sulfa drugs. The patient was taking metoprolol, albuterol, and insulin prior to admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of Denise Coffland Carcinoma. Staging was T2aN0M0. Blood tests revealed mild anemia and slightly elevated creatinine levels. The imaging scan results indicated that the tumor had not invaded the muscularis propria or surrounding organs, but it had invaded the bladder wall to a depth of 5mm, thereby classifying it as T2a.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for the patient. This included a radical cystectomy, followed by an ileal conduit diversion procedure. Post-operative care involved pain management, wound care, and nutritional support. A chemotherapy regimen of gemcitabine and cisplatin was initiated, with six cycles planned. Radiation therapy was not deemed necessary based on the stage of the cancer.
+
+Hospital Course:
+	The patient underwent a successful radical cystectomy followed by an ileal conduit diversion procedure. Recovery from surgery was initially challenging due to post-operative pain and electrolyte imbalances. However, with adequate pain management and fluid and electrolyte replacement, the patient's condition improved steadily. The patient was also supported through physical therapy, dietary counseling, and psychological care throughout their stay.
+
+Follow-Up Plan:
+	Post-discharge, the patient will be scheduled for regular outpatient appointments every three months for the first year, then six-monthly thereafter. Medications to be continued include metoprolol, albuterol, and insulin, with the addition of an antacid due to the development of a minor duodenal ulcer during hospitalization. Lifestyle recommendations include quitting smoking, maintaining a balanced diet, and staying hydrated. The patient was also provided instructions on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and dehydration.
+
+Patient Education:
+	The patient and their family were educated about the diagnosis, treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications, and managing common side effects.
+
+Discharge Instructions:
+	Comprehensive discharge instructions were provided to ensure the patient's continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient was counseled on the importance of managing ongoing health issues such as hypertension and COPD to improve overall prognosis.
+
+Final Remarks:
+	The attending physician commends the patient's resilience and cooperation throughout the treatment journey. The patient's positive attitude and determination have played a significant role in their successful recovery. Both the physician and patient sign this report on [Date] to validate its authenticity.

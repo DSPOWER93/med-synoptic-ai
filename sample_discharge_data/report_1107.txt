@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: William Wagner
+	•Date of Birth: Redacted for privacy
+	•Medical Record Number: M1107
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 03/15/2022
+	•Attending Physician: Dr. Walter Bingham
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	William Wagner was admitted to the hospital due to complaints of persistent abdominal pain, unintended weight loss, and altered bowel habits. On presentation, a physical examination revealed a palpable mass in the lower abdomen, and laboratory investigations showed an elevated carcinoembryonic antigen (CEA) level. Further diagnostic procedures, including a computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	William Wagner has a significant medical history, including hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a partial left nephrectomy for renal cell carcinoma in 2015. John also has a family history of colorectal cancer and is allergic to penicillin and iodinated contrast agents. His pre-admission medications included metformin, amlodipine, lisinopril, albuterol, ipratropium, and inhaled corticosteroids.
+
+Diagnostic Findings:
+	Pathology reports confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. CT scans indicated the tumor had invaded the muscularis propria with regional lymph node involvement. Blood tests revealed anemia, elevated alkaline phosphatase, and increased lactate dehydrogenase levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for William Wagner. He underwent a sigmoid colectomy with a primary ileo-rectal anastomosis and a left lower quadrant ostomy (ileal conduit). Postoperative care included antibiotics, pain management, and bowel management. As part of the adjuvant therapy, John was started on FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy with a total planned cycle count of 12 cycles, with appropriate management of side effects such as neutropenia, diarrhea, and neuropathy. Radiation therapy was deferred due to postoperative complications.
+
+Hospital Course:
+	William Wagner's hospital course was marked by an initial recovery from surgery, followed by several setbacks due to postoperative complications, including a prolonged ileus and anastomotic leakage. A multidisciplinary approach involving surgical, medical, and oncology teams was essential in managing these complications. John also received comprehensive nutritional support and therapy services to improve his functional status.
+
+Follow-Up Plan:
+	Upon discharge, William Wagner will undergo regular follow-up appointments every three months for the first year, then every six months thereafter. He is recommended to continue taking metformin, amlodipine, and lisinopril with close monitoring of blood glucose and blood pressure levels. He should maintain a balanced diet, avoid high-fiber foods temporarily, and practice gentle exercise as tolerated. Any signs of complications related to the ileal conduit or other symptoms requiring immediate medical attention must be reported promptly.
+
+Patient Education:
+	William Wagner and his family were educated on post-surgical care for the ileal conduist, including stoma care, drainage bag management, and skin care. They were also informed about recognizing signs of complications such as excessive redness, swelling, or leakage around the stoma, abdominal pain, fever, or change in stool consistency. Common side effects of FOLFOX therapy, including fatigue, diarrhea, and neuropathy, were discussed, along with appropriate management strategies.
+
+Discharge Instructions:
+	At discharge, William Wagner was provided with a detailed list of medications to be continued, as well as instructions on wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about community resources for cancer survivors, including support groups and financial assistance programs.
+
+Prognosis and Long-Term Outlook:
+	William Wagner's prognosis depends on the successful completion of adjuvant therapy and regular monitoring for early detection of recurrence. Managing ongoing health issues related to hypertension, diabetes, and COPD is also essential for optimal long-term outcomes.
+
+Final Remarks:
+	This report details William Wagner's hospitalization for colorectal cancer treatment. His resilience and cooperation throughout the journey are commendable. We wish him a successful recovery and remind him to prioritize his health moving forward. The attending physician, Dr. Walter Bingham, signs this report on March 15, 2022.

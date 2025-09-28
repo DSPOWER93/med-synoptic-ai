@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mildred Peterson
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1332
+	•Date of Admission: 05/12/2021
+	•Date of Discharge: 07/20/2021
+	•Attending Physician: Dr. Samuel Vallejo
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mildred Peterson presented to the Mildred Peterson complaining of abdominal pain, persistent rectal bleeding, and unintentional weight loss over the past three months. A thorough physical examination revealed a palpable mass in the lower abdomen. Laboratory investigations revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). A computed tomography (CT) scan confirmed the presence of a large mass in the sigmoid colon with local invasion and lymph node involvement, suggesting a stage III colorectal cancer.
+
+Medical History:
+	Mr. Peterson's medical history is significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and a history of tobacco use. He had undergone cholecystectomy in 2015 due to gallstones. His family history was remarkable for colorectal cancer in his father at the age of 65. Mr. Peterson was on several medications, including metformin, amlodipine, and albuterol.
+
+Diagnostic Findings:
+	The pathology report of the surgically resected sigmoid colon confirmed adenocarcinoma with lymph node involvement. The staging was revised to Stage III based on the CT scan findings and final pathology results. Further investigations, including a positron emission tomography (PET) scan, did not reveal any distant metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Peterson. He underwent a left hemicolectomy with the creation of an ileal conduit and regional lymphadenectomy. Postoperative care included pain management, nutritional support, wound care, and antiemetics to manage nausea and vomiting due to opioids.
+
+Hospital Course:
+	Mr. Peterson's initial recovery from surgery was uneventful; however, he developed a fever on postoperative day 3. Work-up revealed a urinary tract infection, which was promptly treated with antibiotics. His chemotherapy was initiated after recovering from the surgical procedure.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Peterson will be closely monitored every three months for the first two years, then six-monthly thereafter. He will continue on adjuvant chemotherapy as per schedule, and regular blood tests will be performed to monitor his CEA levels. A low-fiber diet and adequate fluid intake are recommended to manage his ileal conduit.
+
+Patient Education:
+	Mr. Peterson and his family were extensively counseled about the importance of adhering to the treatment plan, recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Peterson was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to avoid lifting heavy objects and participate in light activities only after consultation with his physician.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Peterson's long-term survival. It is essential that he adheres to the recommended lifestyle modifications and attends all scheduled follow-up appointments.
+
+Final Remarks:
+	The attending physician, Dr. Samuel Vallejo, expressed her satisfaction with Mr. Peterson's resilience throughout the treatment journey and commended his cooperation. She emphasized the importance of continued adherence to the treatment plan for a favorable prognosis. Both Mr. Peterson and Dr. Vallejo signed this report on 07/20/2021, validating its completion.

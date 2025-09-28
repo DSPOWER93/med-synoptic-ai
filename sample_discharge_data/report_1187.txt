@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Daniel Cowley
+	•Date of Birth: 1970-05-23
+	•Medical Record Number: M1187
+	•Date of Admission: 2022-04-15
+	•Date of Discharge: 2022-05-10
+	•Attending Physician: Dr. Brian Alexander
+	•Primary Diagnosis: Colorectal Cancer (Stage III) with metastasis to the liver
+
+Reason for Admission:
+	Daniel Cowley was admitted to the hospital due to a series of symptoms that had been escalating over the past few weeks, including persistent abdominal pain, unintentional weight loss, and a change in bowel habits. Upon initial assessment, the attending physician suspected colon cancer, prompting a series of diagnostic investigations. The patient underwent a colonoscopy, abdominal CT scan, and liver function tests, which confirmed the diagnosis of colorectal cancer with metastasis to the liver.
+
+Medical History:
+	Daniel Cowley's medical history was significant for hypertension and COPD, both of which were well-controlled through medications. He had a past surgical history that included an appendectomy at age 15 and a cholecystectomy in 2015. His family history was notable for colon cancer in his father at age 65. John had no known allergies and was taking medications for hypertension, COPD, and acid reflux before admission.
+
+Diagnostic Findings:
+	The colonoscopy revealed a large tumor in the descending colon that obstructed the lumen. The abdominal CT scan showed multiple liver lesions, consistent with metastasis. Liver function tests indicated elevated levels of alkaline phosphatase and total bilirubin, suggesting involvement of the liver by the cancer.
+
+Treatment Plan:
+	Given the advanced stage of John's colorectal cancer, a multidisciplinary team developed a comprehensive treatment plan that included surgical resection of the primary tumor, chemotherapy, and radiation therapy. The patient underwent an open colon resection followed by formation of an ileal conduit for urinary diversion. Post-operative care involved pain management, wound care, nutritional support, and close monitoring for complications such as anastomotic leak or infection.
+
+Hospital Course:
+	John's initial recovery from surgery was uneventful. However, he faced challenges with post-operative ileus, which responded well to conservative management and bowel rest. Throughout his hospital stay, the patient received chemotherapy as an inpatient, and the team closely monitored him for side effects such as nausea, fatigue, and myelosuppression.
+
+Follow-Up Plan:
+	Upon discharge, John was scheduled for regular outpatient follow-up appointments with his oncologist and surgeon. He was advised to continue taking his medications for hypertension, COPD, and acid reflux, with close monitoring of their dosages. The patient was also given dietary recommendations to maintain a high-fiber, low-fat diet to support overall health and reduce the risk of recurrence.
+
+Patient Education:
+	John and his family were extensively educated on post-surgical care for the ileal conduit, recognizing signs of complications such as urinary tract infections or obstruction, and managing common side effects of chemotherapy.
+
+Discharge Instructions:
+	Prior to discharge, John was given detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also informed about the importance of regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension and COPD.
+
+Prognosis and Long-Term Outlook:
+	While the treatment provided has significantly improved John's prognosis, regular monitoring is crucial for early detection of any potential recurrence or complications. It is essential that John maintains a healthy lifestyle, including proper diet and exercise, to maximize his chances of long-term survival.
+
+Final Remarks:
+	Dr. Brian Alexander commends Daniel Cowley on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-ups and adherence to the prescribed regimen for optimal outcomes. This report is signed by Dr. Brian Alexander, M.D., and Daniel Cowley, on 2022-05-10.

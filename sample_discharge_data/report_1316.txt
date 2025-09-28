@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alexandria Bird
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1316
+	•Date of Admission: 04/01/2023
+	•Date of Discharge: 20/01/2023
+	•Attending Physician: Dr. Sandra Miller
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Alexandria Bird was admitted to the hospital after experiencing hematuria, frequent urinary tract infections, and lower back pain for several months. The initial assessment revealed an enlarged bladder and a palpable mass during pelvic examination. A series of diagnostic tests were ordered, including a computed tomography (CT) scan, cystoscopy, and urine cytology, which confirmed the presence of transitional cell carcinoma in the bladder.
+
+Medical History:
+	Mr. Bird has a history of hypertension and diabetes mellitus type 2, for which he was being managed with medications. He had undergone cholecystectomy in 2018 due to gallbladder stones. His father passed away from colon cancer at the age of 65. Mr. Bird has no known allergies and was taking metformin, lisinopril, and atorvastatin before admission.
+
+Diagnostic Findings:
+	The CT scan revealed a large, irregular mass in the bladder with evidence of invasion into the muscularis propria. The cystoscopic examination confirmed the presence of a tumor that was obstructing the ureteral orifices. Urine cytology showed malignant cells consistent with transitional cell carcinoma. Blood tests revealed elevated levels of creatinine, suggesting possible renal impairment due to the obstruction.
+
+Treatment Plan:
+	A multidisciplinary team, including urologists, oncologists, radiation therapists, and nurse practitioners, developed a comprehensive treatment plan for Mr. Bird. The primary intervention was a radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy (MVAC regimen) and concurrent radiation therapy to the pelvis. Post-operative care included wound management, pain control, and nutritional support.
+
+Hospital Course:
+	Mr. Bird's initial recovery from surgery was smooth, and he tolerated the chemotherapy cycles well, with minor side effects such as nausea and fatigue. The patient received intensive physiotherapy to aid in mobilization and prevent deep vein thrombosis. A dietitian provided nutritional support to help with wound healing and weight maintenance.
+
+Follow-Up Plan:
+	Mr. Bird will return for regular follow-up appointments every 3 months for the first year, then every 6 months thereafter. He will continue taking his hypertension and diabetes medications as prescribed and maintain a healthy diet. The patient was instructed to monitor his urine output and report any signs of hematuria, frequency, or urgency promptly.
+
+Patient Education:
+	Mr. Bird and his family were educated about the nature of bladder cancer, the treatment options, and the importance of adhering to the prescribed medication regimen. They were also instructed on post-surgical care, including ileal conduit management, recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bird was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a balanced diet and avoid heavy lifting or strenuous activities for at least 6 weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Mr. Bird's prognosis is favorable given the T2N0M0 stage at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues, such as diabetes and hypertension, will be essential in ensuring his long-term survival.
+
+Final Remarks:
+	Mr. Alexandria Bird's resilience and cooperation throughout the treatment journey were commendable. The attending physician, Dr. Sandra Miller, expressed her appreciation for the patient's courage and determination to fight this disease. The report is signed by Dr. Miller and Mr. Bird on [20/01/2023].

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lisa Bent
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1159
+	•Date of Admission: 06/01/2021
+	•Date of Discharge: 07/15/2021
+	•Attending Physician: Dr. Joyce Grenier
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Lisa Bent, presented to our institution with a persistent hematuria, or blood in the urine, over the past three months. A urological evaluation revealed an irregularity in his bladder that warranted further investigation. Upon examination and initial diagnostic tests, a provisional diagnosis of TCC was made. Due to the aggressive nature of this type of cancer, prompt surgical intervention was deemed necessary.
+
+Medical History:
+	Mr. Bent has a history of well-controlled hypertension and Type 2 diabetes. He is a lifelong non-smoker but has a family history significant for bladder cancer, as his father passed away from the same condition. Prior to admission, he was on medication for both his hypertension and diabetes. He had no known allergies to medications.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted, including cystoscopy, biopsy, CT scans, and MRI. The pathology report confirmed the presence of TCC in the bladder with evidence of muscle invasion (T2). Imaging studies showed no signs of metastasis or lymph node involvement. Blood tests revealed mild anemia, which is consistent with the hematuria symptoms.
+
+Treatment Plan:
+	A radical cystectomy was performed, along with the creation of an ileal conduit for urinary diversion. Post-operative care involved close monitoring for complications and management of pain. Mr. Bent began a standard adjuvant chemotherapy regimen consisting of Gemcitabine and Cisplatin. Radiation therapy was not deemed necessary based on the initial staging.
+
+Hospital Course:
+	The patient's initial recovery from surgery was successful, with no major complications. He received intensive physiotherapy to aid in his mobility and nutritional support to manage weight loss. Throughout his hospital stay, Mr. Bent demonstrated resilience and cooperation, adhering closely to the treatment plan.
+
+Follow-Up Plan:
+	The post-discharge follow-up plan includes regular outpatient appointments with oncology and urology specialists for monitoring and potential further treatment. Medications will be adjusted as necessary based on response to therapy and management of side effects. A low-salt, low-fat diet is recommended to manage his diabetes. The patient has been instructed to watch for signs of dehydration, wound infection, or urinary problems.
+
+Patient Education:
+	Mr. Bent and his family were extensively educated on the nature of his condition, treatment options, and post-surgical care requirements. He was instructed on the proper management of his ileal conduit, recognizing signs of complications such as leakage or blockages, and managing common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bent was provided with a detailed care plan outlining medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to schedule follow-up appointments as directed by his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for TCC depends on the stage at diagnosis and the patient's response to treatment. Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues.
+
+Final Remarks:
+	The attending physician, Dr. Joyce Grenier, commends Mr. Bent for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of adhering to the post-discharge care plan for a successful recovery and continued good health. Signed, Dr. Joyce Grenier (Date July 15, 2021) / Lisa Bent (Date July 15, 2021)

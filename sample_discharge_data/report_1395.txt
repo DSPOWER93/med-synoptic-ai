@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stacy Thompson
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1395
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Beth Crowe
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Stacy Thompson, a 53-year-old male with no known allergies and a medical history significant for hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), presented to the emergency department with complaints of persistent lower abdominal pain, rectal bleeding, and unintentional weight loss of approximately 15 kg over three months. A thorough physical examination revealed abdominal tenderness, a palpable mass, and melena on rectal examination. Initial laboratory investigations showed elevated carcinoembryonic antigen (CEA) levels and a complete blood count with anemia. Subsequent imaging studies including computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large mass in the transverse colon, as well as multiple enlarged lymph nodes in the mesocolon and the retroperitoneum, consistent with malignancy.
+
+Medical History:
+	Apart from the chronic conditions mentioned above, Stacy Thompson had no other significant medical or surgical history. He was not a current smoker but had quit 10 years ago. His family history was notable for colon cancer in his father and paternal grandfather. He was taking metformin for diabetes and lisinopril and hydrochlorothiazide for hypertension prior to admission.
+
+Diagnostic Findings:
+	Further investigations during the hospital stay included a colonoscopy, which confirmed the presence of an ulcerated mass in the transverse colon. Pathology reports from the excised specimen revealed moderately differentiated adenocarcinoma of the colon. Staging was confirmed to be Stage III following positron emission tomography (PET) scan and a subsequent laparotomy, which also revealed multiple enlarged lymph nodes in the mesentery and along the inferior vena cava.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Stacy Thompson. He underwent a right hemicolectomy with primary anastomosis, followed by a temporary loop ileostomy. Post-operative care involved close monitoring of his fluid and electrolyte balance, pain management, and early mobilization. The post-operative course was complicated by a minor wound infection, which was treated with antibiotics. Following recovery from surgery, Stacy Thompson began a 12-cycle regimen of capecitabine and oxaliplatin chemotherapy. He also received radiation therapy to the pelvis, administered in daily fractions over four weeks.
+
+Hospital Course:
+	During his hospital stay, Stacy Thompson's condition stabilized, and he recovered well from surgery. He was taught how to manage his ileal conduit, including emptying, cleaning, and changing the pouch when necessary. He was also provided with nutritional support, physical therapy, and psychological counseling to help him cope with the emotional aspects of his illness.
+
+Follow-Up Plan:
+	Following discharge, Stacy Thompson will undergo a series of scheduled outpatient appointments for follow-up care, including CEA levels monitoring, colonoscopy, and computed tomography (CT) scans as per standard guidelines for colorectal cancer survivors. He will continue to take his diabetes and hypertension medications, and his dosages may be adjusted based on his response to treatment. Lifestyle modifications, including a balanced diet, regular exercise, and avoidance of tobacco, are strongly recommended.
+
+Patient Education:
+	Stacy Thompson and his family were educated about the nature of his disease, the importance of adhering to the treatment plan, recognizing signs of complications such as fever, increased pain, or changes in bowel habits, and managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Prior to discharge, Stacy Thompson was provided with a detailed list of medications to be continued and their dosages, as well as instructions for wound care, hydration, and physical activity guidelines. He was advised to follow up with his oncologist regularly for monitoring and management of side effects.
+
+Prognosis and Long-Term Outlook:
+	While the prognosis for Stacy Thompson is guarded due to the advanced stage of his cancer at diagnosis, regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in ensuring the best possible outcomes.
+
+Final Remarks:
+	I would like to express my appreciation for Stacy Thompson's resilience throughout his treatment journey and his cooperation with the care team. I wish him a speedy recovery and hope that he remains healthy and strong in the days ahead.

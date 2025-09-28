@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jeremy Merrill
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1105
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Bryan Wellman
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage III)
+
+Reason for Admission:
+	Jeremy Merrill, a 42-year-old male, was admitted to our facility on January 1, 2022, due to persistent upper abdominal pain and jaundice. Initial assessments revealed a distended abdomen, pale skin, and dark urine. A series of diagnostic tests were performed, including an ultrasound, CT scan, MRI, and blood tests, which confirmed the presence of a tumor in his pancreas.
+
+Medical History:
+	Mr. Merrill has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has undergone two abdominal surgeries in the past—a laparoscopic cholecystectomy and appendectomy. His family has a history of pancreatic cancer. Mr. Merrill is allergic to penicillin and sulfa drugs. Before his hospitalization, he was taking metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	The pathology report revealed a well-differentiated pancreatic adenocarcinoma, measuring approximately 5cm in size. Imaging scans showed that the tumor had invaded the adjacent organs and lymph nodes but had not metastasized. Blood tests showed elevated levels of CA19-9, a marker for pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Merrill. The primary intervention was a Whipple procedure followed by adjuvant chemotherapy and radiation therapy. Post-operative care included pain management, nutritional support via a feeding tube, and monitoring of his blood glucose levels due to his diabetes.
+
+Hospital Course:
+	Mr. Merrill's initial recovery from the surgery was successful, but he faced several challenges during his hospital stay, including complications related to his diabetes control and poor appetite. Therapy sessions helped him regain strength and mobility, while nutritional support aided in his overall recovery. The disease was managed through pain control measures, antibiotics for any infections, and close monitoring of his condition.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Merrill will be scheduled for regular follow-up appointments with Dr. Wellman every three months for the first year, then six months thereafter. He will continue his current medications, including metformin and lisinopril, and adjustments to his tiotropium bromide may be required based on his COPD symptoms. A low-fat diet is recommended, and he should maintain a healthy weight to reduce the risk of recurrence. Any signs of unusual abdominal pain, fever, or changes in bowel habits require immediate medical attention.
+
+Patient Education:
+	Mr. Merrill was educated about the importance of post-surgical care, including managing his ileal conduit and recognizing signs of complications such as leakage, blockage, or infection. He was also taught how to manage common side effects like fatigue, diarrhea, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Merrill was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a follow-up schedule and contact his healthcare provider immediately if any concerns arise.
+
+Prognosis and Long-Term Outlook:
+	It is crucial for Mr. Merrill to have regular monitoring for early detection of recurrence and managing ongoing health issues related to his diabetes, COPD, and surgery. With diligent follow-up care and adherence to the recommended lifestyle changes, Mr. Merrill has a fighting chance against this disease.
+
+Final Remarks:
+	Dr. Wellman would like to express her appreciation for Mr. Merrill's resilience and cooperation throughout his treatment journey. She encourages him to continue fighting with the support of his family and healthcare team. This report is signed by Dr. Bryan Wellman on January 5, 2022.

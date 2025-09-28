@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Morris Humiston
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1404
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 05/20/2023
+	•Attending Physician: Dr. Maria Golson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Morris Humiston was admitted to the hospital due to complaints of abdominal pain, persistent diarrhea, and unexplained weight loss over a period of several weeks. Upon initial assessment, he exhibited signs of anemia, dehydration, and abnormalities in his abdomen. A series of diagnostic investigations were conducted, including a colonoscopy, CT scan, and blood tests, which confirmed the presence of colorectal cancer. The severity of symptoms suggested that the cancer had progressed to Morris Humiston.
+
+Medical History:
+	Morris Humiston has a history of hypertension and Type 2 diabetes, both of which were well-controlled with medications prior to admission. He is a 43-year-old male with no known significant family history of cancer. He underwent a laparoscopic cholecystectomy in 2015. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology results from the tumor resection showed moderately differentiated adenocarcinoma invading the muscularis propria of the colon, with lymph node involvement. The CT scan revealed multiple enlarged lymph nodes in the mesocolon and liver metastasis. Blood tests showed anemia, elevated CEA levels, and electrolyte imbalances due to dehydration.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Morris Humiston. He underwent a partial colectomy followed by a right hemicolectomy with lymph node dissection. Post-operative care included intravenous fluids, pain management, and antibiotics to prevent infection. He was also initiated on adjuvant chemotherapy consisting of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles, with a regimen of radiation therapy to the liver metastasis. Management of side effects such as neutropenia, neuropathy, and nausea was also part of his treatment plan.
+
+Hospital Course:
+	Morris Humiston's initial recovery from surgery was successful, and he tolerated chemotherapy well. However, he experienced several challenges during his hospital stay, including dehydration due to diarrhea, electrolyte imbalances, and low neutrophil counts. Therapy and nutritional support were essential in managing these issues. His condition stabilized, and he was discharged after 72 days.
+
+Follow-Up Plan:
+	Morris Humiston will be scheduled for regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue taking medications to manage his hypertension and diabetes and will adhere strictly to a low-fiber diet and good hydration practices. Lifestyle changes such as regular exercise and stress management are also recommended. Warning signs requiring immediate medical attention include fever, increased abdominal pain, persistent diarrhea, or rapid weight loss.
+
+Patient Education:
+	Morris Humiston and his family were educated about the importance of post-surgical care, including proper wound care practices, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Morris Humiston was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for at least six weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Morris Humiston's long-term health issues. Close adherence to the follow-up plan and a healthy lifestyle are essential for improving his prognosis.
+
+Final Remarks:
+	Dr. Maria Golson concludes this report, commending Morris Humiston's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for optimal health outcomes. Both the physician's and patient's signatures are included on the report, dated May 20, 2023.

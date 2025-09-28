@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Reid Hutchison
+	•Date of Birth: 12/03/1975
+	•Medical Record Number: M145
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 28/02/2023
+	•Attending Physician: Dr. Denise Day
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Reid Hutchison, aged 47, presented to our emergency department with persistent hematuria (blood in urine) and dysuria (painful urination) over a period of three weeks. The initial assessment revealed a weak and fatigued patient in moderate distress. Blood work showed an elevated white blood cell count, indicating an infection or inflammation. Abdominal and pelvic ultrasound scans suggested the presence of a mass in the bladder. A cystoscopy confirmed the diagnosis of TCC of the bladder with no evidence of invasion beyond the muscularis propria.
+
+Medical History:
+	Reid Hutchison's past medical history was significant for hypertension, which was controlled with medication, and chronic obstructive pulmonary disease (COPD). He had a history of smoking but had quit 6 months prior to admission. His family history was notable for colon cancer in his father. He had undergone a left inguinal hernia repair surgery 10 years ago. Before admission, he was taking lisinopril, amlodipine, and salmeterol/fluticasone inhaler.
+
+Diagnostic Findings:
+	Biopsy of the bladder tissue confirmed TCC. A CT scan with contrast showed a 4cm mass occupying most of the bladder lumen. The kidneys, ureters, and adjacent organs appeared normal. Blood tests revealed an elevated creatinine level, suggesting impaired renal function.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Reid Hutchison. The primary intervention was a radical cystectomy followed by an ileal conduit formation. Post-operative care included management of drains, catheters, and pain control. He started on adjuvant chemotherapy with Gemcitabine and Cisplatin, administered every three weeks for four cycles. Radiation therapy was not deemed necessary due to the early stage of the cancer.
+
+Hospital Course:
+	Reid Hutchison underwent a successful radical cystectomy on 03/02/2023. The initial recovery was uneventful, with no major complications. However, he developed a urinary tract infection post-surgery which required antibiotic treatment. His renal function gradually improved during the hospital stay. He also received physical therapy and nutritional support to aid in his recovery.
+
+Follow-Up Plan:
+	Reid Hutchison will be followed up every three months for the first two years, then semi-annually thereafter. He will continue on Gemcitabine maintenance therapy after completing the initial four cycles of adjuvant chemotherapy. Dietary recommendations include a low-fat, high-protein diet to aid in his recovery and reduce the risk of recurrence.
+
+Patient Education:
+	Reid Hutchison and his family were educated about the importance of regular follow-ups, early detection of recurrence, and the management of an ileal conduit. They were instructed on signs of complications such as fevers, chills, flank pain, or changes in urine color or odor. Common side effects of chemotherapy, such as nausea, fatigue, and myalgia, were discussed and managed appropriately.
+
+Discharge Instructions:
+	Reid Hutchison was discharged with instructions to take his prescribed medications as directed, maintain good wound care practices, monitor his urine output and color, and maintain adequate hydration. He was advised to avoid heavy lifting for six weeks and gradually increase physical activity under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for TCC of the bladder is generally good if diagnosed early and treated appropriately. Regular monitoring for recurrence is crucial.
+
+Final Remarks:
+	Reid Hutchison demonstrated remarkable resilience throughout his treatment journey. His cooperation, along with the efforts of our dedicated team, led to a successful outcome. We wish him a speedy recovery and hope for many years of good health ahead.

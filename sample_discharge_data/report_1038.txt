@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nathan Rodriguez
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1038
+	•Date of Admission: 05/03/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Florence Mckinney
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Nathan Rodriguez, a 37-year-old male with a past medical history of hypertension and COPD, presented to the emergency department with symptoms of hematuria (blood in urine) and dysuria (painful urination). Upon initial assessment, his abdomen was tender and distended, and laboratory tests showed an elevated white blood cell count. Further diagnostic investigations included a cystoscopy and biopsy, which confirmed the diagnosis of urothelial carcinoma.
+
+Medical History:
+	Prior to admission, John had been taking medication for his hypertension and COPD. He has no known allergies. His father died of prostate cancer at age 65, and his mother is a survivor of breast cancer.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of malignant cells in the bladder tissue. A computed tomography (CT) scan showed a tumor in the bladder with no evidence of distant metastases. Blood tests revealed an elevated creatinine level, indicating kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. This included radical cystectomy (removal of the bladder), creation of an ileal conduit (a way to direct urine from the kidneys to a bag outside the body), and chemotherapy post-surgery. He underwent a total of six cycles of chemotherapy to reduce the risk of recurrence. Radiation therapy was considered but ultimately deemed unnecessary due to the absence of distant metastases.
+
+Hospital Course:
+	After surgery, John's recovery was monitored closely. He experienced post-operative complications, including an ileus (temporary paralysis of the intestines), which resolved with conservative management and intravenous fluids. He received physical therapy to aid in mobility and was supported nutritionally through a diet tailored to his needs.
+
+Follow-Up Plan:
+	John will return for regular outpatient appointments every three months for the first year, then every six months thereafter. His medications have been adjusted to manage his hypertension and COPD. He was educated on maintaining a healthy lifestyle, including a balanced diet and regular exercise. It is crucial that he reports any signs of complications such as fever, persistent abdominal pain, or changes in urine output.
+
+Patient Education:
+	John and his family were provided extensive education about the ileal conduit, including emptying techniques, cleaning instructions, and recognizing signs of complications. They were also informed about managing common side effects of chemotherapy such as fatigue, nausea, and hair loss.
+
+Discharge Instructions:
+	Upon discharge, John was given detailed instructions on medication adherence, wound care practices, fluid intake, and physical activity guidelines to ensure his continued recovery. He was advised to seek immediate medical attention if he experiences any signs of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. John will need ongoing management for his underlying conditions, hypertension, and COPD. It is important that he continues to follow a healthy lifestyle and attends all scheduled appointments.
+
+Final Remarks:
+	Dr. Mckinney expresses her gratitude for John's resilience throughout the treatment journey and commends him on his cooperation. She emphasizes the importance of continued monitoring and adherence to the post-discharge plan to ensure the best possible outcome. Both John and Dr. Mckinney have signed this report, and the date is recorded as 05/21/2022.

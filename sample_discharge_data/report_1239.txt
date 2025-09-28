@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Caroline Jeffries
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1239
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 05/02/2023
+	•Attending Physician: Dr. Austin Givens
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Caroline Jeffries presented to the emergency department with a one-month history of intermittent abdominal pain, bloating, and a change in bowel habits. On initial assessment, he reported weight loss and fatigue. The symptoms worsened over time, leading to an urgent referral for further investigations. Upon admission, abdominal and rectal examinations revealed a palpable mass, prompting immediate diagnostic tests.
+
+Medical History:
+	Caroline Jeffries has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2010 and has allergies to penicillin and sulfa drugs. His family history is significant for colon cancer in his father and paternal grandmother. Prior to admission, he was on medications including metformin, losartan, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Investigations included complete blood count, comprehensive metabolic panel, carcinoembryonic antigen (CEA), and colonoscopy with biopsy. The CEA level was elevated at 10.2 ng/mL. Colonoscopy revealed a mass in the transverse colon. A CT scan of the abdomen and pelvis confirmed a large, heterogeneously enhancing mass in the transverse colon with regional lymphadenopathy, suggesting Stage III colon cancer.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Caroline Jeffries. This included a right colectomy with an ileo-transverse colostomy followed by chemotherapy. Post-operative care involved management of pain, wound infection prevention, and monitoring for complications such as anastomotic leak. The initial chemotherapy regimen consisted of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) with a cycle every two weeks. Radiation therapy was not indicated due to the extent of the disease.
+
+Hospital Course:
+	Caroline Jeffries's initial recovery from surgery was uneventful; however, he developed chemotherapy-induced neutropenia and diarrhea. He received appropriate supportive care, including antibiotics for fever and antidiarrheal medications. Nutritional support was provided through a high-calorie, low-residue diet, and enteral nutrition when needed.
+
+Follow-Up Plan:
+	Post-discharge, Caroline Jeffries will continue with FOLFOX chemotherapy as an outpatient. He is scheduled for follow-up appointments every three months for the first year, then six months thereafter. Regular CEA levels will be monitored. Lifestyle recommendations include maintaining a healthy diet, regular exercise, and avoidance of smoking and alcohol. Any signs of complications such as fever, chills, persistent diarrhea, or abdominal pain should prompt immediate medical attention.
+
+Patient Education:
+	Caroline Jeffries and his family were educated about the importance of adhering to the chemotherapy schedule, managing the ileal conduit, recognizing signs of complications, and coping with common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Caroline Jeffries was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to take his medications as prescribed, keep the wound clean and dry, drink at least 8-10 glasses of water daily, and gradually increase physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Caroline Jeffries was informed about the importance of maintaining a healthy lifestyle to manage ongoing health issues such as hypertension and diabetes.
+
+Final Remarks:
+	The report concludes with Dr. Austin Givens's final remarks, acknowledging Caroline Jeffries's resilience throughout his treatment journey and emphasizing the importance of continued cooperation for optimal outcomes. Both the physician's and patient's signatures are included, along with the date to validate the report.

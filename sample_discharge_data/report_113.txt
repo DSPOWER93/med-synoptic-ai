@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Abraham Lott
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M113
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 03/12/2022
+	•Attending Physician: Dr. Lyle Manship
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	The patient, Mr. Abraham Lott, presented with a three-month history of hematuria (blood in urine) and dysuria (painful urination). Initial assessment revealed a palpable mass in the lower abdomen, prompting further investigations. Urinalysis confirmed the presence of red blood cells, while computed tomography (CT) scan revealed a 4 cm mass in the bladder with no evidence of distant metastasis.
+
+Medical History:
+	Mr. Lott's past medical history is significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He has a family history of bladder cancer and colon cancer. Known allergies include penicillin and sulfa drugs. Prior to admission, he was taking metformin, amlodipine, atorvastatin, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	During the hospital stay, cystoscopy confirmed the diagnosis of T2 bladder cancer, and transurethral resection of bladder tumor (TURBT) was performed. Pathology report from the TURBT specimen revealed moderately differentiated urothelial carcinoma. CT scan also showed a 3 cm mass in the rectum, biopsy confirmed adenocarcinoma. Blood tests showed elevated levels of creatinine, indicating kidney dysfunction.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Lott. This included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved pain management, wound care, and nutritional support. The chosen chemotherapy regimen was MVAC (Methotrexate, Vinblastine, Adriamycin, Cisplatin), with a cycle of every 3 weeks for six cycles. Radiation therapy was considered but ultimately not necessary due to the absence of lymph node involvement.
+
+Hospital Course:
+	After successful radical cystectomy and ileal conduit formation, Mr. Lott experienced expected post-operative complications such as urinary leakage and ileus. He required additional surgeries to manage these issues. Regular therapy sessions helped improve his mobility, and nutritional support aided in weight maintenance. The disease was well controlled throughout the hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Lott will be scheduled for regular outpatient appointments every 3 months for the first year, then semi-annually thereafter. He will continue taking metformin and amlodipine, while atorvastatin and salmeterol/fluticasone will be discontinued temporarily due to potential interactions with chemotherapy. A low-salt diet is recommended due to hypertension, and lifestyle modifications for diabetes and COPD management are essential. Any changes in urine color or abnormal urinary symptoms should be reported immediately.
+
+Patient Education:
+	Mr. Lott and his family were provided comprehensive education on post-surgical care, ileal conduit function, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Lott was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Lifelong follow-up will be necessary, as bladder cancer patients are at increased risk for second primary tumors.
+
+Final Remarks:
+	The attending physician, Dr. Lyle Manship, expressed her gratitude to Mr. Lott for his resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Manship and Mr. Lott, validating the documentation on [03/12/2022].

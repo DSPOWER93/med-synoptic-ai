@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Deborah Jacobsen
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1340
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/05/2023
+	•Attending Physician: Dr. Jessie Martin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Deborah Jacobsen, was admitted to our hospital due to symptoms of persistent abdominal pain and changes in bowel habits, accompanied by unexplained weight loss. Initial assessments revealed an abdominal mass, and laboratory tests indicated a high carcinoembryonic antigen (CEA) level, leading to the suspicion of colorectal cancer. Further investigations through colonoscopy, computed tomography (CT), and magnetic resonance imaging (MRI) confirmed the diagnosis.
+
+Medical History:
+	Mr. Jacobsen has a history of hypertension, which is controlled with medication. He was diagnosed with Type 2 diabetes mellitus five years ago. Recently, he underwent a laparoscopic cholecystectomy due to gallstones. His family history is significant for colorectal cancer, as his father was diagnosed at the age of 60. Mr. Jacobsen has no known allergies and was taking metformin, lisinopril, and simvastatin prior to admission.
+
+Diagnostic Findings:
+	Pathology report on the excised colon specimen confirmed adenocarcinoma. CT scan revealed a 5cm mass in the descending colon with regional lymph node involvement. MRI further illustrated the tumor's location and surrounding structures. Blood tests showed increased levels of CEA, lactate dehydrogenase (LDH), and alkaline phosphatase (ALP).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Jacobsen. This included a laparoscopic colectomy, ileal conduit creation, and regional lymph node dissection followed by six cycles of FOLFOX chemotherapy (oxaliplatin, leucovorin, fluorouracil). The patient was also referred for radiation therapy due to the possibility of residual disease in the resected area.
+
+Hospital Course:
+	Mr. Jacobsen underwent a successful laparoscopic colectomy and ileal conduit creation on [Date of Surgery]. Post-operative recovery was uneventful, but he experienced mild chemotherapy-induced peripheral neuropathy and diarrhea during the treatment course. Nutritional support was provided to manage his weight loss, and physical therapy aided in regaining strength and mobility.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Jacobsen will be scheduled for outpatient appointments every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary, with specific emphasis on controlling his blood sugar levels. A low-fiber diet and hydration guidelines are recommended to manage his ileal conduit. Warning signs such as severe abdominal pain, persistent diarrhea, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	The patient and his family were educated about the treatment options, post-surgical care, managing the ileal conduit, recognizing signs of complications, and coping with common side effects like fatigue, nausea, and appetite changes.
+
+Discharge Instructions:
+	Upon discharge, Mr. Jacobsen was provided instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues for Mr. Jacobsen. He was counseled on the importance of lifestyle modifications such as a healthy diet, regular exercise, and stress management to improve his quality of life.
+
+Final Remarks:
+	In conclusion, I would like to express my appreciation for Mr. Jacobsen's resilience and cooperation throughout this challenging treatment journey. Together, we have achieved significant progress in managing his colorectal cancer. As he moves forward, I encourage him to continue with the recommended follow-up plan, maintain a positive attitude, and take care of himself both physically and emotionally.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jennifer Santiago
+	•Date of Birth: 01/10/1985
+	•Medical Record Number: M1172
+	•Date of Admission: 10/15/2022
+	•Date of Discharge: 11/23/2022
+	•Attending Physician: Dr. Solomon Peterson
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Jennifer Santiago was admitted to the hospital due to persistent abdominal pain, loss of appetite, and unintended weight loss over a period of three months. The initial assessment revealed jaundice and elevated levels of CA 19-9, prompting further diagnostic investigations. A computed tomography (CT) scan and endoscopic retrograde cholangiopancreatography (ERCP) confirmed the presence of a mass in the head of his pancreas, leading to the diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Santiago has a significant past medical history including hypertension and chronic obstructive pulmonary disease (COPD), for which he was on regular medication. He has no known allergies but has a family history of pancreatic cancer. Prior to admission, he underwent a left inguinal hernia repair surgery in 2018.
+
+Diagnostic Findings:
+	Biopsy samples from the ERCP showed adenocarcinoma cells consistent with pancreatic ductal adenocarcinoma (PDAC). CT scans revealed a large mass in the head of his pancreas, involving surrounding vessels and lymph nodes. Blood tests indicated elevated CA 19-9 levels, anemia, and hyperbilirubinemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Santiago. This included a Whipple procedure (pancreaticoduodenectomy) followed by adjuvant chemotherapy. Post-operative care focused on pain management, nutritional support, and monitoring for complications. The chosen chemotherapy regimen was FOLFIRINOX, consisting of oxaliplatin, irinotecan, fluorouracil, and leucovorin, to be administered every two weeks for six cycles. Radiation therapy was not deemed necessary given the extent of the disease.
+
+Hospital Course:
+	Mr. Santiago underwent a successful Whipple procedure on October 25, 2022. Post-operative recovery was challenging due to complications such as delayed gastric emptying and pancreatic fistula, managed through dietary modifications and medical intervention. Despite these setbacks, Mr. Santiago showed remarkable resilience and cooperated fully with the treatment plan.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Santiago will be scheduled for regular follow-up appointments every three months. He will continue his current medications and undergo CA 19-9 testing to monitor disease progression. A strict dietary regimen focusing on small, frequent meals is recommended to manage delayed gastric emptying.
+
+Patient Education:
+	Mr. Santiago and his family were provided comprehensive education about the ileal conduit, signs of complications such as obstruction or leakage, and common side effects like nausea and diarrhea. They were also instructed on how to recognize and manage these symptoms at home.
+
+Discharge Instructions:
+	Upon discharge, Mr. Santiago was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities during recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Santiago's ongoing health issues.
+
+Final Remarks:
+	Throughout his treatment journey, Mr. Santiago demonstrated remarkable resilience and cooperation. His courage and determination were inspiring, and we wish him a swift and full recovery.

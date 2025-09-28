@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patty Grant
+	•Date of Birth: 03/23/1978
+	•Medical Record Number: M1282
+	•Date of Admission: 01/15/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Barbara Mulligan
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Grant presented to the emergency department with persistent hematuria and lower abdominal pain. His initial assessment revealed a palpable mass in the lower abdomen, and laboratory results indicated an elevated creatinine level, suggestive of possible renal impairment. Subsequent urine cytology confirmed the presence of malignant cells, leading to the suspicion of bladder cancer. Further diagnostic investigations, including a CT scan and biopsy, confirmed the diagnosis of transitional cell carcinoma of the bladder.
+
+Medical History:
+	Mr. Grant has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 for gallbladder stones. He also has a significant family history of bladder cancer and breast cancer. His known allergies include penicillin, and he was taking metformin, enalapril, salmeterol/fluticasone, and albuterol prior to admission.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) revealed a high-grade transitional cell carcinoma with extensive muscle invasion. The CT scan showed a large heterogeneously enhancing mass in the bladder, extending into the muscularis propria, with evidence of lymph node involvement on the pelvic sidewall. Blood tests indicated anemia and mild renal dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Grant. This included a radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved catheter management and pain control. He was started on a combined chemotherapy regimen of gemcitabine and cisplatin, with six cycles planned. Radiation therapy was not deemed necessary at this stage due to the extent of the disease.
+
+Hospital Course:
+	Mr. Grant underwent a successful radical cystectomy and ileal conduit formation on February 10, 2023. His post-operative course was complicated by delayed recovery from anesthesia, resulting in prolonged hospitalization. He received intensive physical therapy to improve his mobility and wound care for the abdominal incision. His diabetes and hypertension were well-controlled throughout his stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Grant was scheduled for regular follow-up appointments every three months for the first year, then six-monthly thereafter. He will continue to take metformin and enalapril, with adjustments as necessary. A low-fat, high-fiber diet is recommended to manage his diabetes. He was instructed to monitor his urine output, report any signs of hematuria or abdominal pain, and seek immediate medical attention in case of fever, chills, or increased fatigue.
+
+Patient Education:
+	Mr. Grant and his family were educated about the ileal conduit and its care, including emptying techniques, cleaning, and recognizing signs of complications such as leakage or blockage. They were also instructed on managing common side effects of chemotherapy, such as nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Mr. Grant was provided with detailed discharge instructions, emphasizing the importance of medication adherence, wound care practices, maintaining hydration, and gradually increasing physical activity under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for bladder cancer is largely dependent on the stage at diagnosis and the response to treatment. Regular monitoring for early detection of recurrence is crucial. Mr. Grant was advised about the importance of maintaining a healthy lifestyle, including quitting smoking if applicable, regular exercise, and a balanced diet.
+
+Final Remarks:
+	Dr. Mulligan commended Mr. Grant on his resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Mulligan and Mr. Grant on April 12, 2023, validating the comprehensive documentation of his care.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sandy Parker
+	•Date of Birth: 12/01/1975
+	•Medical Record Number: M1145
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Terry Holmes
+	•Primary Diagnosis: Invasive Ductal Carcinoma, Staging T3N1M0
+
+Reason for Admission:
+	Sandy Parker, a 46-year-old male, was admitted to our hospital after presenting with a palpable breast lump and associated pain. Initial assessment revealed the lump was fixed, hard, and non-mobile. A series of diagnostic investigations were performed, including mammography, ultrasound, and biopsy, which confirmed the diagnosis of Sandy Parker Carcinoma (IDC) in the left breast. The tumor's size was approximately 5 cm in diameter, with axillary lymph node involvement on imaging.
+
+Medical History:
+	Mr. Parker has a history of hypertension and type 2 diabetes mellitus, both well-controlled with medication. He underwent a cholecystectomy in 2015 due to gallstones. His family history is significant for breast cancer, as his mother was diagnosed at age 54. He has no known allergies and was taking metformin, lisinopril, and atorvastatin prior to admission.
+
+Diagnostic Findings:
+	Pathology results confirmed the IDC diagnosis. Imaging studies showed a heterogeneously enhancing mass in the left breast, with involved axillary lymph nodes. Blood tests revealed elevated CA 15-3 (205 U/ml) and CEA (4.2 ng/ml).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Parker. He underwent a left modified radical mastectomy followed by a sentinel lymph node biopsy. The surgical intervention was successful, and he received post-operative care including pain management and wound care. Post-surgery, he started adjuvant chemotherapy with a regimen of cyclophosphamide, doxorubicin, and paclitaxel. He also received radiation therapy to the chest wall and axillae. Throughout his treatment course, he was closely monitored for side effects, such as myelosuppression, nausea, alopecia, and cardiotoxicity.
+
+Hospital Course:
+	After surgery, Mr. Parker recovered well without any major complications. He tolerated chemotherapy and radiation therapy reasonably well, with appropriate management of side effects. His pain was well-controlled throughout his hospital stay. Nutritional support was provided to ensure adequate caloric intake and prevent weight loss.
+
+Follow-Up Plan:
+	Mr. Parker will be scheduled for regular follow-up appointments every 3 months for the first two years, then every 6 months thereafter. He will continue taking tamoxifen for hormone receptor-positive breast cancer. Lifestyle modifications including maintaining a healthy weight and engaging in regular physical activity are recommended.
+
+Patient Education:
+	Mr. Parker and his family were educated about the importance of post-surgical care, especially wound healing, managing the ileal conduit (if applicable), recognizing signs of complications such as infection or seroma, and managing common side effects like fatigue and lymphedema.
+
+Discharge Instructions:
+	Mr. Parker was provided comprehensive discharge instructions, detailing medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also instructed to monitor his weight and report any changes in health status immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Parker's long-term health outcomes. Emphasizing the importance of follow-up appointments, maintaining a healthy lifestyle, and reporting any concerning symptoms will help ensure his continued recovery and improve his prognosis.
+
+Final Remarks:
+	Dr. Holmes would like to commend Mr. Parker for his courage and resilience throughout his treatment journey. She expresses her hope that he continues to be diligent in following the recommended care plan, and wishes him a speedy recovery and good health in the future.

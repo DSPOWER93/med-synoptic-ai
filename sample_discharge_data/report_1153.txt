@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Tunney
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1153
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Andrea Prewitt
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mr. Tunney presented to the emergency department with a two-week history of progressive lower abdominal pain, changes in bowel habits, and unexplained weight loss. An initial assessment revealed tenderness in the lower abdomen, palpable masses, and signs of dehydration. Further investigations including a CT scan confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Tunney has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 1985. His family history is notable for colon cancer in his father at age 60. He has a known allergy to penicillin. Prior to admission, Mr. Tunney was on metformin, amlodipine, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the sigmoid colon with regional lymphadenopathy, as well as liver metastases. Pathology reports confirmed the diagnosis of adenocarcinoma of the sigmoid colon. Blood tests showed anemia (Hb 8.5 g/dL), elevated CA19-9 levels (200 U/mL), and normal CEA levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Tunney. He underwent a sigmoid colectomy with primary anastomosis, followed by six cycles of FOLFOX (5-FU, leucovorin, and oxaliplatin) chemotherapy. Radiation therapy was not deemed necessary due to the extent of the disease. Management of side effects such as neutropenia, diarrhea, and neuropathy was initiated.
+
+Hospital Course:
+	Mr. Tunney's initial recovery from surgery was uneventful. He faced challenges with nutritional support due to his underlying diabetes and COPD. Close monitoring, adjustments in insulin and bronchodilator regimens, and enteral nutrition were implemented. Regular follow-ups with oncology, surgery, and radiology teams were maintained throughout the hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Tunney will be scheduled for regular outpatient appointments every three months for the first two years, then every six months thereafter. He will continue on oral 5-FU and maintain his diabetes and COPD medications. A low-fiber diet is recommended to minimize bowel symptoms. Any signs of increased abdominal pain, fever, or unexplained weight loss require immediate medical attention.
+
+Patient Education:
+	Mr. Tunney and his family were educated on post-surgical care, including incision site care, signs of infection, and management of an ileal conduit. They were instructed on recognizing signs of complications such as obstruction or perforation. Common side effects like diarrhea, neuropathy, and fatigue were discussed, along with strategies to manage these symptoms.
+
+Discharge Instructions:
+	Upon discharge, Mr. Tunney was provided with clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a contact number for urgent medical attention in case of any concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Tunney was informed about the importance of maintaining a healthy lifestyle, including regular exercise, balanced diet, and stress management, to improve his overall health outcomes.
+
+Final Remarks:
+	This report concludes with the attending physician's final remarks commending Mr. Tunney for his resilience and cooperation throughout the treatment journey. The physician emphasized the importance of continued follow-up care and encouraged Mr. Tunney to remain optimistic about his recovery. The report is signed by Dr. Andrea Prewitt and Robert Tunney, validating the document on April 15, 2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ramona Egland
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1080
+	•Date of Admission: 03/25/2023
+	•Date of Discharge: 05/15/2023
+	•Attending Physician: Dr. Edward Sanville
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the liver and lung
+
+Reason for Admission:
+	Mr. Egland presented to our facility with severe abdominal pain, nausea, and fatigue, accompanied by unexplained weight loss over a two-month period. Upon initial assessment, a large mass was palpated in his abdomen, and laboratory tests revealed elevated levels of creatinine and blood urea nitrogen (BUN). Further diagnostic investigations included computed tomography (CT) scans which confirmed the presence of a large tumor in the right kidney, with metastatic lesions in the liver and lungs.
+
+Medical History:
+	Mr. Egland has a past medical history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a laparoscopic cholecystectomy in 2018. His family history is significant for colon cancer, with his father being diagnosed at the age of 65. Mr. Egland has known allergies to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, albuterol, and tiotropium.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of RCC with poor differentiation. CT scans revealed a large, irregularly shaped tumor in the right kidney (12 cm x 8 cm), multiple lesions in both lungs, and several liver metastases. Additional blood tests indicated anemia (hemoglobin 9 g/dL) and elevated lactate dehydrogenase (LDH) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Egland. This included a right radical nephrectomy followed by adjuvant therapy. Post-operative care involved pain management, wound care, and monitoring for complications such as infection and bleeding. The patient was started on a 6-month regimen of sunitinib, an oral tyrosine kinase inhibitor. Radiation therapy was considered but ultimately deferred due to the patient's overall condition.
+
+Hospital Course:
+	Mr. Egland underwent a successful right radical nephrectomy on April 10, 2023. Post-operative recovery was initially challenging due to complications from his pre-existing COPD. However, with intensive therapy and nutritional support, he was able to stabilize and gradually improve over the subsequent weeks. His hemoglobin levels were maintained through red blood cell transfusions.
+
+Follow-Up Plan:
+	Mr. Egland will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue sunitinib therapy as prescribed and receive close monitoring for side effects such as hypertension, diarrhea, and fatigue. A low-sodium diet is recommended to manage his hypertension, while a healthy, balanced diet is advised to support overall health.
+
+Patient Education:
+	Mr. Egland was educated on the importance of adhering to his medication regimen and attending scheduled follow-up appointments. Instructions were provided on post-surgical care, including managing an ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions focused on medication adherence, wound care practices (including dressing changes and monitoring for signs of infection), hydration (drinking at least 8 cups of water daily unless otherwise directed), and physical activity guidelines (light walking for 10-15 minutes twice a day, starting one week post-discharge).
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Egland's ongoing health issues. While the prognosis for advanced RCC with metastasis is generally poor, aggressive treatment can extend survival and improve quality of life.
+
+Final Remarks:
+	Throughout his treatment journey, Mr. Egland displayed remarkable resilience and cooperation. We are confident that he will continue to make significant strides in his recovery. I wish him the best of health and success in the days ahead.

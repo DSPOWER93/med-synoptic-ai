@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jesse Russell
+	•Date of Birth: 12/03/1975
+	•Medical Record Number: M127
+	•Date of Admission: 01/05/2022
+	•Date of Discharge: 08/05/2022
+	•Attending Physician: Dr. John Vines
+	•Primary Diagnosis: Invasive Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Jesse Russell, a 46-year-old male, presented to the emergency department with a one-month history of frequent and painful urination accompanied by hematuria. The initial assessment included a thorough physical examination, urinalysis, and blood tests which revealed an elevated creatinine level and positive urine cytology. A computed tomography urogram (CTU) revealed an irregular mass in the bladder with possible invasion of the muscular layer. Subsequent transurethral resection of the bladder tumor (TURBT) confirmed the diagnosis of invasive bladder cancer (T3N0M0).
+
+Medical History:
+	Mr. Russell has a medical history significant for hypertension, controlled with lisinopril, and chronic obstructive pulmonary disease (COPD), managed with inhaled bronchodilators and oral steroids. He also has a family history of colon cancer. Mr. Russell was not known to have any allergies and was taking no medications prior to admission.
+
+Diagnostic Findings:
+	Pathology report from the TURBT confirmed the diagnosis of invasive urothelial carcinoma with an estimated tumor size of 5 cm in diameter. Imaging studies, including a CT scan and magnetic resonance imaging (MRI), demonstrated an extensive tumor involving the bladder muscularis propria without evidence of lymph node involvement or distant metastasis.
+
+Treatment Plan:
+	The multidisciplinary team, led by Dr. Vines, developed a comprehensive treatment plan for Mr. Russell. This included radical cystectomy with ileal conduit creation followed by adjuvant chemotherapy. Post-operative care involved close monitoring of wound healing and management of potential complications such as urinary leaks and infections. The planned chemotherapy regimen consisted of MVAC (methotrexate, vinblastine, doxorubicin, and cisplatin) with a total of six cycles administered every three weeks. Given the extent of the disease, radiation therapy was also considered as an adjunct treatment option; however, due to potential complications related to Mr. Russell's underlying COPD, it was decided not to proceed with radiation therapy.
+
+Hospital Course:
+	Mr. Russell underwent a successful radical cystectomy with ileal conduit creation on May 3rd. Post-operative recovery was complicated by a prolonged ileus requiring bowel rest for several days. Nutritional support through total parenteral nutrition (TPN) was provided during this period. Mr. Russell's symptoms improved gradually, and he was discharged on May 8th, with instructions to continue outpatient follow-up appointments, manage the ileal conduit, and monitor for signs of complications.
+
+Follow-Up Plan:
+	The post-discharge follow-up plan included regular oncology visits every three months for the first year, then six-monthly thereafter. Mr. Russell was advised to continue the prescribed oral chemotherapy until completion of treatment and remain under the care of his primary care physician for ongoing management of hypertension and COPD. Dietary recommendations included a high-protein, low-fiber diet during the initial recovery phase followed by gradual reintroduction of fiber-rich foods to promote regular bowel movements.
+
+Patient Education:
+	Mr. Russell and his family were educated about the importance of adhering to the chemotherapy regimen, maintaining a healthy lifestyle, monitoring for signs of complications such as fever, persistent abdominal pain, and changes in urine output or appearance. Instructions on post-surgical care included wound care practices, hydration guidelines, and physical activity restrictions during the early recovery phase.
+
+Discharge Instructions:
+	Mr. Russell was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to report any unusual symptoms promptly to his healthcare providers.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with invasive bladder cancer depends on the stage at diagnosis and response to treatment. Regular monitoring for early detection of recurrence is crucial, and Mr. Russell was advised to remain under close follow-up care to maximize his chances of a successful outcome.
+
+Final Remarks:
+	In closing, Dr. Vines expressed her appreciation for Mr. Russell's courage and resilience throughout the treatment journey. The report is signed by both Dr. Vines and Mr. Russell, validating their mutual understanding of the treatment plan and expectations moving forward.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Betsy Price
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1420
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Shizue Jackson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Betsy Price, a 48-year-old male, was admitted to the hospital due to persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss over several months. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels. Subsequent imaging studies confirmed the presence of a large lesion in the colon, along with multiple lymph node involvement, suggesting a possible colorectal cancer.
+
+Medical History:
+	Mr. Price has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had previously undergone a cholecystectomy in 2017. His family history is notable for colorectal cancer, as his father died from the disease at the age of 65. Mr. Price has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted during Mr. Price's hospital stay. These included a colonoscopy, computed tomography (CT) scans of the abdomen and pelvis, carcinoembryonic antigen (CEA) levels, complete blood count (CBC), electrolytes, liver function tests, and coagulation profile. The pathology report from the excised colon lesion confirmed an adenocarcinoma of the sigmoid colon. The imaging studies showed multiple lymph node involvement, as well as hepatic metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Price. He underwent a sigmoid colectomy with primary anastomosis and regional lymphadenectomy. Post-operative care included monitoring for complications, management of pain, and nutritional support. In addition, Mr. Price was initiated on adjuvant chemotherapy consisting of FOLFOX (oxaliplatin, leucovorin, 5-fluorouracil) regimen, administered every two weeks for a total of 12 cycles. Radiation therapy was not deemed necessary based on the imaging findings.
+
+Hospital Course:
+	Mr. Price's initial recovery from surgery was uneventful. However, he developed a fever and leukocytosis five days post-operation, which were managed with antibiotics. Throughout his hospital stay, Mr. Price received regular oncology consultations, therapy sessions, and nutritional support to help manage his disease and maintain adequate nutrition.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Price was scheduled for regular follow-up appointments with his oncologist every three months for the first two years, then every six months thereafter. He will continue taking metformin for diabetes management but will discontinue lisinopril and albuterol due to potential interactions with chemotherapy. A low-fat, high-fiber diet is recommended, along with regular physical activity. Warning signs of complications, such as increased abdominal pain, fever, or changes in bowel habits, should be reported immediately.
+
+Patient Education:
+	Mr. Price and his family were provided education on post-surgical care, management of the ileal conduit, and recognition of signs of complications. They were also instructed on managing common side effects associated with chemotherapy, such as nausea, fatigue, and peripheral neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Price was provided with comprehensive instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Price's long-term health. Lifelong follow-up with his oncologist and adherence to the recommended lifestyle changes will help improve his overall prognosis.
+
+Final Remarks:
+	Throughout Mr. Price's treatment journey, he demonstrated resilience and cooperation. I am confident that with continued care and adherence to the recommended regimen, he will make a full recovery.

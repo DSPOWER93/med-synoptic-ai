@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Arcelia Tewell
+	•Date of Birth: Date of Birth
+	•Medical Record Number: M153
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Susan Stewart
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient presented with a two-month history of hematuria, dysuria, and frequent urinary tract infections. On admission, the patient's symptoms were severe, with persistent hematuria and increased frequency and urgency of urination. A thorough initial assessment was conducted, followed by diagnostic investigations, including urine cytology, CT scan of the abdomen and pelvis, and cystoscopy, which confirmed the presence of a TCC of the bladder.
+
+Medical History:
+	The patient has a history of hypertension and chronic obstructive pulmonary disease (COPD). He underwent a left nephrectomy in 2015 due to renal cell carcinoma. The patient also has a family history of bladder cancer, with his father diagnosed at the age of 65. He is allergic to penicillin and sulfa drugs. His pre-admission medications include amlodipine for hypertension and albuterol for COPD.
+
+Diagnostic Findings:
+	The pathology report from the cystoscopy revealed a high-grade TCC of the bladder. The CT scan showed a large mass in the bladder with surrounding fat stranding, suggestive of invasive growth. Blood tests indicated anemia and mild renal dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for the patient. The primary intervention was a radical cystectomy with ileal conduit construction. Post-operative care included management of pain, wound care, and prevention of urinary tract infections. The patient underwent four cycles of chemotherapy (Gemcitabine and Cisplatin) to reduce the risk of recurrence. The radiation therapy was deferred due to the patient's renal dysfunction.
+
+Hospital Course:
+	The initial post-operative period was challenging for the patient, with complications such as anastomotic leakage and urinary retention. However, through careful management, these issues were successfully addressed. The patient responded well to chemotherapy, with minimal side effects managed effectively. Nutritional support was crucial in maintaining the patient's strength during his hospital stay.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for the patient. He will have regular outpatient appointments every three months for the first year, then six-monthly thereafter. The patient will continue his current medications and will be monitored for any signs of recurrence or complications related to the ileal conduit. Lifestyle modifications include quitting smoking, maintaining a balanced diet, and staying hydrated.
+
+Patient Education:
+	Extensive education was provided to the patient and his family about post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea, fatigue, and nephrotoxicity.
+
+Discharge Instructions:
+	The patient was provided with clear discharge instructions to ensure his continued recovery and health maintenance. These included adhering to the medication schedule, practicing good wound care, maintaining adequate hydration, and gradually increasing physical activity as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing this condition. The patient has been informed about the importance of attending all follow-up appointments and following the prescribed lifestyle modifications to maintain his health.
+
+Final Remarks:
+	The patient demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team. We are confident that he will continue to recover well post-discharge and look forward to his successful long-term management of this condition.

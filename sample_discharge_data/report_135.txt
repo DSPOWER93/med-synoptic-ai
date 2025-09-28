@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clayton Nelson
+	•Date of Birth: 02/20/1975
+	•Medical Record Number: M135
+	•Date of Admission: 10/15/2022
+	•Date of Discharge: 12/15/2022
+	•Attending Physician: Dr. Beth Crowe
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Clayton Nelson presented to the emergency department with a one-month history of intermittent abdominal pain, constipation, and unexplained weight loss. Upon initial assessment, he was found to be anemic and had palpable abdominal mass. Further investigations including CT scan and colonoscopy confirmed the presence of a large mass in the descending colon, leading to the diagnosis of colorectal cancer.
+
+Medical History:
+	Clayton Nelson has a significant medical history. He is a 47-year-old male with well-controlled hypertension and Type II diabetes mellitus. He is a smoker with a 30-pack-year history and has been diagnosed with Chronic Obstructive Pulmonary Disease (COPD) four years ago. He underwent a laparoscopic cholecystectomy five years ago for gallstones. He is allergic to penicillin and sulfa drugs. His pre-admission medications included metformin, lisinopril, atorvastatin, albuterol inhaler, and ipratropium bromide inhaler.
+
+Diagnostic Findings:
+	Pathology report from the tumor resection revealed moderately differentiated adenocarcinoma with positive lymph node involvement. The imaging studies showed no evidence of distant metastasis. His complete blood count (CBC) indicated anemia, and liver function tests showed mildly elevated transaminases.
+
+Treatment Plan:
+	Clayton Nelson underwent a laparoscopic left hemicolectomy with lymph node dissection. Post-operative care included pain management, antiemetics for nausea, and laxatives for constipation. He was started on adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil) and radiation therapy to the regional lymph nodes. He experienced expected side effects such as fatigue, nausea, and diarrhea which were managed with supportive care.
+
+Hospital Course:
+	Post-surgery, Clayton Nelson recovered well from anesthesia and commenced oral intake on the second post-operative day. He developed a post-operative ileus which was managed conservatively. His chemotherapy cycles were initiated one week after surgery and he completed six cycles without any significant complications. He was also provided physical therapy to improve his mobility.
+
+Follow-Up Plan:
+	Clayton Nelson will be following up with an oncologist every three months for the first two years, then every six months thereafter. His chemotherapy regimen will continue for a total of 12 cycles as per current guidelines. He is advised to maintain a healthy diet low in fat and high in fiber, quit smoking, and perform regular physical activity. He should report any signs of fever, abdominal pain, or changes in bowel habits promptly.
+
+Patient Education:
+	Clayton Nelson and his family were educated about the importance of adhering to the treatment plan, managing side effects, and recognizing signs of complications. They were also instructed on post-surgical care including ileal conduit management, wound care, hygiene, and dietary recommendations.
+
+Discharge Instructions:
+	Clayton Nelson was discharged with a comprehensive list of medications to be continued, including metformin, lisinopril, atorvastatin, albuterol inhaler, ipratropium bromide inhaler, and anti-emetic for nausea. He was advised to maintain adequate hydration, perform gentle physical activity as tolerated, and report any concerns promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Clayton Nelson will require long-term management of his underlying conditions such as hypertension, diabetes mellitus, and COPD.
+
+Final Remarks:
+	This report documents Clayton Nelson's treatment journey for colorectal cancer. His resilience and cooperation throughout the process were commendable. We wish him a speedy recovery and good health in the future.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ronald Morrow
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M176
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Charles Egan
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastases
+
+Reason for Admission:
+	Ronald Morrow presented to the emergency department complaining of abdominal pain, constipation, and unexplained weight loss for several weeks. A physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA). Further investigations, including computed tomography (CT) scan, confirmed the suspicion of colorectal cancer with liver metastases.
+
+Medical History:
+	Mr. Morrow has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 1998. His father died of colon cancer at the age of 65. He is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, salmeterol/fluticasone, and albuterol as needed for COPD exacerbations.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the colon. Imaging studies showed a 6 cm tumor in the sigmoid colon with multiple liver metastases. Blood tests revealed anemia, elevated CEA level (10.3 ng/ml), and an elevated lactate dehydrogenase level.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Morrow. This included
+
+Hospital Course:
+	Mr. Morrow underwent a successful sigmoid colectomy on 03/01/2022, followed by an uneventful recovery period. He was managed aggressively for post-operative pain and was taught how to manage his ileostomy. The patient tolerated chemotherapy well with expected side effects such as nausea, vomiting, diarrhea, and fatigue. He received radiation therapy for liver metastases.
+
+Follow-Up Plan:
+	Mr. Morrow will continue on adjuvant chemotherapy for 12 cycles. He will have regular follow-up appointments every three months for the first two years, then six-monthly thereafter. His medications will be adjusted as necessary to manage his underlying conditions. A low-fiber diet and good hydration are recommended. He should report any signs of recurrence such as abdominal pain, change in bowel habits, unexplained weight loss, or increased CEA levels.
+
+Patient Education:
+	Mr. Morrow and his family were educated about the importance of regular follow-up appointments, early detection of recurrence, signs of complications related to the ileostomy, and management of common chemotherapy side effects.
+
+Discharge Instructions:
+	On discharge, Mr. Morrow was given instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with information about community resources for colorectal cancer survivors.
+
+Prognosis and Long-Term Outlook:
+	While the surgical removal of the primary tumor and liver metastases increases Mr. Morrow's chances of survival, regular monitoring is crucial for early detection of recurrence. He should maintain a healthy lifestyle with a balanced diet, regular exercise, and avoid smoking and excessive alcohol consumption.
+
+Final Remarks:
+	Dr. Egan commends Mr. Morrow for his resilience throughout the treatment journey and cooperation during the hospital stay. She emphasizes the importance of continued follow-up appointments and adherence to the treatment plan for the best possible outcome.

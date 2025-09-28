@@ -1,0 +1,235 @@
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        type: environment
+        required: true
+        default: 'prod'
+      tag:
+        type: string
+        required: true
+
+permissions:
+  id-token: write   # This is required for requesting the JWT
+  contents: write    # This is required for actions/checkout
+
+name: Create Image in ECR & Deploy container to ECS
+jobs:
+  build-and-deploy:
+    name: Deploy container to ECS
+    runs-on: [ ubuntu-latest ]
+    environment: ${{ inputs.environment }}
+    
+    steps:
+
+      # Checkout the repository code to the runner
+      - uses: actions/checkout@v3 # github Checkout
+      
+      # Debug step: List all files in the repository after checkout
+      - name: Step 1- List Files after copying repo to Ubuntu terminal  
+        run: ls -a
+
+      # Debug step: Display environment variables and input parameters for verification
+      - name: Step 2- show Variables
+        run: |
+          echo ${{ vars.AWS_ROLE }}
+          echo ${{ vars.AWS_REGION }}
+          echo "TAG:" ${{ inputs.tag }}
+
+      # Configure AWS credentials using OIDC for secure authentication
+      - name: Step 3- Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v3
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE }} # Setting up connection using OIDC method. 
+          aws-region: ${{ vars.AWS_REGION }} # AWS region.
+
+      # Authenticate with Amazon ECR to enable Docker image push operations
+      - name: Step 4- Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+        with:
+          mask-password: 'true'
+
+      # Parse configuration file and extract deployment parameters into environment variables
+      - name: Step 5- Extract variables from config.json
+        id: read-config
+        run: |
+          config_file="config/config.json"
+          
+          # Define variable mappings (environment variable name → jq path)
+          declare -A var_mappings=(
+            ["ECR_REPO_NAME"]=".ecrRepositoryName"
+            ["CF_ECR_JOB_NAME"]=".ecrCloudFormationJobName"
+            ["TASK_NAME"]=".taskDefinition.name"
+            ["CONTAINER_NAME"]=".taskDefinition.containerName"
+            ["PORT_MAPPING_NAME"]=".taskDefinition.portMappingName"
+            ["TASK_EXECUTION_ROLE_ARN"]=".taskDefinition.taskExecutionRoleArn"
+            ["TASK_CF_NAME"]=".taskDefinition.cloudFormationTemplateName"
+            ["ECS_TASK_NAME"]=".ECSCluster.name"
+            ["ECS_CLUSTER_NAME"]=".ECSCluster.clusterName"
+            ["ECS_CLUSTER_INFRA"]=".ECSCluster.infrastructure"
+            ["ECS_DEPLOY_CONFIG_TASK_DEF_FAMILY"]=".ECSClusterService.deploymentConfiguration.taskDefinitionFamily"
+            ["ECS_DEPLOY_CONFIG_DESIRED_TASK"]=".ECSClusterService.deploymentConfiguration.desiredTask"
+            ["ECS_COMPUTE_CONFIG_CAPICITY_PROVIDER"]=".ECSClusterService.computeConfiguration.capacityProviderStrategy.capacityProvider"
+          )
+          
+          # Extract and set each variable
+          for var_name in "${!var_mappings[@]}"; do
+            var_value=$(jq -r "${var_mappings[$var_name]}" "$config_file")
+            echo "$var_name=$var_value" >> $GITHUB_ENV
+            echo "Set $var_name to $var_value"
+          done
+
+      # Check if ECR repository already exists to avoid creation conflicts
+      - name: Step 6- Check if ECR repository already exists
+        id: check-ecr-repo
+        run: |
+          if aws ecr describe-repositories --repository-names $ECR_REPO_NAME > /dev/null 2>&1; then
+            echo "ECR repository $ECR_REPO_NAME already exists."
+            echo "SKIP_CREATION=true" >> $GITHUB_ENV
+          else
+            echo "ECR repository $ECR_REPO_NAME does not exist. Proceeding with creation."
+            echo "SKIP_CREATION=false" >> $GITHUB_ENV
+          fi
+          cat $GITHUB_ENV
+          echo "To be skipped $SKIP_CREATION"
+
+      # Create ECR repository using CloudFormation (only if repository doesn't exist)
+      - name: Step 7/1- Deploy CloudFormation stack for ECR Repo (if repository does not exist)
+        if: env.SKIP_CREATION == 'false'
+        run: |
+          # Ensure cloudformation stack doesn't exist before creating a new one.
+          aws cloudformation delete-stack --stack-name $CF_ECR_JOB_NAME
+          # Buffer time period between Delelting existing old stack and creating new one.
+          sleep 30
+          #deploy cloud formation stack to create ECR repo
+          aws cloudformation deploy \
+            --template-file cloudformation/cloudformation_ecr.yml \
+            --stack-name $CF_ECR_JOB_NAME \
+            --parameter-overrides ECRRepositoryName=$ECR_REPO_NAME \
+            --capabilities CAPABILITY_NAMED_IAM
+
+      # Skip ECR repository creation when it already exists
+      - name: Step 7/2- Skip CloudFormation deployment (if repository exists)
+        if: env.SKIP_CREATION == 'true'
+        run: |
+          echo "Skipping CloudFormation deployment because the ECR repository already exists."
+
+      # Build Docker image and push it to ECR repository
+      - name: Step 8- Build, tag, and push image to Amazon ECR
+        id: build-image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          IMAGE_TAG: ${{ inputs.tag }}
+        run: |
+          # Build a docker container and push it to ECR so that it can be deployed to ECS.
+          docker build -t $ECR_REGISTRY/$ECR_REPO_NAME:$IMAGE_TAG .
+          docker push $ECR_REGISTRY/$ECR_REPO_NAME:$IMAGE_TAG
+          ecr_image_uri=$ECR_REGISTRY/$ECR_REPO_NAME:$IMAGE_TAG
+          echo "ecr_image_uri=$ecr_image_uri" >> $GITHUB_ENV
+          echo $ecr_image_uri
+
+      # Create ECS Task Definition using CloudFormation with the built Docker image
+      - name: Step 9- Deploy CloudFormation Stack for Task Definition
+        run: |
+          # Ensure cloudformation stack doesn't exist before creating a new one.
+          aws cloudformation delete-stack --stack-name ${{ env.TASK_CF_NAME }}
+          sleep 30
+          aws cloudformation deploy \
+            --stack-name ${{ env.TASK_CF_NAME }} \
+            --template-file cloudformation/task_definition.yml \
+            --parameter-overrides \
+                TaskDefinitionName=${{ env.TASK_NAME }} \
+                ContainerName=${{ env.CONTAINER_NAME }} \
+                ImageArn=${{ env.ecr_image_uri }} \
+                PortMappingName=${{ env.PORT_MAPPING_NAME }} \
+                AccountId=${{ vars.ACCOUNT_ID }} \
+                Region=${{ vars.AWS_REGION }} \
+                ExistingTaskExecutionRoleArn=${{ env.TASK_EXECUTION_ROLE_ARN }} \
+                LogGroupName="/ecs/${{ env.TASK_NAME }}" \
+            --capabilities CAPABILITY_IAM
+
+      # Set up CloudWatch Log Group for container logging
+      - name: Step 9.5- Create CloudWatch Log Group
+        run: |
+          # Create log group if it doesn't exist
+          aws logs create-log-group \
+            --log-group-name "/ecs/${{ env.TASK_NAME }}" \
+            --region ${{ vars.AWS_REGION }} || echo "Log group already exists or creation failed"
+          
+          # Set retention policy (optional)
+          aws logs put-retention-policy \
+            --log-group-name "/ecs/${{ env.TASK_NAME }}" \
+            --retention-in-days 365 \
+            --region ${{ vars.AWS_REGION }} || echo "Failed to set retention policy"
+
+      # Create or update ECS Cluster infrastructure using CloudFormation
+      - name: Step 10- ECS-Cluster stack with AWS CloudFormation template
+        run: |
+          # Ensure cloudformation stack doesn't exist before creating a new one.
+          aws cloudformation delete-stack --stack-name ${{ env.ECS_TASK_NAME }}
+          sleep 30
+          aws cloudformation deploy \
+            --stack-name ${{ env.ECS_TASK_NAME }} \
+            --template-file cloudformation/ecs_cluster.yml \
+            --parameter-overrides \
+                ClusterName=${{ env.ECS_CLUSTER_NAME }} \
+                "Infrastructure=${{ env.ECS_CLUSTER_INFRA }}" \
+            --capabilities CAPABILITY_IAM
+      
+      # Retrieve default VPC and subnet information for service deployment
+      - name: Step 11- Get default VPC and subnets
+        id: vpc
+        run: |
+          # Get default VPC ID
+          VPC_ID=$(aws ec2 describe-vpcs --filters "Name=isDefault,Values=true" --query "Vpcs[0].VpcId" --output text)
+          echo "vpc_id=${VPC_ID}" >> $GITHUB_OUTPUT
+          
+          # Get default security group ID for the default VPC
+          SG_ID=$(aws ec2 describe-security-groups --filters "Name=vpc-id,Values=${VPC_ID}" "Name=group-name,Values=default" --query "SecurityGroups[0].GroupId" --output text)
+          echo "sg_id=${SG_ID}" >> $GITHUB_OUTPUT
+          
+          # Get subnet IDs for the default VPC
+          RAW_SUBNET_IDS=$(aws ec2 describe-subnets --filters "Name=vpc-id,Values=${VPC_ID}" --query "Subnets[*].SubnetId" --output text)
+          
+          # Convert tabs to commas
+          SUBNET_IDS=$(echo "$RAW_SUBNET_IDS" | tr '\t' ',' | tr ' ' ',')
+          
+          # VALIDATION STEP: Remove leading/trailing commas and multiple consecutive commas
+          SUBNET_IDS=$(echo "$SUBNET_IDS" | sed 's/^,*//;s/,*$//' | sed 's/,,*/,/g')
+          
+          # Ensure no empty values remain
+          SUBNET_IDS=$(echo "$SUBNET_IDS" | sed 's/,$//' | sed 's/^,//')
+          
+          echo "subnet_ids=${SUBNET_IDS}" >> $GITHUB_OUTPUT
+          
+          # Debug output to verify the format
+          echo "Debug - Final subnet IDs: '$SUBNET_IDS'"
+
+      # Load configuration file content for service deployment parameters
+      - name: Step 12- Read config file
+        id: config
+        run: |
+          echo "config=$(cat config/config.json | jq -c)" >> $GITHUB_OUTPUT
+
+      # Prepare for ECS service deployment by cleaning up existing resources
+      - name: Step 13- Clean up step for Deploy AWS CloudFormation template
+        run: |
+          # Deleting existing cloud formation stack
+          aws cloudformation delete-stack --stack-name ${{ fromJson(steps.config.outputs.config).ECSClusterServiceStackName }}
+          # Wait for 20 Seconds after deleting the Cloud formation stack   
+          sleep 20
+          # Creating clean service name and setting it as environment variable
+          CLEAN_SERVICE_NAME=$(echo "${{ env.TASK_NAME }}-${{ inputs.tag }}" | sed 's/\./-/g')
+          echo "CLEAN_SERVICE_NAME=${CLEAN_SERVICE_NAME}" >> $GITHUB_ENV
+          # Debug output
+          echo "Debug - Clean Service Name: ${CLEAN_SERVICE_NAME}"
+        
+      # Deploy ECS service using CloudFormation to run the containerized application
+      - name: Step 14- Deploy AWS CloudFormation template
+        uses: aws-actions/aws-cloudformation-github-deploy@v1
+        with:
+          name: ${{ fromJson(steps.config.outputs.config).ECSClusterServiceStackName }}
+          template: cloudformation/ecs_service_deploy.yml
+          parameter-overrides: 'ClusterName=${{ env.ECS_CLUSTER_NAME }},TaskDefinitionFamily=${{ env.ECS_DEPLOY_CONFIG_TASK_DEF_FAMILY }},ServiceName=${{ env.CLEAN_SERVICE_NAME }},DesiredCount=${{ env.ECS_DEPLOY_CONFIG_DESIRED_TASK }},SubnetIds="${{ steps.validate.outputs.clean_subnet_ids || steps.vpc.outputs.subnet_ids }}",SecurityGroupId=${{ steps.vpc.outputs.sg_id }},CapacityProviderName=${{ env.ECS_COMPUTE_CONFIG_CAPICITY_PROVIDER }},CapacityProviderBase=1,CapacityProviderWeight=1,PlatformVersion=LATEST'
+          no-fail-on-empty-changeset: "1"

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Delia Freeman
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1110
+	•Date of Admission: 02/15/2023
+	•Date of Discharge: 03/25/2023
+	•Attending Physician: Dr. Sade Gillman
+	•Primary Diagnosis: Pancreatic Cancer (Duodenum Adenocarcinoma)
+
+Reason for Admission:
+	Delia Freeman, a 38-year-old male with no known allergies and taking medication for hypertension, presented to the emergency department complaining of severe abdominal pain, nausea, and loss of appetite. Upon initial assessment, his vital signs were stable but laboratory tests revealed an elevated CA19-9 level, which prompted further diagnostic investigations including a CT scan, endoscopic ultrasound (EUS), and biopsy, confirming the diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Freeman has a history of hypertension managed with daily medication. He is a non-smoker but has been drinking moderately for many years. His family history is significant for colon cancer, as his father was diagnosed at the age of 60 and passed away from complications four years later.
+
+Diagnostic Findings:
+	The CT scan revealed a mass in the pancreatic head, while the EUS confirmed an invasive adenocarcinoma. A biopsy sample was taken for histopathological examination, which confirmed the diagnosis of duodenum adenocarcinoma. Blood tests showed elevated liver enzymes and anemia.
+
+Treatment Plan:
+	After multidisciplinary team discussion, it was decided that Mr. Freeman would undergo a Whipple procedure (pancreaticoduodenectomy), followed by FOLFIRINOX chemotherapy (a regimen consisting of Folinic acid, Irinotecan, Fluorouracil, and Oxaliplatin) for 6 cycles. A decision on radiation therapy would be made based on the response to surgery and chemotherapy.
+
+Hospital Course:
+	Mr. Freeman underwent a successful Whipple procedure on 03/01/2023. Postoperative recovery was initially challenging due to complications, including anastomotic leak, which required surgical intervention and antibiotic therapy. However, he gradually improved and was eventually discharged after receiving comprehensive nutritional support and care from our dedicated team of nurses, therapists, and specialists.
+
+Follow-Up Plan:
+	Mr. Freeman will return for follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking medications for hypertension and may require additional medication to manage potential side effects of chemotherapy, such as nausea and vomiting. Lifestyle changes, including quitting alcohol and maintaining a balanced diet, are strongly recommended to improve overall health and increase chances of recovery.
+
+Patient Education:
+	Mr. Freeman was provided comprehensive education on post-surgical care, ileal conduit management, signs of complications (such as fever, chills, persistent abdominal pain, and changes in bowel movements), and managing common side effects like fatigue and neuropathy. He was also given written instructions to take home.
+
+Discharge Instructions:
+	Upon discharge, Mr. Freeman was provided with medication adherence information, wound care practices, hydration guidelines, and physical activity recommendations. He was instructed to monitor his weight closely and report any unexpected changes to his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Freeman should continue with regular check-ups and maintain a healthy lifestyle to manage ongoing health issues associated with pancreatic cancer.
+
+Final Remarks:
+	In closing, I would like to express my appreciation for Mr. Freeman's resilience and cooperation throughout his treatment journey. His strong spirit and determination have been an inspiration to us all. Here's to a successful recovery and a bright future ahead!

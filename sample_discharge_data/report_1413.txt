@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephanie Yang
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1413
+	•Date of Admission: 04/02/2022
+	•Date of Discharge: 08/03/2022
+	•Attending Physician: Dr. Susan Stewart
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Stephanie Yang, a 47-year-old male, was admitted to our facility due to increasing abdominal pain, rectal bleeding, and weight loss of approximately 20 pounds over the past two months. An initial physical examination revealed an abdominal mass, and further investigations were ordered, including a CT scan, which confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Mr. Yang has a history of hypertension, which is well-controlled with medication. He was diagnosed with diabetes mellitus type 2 in 2015 and is currently on oral hypoglycemic agents. He underwent a cholecystectomy for gallstones in 2018. His family history is significant for colorectal cancer, as his father was diagnosed at the age of 60 and passed away five years later.
+
+Diagnostic Findings:
+	The CT scan showed a large mass in the sigmoid colon with regional lymph node involvement. A biopsy confirmed the presence of adenocarcinoma. Blood tests revealed anemia, elevated CA 19-9 levels, and elevated CEA levels, all consistent with colorectal cancer.
+
+Treatment Plan:
+	Mr. Yang underwent a sigmoid colon resection followed by an ileo-anal anastomosis (IAA) to create an ileal conduit. Post-operative care included pain management, wound care, and the administration of antibiotics. He began adjuvant chemotherapy with FOLFOX regimen consisting of Oxaliplatin, Leucovorin, and 5-Fluorouracil. Radiation therapy was not deemed necessary due to the extent of the surgical resection.
+
+Hospital Course:
+	Mr. Yang's initial recovery from surgery was complicated by an infection, which required additional antibiotics. However, with supportive care and close monitoring, he made steady progress and was able to tolerate chemotherapy well. His diabetes management was closely monitored throughout his stay, and insulin doses were adjusted as necessary.
+
+Follow-Up Plan:
+	Mr. Yang will return for follow-up appointments every three months for the first year post-discharge, every six months for the second year, and annually thereafter. He will continue on oral chemotherapy, and the dose may be adjusted based on his response and any side effects. A low-fiber diet is recommended to minimize discomfort with the ileal conduit, and he should maintain a healthy weight to reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Yang was educated about the importance of adhering to his medication regimen, including chemotherapy, and the signs of potential complications such as fever, abdominal pain, or changes in bowel habits. He was also instructed on proper wound care, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Mr. Yang was provided with a list of medications to continue at home, including chemotherapy, pain medication, and antibiotics for any future infections. He was also given instructions on proper wound care, hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Yang is favorable due to the aggressive treatment he received. Regular monitoring will be crucial for early detection of any recurrence or ongoing health issues.
+
+Final Remarks:
+	I would like to commend Mr. Stephanie Yang for his resilience and cooperation throughout this challenging journey. His positive attitude and commitment to his care have been inspiring, and I am confident that he will continue to make progress in his recovery. I wish him all the best in his continued treatment and recovery.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Donald Harvey
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1363
+	•Date of Admission: 02/03/2023
+	•Date of Discharge: 03/10/2023
+	•Attending Physician: Dr. Andrea Prewitt
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Donald Harvey, a 48-year-old male, was admitted to the hospital due to persistent lower abdominal pain and rectal bleeding for the past six months. Upon initial assessment, he was found to be anemic with a palpable mass in the lower abdomen. Further diagnostic investigations, including a colonoscopy, computed tomography (CT) scan, and carcinoembryonic antigen (CEA) test, confirmed a large tumor in the sigmoid colon with lymph node involvement, suggesting Donald Harvey colorectal cancer.
+
+Medical History:
+	Mr. Harvey has a history of hypertension and chronic obstructive pulmonary disease (COPD), for which he was already on regular medication. He had no known allergies and denied any significant family history of diseases. Before admission, he was taking amlodipine 10mg once daily, salmeterol/fluticasone 250/50 inhaler twice daily, and iron supplements as needed for anemia.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a moderately differentiated adenocarcinoma in the sigmoid colon. Imaging studies indicated that the primary tumor was approximately 8cm in size with multiple lymph node involvement. Blood tests revealed an elevated CEA level of 25ng/ml and low hemoglobin (9g/dl).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Harvey, which included a partial colectomy followed by an ileal conduit creation, six cycles of FOLFOX chemotherapy, and radiation therapy to the abdominal lymph nodes. The patient tolerated the surgery well and was started on the first cycle of chemotherapy immediately post-operatively.
+
+Hospital Course:
+	During his hospital stay, Mr. Harvey showed an initial recovery from surgery, but faced challenges with nausea and diarrhea related to the chemotherapy regimen. He also required oxygen supplementation for COPD exacerbation. The healthcare team provided intensive pain management, nutritional support, and physiotherapy to help him regain strength.
+
+Follow-Up Plan:
+	Mr. Harvey was scheduled for outpatient appointments with his oncologist and surgeon every three months for the first year after discharge. He will continue taking oral chemotherapy until the completion of six cycles. Dietary recommendations included a high-fiber, low-fat diet to support bowel function. His COPD medications were also adjusted. The patient was educated about signs of complications such as abdominal pain, fever, or rectal bleeding, which required immediate medical attention.
+
+Patient Education:
+	The patient and his family were educated on post-surgical care, including ileal conduirct management, wound care practices, and recognizing signs of complications. They were also advised on managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Harvey was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given educational materials for further reference.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Harvey was informed about the importance of maintaining a healthy lifestyle, including regular exercise and a balanced diet, to manage ongoing health issues associated with colorectal cancer and COPD.
+
+Final Remarks:
+	The attending physician, Dr. Andrea Prewitt, commended Mr. Harvey for his resilience and cooperation throughout the treatment journey. She expressed optimism about his recovery and emphasized the importance of regular follow-up appointments. Both the patient and physician signed the report on 03/10/2023 to validate its contents.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carl Rowell
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1044
+	•Date of Admission: 03/02/2022
+	•Date of Discharge: 07/03/2022
+	•Attending Physician: Dr. Dr. Jones
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Carl Rowell was admitted to the hospital due to increasing abdominal pain and unintended weight loss over a period of six months. Upon initial assessment, he reported experiencing frequent bowel movements, fatigue, and a change in stool color. The physical examination revealed an abdominal mass, and further diagnostic tests were ordered. A CT scan confirmed the presence of a large tumor in the sigmoid colon, and a biopsy sample was positive for adenocarcinoma.
+
+Medical History:
+	Carl Rowell has a past medical history significant for hypertension, which is controlled with medication, and asthma, previously requiring hospitalization for exacerbations. He underwent a left hip replacement surgery five years ago due to osteoarthritis. His family history is notable for colon cancer in his father at the age of 60. John has no known allergies and was taking aspirin daily, lisinopril, and albuterol as needed before admission.
+
+Diagnostic Findings:
+	During his hospital stay, John underwent a series of diagnostic tests, including a CT scan with contrast, MRI, colonoscopy, and pathology examinations. The results indicated the presence of a large, invasive tumor in the sigmoid colon with regional lymph node involvement (T4N2M0). Blood tests showed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Carl Rowell, which included a partial colectomy with ileostomy creation followed by chemotherapy. Postoperative care involved pain management, wound care, and nutritional support. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, and fluorouracil) every two weeks for six cycles. A decision was also made to consider radiation therapy after the completion of the chemotherapy.
+
+Hospital Course:
+	Carl Rowell underwent a successful partial colectomy with ileostomy creation on 03/07/2022. He experienced initial recovery complications, including postoperative ileus, which was managed with nasogastric tube suction and bowel rest. As he regained his strength, physical therapy played an essential role in helping him mobilize and manage his new ostomy. Nutritional support was provided through total parenteral nutrition (TPN) and eventual enteral feeding once the ileus resolved.
+
+Follow-Up Plan:
+	Post-discharge, Carl Rowell will require regular follow-up appointments every three months for the first year, then every six months thereafter. He is to continue taking aspirin daily, lisinopril, and albuterol as needed. A low-fiber diet is recommended to minimize complications with his ileostomy. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, significant blood in the output from the ileostomy, or unexplained weight loss.
+
+Patient Education:
+	Carl Rowell and his family were educated on post-surgical care, including proper ileostomy management techniques, recognizing signs of complications, and managing common side effects such as diarrhea and dehydration. They were also counseled on the importance of maintaining a healthy lifestyle, which includes regular exercise, a balanced diet, and stress management.
+
+Discharge Instructions:
+	Carl Rowell was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence guidelines, wound care practices, hydration recommendations, physical activity restrictions, and follow-up appointment scheduling.
+
+Prognosis and Long-Term Outlook:
+	Early detection of recurrence is crucial for Carl Rowell's long-term survival. Regular monitoring, including colonoscopies and CEA levels, will be essential in the management of his ongoing health issues. He was encouraged to maintain a positive attitude and active lifestyle, which are critical factors in his recovery.
+
+Final Remarks:
+	This report documents Carl Rowell's journey through the diagnosis and treatment of colorectal cancer (Stage III). His resilience and cooperation throughout this challenging time have been commendable. As he continues on the path to recovery, we remain optimistic about his future and encourage him to maintain a positive outlook.

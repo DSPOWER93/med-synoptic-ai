@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lola Hulet
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1128
+	•Date of Admission: 08/04/2022
+	•Date of Discharge: 09/15/2022
+	•Attending Physician: Dr. Christina Crain
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Lola Hulet, a 52-year-old male with a past medical history of hypertension and chronic obstructive pulmonary disease (COPD), presented to the emergency department with hematuria and lower abdominal pain. Upon initial assessment, a thorough physical examination was conducted, revealing an enlarged bladder. A series of diagnostic investigations followed, including urinalysis, cystoscopy, and computed tomography (CT) scan of the abdomen and pelvis. The results confirmed a T3N0M0 bladder cancer.
+
+Medical History:
+	Mr. Hulet's past medical history includes hypertension controlled with lisinopril 10mg daily and COPD managed with salmeterol/fluticasone inhaler. He has a family history of colon cancer, with his father being diagnosed at the age of 65. His medications prior to admission also included an aspirin 81mg daily for cardioprotection.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) showed a muscularis propria invasion (T3), while the CT scan revealed no lymph node involvement (N0) and no distant metastases (M0). Blood tests showed slightly elevated creatinine level, which was attributed to dehydration.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hulet. The primary intervention was radical cystectomy with ileal conduit formation followed by adjuvant chemotherapy. Post-operative care included pain management, wound care, and antibiotic therapy to prevent urinary tract infections. The chemotherapy regimen consisted of four cycles of MVAC (methotrexate, vinblastine, doxorubicin, and cisplatin), with close monitoring for side effects such as nausea, myelosuppression, and nephrotoxicity. The team also considered radiation therapy if the pathology report showed lymph node involvement or positive surgical margins.
+
+Hospital Course:
+	Mr. Hulet's recovery from surgery was uneventful, with controlled pain levels and no significant complications. He received physical therapy to improve his mobility and began a low-residue diet for easier bowel movements through the ileal conduit. The management of his disease included regular blood tests to monitor renal function, electrolytes, and white blood cell counts.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hulet will return for regular outpatient appointments every three months for the first year, then semi-annually thereafter. He will continue with his hypertension medication and cardioprotective aspirin. Dietary recommendations include a high-protein, low-fiber diet, and maintaining adequate fluid intake to avoid dehydration. Warning signs of complications include fever, persistent abdominal pain, or changes in urine output.
+
+Patient Education:
+	Mr. Hulet and his family were educated about post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea from chemotherapy. They were also instructed on proper wound care practices and hydration guidelines to maintain optimal health.
+
+Discharge Instructions:
+	Before discharge, Mr. Hulet was given comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his pain medications as prescribed and report any concerns to his healthcare provider immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Hulet will undergo follow-up imaging and cystoscopic examinations as recommended by his healthcare team.
+
+Final Remarks:
+	Dr. Crain commends Mr. Hulet on his resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Crain and Mr. Hulet, validating the comprehensive documentation of Mr. Hulet's care.

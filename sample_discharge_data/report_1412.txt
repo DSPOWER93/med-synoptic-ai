@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Allan Spears
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1412
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/10/2022
+	•Attending Physician: Dr. Esther Minyard
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Allan Spears, was admitted to our facility due to persistent hematuria and lower abdominal pain that had escalated over the past month. Upon initial assessment, a detailed physical examination was performed, followed by diagnostic investigations including urine analysis, cystoscopy, and computed tomography urogram (CTU). The results confirmed a suspected TCC of the bladder with local invasion into the muscularis propria and regional lymph node involvement.
+
+Medical History:
+	Allan Spears has a significant medical history, including well-controlled Type 2 diabetes mellitus, hypertension, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee arthroplasty in 2015. His family history is notable for colon cancer and breast cancer. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, amlodipine, salmeterol/fluticasone, albuterol, and ibuprofen.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) revealed a moderately differentiated TCC with focal invasive growth into the muscularis propria. Imaging studies, such as a contrast-enhanced CT scan and positron emission tomography (PET) scan, demonstrated a 4.5 cm mass in the bladder with regional lymph node involvement. Blood tests showed elevated creatinine levels indicative of potential renal dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Allan Spears, which included a radical cystectomy with ileal conduit creation, followed by adjuvant chemotherapy and radiation therapy. Post-operative care focused on pain management, wound care, and renal function monitoring. The chemotherapy regimen consisted of four cycles of GC (Gemcitabine and Cisplatin). Radiation therapy was deferred due to the patient's kidney function issues.
+
+Hospital Course:
+	Allan Spears underwent a successful radical cystectomy with ileal conduit creation on March 25, 2022. Post-operative recovery was challenging due to prolonged ileus and delayed commencement of oral intake. He was closely monitored for renal function, anemia, and wound infection. His stay in the hospital was further complicated by a case of atrial fibrillation that required cardiology consultation and medical management.
+
+Follow-Up Plan:
+	Upon discharge, Allan Spears was scheduled for regular follow-up appointments with his oncologist and urologist. He will continue to take metformin, lisinopril, amlodipine, and salmeterol/fluticasone, but the dosages may be adjusted based on his kidney function. A low-sodium, low-protein diet was recommended to help manage renal dysfunction. He was instructed to closely monitor for signs of complications such as fever, chills, abdominal pain, or changes in urine output.
+
+Patient Education:
+	Allan Spears and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as fatigue and neuropathy. He was taught how to recognize potential signs of dehydration and given guidelines for physical activity and wound care practices.
+
+Discharge Instructions:
+	Discharge instructions focused on medication adherence, hydration, wound care, and physical activity guidelines. Allan Spears was provided with a list of medications to continue at home, along with instructions for their administration. He was advised to maintain a daily fluid intake of 2-3 liters and to avoid heavy lifting or strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Allan Spears's long-term health. He was informed about the importance of attending all scheduled follow-up appointments, maintaining a healthy lifestyle, and recognizing signs of disease progression or complications.
+
+Final Remarks:
+	Throughout his treatment journey, Allan Spears demonstrated remarkable resilience and cooperation. His dedication to following the prescribed treatment plan has been commendable. We are confident that with continued vigilance, he will have a successful recovery and return to his daily activities.

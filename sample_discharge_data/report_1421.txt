@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Walter Jacobsen
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1421
+	•Date of Admission: 02/10/2022
+	•Date of Discharge: 09/15/2022
+	•Attending Physician: Dr. Thomasina Toupin
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Walter Jacobsen was admitted to the hospital due to persistent abdominal pain, weight loss, and jaundice. Initial assessment revealed a palpable mass in the upper abdomen and a tender gallbladder. Diagnostic investigations, including CT scan, MRI, and endoscopic ultrasound, confirmed the presence of a pancreatic mass invading the duodenum. The severity and progression of symptoms were indicative of advanced-stage pancreatic cancer.
+
+Medical History:
+	Mr. Jacobsen had a history of hypertension, controlled with medication, and was diagnosed with COPD several years ago. He underwent a left total hip replacement surgery in 2016. His father passed away due to lung cancer at the age of 65, and his mother died from breast cancer at the age of 70. Prior to admission, Mr. Jacobsen was taking medications for hypertension, COPD, and osteoarthritis.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma in the pancreas. Imaging scans showed a large, irregular mass in the pancreatic head with invasion of the duodenum. Additionally, a staging CT scan revealed multiple liver metastases and enlarged lymph nodes. Blood tests indicated anemia, elevated bilirubin levels, and CA 19-9 markers were significantly high.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Jacobsen. He underwent a pancreaticoduodenectomy (Whipple procedure) followed by adjuvant chemotherapy and radiation therapy. Post-operative care included nutritional support, pain management, and wound care. The chosen chemotherapy regimen was FOLFIRINOX, consisting of four cycles, each cycle lasting three weeks with one week of rest. Radiation therapy was administered concurrently with the second and third cycles of chemotherapy.
+
+Hospital Course:
+	Mr. Jacobsen's initial recovery from surgery was challenging due to complications such as delayed gastric emptying and anastomotic leakage. However, he responded well to supportive care, including total parenteral nutrition, antibiotics, and conservative measures. The role of physical therapy was crucial in helping Mr. Jacobsen regain his strength and mobility post-surgery.
+
+Follow-Up Plan:
+	Following discharge, Mr. Jacobsen will be scheduled for regular follow-up appointments with his oncologist and primary care physician. He will continue to take medications for hypertension and COPD, and his osteoarthritis medication will be adjusted as needed. A low-fat, high-protein diet is recommended, and he should avoid alcohol and caffeine. Mr. Jacobsen should also be aware of warning signs such as fever, increasing abdominal pain, and jaundice.
+
+Patient Education:
+	Mr. Jacobsen was educated on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Jacobsen was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated on the importance of regular follow-up appointments and monitoring for early detection of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for managing ongoing health issues related to pancreatic cancer. Mr. Jacobsen's prognosis will be closely monitored, and additional treatments may be considered if necessary.
+
+Final Remarks:
+	Dr. Thomasina Toupin commends Mr. Jacobsen on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for optimal outcomes. Both physician and patient have signed this report, validating its accuracy.

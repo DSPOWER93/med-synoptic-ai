@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alice Rocha
+	•Date of Birth: 01/10/1975
+	•Medical Record Number: M1174
+	•Date of Admission: 02/15/2023
+	•Date of Discharge: 03/15/2023
+	•Attending Physician: Dr. Federico Rocha
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	The patient, Mr. Alice Rocha, was admitted to the hospital due to persistent hematuria and dysuria over the past three months. On initial assessment, a mass was palpated in the lower abdomen during abdominal examination. Further diagnostic investigations including an ultrasound, CT scan, and cystoscopy were performed, confirming a diagnosis of bladder cancer (T3N0M0). The tumor was found to be invading the muscularis propria of the bladder, but had not spread to nearby lymph nodes or distant organs.
+
+Medical History:
+	Mr. Rocha has a history of hypertension and COPD, for which he has been taking medications Amlodipine 10mg daily and Salmeterol/Fluticasone 50/250mcg twice daily. He is also a diabetic and takes Insulin Glargine 40 units daily and Metformin 850mg twice daily. His father passed away at the age of 63 due to colon cancer, and his mother died at 61 from breast cancer. Mr. Rocha has no known allergies.
+
+Diagnostic Findings:
+	The pathology report confirmed a transitional cell carcinoma (TCC) of the bladder. Imaging studies showed a large, irregular mass in the posterior wall of the bladder with an invasive growth pattern. Blood tests revealed elevated creatinine levels, indicating potential kidney dysfunction due to the tumor's size and pressure on the urinary tract.
+
+Treatment Plan:
+	Mr. Rocha underwent a radical cystectomy with ileal conduit formation. Post-operative care included pain management, antibiotics for infection prevention, and fluid and electrolyte balance maintenance. A combination chemotherapy regimen consisting of Gemcitabine and Cisplatin was initiated to reduce the risk of recurrence. Radiation therapy was deemed unnecessary based on the pathology report.
+
+Hospital Course:
+	Mr. Rocha's initial recovery from surgery was uneventful, but he experienced some post-operative complications such as ileus and wound infection. These issues were managed through a combination of supportive care, antibiotics, and dietary modifications. The patient's condition gradually improved, and he was able to begin rehabilitation and physical therapy to regain strength and mobility.
+
+Follow-Up Plan:
+	Mr. Rocha will be scheduled for regular follow-up appointments every three months for the first year post-treatment, then every six months for the following two years, and annually thereafter. He will continue to take Insulin Glargine 40 units daily and Metformin 850mg twice daily. It is recommended that he maintain a healthy diet rich in fruits, vegetables, lean proteins, and whole grains while limiting processed foods and sugars.
+
+Patient Education:
+	Mr. Rocha was educated on the importance of monitoring for signs of recurrence such as hematuria, dysuria, or weight loss. He was also taught how to care for his ileal conduit and manage potential complications like blockages or infections. Instructions were provided on recognizing common side effects of chemotherapy, such as nausea, fatigue, and neuropathy, and strategies for managing these symptoms.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rocha was given clear instructions on medication adherence, wound care practices, maintaining adequate hydration, and engaging in light physical activity as tolerated. He was also advised to attend all scheduled follow-up appointments and maintain a regular exercise routine to promote overall health.
+
+Prognosis and Long-Term Outlook:
+	Mr. Rocha's prognosis is favorable given the early detection and successful treatment of his bladder cancer. Regular monitoring will be crucial for early detection of recurrence or any other potential issues related to his underlying conditions.
+
+Final Remarks:
+	Dr. Federico Rocha, attending physician, emphasized Mr. Rocha's resilience and cooperation throughout the treatment journey. She expressed confidence in his ability to continue managing his health effectively and wished him a successful recovery. The report was signed by both parties on March 15, 2023.

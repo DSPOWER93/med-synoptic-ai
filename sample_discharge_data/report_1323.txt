@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jessica Brahm
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1323
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Brittany Cox
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	[Patient's Name] was admitted to our facility on [Date of Admission] due to a persistent and painful hematuria, accompanied by dysuria, which had been persisting for over a month. On initial assessment, the patient appeared fatigued with a pale complexion. Laboratory investigations revealed an elevated white blood cell count, indicating potential infection or inflammation. A cystoscopy was performed, confirming the presence of a 4cm TCC mass in the bladder, and biopsy samples were obtained for pathological analysis.
+
+Medical History:
+	[Patient's Name] is a 65-year-old male with a past medical history significant for hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He has undergone multiple surgeries in the past, including an appendectomy, hernia repair, and a hysterectomy. His family history is notable for colon cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, he was prescribed metformin, lisinopril, and albuterol inhalers.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of TCC. Imaging studies, including a CT scan and MRI, were performed to assess the extent of the disease. The staging revealed a T2N0M0 tumor, indicating that the cancer had not spread beyond the bladder muscle but was invasive enough to involve the inner half (T2).
+
+Treatment Plan:
+	A multidisciplinary team, consisting of oncologists, urologists, and radiation oncologists, developed a comprehensive treatment plan. The patient underwent a radical cystectomy with ileal conduit formation on [Surgery Date]. Post-operative care was initiated, followed by six cycles of chemotherapy (Gemcitabine and Cisplatin) to reduce the risk of recurrence. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	[Patient's Name] made a good initial recovery from surgery, but encountered several post-operative challenges. These included a delayed return of bowel function, urinary tract infection, and low-grade fever. Antibiotics were administered to manage the UTI, and enteral nutrition was provided for malnutrition prevention. The patient's condition stabilized over time, and he demonstrated remarkable resilience throughout his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, [Patient's Name] will be scheduled for regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue taking oral chemotherapy as prescribed, and lifestyle modifications will include a low-fat, high-fiber diet, avoidance of smoking and alcohol, and regular exercise. Warning signs requiring immediate medical attention include recurrence of hematuria, persistent abdominal pain, or unexplained weight loss.
+
+Patient Education:
+	Detailed instructions were provided to [Patient's Name] and his family regarding post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue and nausea.
+
+Discharge Instructions:
+	Upon discharge, [Patient's Name] was provided with clear instructions for medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues associated with TCC. The prognosis for [Patient's Name] is guarded but promising, given his strong will to fight the disease.
+
+Final Remarks:
+	Throughout this treatment journey, [Patient's Name] has shown immense resilience and cooperation. I am confident that he will continue to demonstrate these qualities in his post-hospital care. I wish him a swift recovery and good health.

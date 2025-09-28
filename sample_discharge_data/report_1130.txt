@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ethel Marshall
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1130
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Jessie Martin
+	•Primary Diagnosis: Stage III Colon Cancer
+
+Reason for Admission:
+	Mr. Ethel Marshall, a 57-year-old male with a medical history significant for hypertension and type 2 diabetes mellitus, presented to the emergency department complaining of persistent abdominal pain, unintentional weight loss, and alterations in bowel habits over the past six months. Upon initial assessment, he appeared moderately uncomfortable, and his vital signs demonstrated tachycardia and mild hypotension. Subsequent laboratory investigations revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and a positive fecal occult blood test. A computed tomography scan of the abdomen and pelvis confirmed the presence of a large colonic mass and several metastatic lesions in the liver.
+
+Medical History:
+	In addition to hypertension and diabetes, Mr. Marshall's past medical history includes chronic obstructive pulmonary disease (COPD) and a remote history of tobacco use. He has undergone two previous surgeries an appendectomy in 1987 and cholecystectomy in 2005. He has no known family history of colon cancer but has a positive family history for hypertension and type 2 diabetes mellitus. Mr. Marshall was taking metformin, lisinopril, and tiotropium before admission.
+
+Diagnostic Findings:
+	During his hospital stay, Mr. Marshall underwent a series of diagnostic tests to confirm the diagnosis and stage the cancer. Pathology results from the colonic mass biopsy confirmed adenocarcinoma, and imaging scan results showed the tumor had invaded the muscularis propria, with involved regional lymph nodes and multiple liver metastases. Blood tests revealed anemia (hemoglobin 9 g/dL), elevated CEA levels (12 ng/mL), and elevated alkaline phosphatase (ALP) levels (148 U/L).
+
+Treatment Plan:
+	Upon confirmation of the diagnosis, a multidisciplinary team developed a comprehensive treatment plan. Mr. Marshall underwent a right hemicolectomy with primary anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care included pain management, nutritional support, and antiemetic medications to manage nausea and vomiting. The planned chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, fluorouracil), with a total of 12 cycles. Radiation therapy was scheduled for targeting the liver metastases.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Post-discharge, Mr. Marshall will be closely monitored through scheduled outpatient appointments every three months for the first year and then every six months thereafter. He will continue taking metformin, lisinopril, tiotropium, and adjuvant chemotherapy as prescribed by his oncologist. Lifestyle modifications, including a healthy diet, regular physical activity, and smoking cessation, are recommended to optimize his overall health. Warning signs of complications, such as fever, persistent abdominal pain, or unexplained weight loss, should be reported to the healthcare team immediately.
+
+Patient Education:
+	Mr. Marshall was educated on post-surgical care, management of the ileal conduit, and recognition of signs of complications such as leakage, obstruction, or infection. He was also taught how to manage common side effects of chemotherapy, such as fatigue, nausea, vomiting, diarrhea, and neuropathy. Additionally, he was educated on the importance of adhering to his medication regimen and managing his chronic conditions (hypertension and diabetes).
+
+Discharge Instructions:
+	Prior to discharge, Mr. Marshall received comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was provided with written materials and demonstrations on wound care, as well as information about what to expect during chemotherapy and how to manage side effects. He was also instructed on monitoring for signs of complications and given the contact information for his healthcare team should any concerns arise.
+
+Prognosis and Long-Term Outlook:
+	Mr. Marshall's prognosis is favorable, given the aggressive treatment plan, including surgery, chemotherapy, and radiation therapy. However, regular monitoring for early detection of recurrence is crucial to optimize his long-term survival and manage ongoing health issues related to his colon cancer and chronic conditions (hypertension and diabetes).
+
+Final Remarks:
+	Mr. Marshall has shown remarkable resilience and cooperation throughout his treatment journey, and I am confident that he will continue to do so as he transitions to outpatient care. It is essential that he maintains close communication with his healthcare team, adheres to the prescribed treatment plan, and prioritizes self-care in order to achieve the best possible outcomes.

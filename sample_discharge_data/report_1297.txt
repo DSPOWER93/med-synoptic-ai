@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Thomas Haddad
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1297
+	•Date of Admission: 03/12/2023
+	•Date of Discharge: 04/14/2023
+	•Attending Physician: Dr. Ginger Seldon
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Thomas Haddad was admitted to the hospital due to persistent abdominal pain, unexplained weight loss, and changes in bowel habits over a period of three months. The initial assessment revealed signs of abdominal distension, mild fever, and anemia. Diagnostic investigations included complete blood count (CBC), carcinoembryonic antigen (CEA) levels, computerized tomography (CT) scan of the abdomen, and a colonoscopy. The findings confirmed a large mass in the sigmoid colon, with regional lymph node involvement, indicating Thomas Haddad colorectal cancer.
+
+Medical History:
+	Mr. Haddad has a history of hypertension, controlled through medication, and type 2 diabetes mellitus. He underwent a cholecystectomy in 2015 due to gallstones. There is no significant family history of cancer. He was not known to have any allergies and was taking metformin, lisinopril, and aspirin before admission.
+
+Diagnostic Findings:
+	Pathology reports from the colonoscopy showed a large, invasive adenocarcinoma in the sigmoid colon. The CT scan revealed tumor extension into the mesocolon and multiple enlarged lymph nodes. The CBC showed anemia (hemoglobin 9.5 g/dL), leukocytosis (white blood cell count 12,000/mm³), and elevated CEA levels (13.4 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Haddad. This included a low anterior resection of the sigmoid colon, followed by a primary anastomosis or a permanent ileostomy (ileal conduit). Post-operative care involved management of pain, prevention of thromboembolic events, and monitoring for complications such as anastomotic leakage. He was scheduled to undergo adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, 5-FU) for six cycles. Radiation therapy was not indicated due to the absence of distant metastasis.
+
+Hospital Course:
+	After a successful surgical intervention, Mr. Haddad experienced post-operative complications including anastomotic leakage and delayed bowel movement. He required intravenous antibiotics and nutritional support to manage the infection and promote healing. As his condition stabilized, he started undergoing chemotherapy on an outpatient basis.
+
+Follow-Up Plan:
+	Mr. Haddad will return for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking metformin and lisinopril, with aspirin to be discontinued due to increased risk of bleeding during chemotherapy. A low-fiber diet is recommended to minimize discomfort related to the ileal conduit. He should report any signs of fever, abdominal pain, changes in bowel habits, or unintended weight loss promptly.
+
+Patient Education:
+	Mr. Haddad and his family were educated about post-surgical care, management of the ileal conduit, recognizing signs of complications such as leakage, obstruction, or perforation, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Haddad was provided detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a high-protein, low-fiber diet and take over-the-counter pain relief as needed for comfort.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Haddad's ongoing health issues. He will be closely followed by his oncologist to ensure optimal treatment and quality of life.
+
+Final Remarks:
+	In conclusion, Thomas Haddad demonstrated resilience throughout his treatment journey for colorectal cancer. His cooperation and adherence to the prescribed treatment plan have been instrumental in his recovery. I am confident that with continued support and follow-up care, Mr. Haddad can maintain a good quality of life post-discharge.

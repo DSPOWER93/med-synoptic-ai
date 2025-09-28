@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Mccoy
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1014
+	•Date of Admission: 09/02/2022
+	•Date of Discharge: 11/12/2022
+	•Attending Physician: Dr. Gail Ziegler
+	•Primary Diagnosis: Advanced-stage Colorectal Cancer (Dukes' C) with liver metastasis
+
+Reason for Admission:
+	Patricia Mccoy was admitted to the hospital due to a worsening abdominal pain and weight loss over the past few months. The initial assessment revealed a palpable mass in the lower right quadrant of his abdomen, as well as a positive carcinoembryonic antigen (CEA) test result. Further diagnostic investigations, including computed tomography (CT) scans and a colonoscopy, confirmed a large tumor in the sigmoid colon with multiple liver metastases.
+
+Medical History:
+	Patricia Mccoy has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), for which he was taking medications such as amlodipine, metformin, and inhaled bronchodilators. He also had a surgical history of a right hemicolectomy due to diverticulitis 10 years ago. John has no known allergies.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy biopsy confirmed adenocarcinoma, and further staging revealed Dukes' C colorectal cancer with liver metastasis. CT scans showed multiple liver lesions, some of which were enhancing on contrast administration. Blood tests showed elevated levels of CEA (100 ng/mL), alkaline phosphatase (ALP; 257 U/L), and lactic dehydrogenase (LDH; 648 U/L).
+
+Treatment Plan:
+	A multidisciplinary team, including surgeons, medical oncologists, radiation oncologists, and radiologists, developed a comprehensive treatment plan for Mr. Mccoy. The primary intervention was an extended right hemicolectomy with liver metastasectomy. Post-operative care included nutritional support, pain management, and wound care. The oncology team designed a modified FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) chemotherapy regimen for six cycles with the addition of bevacizumab to target angiogenesis. Radiation therapy was considered but ultimately not needed due to the multitude of liver lesions making it less effective.
+
+Hospital Course:
+	Mr. Mccoy's initial recovery from surgery was complicated by post-operative ileus, which required nasogastric tube insertion and bowel rest for several days. Over the following weeks, he received chemotherapy, underwent regular CT scans to monitor the liver lesions, and received close nutritional support due to his pre-existing diabetes and COPD.
+
+Follow-Up Plan:
+	Mr. Mccoy was scheduled for regular outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue on the modified FOLFOX regimen for six cycles followed by maintenance chemotherapy with bevacizumab. Lifestyle recommendations included quitting smoking (if applicable) and maintaining a balanced diet rich in fiber and low in processed foods.
+
+Patient Education:
+	Mr. Mccoy and his family were educated on post-surgical care, management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like neutropenia and peripheral neuropathy. They were also instructed on how to manage fluid intake and physical activity levels for optimal recovery.
+
+Discharge Instructions:
+	Upon discharge, Mr. Mccoy was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity limitations. He was advised to take his prescribed medications as directed, perform daily wound checks, drink at least eight cups of water per day, and limit strenuous activities until fully healed.
+
+Prognosis and Long-Term Outlook:
+	The treatment plan provides a good prognosis for Mr. Mccoy, given his relatively young age and overall health status. Regular monitoring for early detection of recurrence is essential, as well as managing ongoing health issues related to diabetes, hypertension, and COPD.
+
+Final Remarks:
+	Dr. Gail Ziegler expressed her appreciation for Mr. Mccoy's resilience throughout his treatment journey and wished him a speedy recovery. The report was signed by both the attending physician and Patricia Mccoy on 11/12/2022.

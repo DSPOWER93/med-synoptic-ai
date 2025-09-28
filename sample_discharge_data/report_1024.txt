@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Shawn Whitlock
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1024
+	•Date of Admission: 06/15/2022
+	•Date of Discharge: 07/15/2022
+	•Attending Physician: Dr. Philip Gamble
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Shawn Whitlock was admitted to the hospital due to persistent lower abdominal pain and rectal bleeding, accompanied by a significant weight loss over the past few months. Initial assessments revealed abnormalities in his fecal occult blood test, prompting further investigations through colonoscopy and computed tomography (CT) scans. The imaging results confirmed the presence of a large tumor in the descending colon, with lymph node involvement.
+
+Medical History:
+	Mr. Whitlock has a history of hypertension and diabetes mellitus type II, both well-controlled through medication. He also suffers from chronic obstructive pulmonary disease (COPD), which requires regular nebulizer therapy. Previously, he underwent appendectomy in 2013. There is a family history of colorectal cancer, with his father being diagnosed at the age of 65. He has no known allergies and was taking aspirin daily for cardiovascular prevention before admission.
+
+Diagnostic Findings:
+	Pathology report from the colonoscopy revealed an invasive adenocarcinoma in the descending colon. The CT scan showed lymph node involvement, with several enlarged nodes detected near the tumor site. Blood tests indicated elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), both indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Whitlock, which included a partial colectomy followed by an ileo-rectal anastomosis. Post-operative care involved close monitoring for complications such as infection and anastomotic leakage. Adjuvant chemotherapy was initiated with FOLFOX (oxaliplatin, leucovorin, and fluorouracil) regimen, with a total of 12 cycles planned. Given the size and location of the tumor, radiation therapy was also considered, but ultimately deemed unnecessary based on the post-operative pathology report.
+
+Hospital Course:
+	Mr. Whitlock's recovery from surgery was initially smooth, with minimal complications. However, he developed a fever on the sixth day post-surgery, which required antibiotic treatment to address a possible infection. His condition stabilized following this incident. Throughout his hospital stay, he received nutritional support through total parenteral nutrition (TPN) and physical therapy sessions to improve mobility and prevent thromboembolism.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Whitlock was scheduled for regular follow-up appointments with his oncologist and primary care physician every three months for the first year. He will continue taking aspirin daily, along with the prescribed chemotherapy medication. A strict diet rich in fiber and low in fat is recommended to prevent recurrence. In case of any unusual symptoms such as persistent abdominal pain, rectal bleeding, or unexplained weight loss, immediate medical attention should be sought.
+
+Patient Education:
+	Mr. Whitlock was educated about the importance of adhering to his medication schedule and follow-up appointments. He was instructed on post-surgical care for his ileal conduit, including signs of complications such as blockage or infection. He was also taught strategies to manage common side effects of chemotherapy, such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Whitlock received a detailed list of medications to continue taking at home, along with instructions on wound care practices, hydration guidelines, and physical activity recommendations. He was also provided with educational materials on managing his condition and recognizing potential complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Whitlock's long-term survival. His follow-up plan includes annual colonoscopies and carcinembryonic antigen (CEA) testing every three months to monitor disease progression. Lifelong management of his underlying conditions, hypertension, diabetes mellitus type II, and COPD, will also be necessary.
+
+Final Remarks:
+	The attending physician would like to express her gratitude for Mr. Whitlock's cooperation throughout the treatment journey. She emphasizes that while the road ahead may be challenging, with regular follow-up care and adherence to his treatment plan, he can look forward to a brighter future. Both the patient and physician have signed this report on 07/15/2022 to validate its accuracy and completeness.

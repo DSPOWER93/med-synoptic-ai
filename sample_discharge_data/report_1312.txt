@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Leonard King
+	•Date of Birth: 01/15/1978
+	•Medical Record Number: M1312
+	•Date of Admission: 04/20/2022
+	•Date of Discharge: 06/15/2022
+	•Attending Physician: Dr. Megan Millerd
+	•Primary Diagnosis: Advanced Stage Colorectal Cancer (Stage IV)
+
+Reason for Admission:
+	Leonard King was admitted to the hospital following a series of symptoms including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. The initial assessment revealed abnormalities in his digestive system that prompted further diagnostic investigations. A colonoscopy confirmed the presence of a large tumor in the colon, and a CT scan indicated that the cancer had metastasized to multiple organs, including the liver and lungs.
+
+Medical History:
+	Leonard King has a significant past medical history, including hypertension, type 2 diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee replacement surgery in 2019 due to osteoarthritis. His family history is notable for colorectal cancer and breast cancer. John is allergic to penicillin and sulfa drugs. Prior to admission, he was taking medications for his hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay revealed that Leonard King had a large, inoperable tumor in the colon, with metastases in the liver and lungs. Pathology reports confirmed the diagnosis of adenocarcinoma. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating advanced disease.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Leonard King, which included a palliative surgical intervention to create an ileal conduit, followed by six cycles of chemotherapy and radiation therapy. The chemotherapy regimen consisted of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) and Avastin for targeted therapy. He was also recommended for nutritional support to manage weight loss and maintain overall health.
+
+Hospital Course:
+	Leonard King underwent the surgical procedure to create an ileal conduit on April 26, 2022. Post-operative care focused on managing pain, preventing infection, and promoting wound healing. He faced several challenges during his hospital stay, including complications related to his COPD, but with close monitoring and adjustments to his medication regimen, he was able to manage these issues effectively.
+
+Follow-Up Plan:
+	Leonard King has been scheduled for regular outpatient appointments every three months for the next year. He will continue taking the medications prescribed during his hospital stay, with adjustments as necessary. Lifestyle and dietary recommendations include maintaining a balanced diet rich in fruits, vegetables, lean proteins, and whole grains, while avoiding processed foods. John has been advised to monitor for signs of complications such as fever, increased pain, or changes in bowel habits.
+
+Patient Education:
+	Leonard King and his family were provided with extensive education on the management of the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy and radiation therapy. They were also instructed on maintaining a healthy lifestyle and diet to support recovery.
+
+Discharge Instructions:
+	Leonard King was provided with comprehensive discharge instructions, which included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity guidelines. He was advised to maintain a balanced diet, take his medications as prescribed, monitor for signs of complications, and return for follow-up appointments as scheduled.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with advanced stage colorectal cancer is generally poor, but regular monitoring for early detection of recurrence and managing ongoing health issues can improve outcomes. Leonard King has been advised to maintain a positive attitude and focus on his recovery during this challenging time.
+
+Final Remarks:
+	Dr. Megan Millerd expressed her appreciation for Leonard King's resilience and cooperation throughout the treatment journey, noting that it was essential for his successful recovery. She emphasized the importance of regular monitoring and adherence to the follow-up plan to ensure the best possible outcomes. The report is signed by Dr. Megan Millerd and Leonard King on June 15, 2022.

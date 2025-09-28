@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Candace Calderon
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M124
+	•Date of Admission: 05/05/2021
+	•Date of Discharge: 06/06/2021
+	•Attending Physician: Dr. Federico Rocha
+	•Primary Diagnosis: Advanced Pancreatic Cancer (Stage IV)
+
+Reason for Admission:
+	Candace Calderon was admitted to our facility due to severe abdominal pain, nausea, and weight loss over the past two months. Initial assessments revealed a distended abdomen with localized tenderness in the epigastric region. Laboratory tests showed elevated levels of CA19-9 and CEA markers, indicating pancreatic cancer. Further investigations, including computed tomography (CT) scan, magnetic resonance imaging (MRI), and endoscopic ultrasound, confirmed the presence of a large mass in his pancreas with metastases to the liver.
+
+Medical History:
+	Mr. Calderon has been diagnosed with hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2017 due to gallstones. His father and grandmother both died from pancreatic cancer. Allergies include penicillin and iodinated contrast agents. He was prescribed metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology reports from the tumor resection confirmed the diagnosis of adenocarcinoma of the pancreas. Imaging studies showed the primary tumor in the head of the pancreas with multiple metastases to the liver and peritoneum. Blood tests revealed anemia, elevated bilirubin, and increased alkaline phosphatase levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Calderon. He underwent a Whipple procedure followed by radiation therapy and systemic chemotherapy. Post-operative care included nutritional support, pain management, and monitoring for complications such as leaks or infections. The chemotherapy regimen consisted of FOLFIRINOX (irinotecan, folinic acid, fluorouracil, and oxaliplatin) every two weeks with blood cell growth factors to prevent neutropenia.
+
+Hospital Course:
+	Mr. Calderon's initial recovery from surgery was challenging due to post-operative complications including anastomotic leakage and wound infection. However, with aggressive intervention and supportive care, he made significant progress during his hospital stay. He received enteral feeding, antibiotics, and fluid resuscitation. His pain was managed effectively with opioids, and he participated in physical therapy to improve his mobility.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Calderon will be followed up closely every three months for cancer monitoring, complete blood count, liver function tests, and CA19-9 levels. He will continue with oral chemotherapy at home and receive nutritional counseling to maintain a balanced diet. Lifestyle modifications include quitting smoking, maintaining regular physical activity, and stress management techniques. Warning signs requiring immediate medical attention include fever, worsening abdominal pain, unexplained weight loss, or jaundice.
+
+Patient Education:
+	Mr. Calderon and his family were educated about the importance of adhering to the prescribed chemotherapy regimen, managing side effects such as nausea, diarrhea, and fatigue, recognizing signs of complications, and maintaining good hygiene practices for ileal conduit care.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Calderon was given detailed instructions about medication administration, wound care, hydration, and physical activity guidelines. He was also provided with educational materials and a schedule for follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues. While the prognosis for advanced pancreatic cancer remains poor, Mr. Calderon's resilience and cooperation throughout the treatment journey give hope for a better quality of life in the remaining time.
+
+Final Remarks:
+	I would like to express my gratitude to Mr. Candace Calderon for his courage during this difficult time. His resilience and positive attitude have been an inspiration to our team, and we wish him the best in his recovery journey. Sincerely, Dr. Federico Rocha (Date 06/06/2021)

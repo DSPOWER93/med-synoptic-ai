@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dylan Cox
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1270
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Brenda Seavey
+	•Primary Diagnosis: Carcinoma of the Bladder (T3N0M0)
+
+Reason for Admission:
+	The patient, Dylan Cox, was admitted to our facility due to a persistent hematuria, or blood in the urine, and lower abdominal pain. Upon initial assessment, a thorough physical examination was conducted along with laboratory tests, which revealed an elevated white blood cell count and abnormalities in urinalysis. Further diagnostic investigations including CT scan of the abdomen and pelvis, cystoscopy, and biopsy confirmed the presence of a bladder cancer (T3N0M0).
+
+Medical History:
+	Dylan Cox has a significant medical history, with hypertension and diabetes mellitus type 2 being his most chronic conditions. He has undergone a laparoscopic cholecystectomy in the past for gallbladder stones. His family history is marked by breast cancer and prostate cancer, and he is known to be allergic to penicillin. Prior to admission, John was taking metformin, lisinopril, and amlodipine.
+
+Diagnostic Findings:
+	The pathology report from the bladder biopsy revealed a moderately differentiated transitional cell carcinoma. The CT scan showed a 5.4 cm mass in the bladder with involvement of the muscularis propria but no lymph node involvement or distant metastasis (T3N0M0). Blood tests showed elevated creatinine levels, possibly indicative of dehydration and potential kidney impairment.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Dylan Cox. This included a radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved managing surgical site complications, maintaining adequate hydration, and ensuring proper functioning of the ileal conduit. The chemotherapy regimen was a combination of Gemcitabine and Cisplatin, given every three weeks for six cycles. Radiation therapy was not deemed necessary based on the initial staging.
+
+Hospital Course:
+	Dylan Cox underwent a successful radical cystectomy with ileal conduit formation on [02/01/2022]. His post-operative course was marked by temporary complications such as urinary leakage and electrolyte imbalances, both of which were effectively managed through proper care and management. The patient responded well to the first cycle of chemotherapy without significant side effects.
+
+Follow-Up Plan:
+	Dylan Cox will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue taking his hypertension and diabetes medications but may require adjustments based on his kidney function and overall health status. A strict diet regimen focusing on fluid intake, fiber consumption, and avoiding foods high in oxalates is recommended to prevent urinary complications.
+
+Patient Education:
+	Dylan Cox and his family were educated about the nature of his disease, the importance of regular follow-ups, and the signs of potential complications such as fever, persistent pain, and changes in urine color or odor. They were also instructed on post-surgical care, including wound care practices, proper hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Upon discharge, Dylan Cox was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Dylan Cox is positive given the early stage of his cancer (T3N0M0) and successful treatment with surgery and chemotherapy. However, regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension and diabetes will be crucial in ensuring his long-term survival.
+
+Final Remarks:
+	Dr. Brenda Seavey commends Dylan Cox for his resilience and cooperation throughout the treatment journey. The patient's signature, along with Dr. Brenda Seavey's signature, validates this report on [05/01/2022]. Regular follow-ups are essential to ensure continued progress and long-term health.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Norman Chagoya
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M154
+	•Date of Admission: 04/02/2023
+	•Date of Discharge: 03/03/2023
+	•Attending Physician: Dr. Jason Furr
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Norman Chagoya presented to the emergency department with symptoms of abdominal pain, bloating, and a change in bowel habits over the past month. Upon initial assessment, he appeared uncomfortable, and physical examination revealed a palpable mass in the lower abdomen. A series of diagnostic tests were ordered, including CT scan, MRI, and colonoscopy, which confirmed the diagnosis of colorectal cancer. The extent of the disease was determined to be Norman Chagoya based on imaging findings and pathology results.
+
+Medical History:
+	Mr. Chagoya has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee replacement surgery 5 years ago. His family history is significant for colorectal cancer in his father and sister. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, atorvastatin, albuterol, and ibuprofen.
+
+Diagnostic Findings:
+	The colonoscopy revealed a tumor in the sigmoid colon, with involved lymph nodes seen on imaging scans. Laboratory tests showed an elevated carcinoembryonic antigen (CEA) level of 12.5 ng/ml (normal range <5 ng/ml). The pathology report indicated moderately differentiated adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Chagoya. He underwent a sigmoid colon resection with an ileal conduit creation, followed by adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, leucovorin, and fluorouracil) administered every two weeks for a total of 12 cycles. Radiation therapy was not indicated in this case. Post-operative care included management of pain, wound care, and prevention of thromboembolic events.
+
+Hospital Course:
+	Mr. Chagoya's initial recovery from surgery was uneventful, with good bowel function and gradual improvement in abdominal discomfort. He received daily physical therapy sessions to improve his mobility and prevent complications related to immobility. Nutritional support was provided through a high-protein diet supplemented with total parenteral nutrition (TPN) due to poor oral intake. The disease was managed with regular monitoring of CEA levels, blood counts, and liver function tests.
+
+Follow-Up Plan:
+	Mr. Chagoya will have follow-up appointments every 3 months for the first year, then every 6 months thereafter. He will continue taking metformin and atorvastatin but should avoid aspirin due to its potential interaction with oxaliplatin. A low-fiber diet is recommended for managing the ileal conduit, along with good hydration to prevent constipation. Regular exercise and maintaining a healthy weight are important for long-term survival. If he experiences signs of fever, abdominal pain, or rapid weight loss, he should seek medical attention immediately.
+
+Patient Education:
+	Mr. Chagoya was educated about the importance of regular follow-up appointments, cancer screenings for other family members, and lifestyle modifications such as smoking cessation and a balanced diet. He received detailed instructions on post-surgical care, including wound care practices, medication adherence, hydration, and physical activity guidelines. He was also taught how to manage complications related to the ileal conduit, such as blockages or infections, and common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Chagoya was provided with detailed written instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for cancer survivors and support groups. A follow-up appointment was scheduled with his oncologist in one week to discuss further treatment plans and answer any questions.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for colorectal cancer is favorable when treated appropriately, and Mr. Chagoya's response to adjuvant chemotherapy will be closely monitored. Regular monitoring for early detection of recurrence and managing ongoing health issues like hypertension, diabetes, and COPD are crucial for long-term survival.
+
+Final Remarks:
+	Dr. Furr commends Mr. Chagoya on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continuing regular follow-up appointments and encourages him to reach out if he has any concerns or questions in the future. Both the physician and patient have signed the report, dated 03/03/2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Lee
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1082
+	•Date of Admission: 05/03/2022
+	•Date of Discharge: 05/18/2022
+	•Attending Physician: Dr. Mary Lee
+	•Primary Diagnosis: Stage III Colorectal Cancer (Adenocarcinoma) with liver metastases
+
+Reason for Admission:
+	James Lee was admitted to our facility due to progressive abdominal pain, rectal bleeding, and unexplained weight loss over the past three months. Upon initial assessment, a thorough physical examination revealed abnormalities in his abdomen, and laboratory tests indicated elevated carcinoembryonic antigen (CEA) levels. Further investigations through colonoscopy, computed tomography (CT), and magnetic resonance imaging (MRI) confirmed the presence of a large mass in the sigmoid colon and multiple liver metastases.
+
+Medical History:
+	Mr. Lee has a history of hypertension managed with medication, Type 2 diabetes diagnosed 10 years ago, and Chronic Obstructive Pulmonary Disease (COPD) due to a lifelong smoking habit. He underwent a left total knee replacement surgery in 2015. Mr. Lee is allergic to penicillin and has a family history of colorectal cancer. Prior to admission, he was taking medications for hypertension, diabetes, and COPD control.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of adenocarcinoma in the sigmoid colon. CT scan revealed a 6cm mass in the sigmoid colon and multiple liver metastases. MRI further detailed the extent of the disease within the liver. Blood tests showed increased CEA levels, anemia, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Lee. The initial phase involved a partial colectomy followed by an ileal conduit creation to facilitate waste elimination. Post-operative care included pain management, nutritional support, and monitoring for potential complications. He was also initiated on adjuvant chemotherapy with FOLFOX regimen (folinic acid, fluorouracil, oxaliplatin) for 12 cycles. Due to the extensive liver metastases, radiation therapy was considered but deferred for a later stage due to Mr. Lee's overall health condition.
+
+Hospital Course:
+	Mr. Lee's recovery from surgery was initially challenging due to post-operative complications, including anemia and electrolyte imbalances. However, with close monitoring, effective management of pain, and aggressive nutritional support, he was able to regain his strength. He also underwent regular therapy sessions to aid in recovery and manage his underlying conditions.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Lee after discharge. He will return for regular outpatient appointments every three months for the first year, then every six months thereafter. His medications will be adjusted based on blood glucose and electrolyte levels. Lifestyle modifications, including quitting smoking, maintaining a balanced diet, and regular exercise are strongly recommended. Warning signs of complications such as fever, abdominal pain, or unexplained weight loss have been emphasized.
+
+Patient Education:
+	Mr. Lee and his family were provided detailed education about post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and nausea. They were also educated about the importance of regular follow-ups, healthy lifestyle choices, and quitting smoking.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. Mr. Lee was provided with a detailed discharge summary explaining the course of his treatment and the importance of continued monitoring for early detection of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Lee's long-term health. His overall prognosis will be influenced by factors such as the extent of disease at diagnosis, response to treatment, and adherence to lifestyle modifications.
+
+Final Remarks:
+	I would like to commend James Lee on his resilience and cooperation throughout this challenging journey. It has been a privilege to care for him, and I am confident that he will continue to make progress in his recovery. I encourage Mr. Lee and his family to stay positive, follow the discharge instructions, and remain diligent about their follow-up appointments.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Toby Henderson
+	•Date of Birth: 08/20/1975
+	•Medical Record Number: M12
+	•Date of Admission: 01/10/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Ann Morgan
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	The patient presented with symptoms including frequent urination, hematuria, and low back pain. Upon admission, a physical examination was conducted followed by urine analysis, ultrasound, and computed tomography (CT) scan. These tests revealed a mass in the bladder and suspected invasion of the muscle layer, indicating the presence of transitional cell carcinoma. The tumor was found to be moderately differentiated with lymph node metastasis.
+
+Medical History:
+	Mr. Morgan has a history of hypertension, for which he is currently taking Amlodipine daily. He also has a chronic obstructive pulmonary disease (COPD) and is prescribed regular inhalers. His father passed away from lung cancer at the age of 60, and his mother has type-2 diabetes mellitus. The patient is not known to have any allergies.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of bladder cancer. CT scan revealed a tumor measuring approximately 5 cm in diameter with involvement of the muscularis propria and lymph node metastasis. Additionally, blood tests showed elevated creatinine level (1.7 mg/dL) indicative of possible kidney dysfunction due to the tumor compression.
+
+Treatment Plan:
+	The treatment plan included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy and radiation therapy for the lymph node metastasis. Post-operative care involved management of pain, wound healing, and catheter removal. The chemotherapy regimen consisted of Gemcitabine and Cisplatin in six cycles administered every three weeks.
+
+Hospital Course:
+	After the surgery, Mr. Morgan was closely monitored for signs of complications such as infection and hemorrhage. He received intensive care for two days followed by regular nursing care. Physical therapy was initiated to maintain mobility and promote wound healing. The patient's diet was managed to ensure proper nutrition and hydration.
+
+Follow-Up Plan:
+	Mr. Morgan will be scheduled for outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue taking his blood pressure medication, but the COPD inhalers are to be adjusted based on his pulmonary function tests. A low-sodium diet is recommended to manage hydration and kidney health. Any sudden increase in urinary frequency or difficulty passing urine should be reported immediately.
+
+Patient Education:
+	The patient was educated about the care of his ileal conduit, including emptying techniques, odor control, and potential complications. He was also instructed on signs of infection, bleeding, or obstruction that require immediate medical attention. Common side effects such as fatigue, nausea, and nephrotoxicity were discussed, along with management strategies.
+
+Discharge Instructions:
+	The patient was provided instructions on wound care, including changing the dressing, monitoring for signs of infection, and reporting any persistent pain or drainage. He was advised to maintain adequate hydration by drinking at least eight glasses of water daily and engaging in light physical activity as tolerated. Medications were explained, including their purposes, dosages, and potential side effects.
+
+Prognosis and Long-Term Outlook:
+	Regular follow-ups are crucial for early detection of recurrence or secondary malignancies. Lifelong monitoring for signs of kidney dysfunction is also recommended due to the patient's history of high creatinine levels.
+
+Final Remarks:
+	Throughout this challenging journey, Mr. Morgan has shown remarkable resilience and cooperation. I am confident that he will continue to make progress in his recovery. I extend my best wishes for a swift and complete healing process.

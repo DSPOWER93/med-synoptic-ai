@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Oscar Johnson
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1176
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Audrey Myers
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Oscar Johnson was admitted to the hospital following a colonoscopy that revealed a large tumor in his descending colon. The patient reported experiencing persistent abdominal pain, changes in bowel habits, and unexplained weight loss over the past few months. On admission, a series of diagnostic tests were conducted, including computed tomography (CT) scans, magnetic resonance imaging (MRI), and blood tests to confirm the diagnosis and assess the stage and severity of the disease.
+
+Medical History:
+	Oscar Johnson has a history of hypertension, which is managed with medication, and a pack-year history of smoking. He has no known family history of colorectal cancer. Before admission, he was taking aspirin daily for cardiovascular prevention and metformin for his hypertension.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a large adenocarcinoma in the descending colon. CT scans revealed that the tumor had invaded adjacent organs, and there were multiple enlarged lymph nodes in the abdominal region. Blood tests indicated elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA 19-9), consistent with colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team, including oncologists, surgeons, radiotherapists, and nurses, developed a comprehensive treatment plan for Mr. Johnson. The primary intervention was a partial colectomy to remove the affected segment of the colon. Post-operative care included management of pain, wound care, and nutritional support.
+
+Hospital Course:
+	Mr. Johnson's recovery from surgery was initially complicated by a post-operative ileus, which resolved after conservative treatment. Throughout his hospital stay, he received supportive care, including physical therapy, speech therapy, and occupational therapy to aid in his rehabilitation. His nutritional status improved with the help of dietary counseling and appropriate supplementation.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Johnson was scheduled for regular follow-up appointments with his oncologist every three months during the first year, then every six months thereafter. He will continue taking aspirin and metformin, and he is advised to quit smoking permanently. Lifestyle recommendations include maintaining a balanced diet, engaging in regular physical activity, and ensuring adequate hydration. Warning signs that require immediate medical attention include fever, persistent abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Johnson was educated on the importance of post-surgical care, including managing his ileal conduit, recognizing signs of complications such as infection, obstruction, or leakage, and understanding potential side effects like diarrhea, constipation, and changes in stool color or consistency. He was also provided with instructions on managing common side effects associated with chemotherapy and radiation therapy.
+
+Discharge Instructions:
+	Discharge instructions included clear guidelines for medication adherence, wound care practices, hydration, and physical activity recommendations. Mr. Johnson was advised to monitor his temperature regularly and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Stage III colorectal cancer is generally favorable when treated appropriately with a combination of surgery, chemotherapy, and radiation therapy. Regular monitoring for early detection of recurrence and management of ongoing health issues are crucial to ensure the best possible outcome.
+
+Final Remarks:
+	Dr. Myers would like to commend Mr. Johnson on his resilience and cooperation throughout his treatment journey. She expresses her confidence that he will continue to make progress in his recovery and encourages him to maintain a positive attitude. The patient's signature and the date of discharge are appended, validating the report.

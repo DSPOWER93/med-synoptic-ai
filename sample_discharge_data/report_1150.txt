@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sidney Slama
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1150
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Walter Burrows
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Sidney Slama presented to the emergency department with a two-week history of persistent abdominal pain, weight loss, and change in bowel habits. Initial assessment revealed an ill-appearing male with abdominal tenderness and signs of dehydration. Subsequent diagnostic investigations included complete blood count (CBC), carcinoembryonic antigen (CEA) test, computed tomography (CT) scan of the abdomen, and a colonoscopy, which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Sidney Slama has a past medical history significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and tobacco use disorder. He had a history of coronary artery bypass graft surgery in 2015. His family history was notable for colorectal cancer in his father at the age of 65. Sidney Slama was allergic to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, salmeterol/fluticasone, and bupropion.
+
+Diagnostic Findings:
+	The CBC revealed anemia (hemoglobin 9 g/dL) and leukocytosis (white blood cell count 13,000 cells/µL). The CEA level was elevated at 25 ng/mL. CT scan of the abdomen demonstrated a mass in the transverse colon, multiple liver metastases, and ascites. Pathology report from the colonoscopy confirmed adenocarcinoma of the transverse colon.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Sidney Slama. He underwent a right hemicolectomy with lymph node dissection, followed by a primary anastomosis. Post-operative care included pain management, antibiotics, and close monitoring for complications such as anastomotic leakage. Given the extent of disease, Sidney Slama was started on adjuvant chemotherapy (FOLFOX regimen) with 6 cycles planned. Radiation therapy was not indicated due to his poor performance status.
+
+Hospital Course:
+	Initially, Sidney Slama required intensive post-operative care for pain management and electrolyte imbalance. He developed anastomotic leakage on the fifth post-operative day, requiring a temporary ostomy. After successful management of the leakage, his condition stabilized. His course was complicated by a deep vein thrombosis, which was managed with anticoagulation therapy. Nutritional support and physical therapy played crucial roles in his recovery.
+
+Follow-Up Plan:
+	Sidney Slama will be followed up every three months for the first two years, then every six months thereafter. He will continue on FOLFOX chemotherapy until completion of 6 cycles. Lifestyle modifications, including smoking cessation and a healthy diet, are strongly recommended. Regular follow-up with his primary care provider is essential. Any signs of fever, abdominal pain, or changes in bowel habits should prompt immediate medical attention.
+
+Patient Education:
+	Sidney Slama and his family were educated about the importance of adhering to the chemotherapy regimen and the role of a healthy lifestyle in cancer management. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and neutropenia were provided.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices (for the ostomy), hydration, and physical activity guidelines. Sidney Slama was advised to take his medications as prescribed, maintain a high fluid intake, and engage in light activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Sidney Slama's long-term health. He was informed about the importance of maintaining a healthy lifestyle to improve his overall wellbeing and increase his chances of a successful outcome.
+
+Final Remarks:
+	This report concludes with Dr. Walter Burrows's final remarks, emphasizing Sidney Slama's resilience throughout his treatment journey and his cooperation in adhering to the treatment plan. Both physician and patient have signed the report, dated April 15, 2022, validating its contents.

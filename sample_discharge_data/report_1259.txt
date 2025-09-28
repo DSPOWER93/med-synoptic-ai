@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Phillip Rosati
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1259
+	•Date of Admission: 09/15/2022
+	•Date of Discharge: 10/20/2022
+	•Attending Physician: Dr. Dr. Wilson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Phillip Rosati was admitted to the hospital after experiencing persistent lower abdominal pain and rectal bleeding for over a month. The initial assessment revealed anemia, weight loss, and a palpable mass in the lower abdomen. Diagnostic investigations, including a colonoscopy, computed tomography (CT) scan, and laboratory tests, confirmed a large tumor in the sigmoid colon with regional lymph node involvement, indicative of Stage III colorectal cancer.
+
+Medical History:
+	Phillip Rosati had been diagnosed with hypertension five years ago and was being treated with medication. He also had a history of type 2 diabetes, which was managed with diet and insulin therapy. John has a family history of colorectal cancer, as his father died from the disease at age 65. Prior to admission, he was taking Metformin, Amlodipine, Insulin Glargine, and Aspirin daily.
+
+Diagnostic Findings:
+	The pathology report confirmed an adenocarcinoma of the sigmoid colon with positive lymph nodes. CT scan results showed a large tumor in the sigmoid colon with regional lymph node involvement. Laboratory tests revealed elevated carcinoembryonic antigen (CEA) levels, anemia, and electrolyte imbalances due to blood loss.
+
+Treatment Plan:
+	Phillip Rosati underwent a sigmoid colectomy with lymph node dissection followed by a permanent ileostomy. The post-operative care included pain management, wound care, and antibiotic therapy. He was also initiated on adjuvant chemotherapy, consisting of FOLFOX (Folinic Acid, Fluorouracil, Oxaliplatin) regimen with cycles every two weeks. Radiation therapy was deferred due to the surgical intervention's impact on the intestinal tract.
+
+Hospital Course:
+	Phillip Rosati's initial recovery from surgery was successful, and he tolerated chemotherapy well. He faced challenges related to malnutrition, which were managed with nutritional support. Regular follow-ups with specialists ensured appropriate management of both colorectal cancer and comorbidities.
+
+Follow-Up Plan:
+	Phillip Rosati will return for outpatient appointments every three months for the first year, then semi-annually thereafter. His current medications include Metformin, Amlodipine, Insulin Glargine, Aspirin, and Capecitabine (oral chemotherapy). He is advised to maintain a low-fiber diet and avoid foods that may cause discomfort with his ileal conduit.
+
+Patient Education:
+	Phillip Rosati and his family were provided comprehensive education on post-surgical care, including wound care practices, maintaining ostomy bag hygiene, and recognizing signs of complications such as fever, abdominal pain, or changes in the appearance of the stoma. They were also informed about managing common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Phillip Rosati was given instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also informed about the importance of regular follow-ups with his healthcare team to monitor for any signs of recurrence or complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence, as well as managing ongoing health issues such as hypertension and diabetes. Phillip Rosati's prognosis will depend on the response to chemotherapy, and he will be closely monitored by his healthcare team.
+
+Final Remarks:
+	Dr. Dr. Wilson, MD expresses her gratitude for Phillip Rosati's cooperation throughout his treatment journey. She emphasizes the importance of maintaining a positive attitude, regular follow-ups, and adherence to the prescribed regimen for optimal outcomes. This report is signed by both Dr. Dr. Wilson, MD and Phillip Rosati on 10/20/2022.

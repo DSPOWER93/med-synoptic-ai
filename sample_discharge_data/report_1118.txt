@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jeffrey Ader
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1118
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 02/15/2022
+	•Attending Physician: Dr. Cruz Mirza
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Jeffrey Ader, a 37-year-old male, was admitted to our facility on 01/02/2022 due to persistent hematuria (blood in urine) and dysuria (painful urination). The patient's initial assessment revealed a high-grade urothelial carcinoma, confirmed through a transurethral resection of bladder tumor (TURBT) and subsequent pathology results. The disease had progressed to stage IIIB, with lymph node involvement and distant metastases detected in a positron emission tomography-computed tomography (PET-CT) scan.
+
+Medical History:
+	Mr. Ader has a significant medical history. He was diagnosed with hypertension at the age of 28, for which he is currently being managed with lisinopril and hydrochlorothiazide. In addition, he has been diagnosed with COPD since the age of 30 and controlled through bronchodilators and inhaled steroids. He underwent a laparoscopic appendectomy in 2015 due to appendicitis. His family history is pertinent for breast cancer (mother) and colorectal cancer (father). He has a known allergy to penicillin. Before admission, he was taking metformin for his Type 2 diabetes mellitus.
+
+Diagnostic Findings:
+	The diagnostic findings during Mr. Ader's hospital stay included abnormalities in complete blood count (CBC), with a low hemoglobin level and elevated white blood cell count, indicating anemia and infection. His creatinine level was elevated, suggesting possible kidney dysfunction. The pathology report from the TURBT revealed high-grade urothelial carcinoma cells. Imaging studies such as a CT scan of the abdomen and pelvis confirmed the presence of multiple metastatic lesions in the liver and lungs.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Ader, which included neoadjuvant chemotherapy followed by radical cystectomy with an ileal conduit formation. The patient underwent six cycles of cisplatin and gemcitabine chemotherapy, during which he experienced mild myelosuppression and nausea, both managed effectively with appropriate medication. Post-operative care included management of the ileal conduit, pain control, and antibiotic therapy to prevent urinary tract infections.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Mr. Ader will return for regular follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue taking his hypertension medications, COPD bronchodilators, and insulin for diabetes mellitus. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, and changes in urinary habits.
+
+Patient Education:
+	Mr. Ader and his family were provided education on the nature of bladder cancer, the importance of adhering to medication schedules, and recognizing signs of complications such as fever, increased pain, or abnormal urine output. Instructions were given regarding post-surgical care of the ileal conduit, including irrigation techniques, and managing common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Ader was provided with comprehensive instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was instructed to continue taking his prescribed medications as directed, maintain good hydration by drinking at least 8 cups of fluid daily, and engage in gentle activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Ader is guarded due to the advanced stage of his cancer at presentation. However, regular monitoring for early detection of recurrence and managing ongoing health issues will be essential for maintaining his quality of life.
+
+Final Remarks:
+	Dr. Cruz Mirza, the attending physician, commends Mr. Ader on his resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Mirza and Mr. Ader on 02/15/2022.

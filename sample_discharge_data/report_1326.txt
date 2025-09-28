@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joshua Keating
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1326
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 02/18/2022
+	•Attending Physician: Dr. Gloria Pastor
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Joshua Keating was admitted to the hospital due to a series of symptoms including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. Upon initial assessment, a mass was palpated in the lower abdomen. Subsequent laboratory tests revealed anemia and increased levels of carcinoembryonic antigen (CEA). A computed tomography (CT) scan confirmed the presence of a large tumor in the descending colon, with metastases in several lymph nodes.
+
+Medical History:
+	Mr. Keating has a significant medical history, including hypertension and diabetes mellitus type II, both well-controlled under medication. He was also diagnosed with chronic obstructive pulmonary disease (COPD) five years ago. Previously, he had undergone appendectomy in 1998 due to appendicitis. His family history is notable for colorectal cancer in his father and sister. Allergies include penicillin and sulfa drugs. He was taking metformin, amlodipine, and albuterol before admission.
+
+Diagnostic Findings:
+	Pathology report of the colon resection specimen confirmed adenocarcinoma of the descending colon. Imaging scans indicated that the tumor measured approximately 8 cm in diameter with extensive lymph node involvement. Blood tests revealed anemia, elevated CEA levels, and mildly deranged liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Keating. He underwent an elective right hemicolectomy with lymph node dissection on 01/25/2022. Postoperative care involved managing pain, preventing complications such as thromboembolism, and ensuring adequate nutrition. A post-operative course of adjuvant chemotherapy was initiated, consisting of FOLFOX regimen (Folinic acid, 5-Fluorouracil, and Oxaliplatin). The first cycle was administered on 02/08/2022, with subsequent cycles planned every two weeks. Radiation therapy was not deemed necessary based on the extent of disease and surgical resection.
+
+Hospital Course:
+	After surgery, Mr. Keating experienced an uncomplicated recovery and was discharged home on 02/18/2022. He faced some challenges with managing his diabetes during the hospital stay but was able to effectively communicate these issues with the care team. Physical therapy played a crucial role in helping him regain his mobility after surgery. The disease was well-controlled throughout the hospitalization, and nutritional support was provided to help him maintain his strength.
+
+Follow-Up Plan:
+	A follow-up plan has been established for Mr. Keating. He is scheduled for outpatient appointments every three months for the first year, then every six months thereafter. His medications will be continued and adjusted as necessary. Lifestyle modifications including a balanced diet and regular exercise are recommended to improve his overall health. Any changes in bowel habits, unexplained weight loss, or persistent abdominal pain should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Keating and his family were educated on the importance of adhering to the medication regimen, maintaining a healthy diet, and engaging in regular physical activity. They were instructed on post-surgical care for the ileal conduit, signs of complications such as infection or obstruction, and management of common side effects like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Keating was provided detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for cancer patients, such as support groups and financial assistance programs.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Keating's long-term health issues. Adhering to the treatment plan and maintaining a healthy lifestyle will improve his chances of successful management of colorectal cancer.
+
+Final Remarks:
+	Mr. Joshua Keating has shown remarkable resilience throughout his treatment journey, demonstrating an exceptional ability to cope with the challenges he has faced. I am confident that he will continue to make progress and look forward to seeing him in follow-up appointments.

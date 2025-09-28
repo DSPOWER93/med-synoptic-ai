@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Frank Brelsford
+	•Date of Birth: 01/12/1970
+	•Medical Record Number: M1245
+	•Date of Admission: 02/20/2022
+	•Date of Discharge: 03/10/2022
+	•Attending Physician: Dr. Sandy Brezenski
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Mr. Brezenski was admitted to our facility following a series of recurrent hematuria episodes and dysuria. The patient presented with a persistent, painless hematuria lasting over two weeks, accompanied by frequent and painful urination. Initial laboratory investigations revealed an elevated white blood cell count (WBC), increased creatinine level, and positive cytology results. Further diagnostic imaging in the form of a CT scan confirmed the presence of a bladder mass. The severity of his symptoms, coupled with the progression over time, necessitated immediate attention.
+
+Medical History:
+	Mr. Brezenski has a history of chronic conditions including hypertension and COPD. He underwent coronary artery bypass grafting (CABG) surgery in 2015 due to ischemic heart disease. His family medical history includes colon cancer, which his father was diagnosed with at the age of 60. Mr. Brezenski has a known allergy to penicillin and sulfa drugs. Prior to admission, he was on medications for hypertension, COPD, and cardiac conditions.
+
+Diagnostic Findings:
+	Biopsy results confirmed TCC of the bladder. The CT scan revealed a 4cm mass in the posterior wall of the bladder with evidence of muscle invasion. A cystoscopy was performed to further assess the extent and location of the tumor, which showed a sessile lesion occupying the entire bladder lumen. Blood tests during his hospital stay indicated anemia (Hb 9g/dL), normal renal function, and electrolyte imbalances that were promptly managed.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Brezenski. He underwent a radical cystectomy with intracorporeal urinary diversion (ileal conduit) on March 3, 2022. Post-operative care involved monitoring for complications such as infection, bleeding, and anastomotic leaks. Following surgery, he was initiated on adjuvant chemotherapy consisting of MVAC (Methotrexate, Vinblastine, Doxorubicin, Cisplatin) for four cycles. Radiation therapy was not deemed necessary given the extent of the disease and his overall health status.
+
+Hospital Course:
+	Mr. Brezenski's initial recovery from surgery was uneventful; however, he faced challenges with pain management, nutritional support, and managing his underlying conditions. His cooperation throughout the treatment journey was commendable. He was also engaged in physical therapy sessions to aid in his mobility and strengthen his core muscles.
+
+Follow-Up Plan:
+	Mr. Brezenski will return for scheduled outpatient appointments every three months for the first two years, then six-monthly thereafter. His medications will be adjusted as necessary based on the results of each follow-up examination. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise. Warning signs requiring immediate medical attention include fever, abdominal pain, changes in urinary habits, or unexplained weight loss.
+
+Patient Education:
+	The patient was educated on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like nausea and fatigue. He was instructed on how to recognize symptoms that may indicate recurrence or metastasis and was advised to maintain a healthy lifestyle post-discharge.
+
+Discharge Instructions:
+	Upon discharge, Mr. Brezenski was provided with detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised on how to manage his diet to facilitate healing and promote overall health.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Brezenski's long-term health. Given the extent of his disease, we emphasize the importance of follow-up appointments, adherence to medications, and a healthy lifestyle.
+
+Final Remarks:
+	In conclusion, we acknowledge Mr. Brezenski's resilience throughout this challenging journey and commend his cooperation during treatment. We wish him a speedy recovery and look forward to seeing him back for follow-up appointments.

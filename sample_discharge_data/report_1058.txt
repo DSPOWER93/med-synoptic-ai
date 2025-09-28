@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Laidlaw
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1058
+	•Date of Admission: 06/15/2022
+	•Date of Discharge: 08/10/2022
+	•Attending Physician: Dr. Yvonne Barr
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	The patient, Mr. Michael Laidlaw, was admitted to our institution following a urological referral due to persistent hematuria and lower abdominal pain over the past few weeks. Upon initial assessment, a comprehensive urinary evaluation revealed blood in the urine (hematuria), along with signs of potential bladder cancer. Subsequent imaging studies including CT scans and cystoscopy confirmed the presence of a T2 bladder tumor.
+
+Medical History:
+	Mr. Laidlaw has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a total knee replacement surgery in 2015. His family history is significant for bladder cancer and colon cancer. The patient has known allergies to penicillin and sulfa drugs. Prior to admission, he was on regular medications including metformin, lisinopril, salmeterol/fluticasone, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a T2 bladder tumor. Imaging studies showed no signs of distant metastasis. Blood tests revealed slightly elevated creatinine levels, indicative of potential kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Laidlaw. This included partial cystectomy followed by intravesical BCG therapy and adjuvant chemotherapy. Post-operative care involved management of wound infection, pain control, and nutritional support. The patient underwent six cycles of gemcitabine and cisplatin chemotherapy with the necessary supportive care for managing side effects such as nausea, vomiting, and myelosuppression.
+
+Hospital Course:
+	Mr. Laidlaw's hospital course was marked by an initial recovery from surgery, followed by a brief episode of post-operative infection requiring antibiotic therapy. The patient responded well to chemotherapy without significant adverse effects. Therapy and nutritional support played crucial roles in his recovery.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Laidlaw will continue regular follow-ups with the urologist every three months for the first year, then six-monthly thereafter. He is to continue taking metformin and lisinopril, while adjusting his COPD medications as needed. A low-sodium, high-fiber diet is recommended to manage kidney function and reduce the risk of recurrence. The patient is advised to report any signs of hematuria, dysuria, or abdominal pain immediately.
+
+Patient Education:
+	Mr. Laidlaw was educated about his condition, the importance of regular follow-ups, and the role of BCG therapy in reducing the risk of recurrence. He was also instructed on post-surgical care, including management of the ileal conduit, recognizing signs of complications, and managing common side effects such as urinary frequency, urgency, and leakage.
+
+Discharge Instructions:
+	Upon discharge, Mr. Laidlaw was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a healthy lifestyle, including regular exercise and a balanced diet.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient is encouraged to maintain a positive attitude and adhere to the treatment plan for optimal outcomes.
+
+Final Remarks:
+	Mr. Michael Laidlaw demonstrated remarkable resilience throughout his treatment journey. His cooperation, along with the collective efforts of our medical team, have contributed significantly to his recovery. We wish him continued health and success in the coming days.

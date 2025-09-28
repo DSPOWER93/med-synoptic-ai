@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Brown
+	•Date of Birth: 03/21/1970
+	•Medical Record Number: M1266
+	•Date of Admission: 02/12/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Ellyn Miller
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	John Brown was admitted to our facility due to persistent symptoms of abdominal pain, weight loss, and changes in bowel habits. Upon initial assessment, he exhibited signs of anemia and a palpable mass was detected during the physical examination. Subsequent diagnostic investigations, including a colonoscopy and CT scan, confirmed the presence of a large tumor in his sigmoid colon. The severity of his condition necessitated immediate surgical intervention.
+
+Medical History:
+	Mr. Brown has a history of hypertension, which is controlled with medication. He also suffers from chronic obstructive pulmonary disease (COPD) and type 2 diabetes mellitus. In addition, he has a family history of colorectal cancer. His pre-admission medications included lisinopril, metformin, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The pathology report indicated malignant cells in the resected specimen. A CT scan demonstrated a large tumor in the sigmoid colon with lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), consistent with advanced cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Brown. He underwent an elective sigmoid colectomy, followed by a temporary ileostomy due to the tumor's location. Post-operative care included management of his diabetes and hypertension, as well as pain control. In addition, he was started on adjuvant chemotherapy consisting of FOLFOX regimen (oxaliplatin, fluorouracil, leucovorin) for six cycles. The role of radiation therapy was discussed, but it was decided to defer this treatment due to the patient's overall condition.
+
+Hospital Course:
+	Mr. Brown's initial recovery from surgery was smooth, with minimal complications. He required supportive care, including pain management and nutritional support. During his hospital stay, he showed good progress, gradually resuming normal bowel function. The patient also underwent regular oncology consultations to manage the side effects of chemotherapy.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Brown will be scheduled for regular follow-up appointments with his oncologist and primary care physician. His current medications will continue, with close monitoring of his blood glucose levels and blood pressure. He has been instructed to maintain a balanced diet, avoid alcohol, and quit smoking. In the event of any unusual symptoms or complications, he is advised to seek immediate medical attention.
+
+Patient Education:
+	The patient and his family were educated about the nature of his disease, the importance of adhering to medication regimens, and the role of regular follow-up visits. They were also instructed on post-surgical care, including ileostomy management, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Brown was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to resume light activities gradually, and to maintain a balanced diet rich in fruits, vegetables, lean proteins, and whole grains.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Mr. Brown's long-term health. This includes routine CEA levels, CT scans, and regular follow-up visits with his oncologist. His overall prognosis will be determined by the response to adjuvant chemotherapy and the absence of any signs of disease progression.
+
+Final Remarks:
+	I am pleased to see Mr. Brown respond well to treatment and make a strong recovery thus far. His resilience and cooperation throughout this challenging journey have been commendable. I wish him continued success in his recovery, and I look forward to seeing him at our next scheduled appointment.

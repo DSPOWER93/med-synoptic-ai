@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph English
+	•Date of Birth: 12/04/1975
+	•Medical Record Number: M1383
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Andrea Johnson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Joseph English, was admitted to our facility on 01/01/2022 due to persistent lower abdominal pain and rectal bleeding that had been escalating over the past two months. Upon initial assessment, Mr. English reported a significant decrease in appetite, unexplained weight loss, and fatigue. A digital rectal exam revealed an irregular mass, prompting further diagnostic investigations.
+
+Medical History:
+	Mr. English has a history of hypertension and COPD, both of which were well-controlled with prescribed medications before admission. He had no prior surgeries but reported a family history significant for colorectal cancer in his father and maternal grandfather. He was not known to have any allergies. His regular medications included Amlodipine, Metoprolol, Albuterol, and Insulin Glargine.
+
+Diagnostic Findings:
+	A series of diagnostic tests were conducted upon admission, including a complete blood count, comprehensive metabolic panel, carcinoembryonic antigen (CEA) test, colonoscopy, computed tomography (CT) scan, and magnetic resonance imaging (MRI). The results indicated elevated levels of CEA (20.5 ng/mL), anemia (Hb 9.8 g/dL), and electrolyte imbalances. The CT scan showed a large mass in the descending colon with regional lymphadenopathy, while the MRI confirmed these findings and suggested possible liver metastasis. A biopsy of the mass was performed, confirming the diagnosis of colorectal cancer (Stage III).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. English, which included a right hemicolectomy followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring of wound healing, management of pain, and prevention of thromboembolic events. The surgical intervention was scheduled on 03/01/2022, and the patient underwent a successful right hemicolectomy. The post-operative recovery was uneventful with no significant complications.
+
+Hospital Course:
+	During his hospital stay, Mr. English's condition stabilized, with the resolution of lower abdominal pain and rectal bleeding. He received regular physiotherapy sessions to promote mobility and prevent deep vein thrombosis. Nutritional support was provided through a high-protein, high-calorie diet, and supplements to address his weight loss.
+
+Follow-Up Plan:
+	Upon discharge, Mr. English was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. His current medications (Amlodipine, Metoprolol, and Insulin Glargine) were continued, while the chemotherapy regimen (FOLFOX) was initiated. Lifestyle modifications included a high-fiber diet, regular exercise, and avoidance of alcohol and smoking. Specific warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, and unexplained weight loss.
+
+Patient Education:
+	The patient and his family were provided with detailed information about the ileal conduit, post-surgical care, and potential complications. They were instructed on recognizing signs of complications such as leaking or obstruction, managing common side effects like diarrhea and fatigue, and maintaining proper wound care practices.
+
+Discharge Instructions:
+	At discharge, Mr. English was provided with a detailed list of medications (FOLFOX and pain management), hydration guidelines, and physical activity recommendations. He was also educated on the importance of regular follow-up appointments and adherence to medication regimens for optimal outcomes.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for colorectal cancer depends on various factors, including the stage at diagnosis and the patient's overall health status. Mr. English's treatment plan aims to improve his chances of a favorable outcome and long-term survival. Regular monitoring for early detection of recurrence is crucial.
+
+Final Remarks:
+	In conclusion, Joseph English displayed remarkable resilience throughout his treatment journey. We commend his cooperation and diligence in adhering to the prescribed regimen. Our team will continue to support him during this critical period and wish him the best in his recovery.

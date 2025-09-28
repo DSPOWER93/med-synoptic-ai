@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Juanita Bain
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1122
+	•Date of Admission: 04/03/2022
+	•Date of Discharge: 04/22/2022
+	•Attending Physician: Dr. Samuel Vallejo
+	•Primary Diagnosis: Stage III Colorectal Cancer (T4N1M0)
+
+Reason for Admission:
+	Juanita Bain, a 37-year-old male, presented to the Juanita Bain complaining of persistent lower abdominal pain and altered bowel habits. Upon initial assessment, he exhibited signs of obstruction, including distension, tenderness, and an abnormal rectal examination. A computed tomography (CT) scan revealed a large mass in the sigmoid colon with evidence of obstruction. The diagnosis of colorectal cancer was confirmed after pathology reports from a subsequent colonoscopy.
+
+Medical History:
+	Mr. Bain has a history of hypertension, which is managed with medication. He also has a family history of colorectal cancer, with his father being diagnosed at the age of 58. Previously, he underwent a laparoscopic appendectomy in 2017 for an appendicitis. He has no known allergies and was taking lisinopril 10mg daily and metformin 500mg twice daily before admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. CT scan findings revealed a large, irregular mass in the sigmoid colon with multiple enlarged lymph nodes in the mesocolon and perirectal regions. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) at 12.5ng/ml (normal range <5ng/ml).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Bain. He underwent an elective sigmoid colon resection, which was followed by a primary ileo-rectal anastomosis and formation of an ileal conduit. Postoperative care included intravenous antibiotics, analgesia, and electrolyte replacement. A chemotherapy regimen consisting of FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) was initiated for six cycles, with the first cycle starting on day 7 post-surgery. Radiation therapy was considered but deemed unnecessary due to the extent of the resection and response to chemotherapy.
+
+Hospital Course:
+	Mr. Bain's initial recovery from surgery was uneventful, although he experienced expected postoperative complications such as ileus and wound infection. He received supportive care, including bowel regimen management and antibiotics for the wound infection. His cancer treatment team worked closely with him to manage his disease throughout his hospital stay.
+
+Follow-Up Plan:
+	Mr. Bain will have scheduled follow-up appointments every three months for the first two years, then every six months thereafter. He is to continue taking lisinopril and metformin but adjust the doses as necessary based on blood pressure and glucose levels. Lifestyle modifications include a low-fiber diet in the short term, followed by a high-fiber diet once tolerated. He should maintain good hydration and engage in gentle physical activity as tolerated. Specific warning signs that require immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	Mr. Bain and his family were educated on post-surgical care for the ileal conduit, including emptying techniques, irrigation schedules, and signs of complications such as blockage or infection. They were also instructed on managing common side effects associated with chemotherapy, such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Mr. Bain was provided comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about resources for support during his treatment journey.
+
+Prognosis and Long-Term Outlook:
+	Mr. Bain's prognosis is dependent on the response to chemotherapy and the absence of any recurrence. Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues such as hypertension and diabetes mellitus.
+
+Final Remarks:
+	We appreciate Juanita Bain's resilience throughout this challenging treatment journey, and we are confident in his ability to manage his condition moving forward. We look forward to seeing him at his scheduled follow-up appointments and continuing our collaboration to provide the best possible care.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Doris Haase
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1097
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15-01-2022
+	•Attending Physician: Dr. Daniel Taylor
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Doris Haase presented to the emergency room with persistent lower abdominal pain, frequent urination, and hematuria. Initial laboratory investigations showed an elevated white blood cell count and red blood cells in the urine sample. A computed tomography (CT) scan of the abdomen and pelvis revealed a mass in the bladder. The tumor was invading the muscle wall, indicating a T2 stage tumor according to the TNM classification system.
+
+Medical History:
+	Mr. Haase has a history of hypertension for which he is currently on medication. He also has a family history of colon cancer in his father and a sister who died from breast cancer at an early age. Allergies include penicillin and sulfa drugs. Before admission, he was taking Metoprolol SR 100 mg once daily and Hydrochlorothiazide 25 mg daily.
+
+Diagnostic Findings:
+	Pathology reports confirmed the diagnosis of Urothelial Cell Carcinoma. CT scan findings revealed a T2N0M0 mass in the bladder, with no signs of distant metastasis. A cystoscopy was performed and a transurethral resection of the bladder tumor (TURBT) was done. The biopsy report indicated high-grade urothelial carcinoma.
+
+Treatment Plan:
+	The multidisciplinary team, including oncologists, surgeons, and radiotherapists, developed a comprehensive treatment plan for Mr. Haase. He underwent radical cystectomy with ileal conduit formation followed by intravesical Bacillus Calmette-Guérin (BCG) therapy. Post-operative care included managing pain, preventing and treating infections, and assisting with bowel function recovery. A chemotherapy regimen consisting of Gemcitabine and Cisplatin was initiated with the first cycle completed during his hospital stay. The next cycles will be administered as outpatient procedures.
+
+Hospital Course:
+	Mr. Haase's initial recovery from surgery was smooth, with no significant complications. He experienced minor pain for which opioids were prescribed. A feeding tube was inserted temporarily to ensure adequate nutrition during the recovery phase. The ileal conduit functioned well, and the patient was able to void without issues.
+
+Follow-Up Plan:
+	The follow-up plan includes outpatient appointments with the oncologist every three months for the first year, then six-monthly thereafter. Lifelong regular cystoscopies are recommended for early detection of recurrence. Mr. Haase will continue his hypertension medication and has been instructed to make lifestyle modifications such as maintaining a balanced diet and regular physical activity.
+
+Patient Education:
+	The patient was educated about post-surgical care, including wound management, ileal conduit function, and signs of complications like fever, pain, or abnormal odor from the stoma site. Common side effects of chemotherapy such as nausea, fatigue, and myelosuppression were discussed, along with strategies to manage them.
+
+Discharge Instructions:
+	Upon discharge, Mr. Haase was given detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with resources for support groups and further information on bladder cancer management.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Haase's condition depends on the response to treatment and the absence of recurrence. Regular monitoring is crucial for early detection of any potential issues.
+
+Final Remarks:
+	Dr. Daniel Taylor commends Mr. Haase for his courage and resilience throughout his treatment journey and looks forward to helping him maintain his health in the long term.

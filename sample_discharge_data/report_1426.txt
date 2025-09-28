@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Troy Buckley
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1426
+	•Date of Admission: 02/03/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Hubert Stinett
+	•Primary Diagnosis: Pancreatic Adenocarcinoma
+
+Reason for Admission:
+	Troy Buckley was admitted to our facility following a significant deterioration in his health, characterized by persistent abdominal pain, weight loss, and jaundice. The initial assessment revealed a distended abdomen, tender upon palpitation, and a noticeable yellowish tint to the skin and eyes. Blood tests showed elevated levels of bilirubin, alkaline phosphatase, and amylase. A computed tomography (CT) scan confirmed the presence of a large mass in the pancreas, leading to the provisional diagnosis of pancreatic cancer.
+
+Medical History:
+	Mr. Buckley has a history of hypertension, which he has been managing with medication. He was diagnosed with diabetes mellitus Type 2 six years ago and is currently under the care of an endocrinologist. He has a family history of colorectal cancer, with his father being diagnosed at the age of 65. Allergies include penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, and glipizide daily.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy of the pancreatic mass confirmed the diagnosis of pancreatic adenocarcinoma. A positron emission tomography (PET) scan revealed metastasis in the liver and lymph nodes, necessitating a more aggressive treatment plan.
+
+Treatment Plan:
+	The multidisciplinary team, including surgeons, oncologists, radiotherapists, and pathologists, developed a comprehensive treatment plan for Mr. Buckley. He underwent a Whipple procedure to remove the tumor, followed by a six-month course of FOLFIRINOX chemotherapy (irinotecan, oxaliplatin, leucovorin, and fluorouracil) administered intravenously. The treatment regimen was adjusted due to severe side effects, including neutropenia, neuropathy, and fatigue. Radiation therapy was considered but ultimately deemed unnecessary based on the extent of metastasis.
+
+Hospital Course:
+	Mr. Buckley's initial recovery from surgery was successful, although he experienced complications such as post-operative pancreatic fistula, which required additional drainage and management with enzymes and antibiotics. He received intensive care during this time, and the nutritional support team ensured adequate caloric intake through a feeding tube due to his inability to eat solid food.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Buckley will be closely monitored every three months for the first two years, then semi-annually thereafter. He is to continue taking metformin and lisinopril, while his glipizide dosage will be adjusted based on blood sugar levels. A low-fat, high-protein diet is recommended, along with regular exercise. Warning signs requiring immediate medical attention include fever, severe abdominal pain, or unexplained weight loss.
+
+Patient Education:
+	Mr. Buckley and his family were provided extensive education on post-surgical care, including instructions on managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and strategies for managing common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Buckley was provided with detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also educated on recognizing the signs of dehydration, infection, or bleeding at the surgical site.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic adenocarcinoma is generally poor due to late diagnosis and aggressive nature of the disease. Regular monitoring for early detection of recurrence is crucial, as well as managing ongoing health issues such as diabetes and hypertension.
+
+Final Remarks:
+	I would like to commend Mr. Buckley on his resilience and cooperation throughout this challenging treatment journey. His determination to fight this disease has been inspiring to the entire team. I encourage him to continue seeking support from family, friends, and our healthcare system as he moves forward in his recovery. Signed Dr. Hubert Stinett, MD

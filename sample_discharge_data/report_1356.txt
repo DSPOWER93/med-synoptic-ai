@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Hilda Rosenfield
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1356
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Lindsay Powell
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Hilda Rosenfield was admitted to the hospital due to persistent abdominal pain, weight loss, and jaundice. Initial assessments revealed elevated liver function tests and a positive CA 19-9 tumor marker. Further diagnostic investigations, including an endoscopic ultrasound and a computed tomography scan, confirmed the presence of a large mass in the head of his pancreas.
+
+Medical History:
+	Mr. Rosenfield has a history of hypertension and COPD, for which he was on regular medication. He had previously undergone a cholecystectomy in 2015. His family history is significant for colorectal cancer. Allergic to penicillin, he required alternative antibiotics during his hospital stay.
+
+Diagnostic Findings:
+	Pathology report from the surgical biopsy confirmed the diagnosis of pancreatic adenocarcinoma. CT scans showed a 5cm mass in the head of the pancreas with regional lymph node involvement. Blood tests revealed anemia and elevated bilirubin levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rosenfield. He underwent a Whipple procedure, followed by 6 cycles of FOLFIRINOX chemotherapy. Radiation therapy was not deemed necessary based on the disease stage and response to surgery. The post-operative care included nutritional support, pain management, and monitoring for complications.
+
+Hospital Course:
+	Mr. Rosenfield's initial recovery from surgery was smooth, but he faced challenges due to chemotherapy-induced side effects such as fatigue, nausea, and diarrhea. His condition improved with supportive care and adjustments in the chemotherapy regimen. He received physical therapy for mobility and underwent speech therapy due to dysphagia.
+
+Follow-Up Plan:
+	Mr. Rosenfield will have regular outpatient appointments every three months for the first year, followed by six-monthly visits. His medications will be adjusted based on his tolerance and response to treatment. A low-fat, high-protein diet is recommended to manage his nutritional needs post-surgery.
+
+Patient Education:
+	Mr. Rosenfield was educated about the nature of his disease, the importance of follow-up care, and potential complications such as pancreatic fistula or anastomotic leak. He was instructed on post-surgical care for the ileal conduit, managing side effects like diarrhea, and recognizing signs of infection.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rosenfield was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of emergency contacts for immediate medical attention in case of complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence or metastasis. Mr. Rosenfield will be closely monitored for ongoing health issues related to his pancreatic insufficiency and COPD.
+
+Final Remarks:
+	This report concludes the treatment journey of Hilda Rosenfield, who displayed remarkable resilience throughout his battle with pancreatic cancer. His cooperation and adherence to the treatment plan were commendable. We wish him a swift recovery and hope for a better quality of life moving forward.

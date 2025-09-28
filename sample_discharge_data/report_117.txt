@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Martin Sheehan
+	•Date of Birth: 01/02/1975
+	•Medical Record Number: M117
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Victoria Colwell
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Sheehan presented to the emergency department complaining of blood in urine, frequent urination, and lower abdominal pain, which had been persisting for over a month. Initial assessments revealed a distended abdomen, palpable mass, and hematuria. Subsequent laboratory investigations revealed an elevated creatinine level, leukocytosis, and carcinoembryonic antigen (CEA) levels beyond the normal range. A computed tomography (CT) scan confirmed a large tumor in the bladder and surrounding lymph nodes.
+
+Medical History:
+	Mr. Sheehan has a history of hypertension, controlled with medication, and diabetes mellitus type 2 for which he takes oral hypoglycemics daily. He also suffers from chronic obstructive pulmonary disease (COPD), which is managed through regular inhaler therapy. He underwent a cholecystectomy for gallbladder stones ten years ago. Mr. Sheehan is allergic to penicillin and contrast agents.
+
+Diagnostic Findings:
+	Pathology report of the tumor resection confirmed moderately differentiated transitional cell carcinoma (T2). Staging CT scan revealed no signs of distant metastasis but indicated regional lymph node involvement. Blood tests showed mild anemia and elevated CEA levels. A bone scan was performed to rule out metastases, which were negative.
+
+Treatment Plan:
+	The multidisciplinary team, led by Dr. Colwell, developed a treatment plan for Mr. Sheehan, consisting of radical cystectomy followed by ileal conduit formation, neoadjuvant chemotherapy with Gemcitabine and Cisplatin, and adjuvant radiation therapy to the pelvic region. The patient was also started on analgesics for post-surgical pain management and antibiotics to prevent urinary tract infections.
+
+Hospital Course:
+	Mr. Sheehan underwent a successful radical cystectomy followed by ileal conduit formation on March 25th, 2023. Post-operative recovery was challenging due to complications such as anastomotic leak and delayed wound healing. However, with intensive care, Mr. Sheehan managed to recover well over the next few weeks. He received four cycles of neoadjuvant chemotherapy, with manageable side effects including nausea, vomiting, and hair loss.
+
+Follow-Up Plan:
+	A follow-up appointment has been scheduled for May 10th, 2023, during which Mr. Sheehan will undergo a physical examination, blood tests, and CT scan to assess the response to treatment. He is advised to continue taking his medications as prescribed, maintain a healthy diet low in sodium and high in fiber, and perform gentle exercise daily. Warning signs of complications include fever, persistent abdominal pain, or changes in urine color.
+
+Patient Education:
+	Mr. Sheehan was educated on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and constipation. He was instructed on how to properly empty his ileal conduit, maintain hygiene, and recognize signs of infection or blockage.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices such as keeping the area clean and dry, maintaining adequate hydration by drinking at least eight cups of fluid daily, and engaging in gentle physical activity, such as walking, to aid recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Sheehan was advised to undergo periodic CT scans, cystoscopies, and blood tests to monitor his condition closely. The prognosis for patients with T2N0M0 bladder cancer is generally good, provided they respond well to treatment and maintain a healthy lifestyle.
+
+Final Remarks:
+	Dr. Colwell expressed her satisfaction with Mr. Sheehan's progress throughout his treatment journey. She emphasized the importance of continued cooperation and adherence to the follow-up plan for optimal outcomes. The report was signed by Dr. Colwell and Mr. Sheehan on April 20th, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gary Pederson
+	•Date of Birth: 12/03/1985
+	•Medical Record Number: M1189
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Deborah Erickson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Gary Pederson presented to the emergency department with a three-week history of intermittent lower abdominal pain, increased bowel movements, and blood in stool. Initial assessment revealed a distended abdomen, mild tachycardia, and anemia. Subsequent investigations including a computed tomography (CT) scan confirmed the presence of a mass in the sigmoid colon.
+
+Medical History:
+	Mr. Pederson has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2013. His father died of colorectal cancer at the age of 65. Mr. Pederson is allergic to penicillin and has been taking metformin, lisinopril, salmeterol, and fluticasone for his chronic conditions.
+
+Diagnostic Findings:
+	Pathology report from the excised mass revealed moderately differentiated adenocarcinoma of the sigmoid colon. The CT scan showed a 7 cm x 5 cm mass in the sigmoid colon with regional lymph node involvement. Blood tests showed elevated carcinoembryonic antigen (CEA) level at 10 ng/mL, low hemoglobin level at 9 g/dL, and anemia of chronic disease.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Pederson. He underwent a laparoscopic sigmoid colectomy with primary ileo-rectal anastomosis and regional lymph node dissection. Postoperative care included management of ileus, pain control, and antibiotics to prevent infection. A chemotherapy regimen consisting of FOLFOX (oxaliplatin, leucovorin, fluorouracil) was initiated for adjuvant therapy. The patient also received radiation therapy to the pelvis to decrease the risk of local recurrence.
+
+Hospital Course:
+	Mr. Pederson's initial recovery from surgery was uneventful, with the management of postoperative ileus being the main challenge. He was initiated on a bowel regimen and gradually progressed to solid food. Physical therapy played an essential role in his mobility and prevention of deep vein thrombosis. Nutritional support was provided to manage weight loss due to the disease and surgery.
+
+Follow-Up Plan:
+	The follow-up plan includes regular outpatient appointments every three months for the first year, then every six months thereafter. Mr. Pederson will continue on the FOLFOX regimen as prescribed by his oncologist. Lifestyle modifications include quitting smoking, maintaining a healthy diet, and regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, and rectal bleeding.
+
+Patient Education:
+	Mr. Pederson and his family were educated about the importance of post-surgical care, including wound care practices, hydration, and dietary recommendations. Instructions on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and neuropathy were provided.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence, wound care practices, hydration, and physical activity guidelines. Mr. Pederson was advised to take his medications regularly and report any side effects or concerns to his primary care physician.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Pederson is good, with a five-year survival rate of approximately 65%. Regular monitoring for early detection of recurrence and managing ongoing health issues such as diabetes and hypertension are essential to his long-term outlook.
+
+Final Remarks:
+	Dr. Erickson concludes this report by expressing her admiration for Mr. Pederson's resilience throughout the treatment journey. She emphasizes the importance of continued cooperation with the healthcare team and encourages him to stay optimistic about his recovery. Both the patient and physician have signed the report, validating its accuracy on 05/01/2022.

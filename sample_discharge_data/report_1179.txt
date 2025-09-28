@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ruth Sherman
+	•Date of Birth: 02/15/1980
+	•Medical Record Number: M1179
+	•Date of Admission: 04/20/2022
+	•Date of Discharge: 06/10/2022
+	•Attending Physician: Dr. Shay Garcia
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Ruth Sherman presented to the Ruth Sherman with complaints of abdominal pain, bloating, and changes in bowel habits persisting for three weeks. The initial assessment revealed a palpable mass in the lower abdomen and several tender lymph nodes. Subsequent diagnostic investigations included a complete blood count (CBC), carcinoembryonic antigen (CEA) test, computed tomography (CT) scan of the abdomen and pelvis, and colonoscopy which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Ruth Sherman has a history of hypertension, controlled with lisinopril 10mg daily. He also has type II diabetes mellitus for which he takes metformin 500mg twice daily and glipizide 5mg daily. His father died of colon cancer at the age of 62. John is allergic to penicillin.
+
+Diagnostic Findings:
+	The CBC showed mild anemia (hemoglobin 10.3g/dL) and elevated white blood cell count (WBC 12,500 cells/mm³). The CEA level was significantly high at 15.4 ng/mL. The CT scan revealed a large mass in the sigmoid colon with multiple enlarged lymph nodes throughout the abdomen and pelvis. Pathology results confirmed adenocarcinoma of the sigmoid colon.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Sherman, which included surgical resection of the tumor followed by adjuvant chemotherapy and radiation therapy. John underwent a sigmoid colectomy and an ileal conduit formation on April 25, 2022. Post-operative care involved managing pain, preventing infection, and ensuring adequate nutrition. The post-operative course was complicated by anastomotic leak which was managed conservatively with antibiotics and bowel rest.
+
+Hospital Course:
+	During his hospital stay, John demonstrated resilience and cooperation throughout the treatment journey. He experienced challenges, including the aforementioned anastomotic leak, but managed these effectively with the support of his healthcare team. Nutritional support was provided to aid in his recovery. John was discharged on June 10, 2022, in stable condition.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for John post-discharge. He will have regular outpatient appointments with his oncologist and surgeon every three months for the first year, every six months for the second year, and annually thereafter. His current medications will be continued, and he will be advised to monitor his blood sugar levels closely due to the increased risk of hyperglycemia during chemotherapy.
+
+Patient Education:
+	
+
+Discharge Instructions:
+	John was discharged with clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his bowel habits closely, maintain a high-fiber diet, and report any signs of bleeding or significant changes in bowel habits promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. John has been informed about the importance of ongoing health management to improve his long-term outlook.
+
+Final Remarks:
+	This report concludes with Dr. Shay Garcia's final remarks, emphasizing Ruth Sherman's resilience and cooperation throughout his treatment journey. The report is signed by both Dr. Shay Garcia and Ruth Sherman, validating the accuracy of the document on June 10, 2022.

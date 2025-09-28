@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Earl Sanders
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M180
+	•Date of Admission: 02/02/2023
+	•Date of Discharge: 04/04/2023
+	•Attending Physician: Dr. Henrietta Aviles
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Earl Sanders, a 38-year-old male, was admitted to our facility on February 2nd, 2023, due to persistent and severe abdominal pain that had been ongoing for approximately two weeks. The patient also reported weight loss, fatigue, and changes in bowel habits. Initial assessment revealed a distended abdomen with tenderness upon palpation, leading to an immediate referral for further diagnostic investigations. Subsequent imaging scans (CT scan and MRI) confirmed the presence of a large mass in the lower right quadrant of the abdomen, highly suggestive of colorectal cancer.
+
+Medical History:
+	The patient's medical history includes hypertension, controlled with medication, and COPD, diagnosed five years ago. He underwent a laparoscopic cholecystectomy in 2018 due to gallstones. The patient has no known allergies but is sensitive to sulfa-based medications. His pre-admission medications include lisinopril 10mg daily for hypertension and albuterol inhaler for COPD.
+
+Diagnostic Findings:
+	Pathology report of the surgically removed tumor confirmed the diagnosis of Stage III colorectal cancer. Carcinoembryonic antigen (CEA) levels were significantly elevated at 12 ng/mL, and a complete blood count showed anemia with a hemoglobin level of 9.5 g/dL. Other relevant findings from the diagnostic workup will be discussed in detail during the outpatient follow-up appointments.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Earl Sanders, which included a primary tumor resection via laparoscopic colectomy, followed by construction of an ileal conduit. The patient was administered adjuvant chemotherapy (FOLFOX regimen) for six cycles with appropriate management of side effects such as nausea, vomiting, and diarrhea. A decision on radiation therapy will be made during the follow-up appointments based on pathology results and staging details.
+
+Hospital Course:
+	Following surgery, Earl Sanders's initial recovery was complicated by an infection that required antibiotic treatment. However, with the support of the nursing staff, physical therapists, and dietitians, he has shown significant improvement in his overall condition. The patient's progress during the hospital stay was closely monitored for signs of disease recurrence or complications related to the surgical procedure.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Earl Sanders, including scheduled outpatient appointments every three months for the first year post-discharge, then every six months thereafter. The patient will continue his current medications (lisinopril and albuterol inhaler) but will have regular monitoring of blood pressure and lung function. Lifestyle recommendations include a balanced diet with adequate fiber intake, regular exercise, and avoidance of smoking and excessive alcohol consumption. The patient should maintain strict adherence to the ileal conduir's care instructions and be aware of potential signs of complications such as abdominal pain, fever, or changes in urine color or odor.
+
+Patient Education:
+	Earl Sanders and his family were provided with comprehensive education on the treatment options for colorectal cancer, post-surgical care instructions for the ileal conduit, signs of complications, and management of common side effects from chemotherapy. The importance of regular follow-up appointments and adherence to lifestyle recommendations cannot be overstated in achieving optimal outcomes.
+
+Discharge Instructions:
+	Earl Sanders was discharged with clear instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to maintain a balanced diet rich in fiber, monitor his weight regularly, and avoid lifting heavy objects or engaging in strenuous activities during the recovery period.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues related to colorectal cancer. The patient will be closely monitored, and prompt treatment will be initiated if any abnormalities are detected during the follow-up appointments.
+
+Final Remarks:
+	We are proud to have supported Earl Sanders through this challenging time in his life. His resilience and cooperation throughout the treatment journey were remarkable, and we look forward to continuing our care for him as he embarks on this new phase of recovery. Signed, Dr. Henrietta Aviles [Date]

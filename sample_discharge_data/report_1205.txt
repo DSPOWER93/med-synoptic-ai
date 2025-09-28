@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jared Merkl
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1205
+	•Date of Admission: 02/15/2022
+	•Date of Discharge: 03/10/2022
+	•Attending Physician: Dr. Eric Perron
+	•Primary Diagnosis: Urothelial Cell Carcinoma (bladder cancer)
+
+Reason for Admission:
+	Mr. Jared Merkl presented to the Jared Merkl with a one-month history of hematuria, dysuria, and low back pain. The patient reported intermittent gross hematuria that had increased in frequency and volume over the past week. Physical examination revealed a distended bladder, costovertebral angle tenderness, and a palpable mass on abdominal exam. Initial laboratory investigations indicated an elevated white blood cell count (12,000/µL) and hemoglobin (9 g/dL). A CT scan of the abdomen and pelvis revealed a large mass in the bladder with evidence of invasion into the muscularis propria.
+
+Medical History:
+	Mr. Merkl has a history of hypertension for which he is on lisinopril 10 mg daily, as well as a 25-pack year smoking history and a BMI of 30 kg/m². He has no significant family history of cancer but does have a sibling with type II diabetes. Prior to this admission, he underwent cholecystectomy for gallstones in 2018. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	A cystoscopy confirmed the presence of a large bladder tumor with involvement of the trigone and ureteral orifices, consistent with the CT findings. Pathology results from the transurethral resection of the bladder tumor (TURBT) showed high-grade urothelial carcinoma. Further staging investigations, including a PET scan, confirmed T3bN0M0 disease.
+
+Treatment Plan:
+	Mr. Merkl underwent a radical cystectomy with ileal conduit diversion on February 28th, 2022. Postoperative care included pain management, antimicrobial therapy for surgical site infection prophylaxis, and the initiation of adjuvant chemotherapy. A multidisciplinary team decided on a MVAC (methotrexate, vinblastine, doxorubicin, cisplatin) chemotherapy regimen consisting of six cycles every three weeks. The patient experienced significant nausea and fatigue during the first few chemotherapy cycles but has since improved with the use of antiemetics and steroids.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Mr. Merkl will have regular outpatient appointments every three months for the first year following discharge, with subsequent visits every six months thereafter. His current medications include lisinopril 10 mg daily, ileal conduit irrigation solution, and dexamethasone for chemotherapy-induced nausea. The patient will continue to quit smoking and maintain a healthy diet low in processed foods and high in fruits and vegetables. In case of fever, worsening back pain, or hematuria, the patient is advised to seek medical attention immediately.
+
+Patient Education:
+	Mr. Merkl was educated on the importance of adhering to his medication regimen, performing proper ileal conduit care, and recognizing signs of complications such as infection or obstruction. He was also informed about common side effects of chemotherapy, including nausea, fatigue, and myelosuppression, and how to manage them effectively.
+
+Discharge Instructions:
+	The patient was provided with detailed instructions on wound care practices, including cleaning the surgical site daily and monitoring for signs of infection. He was also advised to maintain adequate hydration and perform gentle physical activity as tolerated. The patient was counseled on the importance of medication adherence, proper ileal conduit irrigation, and follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Mr. Merkl's prognosis is dependent on his response to adjuvant chemotherapy and regular monitoring for recurrence. The patient was counseled on the importance of adhering to a healthy lifestyle, attending follow-up appointments, and seeking prompt medical attention for any concerning symptoms.
+
+Final Remarks:
+	Dr. Perron's final remarks emphasized Mr. Merkl's resilience and cooperation throughout his treatment journey. The patient was commended for his positive attitude and compliance with the treatment plan thus far. Both the physician and patient signed the report, and the date of discharge was documented to validate the report.

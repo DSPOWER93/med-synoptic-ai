@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Melvin Palmer
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1394
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Martin Snelgrove
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Melvin Palmer was admitted to the hospital due to a worsening abdominal pain, jaundice, and weight loss over the past few months. Upon initial assessment, his symptoms were consistent with potential pancreatic cancer. Further diagnostic investigations including computed tomography (CT) scan, endoscopic retrograde cholangiopancreatography (ERCP), and biopsy confirmed the diagnosis of adenocarcinoma of the pancreas.
+
+Medical History:
+	Mr. Palmer had a significant medical history. He was diagnosed with hypertension and COPD several years ago, for which he was under regular treatment. He also had a history of diabetes mellitus type 2 managed through oral medications. No past surgeries were reported except for an appendectomy at the age of ten. His family history was notable for colon cancer, with his father passing away from the disease at the age of 65. He had no known allergies and was taking metformin, amlodipine, salmeterol/fluticasone, and insulin prior to admission.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during his hospital stay revealed a large, infiltrative mass in the pancreatic head with enlarged regional lymph nodes on CT scan. ERCP showed a dilated common bile duct and pancreatic duct. Biopsy results confirmed adenocarcinoma of the pancreas. Blood tests indicated elevated levels of CA19-9, alkaline phosphatase, bilirubin, and amylase.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Palmer. He underwent Whipple's procedure on March 25, 2022. Post-operative care included close monitoring of his recovery and management of potential complications such as bleeding, infection, and leakage from the anastomosis site. Due to the advanced stage of the cancer, he was started on a modified FOLFIRINOX chemotherapy regimen, consisting of irinotecan, oxaliplatin, fluorouracil, and leucovorin. He completed six cycles of chemotherapy with appropriate management of its side effects such as nausea, vomiting, and neutropenia. No radiation therapy was deemed necessary based on the post-surgical pathology report.
+
+Hospital Course:
+	During his hospital stay, Mr. Palmer's initial recovery from surgery was challenging due to a prolonged ileus. He received bowel therapy and nutritional support through a nasogastric tube. His pain was managed effectively with opioids. After overcoming the post-operative complications, he steadily improved and showed significant weight gain towards the end of his hospitalization.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Palmer following his discharge. He will attend regular outpatient appointments with Dr. Snelgrove every three months for the first year, then every six months thereafter. His medications, including insulin, metformin, and amlodipine, will be continued, while the antihypertensive medication may be adjusted as necessary based on his blood pressure readings. He is advised to maintain a healthy diet low in fat and high in fiber, with appropriate portion control. Warning signs requiring immediate medical attention include severe abdominal pain, fever, persistent vomiting, or unexplained weight loss.
+
+Patient Education:
+	Mr. Palmer was educated about the ileal conduit, the formation of a new way for waste to leave his body after the removal of the pancreas, stomach, and first part of the small intestine (duodenum). He was taught how to manage his ileal conduit, recognize signs of complications such as blockage or infection, and cope with common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Palmer received detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to continue taking his medications as prescribed, clean his wound daily using sterile water, maintain adequate fluid intake to prevent dehydration, and engage in light activities to promote recovery while avoiding heavy lifting or strenuous exercise for the first six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer remains guarded, but early detection of recurrence through regular monitoring can significantly improve outcomes. Mr. Palmer was advised to remain vigilant for signs of disease progression or complications.
+
+Final Remarks:
+	Throughout his treatment journey, Melvin Palmer demonstrated remarkable resilience and cooperation. His strong spirit and positive attitude have been instrumental in his recovery. Dr. Snelgrove commends Mr. Palmer on his progress and wishes him continued success in his fight against pancreatic cancer.

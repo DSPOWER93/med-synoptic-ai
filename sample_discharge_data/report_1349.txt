@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Phillips
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1349
+	•Date of Admission: 10/15/2021
+	•Date of Discharge: 11/20/2021
+	•Attending Physician: Dr. Erick Switzer
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mary Phillips presented to the emergency department with a complaint of abdominal pain, persistent rectal bleeding, and unexplained weight loss over the past three months. The initial assessment revealed a distended abdomen with tenderness upon palpation and no signs of peritonitis. Following his admission, laboratory results showed anemia and elevated carcinoembryonic antigen (CEA) levels, while computed tomography (CT) scan confirmed the presence of a mass in the sigmoid colon.
+
+Medical History:
+	Mary Phillips has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy at age 14 due to an appendicitis. His mother was diagnosed with breast cancer at the age of 50, while his father had a history of prostate cancer. Mary Phillips was allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and albuterol for his respective conditions.
+
+Diagnostic Findings:
+	Pathology report of the excised sigmoid colon mass confirmed it as moderately differentiated adenocarcinoma. Imaging scans (CT scan, positron emission tomography (PET) scan) showed multiple lymph node involvement in the mesorectum and liver metastasis. Blood tests revealed anemia with a hemoglobin level of 8.5 g/dL, elevated CEA levels at 10.2 ng/mL, and normal kidney and liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team devised a treatment plan for Mary Phillips. He underwent an open low anterior resection with primary anastomosis on October 18th, 2021. Post-operative care involved pain management, bowel regimen, and antibiotic therapy to prevent infection. The surgical team also created an ileal conduit for fecal diversion. Following the surgery, Mary Phillips started adjuvant chemotherapy with FOLFOX (oxaliplatin, leucovorin, fluorouracil) regimen. Radiation therapy was not deemed necessary due to minimal lymph node involvement.
+
+Hospital Course:
+	Initially, Mary Phillips experienced post-operative complications such as anastomotic leakage and ileus. He received nutritional support via total parenteral nutrition (TPN) and underwent minimally invasive procedures to manage the complications. Over time, his condition improved, and he was able to start a diet gradually.
+
+Follow-Up Plan:
+	Mary Phillips will be followed up every three months for the first year post-treatment, then every six months thereafter. He will continue taking metformin and lisinopril, while albuterol will be discontinued as his COPD is well controlled. The patient was educated on recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits. He also received instructions on managing the ileal conduit, including irrigation techniques and dietary recommendations.
+
+Patient Education:
+	Mary Phillips and his family were provided with detailed information about the diagnosis, treatment options, and potential side effects of chemotherapy. They were educated on post-surgical care, managing the ileal conduit, recognizing signs of complications, and maintaining a healthy lifestyle to minimize recurrence risk.
+
+Discharge Instructions:
+	Prior to discharge, Mary Phillips was provided with comprehensive discharge instructions that included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also informed about the importance of follow-up appointments, regular monitoring for early detection of recurrence, and managing ongoing health issues.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mary Phillips is guarded given his Stage III colorectal cancer diagnosis. Regular monitoring for early detection of recurrence is crucial to improve outcomes. It is essential that he maintains a healthy lifestyle, adheres to medication regimens, and seeks prompt medical attention if any concerning symptoms arise.
+
+Final Remarks:
+	We commend Mary Phillips on his courage and resilience throughout the treatment journey. He has been an active participant in his care, which has significantly contributed to his recovery. We wish him all the best as he continues his fight against colorectal cancer.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Abigail Markland
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1104
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 04/05/2023
+	•Attending Physician: Dr. Thomas Lilley
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient presented with a six-month history of rectal bleeding and a change in bowel habits. On physical examination, abnormalities were noted in the lower abdomen, prompting further investigations. Laboratory tests revealed anemia and elevated carcinoembryonic antigen (CEA) levels. A colonoscopy confirmed the presence of a tumor in the descending colon. Following these findings, the patient was diagnosed with Abigail Markland Abigail Markland.
+
+Medical History:
+	Abigail Markland is a 38-year-old male with a past medical history significant for hypertension, well-controlled on lisinopril, and asthma, managed with inhaled corticosteroids. He has no known allergies and had undergone a left hip replacement surgery ten years ago. His father passed away from lung cancer at the age of 62.
+
+Diagnostic Findings:
+	Imaging studies, including a contrast-enhanced computed tomography (CT) scan, revealed a large tumor in the descending colon with metastases to several lymph nodes and liver. Pathology results confirmed the diagnosis of moderately differentiated adenocarcinoma. Blood tests showed leukocytosis and elevated lactate dehydrogenase (LDH) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Abigail Markland. He underwent an elective left hemicolectomy, followed by a formation of ileal conduit. Post-operative care included pain management, bowel regulation, and nutritional support. After recovery, he started adjuvant chemotherapy with FOLFOX regimen consisting of oxaliplatin, leucovorin, and fluorouracil. Radiation therapy was not deemed necessary due to the extent of metastases.
+
+Hospital Course:
+	Following surgery, Abigail Markland's recovery was relatively smooth. He experienced expected post-operative complications such as nausea and constipation which were managed effectively with medication and dietary adjustments. During his hospital stay, he underwent four cycles of chemotherapy without significant adverse effects.
+
+Follow-Up Plan:
+	Abigail Markland will be scheduled for regular follow-up appointments every three months for the first two years, followed by six-monthly visits thereafter. He is to continue taking lisinopril and inhaled corticosteroids as prescribed. It is recommended that he maintains a healthy diet low in processed foods and rich in fruits and vegetables. His activity level should be gradually increased as tolerated.
+
+Patient Education:
+	Abigail Markland was educated on the importance of post-surgical care, including managing his ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in stool, and managing common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Before discharge, Abigail Markland was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Abigail Markland's long-term survival. Maintaining a healthy lifestyle can help manage ongoing health issues associated with colorectal cancer.
+
+Final Remarks:
+	Dr. Lilley concludes this report by expressing her appreciation for Abigail Markland's resilience and cooperation throughout the treatment journey. She emphasizes the importance of follow-up appointments, adherence to medication regimens, and a healthy lifestyle moving forward. Both the physician and patient sign this report on 04/05/2023, validating its authenticity.

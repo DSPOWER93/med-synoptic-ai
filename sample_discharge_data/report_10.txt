@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Angela Robbins
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M10
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 03/02/2023
+	•Attending Physician: Dr. Brenda Seavey
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Angela Robbins was admitted to our facility due to increasing hematuria and persistent lower abdominal pain over the past month. Initial assessment revealed a palpable, painless mass in the lower abdomen, and laboratory tests showed an elevated creatinine level. Further diagnostic investigations confirmed a bladder mass on computed tomography (CT) scan and cystoscopy, leading to the definitive diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Robbins has a history of hypertension managed with medication, diabetes mellitus type 2 controlled through diet and oral medications, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 due to gallstones. His family history is significant for colon cancer and breast cancer. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, albuterol, ipratropium bromide, and omeprazole.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) revealed a muscularis propria-invasive urothelial carcinoma with negative lymphovascular invasion and negative surgical margins. CT scan showed a 4.5 cm mass in the dome of the bladder, no evidence of distant metastasis, and normal kidney function. Blood tests revealed anemia, elevated creatinine, and mild hyponatremia.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Robbins. He underwent a radical cystectomy with ileal conduit formation followed by a 6-month course of adjuvant chemotherapy (GCBAC Gemcitabine, Cisplatin, BCG, and Adriamycin). Post-operative care involved pain management, catheter care, and nutritional support.
+
+Hospital Course:
+	Mr. Robbins's initial recovery from surgery was smooth. However, he faced some challenges post-op, including anemia and electrolyte imbalances, which were managed with blood transfusions and fluid management. He also required physical therapy for ambulation and respiratory therapy due to his pre-existing COPD.
+
+Follow-Up Plan:
+	Mr. Robbins will be scheduled for regular follow-up appointments every 3 months for the first year, then every 6 months thereafter. He will continue on oral medications for hypertension and diabetes. Lifestyle modifications include quitting smoking, maintaining a balanced diet, and regular exercise. Warning signs of complications such as fever, increased pain, or change in urine color should be reported immediately.
+
+Patient Education:
+	Mr. Robbins was educated on the importance of medication adherence, proper ileal conduit care (including emptying and cleaning), recognizing signs of complications, and managing common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Robbins was provided instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to maintain a balanced diet and avoid heavy lifting for the first 6 weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Robbins will be closely monitored for ongoing health issues related to his hypertension, diabetes, and COPD.
+
+Final Remarks:
+	In conclusion, Mr. Angela Robbins demonstrated remarkable resilience throughout his treatment journey. His cooperation and positive attitude significantly contributed to his successful recovery. We wish him continued strength and good health in the future.

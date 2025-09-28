@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tina Cunningham
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1066
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 06/01/2022
+	•Attending Physician: Dr. Julie Fancher
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Cunningham was admitted to the hospital due to persistent lower abdominal pain, hematuria (blood in urine), and recurrent urinary tract infections over a period of two months. Initial assessments included a physical examination, laboratory tests, and imaging studies which indicated a mass in the bladder and possible spread to nearby lymph nodes.
+
+Medical History:
+	Mr. Cunningham has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He had undergone a right total knee replacement surgery ten years ago. His father passed away from colon cancer at the age of 65. He is known to be allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin for diabetes, lisinopril for hypertension, and albuterol for COPD.
+
+Diagnostic Findings:
+	Biopsy results confirmed the presence of transitional cell carcinoma in the bladder. Computed Tomography (CT) scans showed a 5cm mass in the bladder with regional lymph node involvement. A positron emission tomography (PET) scan was suggestive of distant metastasis to the liver. Blood tests revealed an elevated creatinine level, indicative of potential kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Cunningham which included radical cystectomy (surgical removal of the bladder), construction of an ileal conduit, six cycles of chemotherapy (Gemcitabine and Cisplatin), and radiation therapy to the pelvic region. The post-operative care involved management of pain, prevention of blood clots, and monitoring of kidney function.
+
+Hospital Course:
+	Mr. Cunningham underwent a successful radical cystectomy with ileal conduit formation on 03/01/2022. Post-operative recovery was smooth, although he experienced mild pain and constipation which were managed effectively. The patient's kidney function stabilized after appropriate management. He received the first cycle of chemotherapy on 15/01/2022. A follow-up PET scan showed no significant change in the liver metastasis.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Cunningham will be scheduled for regular outpatient appointments every three months for the first year, six months thereafter, and annually thereafter. He is to continue his diabetes and hypertension medications, with a revised dosage of lisinopril due to potential kidney dysfunction. Dietary recommendations include a low-fat diet to aid in overall health maintenance. Warning signs of complications such as fever, increased pain, or changes in urine output should be reported immediately.
+
+Patient Education:
+	Mr. Cunningham and his family were provided education on post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cunningham was given instructions on medication adherence, wound care practices, adequate hydration, and guidelines for physical activity to facilitate recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Managing ongoing health issues such as diabetes and hypertension will be important in maintaining overall health.
+
+Final Remarks:
+	Mr. Cunningham demonstrated remarkable resilience and cooperation throughout his treatment journey. We are optimistic about his recovery, and we encourage him to continue adhering to the prescribed care plan. Signed, Dr. Julie Fancher (06/01/2022).

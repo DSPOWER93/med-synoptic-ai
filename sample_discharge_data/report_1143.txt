@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susan Cyr
+	•Date of Birth: 02/25/1980
+	•Medical Record Number: M1143
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Virginia Lopez
+	•Primary Diagnosis: Colorectal Cancer (Stage III) with Metastasis to Liver
+
+Reason for Admission:
+	Mr. Cyr was admitted to the hospital following a series of symptoms, including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. An initial assessment revealed signs of obstruction, and further investigations, including computed tomography (CT) scans, confirmed the presence of a large tumor in the colon with liver metastases.
+
+Medical History:
+	Mr. Cyr had a history of hypertension, diagnosed 10 years ago, and was currently being treated with medication. He also had a family history of colorectal cancer, with his father passing away from the disease at the age of 65. Prior to admission, he was taking aspirin daily as a precaution due to his hypertension.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of adenocarcinoma in the colon. CT scans revealed a large tumor obstructing the colon and multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA), a marker for colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cyr. The initial step was a surgical intervention to remove the tumor and portions of the colon, followed by an ileal conduit creation. Post-operative care involved pain management, bowel management, and nutritional support. Mr. Cyr was also scheduled for six cycles of chemotherapy (FOLFOX regimen) and concurrent radiation therapy to the liver metastases.
+
+Hospital Course:
+	After the surgical intervention, Mr. Cyr's recovery was initially challenging due to post-operative complications. However, with the support of the medical team, including pain management, wound care, and nutritional support, he was able to stabilize. Throughout his hospital stay, Mr. Cyr received therapy sessions to aid in his recovery and rehabilitation.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Cyr will have scheduled outpatient appointments every three months for the first year, then every six months thereafter. He will continue with the prescribed chemotherapy regimen until completion of all cycles. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and avoiding tobacco products. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, and unexpected weight loss.
+
+Patient Education:
+	Mr. Cyr was educated about his condition, the importance of adhering to his treatment plan, and recognizing potential complications related to the ileal conduit and chemotherapy side effects. He was also taught how to manage his bowel function post-surgery.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cyr was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. Mr. Cyr's ongoing health issues will need to be managed effectively, focusing on lifestyle modifications and regular follow-ups with his healthcare team.
+
+Final Remarks:
+	I am pleased to see Mr. Cyr's resilience throughout this challenging journey. His cooperation and determination have been instrumental in achieving this milestone. I wish him a speedy recovery and hope for continued success in his fight against colorectal cancer.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Margaret Collins
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1371
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 01/15/2022
+	•Attending Physician: Dr. John Doyle
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Margaret Collins was admitted to the hospital on January 1st, 2022, due to complaints of hematuria and persistent lower abdominal pain. During the initial assessment, his vital signs were stable, but a thorough physical examination revealed a palpable mass in the lower abdomen. The patient reported that these symptoms had been present for approximately six months, with increasing frequency over the last three weeks. Subsequent investigations included urinalysis, cystoscopy, and computed tomography (CT) scans of the abdomen and pelvis. These tests confirmed the presence of a T2N0M0 bladder cancer, necessitating surgical intervention.
+
+Medical History:
+	Mr. Collins has a history of hypertension and diabetes mellitus type 2, both of which were well-controlled on medications prior to admission. He also has chronic obstructive pulmonary disease (COPD), requiring inhalers for symptomatic relief. In terms of his surgical history, he underwent a cholecystectomy in 2016. No significant family history of diseases was reported. Allergies include penicillin and contrast agents. The patient was on medications including metformin, lisinopril, and tiotropium before admission.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of invasive urothelial carcinoma. Imaging studies showed a 4cm tumor with no lymph node involvement or distant metastases. Laboratory tests revealed mild anemia and slightly elevated creatinine levels, indicative of kidney impairment due to the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Collins. This included radical cystectomy with ileal conduit creation, followed by adjuvant chemotherapy. Post-operative care involved management of pain, prevention and treatment of complications such as urine leakage and surgical site infections, and monitoring for kidney function recovery. The chemotherapy regimen consisted of MVAC (Methotrexate, Vinblastine, Adriamycin, Cisplatin) with six cycles administered every three weeks. Radiation therapy was not deemed necessary due to the absence of lymph node involvement.
+
+Hospital Course:
+	Mr. Collins underwent a successful radical cystectomy on January 3rd, 2022. Post-operatively, he faced several challenges including fluid overload and electrolyte imbalances, which were managed through adjustments in intravenous fluids and medication dosages. He also required transfusions due to anemia. Therapy sessions focused on improving his lung function, as well as providing nutritional support during the recovery period.
+
+Follow-Up Plan:
+	Mr. Collins will be scheduled for regular follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue taking his medications, with close monitoring of his blood sugar and blood pressure levels. Dietary recommendations include a high protein, low fat diet to maintain muscle mass and promote healing. Mr. Collins should also avoid heavy lifting, strenuous activities, and contact sports for at least six weeks post-discharge. He has been instructed to report any signs of complications such as fever, persistent pain, or difficulty passing urine.
+
+Patient Education:
+	Education provided to Mr. Collins and his family included information on post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects like nausea, fatigue, and neuropathy. They were also instructed on how to monitor for kidney function recovery and early detection of recurrence.
+
+Discharge Instructions:
+	Upon discharge, Mr. Collins was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of follow-up appointments, as well as contact information for the urology department in case of emergencies.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Collins is favorable due to the early detection and complete resection of the tumor. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in maintaining his long-term health.
+
+Final Remarks:
+	Dr. Doyle concludes this report, acknowledging Mr. Collins's resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for optimal outcomes. Both the physician and patient have signed this report on January 15th, 2022, validating its contents.

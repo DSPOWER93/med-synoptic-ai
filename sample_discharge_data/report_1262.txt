@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kenneth Acklin
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1262
+	•Date of Admission: 03/02/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Sanjuana Buchmeier
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	The patient, Kenneth Acklin, presented with hematuria, a persistent condition characterized by the presence of blood in the urine, accompanied by dysuria and frequent urination. Upon initial assessment, Mr. Acklin's symptoms were severe, necessitating immediate hospitalization for further investigation. Diagnostic tests including CT scans, cystoscopy, and urinalysis confirmed a T2 bladder cancer with no regional lymph node involvement (T2N0M0).
+
+Medical History:
+	Mr. Acklin's past medical history is significant for hypertension and type 2 diabetes, both of which are well-controlled through medication. He has a family history of bladder cancer, with his father being diagnosed at the age of 65. He is allergic to penicillin and sulfa drugs. Prior to admission, Mr. Acklin was taking metformin for diabetes and amlodipine for hypertension.
+
+Diagnostic Findings:
+	Pathology reports from the transurethral resection of bladder tumor (TURBT) revealed a high-grade urothelial carcinoma. Imaging scans, specifically CT scans, did not show any distant metastasis. Blood tests indicated abnormalities in the levels of creatinine and hemoglobin, likely due to the presence of blood in the urine and anemia from blood loss.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Acklin. The primary intervention was radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy to reduce the risk of recurrence. Post-operative care included pain management, wound care, and nutritional support. The chemotherapy regimen consisted of four cycles of MVAC (methotrexate, vinblastine, doxorubicin, cisplatin). Radiation therapy was not deemed necessary given the absence of regional lymph node involvement.
+
+Hospital Course:
+	Mr. Acklin's recovery from the radical cystectomy was initially challenging due to post-operative complications including anastomotic leakage and urinary tract infections. However, with aggressive management, these issues were addressed effectively. The patient responded well to the chemotherapy regimen with minimal side effects, primarily fatigue and nausea managed through symptomatic treatment.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Acklin, including scheduled outpatient appointments every three months for the first two years, then six-monthly thereafter. He is to continue with his diabetes and hypertension medications, with close monitoring of their dosages. Lifestyle recommendations include maintaining a healthy diet low in processed foods and high in fruits and vegetables, as well as regular exercise. Warning signs requiring immediate medical attention include fever, worsening pain, persistent nausea or vomiting, and changes in urine color or output.
+
+Patient Education:
+	Mr. Acklin and his family were provided extensive education on post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were also instructed on managing the ileal conduit, recognizing signs of complications, and strategies to manage common side effects such as fatigue and nausea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Acklin was provided comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a healthy diet low in processed foods and high in fruits and vegetables, and to engage in regular exercise as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Given the early stage of Mr. Acklin's bladder cancer (T2N0M0) and successful completion of adjuvant chemotherapy, his prognosis is favorable. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in ensuring optimal long-term outcomes.
+
+Final Remarks:
+	We commend Mr. Acklin on his resilience and cooperation throughout the treatment journey. His diligence in adhering to the prescribed treatment plan has contributed significantly to his recovery. We encourage him to continue with this spirit as he moves forward in his journey towards health and wellness.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Micheal Anderson
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M167
+	•Date of Admission: 04/02/2022
+	•Date of Discharge: 04/26/2022
+	•Attending Physician: Dr. Beverly Clark
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Upon presentation to the emergency department, the patient complained of persistent lower abdominal pain and hematuria, which had been ongoing for several weeks. A comprehensive assessment was conducted, followed by a series of diagnostic tests, including computed tomography (CT), cystoscopy, and urine analysis. The imaging scans revealed a mass in the bladder, while the pathology report from the cystoscopic biopsy confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	The patient has a history of hypertension, which is well-controlled with medication. Additionally, he has been diagnosed with type 2 diabetes mellitus and chronic obstructive pulmonary disease (COPD). The patient underwent a right nephrectomy in 2015 due to a renal cell carcinoma. He is allergic to penicillin and sulfa drugs. His pre-admission medications included metformin, lisinopril, amlodipine, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The pathology report from the biopsy showed a moderately differentiated transitional cell carcinoma (T2). Staging based on CT scan revealed no regional lymph node involvement or distant metastases (T2N0M0). Blood tests showed elevated creatinine levels, indicating potential kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. This included a radical cystectomy with ileal conduit formation followed by adjuvant chemotherapy. The post-operative care involved close monitoring of vital signs, urine output, and wound healing. The chemotherapy regimen consisted of gemcitabine and cisplatin, administered every three weeks for four cycles. Radiation therapy was not deemed necessary based on the initial staging.
+
+Hospital Course:
+	The patient's recovery from surgery was initially challenging due to complications related to diabetes management and kidney dysfunction. However, with the assistance of an endocrinologist and nephrologist, his condition stabilized. Physical therapy and nutritional support were crucial in facilitating his recovery.
+
+Follow-Up Plan:
+	The patient will be scheduled for outpatient follow-up appointments every three months for the first year post-discharge, followed by semi-annual visits thereafter. His medication regimen will include metformin, lisinopril, amlodipine, salmeterol/fluticasone, and additional medications to manage any complications related to the ileal conduit. Lifestyle recommendations include smoking cessation, a balanced diet low in sodium, and regular physical activity.
+
+Patient Education:
+	The patient was educated about the importance of close monitoring for early detection of recurrence, as well as managing his ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, the patient was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for the patient's long-term survival. He will need to manage ongoing issues related to diabetes and kidney function.
+
+Final Remarks:
+	The attending physician, Dr. Beverly Clark, commends the patient for his resilience and cooperation throughout the treatment journey. She encourages him to continue with the prescribed follow-up care and maintain a healthy lifestyle for optimal outcomes. Signed [Dr. Beverly Clark, MD] / [John D. Clark]. Date [April 26, 2022].

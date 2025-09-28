@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eugene Wyatt
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1293
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Jeanette Whiteside
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Eugene Wyatt was admitted to the hospital due to persistent abdominal pain, changes in bowel habits, and unexplained weight loss over a period of several months. Upon admission, an initial assessment revealed that he had a palpable mass in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. Subsequent imaging studies, including computed tomography (CT) scans and magnetic resonance imaging (MRI), confirmed a large tumor in the descending colon with regional lymph node involvement, indicating Eugene Wyatt colorectal cancer.
+
+Medical History:
+	Mr. Wyatt had a significant medical history that included hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 1998 due to appendicitis. His family had a history of colorectal cancer, with his father being diagnosed at the age of 60. Mr. Wyatt was allergic to penicillin and sulfa drugs. Before admission, he was taking metformin for diabetes, lisinopril for hypertension, and albuterol for COPD.
+
+Diagnostic Findings:
+	Pathology reports from the surgical excision of the tumor confirmed it as adenocarcinoma of the colon. Further analysis revealed lymph node involvement, and positive margins. CT scans showed no evidence of distant metastases. Blood tests indicated anemia and elevated CEA levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Wyatt. He underwent a right hemicolectomy with regional lymphadenectomy, followed by a permanent ileostomy. Post-operative care included pain management, wound care, and nutritional support. He received adjuvant chemotherapy consisting of capecitabine and oxaliplatin for six cycles. The radiation therapy option was deferred due to the risks associated with his comorbidities.
+
+Hospital Course:
+	Mr. Wyatt's initial recovery from surgery was complicated by post-operative ileus, requiring bowel rest and nasogastric tube drainage. He also experienced chemotherapy-induced nausea and vomiting, fatigue, and peripheral neuropathy. However, he responded well to therapy and demonstrated significant improvement in his symptoms.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been established for Mr. Wyatt. He will undergo regular CT scans every six months for the first three years, then annually thereafter, to monitor for recurrence. His diabetes and hypertension medications have been adjusted as needed. He is advised to maintain a low-fiber diet and perform daily ileostomy care. In case of signs of infection, such as increased output or abdominal pain, he should seek immediate medical attention.
+
+Patient Education:
+	Mr. Wyatt and his family were educated about the importance of regular follow-ups, the role of lifestyle modifications, and the management of ileostomy-related complications. They were also instructed on recognizing signs of chemotherapy side effects and managing them effectively.
+
+Discharge Instructions:
+	Upon discharge, Mr. Wyatt was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, rich in proteins and low in fiber, to facilitate healing and minimize complications.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Wyatt is guarded due to the advanced stage of his cancer at diagnosis. Regular monitoring for early detection of recurrence is essential to improve his chances of long-term survival.
+
+Final Remarks:
+	Dr. Whiteside concludes this report by acknowledging Eugene Wyatt's resilience throughout his treatment journey and expressing her hope for his continued recovery. She emphasizes the importance of adherence to the follow-up plan and lifestyle modifications to improve Mr. Wyatt's overall health and wellbeing. The report is signed by Dr. Whiteside and Mr. Wyatt on April 15, 2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carol Argueta
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1000
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Shizue Jackson
+	•Primary Diagnosis: Pancreatic Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Argueta presented to the emergency department with persistent abdominal pain, jaundice, and significant weight loss over a two-month period. Initial assessment revealed elevated levels of bilirubin, amylase, and lipase in the blood, suggesting an obstructive process in the pancreas. Subsequent imaging studies, including CT scan and MRI, confirmed the presence of a large tumor in the head of the pancreas causing ductal obstruction.
+
+Medical History:
+	Mr. Argueta has a significant medical history, including hypertension and diabetes mellitus Type II, which were poorly controlled prior to admission. He also has a history of chronic obstructive pulmonary disease (COPD), requiring daily inhalers. No previous surgeries were noted. His family history is notable for pancreatic cancer in his father, who was diagnosed at age 60 and died four years later. Mr. Argueta is allergic to penicillin and iodinated contrast agents.
+
+Diagnostic Findings:
+	Pathology reports from the tumor resection specimen confirmed a moderately differentiated adenocarcinoma of the pancreas. Imaging studies showed that the tumor had invaded locally into adjacent structures, but did not appear to have metastasized at the time of presentation.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Argueta. He underwent a Whipple procedure on March 25, 2022. Post-operative care included management of pain, maintenance of adequate nutritional intake, and prevention of post-surgical complications such as infection and bleeding. Given the aggressive nature of his cancer, Mr. Argueta was also started on adjuvant chemotherapy consisting of Gemcitabine and Abraxane, with a total of six cycles administered over twelve weeks. Radiation therapy was deferred due to concerns about radiation-induced pneumonitis given his pre-existing COPD.
+
+Hospital Course:
+	Mr. Argueta's recovery from surgery was initially complicated by delayed gastric emptying, which required a prolonged hospital stay for nutritional support via a peripherally inserted central catheter (PICC). He also experienced post-operative pain, which was managed effectively with opioids and nonsteroidal anti-inflammatory drugs (NSAIDs). His diabetes was closely monitored and required adjustments in his insulin regimen.
+
+Follow-Up Plan:
+	Mr. Argueta will follow up with his oncologist every three months for the first year post-treatment, then every six months thereafter. He will continue to take metformin for diabetes management. Lifestyle modifications, including smoking cessation and a healthy diet, are strongly recommended. Mr. Argueta should report any symptoms such as increased abdominal pain, yellowing of the skin or eyes, or unexplained weight loss to his healthcare provider promptly.
+
+Patient Education:
+	Mr. Argueta was educated on the importance of strict adherence to his medication regimen, including both anti-cancer and non-cancer medications. He received detailed instructions regarding post-surgical care, including how to manage his ileal conduit, signs of complications such as leaks or obstructions, and strategies for managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Argueta was provided with a comprehensive list of medications to continue at home, including analgesics, NSAIDs, proton pump inhibitors, insulin, and metformin. He was also instructed on proper wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Despite the aggressive nature of his cancer, Mr. Argueta's prognosis is improved given his successful surgical resection and response to adjuvant chemotherapy. Regular monitoring for early detection of recurrence will be crucial in managing his ongoing health issues.
+
+Final Remarks:
+	The attending physician, Dr. Jackson, commends Mr. Argueta for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued follow-up care and strict adherence to the prescribed medication regimen in improving his chances of long-term survival. Both the physician and patient have signed this report on April 20, 2022, validating its contents.

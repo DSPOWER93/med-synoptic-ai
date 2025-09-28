@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carrie Phang
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1059
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Sean Kathan
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	The patient was admitted to the hospital due to a persistent hematuria (blood in urine) and recurrent urinary tract infections. During the initial assessment, the patient reported experiencing lower abdominal pain and difficulty emptying their bladder. Further diagnostic investigations, including cystoscopy, biopsy, CT scan of the abdomen and pelvis, and blood tests, confirmed the diagnosis of bladder cancer. The tumor was found to be invasive and extended beyond the muscularis propria of the bladder.
+
+Medical History:
+	The patient has a past medical history of hypertension, which is well-controlled with medication. The patient also has a family history of bladder cancer, as their father passed away from the same condition. Before admission, the patient was on several medications including metoprolol for hypertension and aspirin for cardiovascular prophylaxis.
+
+Diagnostic Findings:
+	Pathology results from the biopsy confirmed the diagnosis of Transitional Cell Carcinoma (TCC) of the bladder. Imaging studies, such as CT scans, revealed a large, irregular mass in the bladder, with local invasion and no evidence of distant metastasis. Blood tests showed elevated levels of creatinine and blood urea nitrogen, indicating potential kidney dysfunction due to obstruction by the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for the patient. This included radical cystectomy (removal of the bladder), ileal conduit formation, and adjuvant chemotherapy with a gemcitabine and cisplatin regimen. Post-operative care involved close monitoring for complications such as urinary leakage, wound infection, and kidney function recovery.
+
+Hospital Course:
+	The patient underwent a successful radical cystectomy and ileal conduit formation. The initial post-operative period was challenging due to the development of anastomotic leakage, which required surgical intervention. However, with aggressive management, including antibiotics and fluid resuscitation, the complication was effectively addressed. The patient also received six cycles of chemotherapy during their hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, the patient is scheduled for follow-up appointments every three months for the first year, then six-monthly thereafter. The patient will continue taking metoprolol and aspirin as prescribed, but they may require additional medications to manage potential side effects from chemotherapy. Dietary recommendations include a high protein, low fiber diet to support wound healing and prevent constipation.
+
+Patient Education:
+	The patient was educated on post-surgical care, including emptying the ileal conduit regularly, maintaining good personal hygiene, and recognizing signs of complications such as fever, persistent abdominal pain, or changes in urine output. The patient was also instructed on managing common side effects of chemotherapy, such as nausea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. The patient was advised to avoid heavy lifting or strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient will need to be vigilant for any changes in urinary habits, persistent hematuria, or new onset of lower abdominal pain.
+
+Final Remarks:
+	The attending physician commends the patient for their resilience and cooperation throughout the treatment journey. The report is signed by both the physician and the patient, validating the accurate documentation of the patient's care and treatment plan.

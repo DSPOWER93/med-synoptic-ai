@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Williams
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1346
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 05/15/2022
+	•Attending Physician: Dr. Mack Collins
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Michael Williams, was admitted to our facility due to persistent hematuria and dysuria. Upon initial assessment, a thorough physical examination revealed no abnormalities except for the presence of blood in the urine. Subsequent investigations, including a urinalysis, cystoscopy, and biopsy confirmed the diagnosis of TCC of the bladder. The tumor was found to be moderately invasive with a size of approximately 3 cm.
+
+Medical History:
+	Michael Williams is a 37-year-old male with a past medical history significant for hypertension, asthma, and COPD. He has no known allergies but is intolerant to penicillin. He had undergone appendectomy at the age of 10 due to an appendix rupture. His family history is notable for colon cancer in his father and breast cancer in his mother. Prior to admission, he was taking lisinopril, fluticasone, salmeterol, and metformin.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of TCC of the bladder. Imaging scans, including a CT scan and MRI, revealed a moderately invasive TCC with no evidence of lymph node involvement or distant metastasis. Blood tests showed an elevated creatinine level, suggesting possible renal impairment.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Williams. The primary treatment was a radical cystectomy with ileal conduit creation. Post-operative care included pain management, wound care, and nutritional support. He was also started on adjuvant chemotherapy (MVAC regimen) in 4 cycles, with radiation therapy considered based on the pathology report of lymph node involvement. Management of side effects, including nausea, vomiting, and myelosuppression, was an integral part of his care.
+
+Hospital Course:
+	The initial post-operative period was marked by recovery from surgery, with appropriate pain management and wound care. Challenges during the hospital stay included a temporary increase in creatinine level due to dehydration and a minor surgical site infection treated with antibiotics. Therapy played a crucial role in improving his mobility and overall condition.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Williams is scheduled for outpatient appointments every 3 months for the first year, then every 6 months thereafter. He will continue on oral chemotherapy (gemcitabine) and monitor for any signs of recurrence or new primary tumors. Lifestyle modifications, including a low-fat diet and regular exercise, are recommended to improve his overall health.
+
+Patient Education:
+	The patient and his family were educated about post-surgical care, specifically ileal conduit management, recognizing signs of complications, and managing common side effects of chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Williams was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing this disease. Mr. Williams will be closely monitored for ongoing health issues related to his bladder removal and any potential side effects from chemotherapy.
+
+Final Remarks:
+	Dr. Mack Collins would like to express her gratitude for Mr. Williams's resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Mack Collins and Michael Williams on 05/15/2022.

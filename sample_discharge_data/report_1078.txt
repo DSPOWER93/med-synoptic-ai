@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wayne Castro
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1078
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Andrea Santos
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Wayne Castro, was admitted to the hospital on 01/01/2022 due to persistent abdominal pain, rectal bleeding, and a significant weight loss of approximately 15 kg in the past three months. Upon initial assessment, vital signs were stable with a mild tachycardia (heart rate 102 bpm). Abdominal examination revealed tenderness in the lower quadrant, and digital rectal exam indicated a palpable mass. Subsequent diagnostic investigations, including a computed tomography scan of the abdomen and pelvis, confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Wayne Castro has a history of hypertension, which is currently controlled with amlodipine 5mg once daily. He also has a chronic obstructive pulmonary disease (COPD) and is on a regular inhaler regimen. His father passed away from colorectal cancer at the age of 65, making him a high-risk patient. Wayne Castro was not allergic to any medications before admission.
+
+Diagnostic Findings:
+	Pathology report of the colonic mass biopsy confirmed adenocarcinoma. The staging workup revealed a large tumor (8 cm) invading the muscularis propria, with multiple regional lymph nodes involved. Blood tests showed anemia, elevated C-reactive protein, and carcinoembryonic antigen levels consistent with malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Wayne Castro. He underwent a right hemicolectomy with lymph node dissection on 03/01/2022. Post-operative care included pain management, bowel regulation, and wound care. A chemotherapy regimen consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) was initiated, with the first cycle completed on 14/01/2022. Radiation therapy was not deemed necessary due to the extent of surgical resection and the patient's overall response to chemotherapy.
+
+Hospital Course:
+	Wayne Castro recovered well from surgery and started tolerating oral intake on the fourth post-operative day. He experienced some nausea and diarrhea, which were managed with medication. The role of physiotherapy was crucial in preventing pulmonary complications related to his COPD. Nutritional support was provided to aid in his weight gain.
+
+Follow-Up Plan:
+	Wayne Castro will have scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue with chemotherapy as prescribed and adhere to a low-fiber diet. Lifestyle modifications include regular exercise and maintaining a healthy weight. Any significant changes in bowel habits or recurrence of symptoms should prompt immediate medical attention.
+
+Patient Education:
+	Wayne Castro and his family were educated about the importance of his treatment plan, including the role of chemotherapy, managing side effects, and caring for his ileal conduit. They were also instructed on recognizing signs of complications such as infection, obstruction, or bleeding.
+
+Discharge Instructions:
+	Upon discharge, Wayne Castro was provided with detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a medication schedule for his prescribed chemotherapy regimen.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for patients with colorectal cancer. Wayne Castro has been advised to maintain a healthy lifestyle, including regular exercise and a balanced diet, to improve his overall health.
+
+Final Remarks:
+	Dr. Andrea Santos expressed her appreciation for Wayne Castro's resilience throughout the treatment journey and emphasized the importance of continued adherence to the prescribed regimen. The report is signed by both Dr. Andrea Santos and Wayne Castro on 15/01/2022, validating the documentation of his care.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Jansen
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M174
+	•Date of Admission: 02/02/2022
+	•Date of Discharge: 09/09/2022
+	•Attending Physician: Dr. Gail Ziegler
+	•Primary Diagnosis: Stage IIIA Colorectal Cancer with Lymph Node Involvement
+
+Reason for Admission:
+	Upon admission, Mary Jansen presented with a three-month history of intermittent abdominal pain, bloating, and constipation. Initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests indicated anemia, elevated CEA levels, and positive fecal occult blood. Further diagnostic investigations confirmed a colorectal mass with lymph node involvement.
+
+Medical History:
+	Mary Jansen had a significant medical history, including hypertension managed with medication and diabetes mellitus type 2 controlled through diet and oral hypoglycemic agents. He was a former smoker and had chronic obstructive pulmonary disease (COPD). His family history was notable for colorectal cancer in his father and breast cancer in his mother. Mary Jansen was allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	A CT scan of the abdomen and pelvis revealed a 6 cm mass in the sigmoid colon with involved lymph nodes. Pathology report from the excisional biopsy confirmed the diagnosis of Stage IIIA Colorectal Cancer. Mary Jansen's laboratory tests also showed elevated carcinoembryonic antigen (CEA) levels, anemia, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mary Jansen. He underwent a sigmoid colectomy with primary anastomosis followed by adjuvant chemotherapy. The surgical intervention was uneventful, and post-operative care included monitoring for complications such as ileus or anastomotic leak. Mary Jansen received six cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy, with close monitoring for side effects such as neutropenia, neuropathy, and gastrointestinal disturbances. Radiation therapy was not deemed necessary due to the absence of distant metastases.
+
+Hospital Course:
+	Mary Jansen's initial recovery from surgery was smooth, with gradual improvement in bowel function and pain management. He faced challenges related to poor appetite, resulting in weight loss, and diabetes control due to insulin resistance induced by the stress of surgery. Therapy interventions focused on addressing these issues through nutritional support, insulin adjustments, and psychological counseling.
+
+Follow-Up Plan:
+	Post-discharge, Mary Jansen will undergo regular follow-up appointments with his oncologist every three months for the first year, then six-monthly thereafter. His medication regimen includes oral hypoglycemics for diabetes management and antibiotics to prevent urinary tract infections related to the ileal conduit. Lifestyle recommendations include regular exercise, a high-fiber diet, and avoidance of alcohol and tobacco. Mary Jansen should report any signs of fever, abdominal pain, rectal bleeding, or changes in bowel habits promptly.
+
+Patient Education:
+	Mary Jansen and his family were educated about the importance of adhering to the medication regimen, maintaining a healthy lifestyle, recognizing potential complications such as neutropenia, anastomotic leak, or signs of recurrence, and managing common side effects like fatigue, diarrhea, and neuropathy.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, monitoring for signs of infection or complications, and maintaining a balanced diet with plenty of fluids to aid digestion and bowel function. Mary Jansen was advised to avoid strenuous activity for two weeks after discharge and gradually increase physical activity thereafter.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues for colorectal cancer survivors like Mary Jansen.
+
+Final Remarks:
+	The attending physician, Dr. Gail Ziegler, would like to express her appreciation for Mary Jansen's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued vigilance and commitment to the follow-up plan for optimal health outcomes. This report is signed by both Dr. Ziegler and Mary Jansen on 09/09/2022.

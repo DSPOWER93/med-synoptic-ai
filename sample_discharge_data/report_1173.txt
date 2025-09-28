@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Roger King
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1173
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Andrea Johnson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Roger King was admitted to the hospital due to persistent abdominal pain and unexplained weight loss. The initial assessment revealed a distended abdomen, decreased bowel sounds, and palpable mass in the lower right quadrant. A series of diagnostic tests, including abdominopelvic CT scan, colonoscopy, and blood tests, confirmed the diagnosis of colorectal cancer (Roger King). The tumor was found to have invaded the muscle layer but not the surrounding organs.
+
+Medical History:
+	Mr. King has a history of hypertension and COPD, which were well-controlled with medications prior to admission. He also has a family history of colorectal cancer, with his father diagnosed at the age of 60. He had undergone a cholecystectomy in 2015 for gallstones. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	The abdominopelvic CT scan revealed an irregular mass in the ascending colon, with evidence of regional lymph node involvement. Pathology report from the excised specimen confirmed the diagnosis of moderately differentiated adenocarcinoma. Blood tests indicated elevated levels of CEA (Carcinoembryonic Antigen) and CA 19-9 (Cancer Antigen 19-9).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. King. This included a right hemicolectomy, followed by a primary anastomosis or an ileal conduit formation. Post-operative care involved managing pain, maintaining adequate hydration and nutrition, and monitoring for complications such as infection and anastomotic leak. A chemotherapy regimen consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) was initiated, with six cycles planned. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	Mr. King's post-operative recovery was initially challenging due to complications from his COPD. He required oxygen supplementation and experienced respiratory distress. However, through aggressive pulmonary therapy and close monitoring, these issues were managed effectively. Nutritional support was crucial during his stay, as he struggled with poor appetite.
+
+Follow-Up Plan:
+	Upon discharge, Mr. King will be scheduled for follow-up appointments every three months for the first two years, and then semi-annually thereafter. His medications will continue as prescribed, with close monitoring of CEA levels to assess treatment response. Dietary advice emphasizes a high-fiber diet to promote regular bowel movements and reduce the risk of complications with his ileal conduit.
+
+Patient Education:
+	Mr. King and his family were provided extensive education about post-surgical care, including wound management, recognizing signs of complications such as infection or anastomotic leak, and managing common side effects like fatigue and diarrhea. They were also instructed on how to manage the ileal conduit effectively.
+
+Discharge Instructions:
+	Mr. King was discharged with a clear understanding of his medication regimen, wound care practices, hydration requirements, and physical activity guidelines. He was advised to monitor his weight and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. King's long-term health. He will be closely followed for changes in CEA levels, and any abnormal findings will require further investigation.
+
+Final Remarks:
+	Mr. King demonstrated remarkable resilience and cooperation throughout his treatment journey. His dedication to his recovery, coupled with the expertise of our team, has set him on a promising path towards remission. We look forward to continuing to support him in his health journey.

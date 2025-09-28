@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Josie Waugh
+	•Date of Birth: 15 January 1980
+	•Medical Record Number: M108
+	•Date of Admission: 2 February 2023
+	•Date of Discharge: 15 February 2023
+	•Attending Physician: Dr. Christopher Waugh
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	The patient, Mr. Josie Waugh, was admitted to the hospital due to persistent hematuria (blood in urine), frequent urinary tract infections, and abdominal pain. Initial assessment revealed a palpable mass in the lower left abdomen, and further investigations were conducted, including computed tomography (CT) scan and cystoscopy, which confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Waugh has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparotomy for an appendectomy in 1998. His family history is significant for colorectal cancer, with his father being a survivor of the disease. Mr. Waugh is allergic to penicillin and sulfa drugs. Before admission, he was on medications including metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Diagnostic tests conducted during the hospital stay revealed a large tumor in the bladder body and dome, with involvement of the trigone and muscularis propria. The pathology report confirmed transitional cell carcinoma. CT scan showed no evidence of distant metastasis. Blood tests indicated anemia (Hb 9 g/dL), elevated creatinine (1.7 mg/dL), and mild hyponatremia (130 mEq/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Waugh. The primary intervention was radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care included pain management, wound care, and early ambulation. The chosen chemotherapy regimen was MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin), with six cycles planned. Mr. Waugh also underwent radiation therapy to the pelvic region due to positive surgical margins.
+
+Hospital Course:
+	Following surgery, Mr. Waugh recovered well. He experienced post-operative complications such as urinary leakage and anemia, which were managed with appropriate interventions. Therapy sessions, including physical therapy and occupational therapy, played a crucial role in his recovery. Nutritional support was provided to manage his diabetes and maintain adequate nutritional status.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments every three months for the first year, then every six months thereafter. Mr. Waugh will continue with oral chemotherapy (Gemcitabine) and will be advised to maintain a healthy diet, rich in fruits and vegetables, and avoid smoking. He will also be instructed on managing his ileal conduit and recognizing signs of complications.
+
+Patient Education:
+	The patient and his family were provided detailed education about the disease, its treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, and changes in urine color or odor, and managing common side effects like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Waugh was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take the prescribed medications regularly, maintain a soft diet for a week post-discharge, drink at least 2 liters of fluid daily, and perform light exercises as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Waugh will need to manage ongoing health issues related to his comorbidities effectively.
+
+Final Remarks:
+	The report concludes with the attending physician's final remarks, emphasizing Mr. Waugh's resilience and cooperation throughout the treatment journey. The report is signed by Dr. Christopher Waugh and Mr. Josie Waugh on 15th February 2023.

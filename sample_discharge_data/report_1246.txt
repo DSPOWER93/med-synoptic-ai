@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Powers
+	•Date of Birth: 01/02/1975
+	•Medical Record Number: M1246
+	•Date of Admission: 04/15/2022
+	•Date of Discharge: 06/01/2022
+	•Attending Physician: Dr. Aida Gilbert
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Robert Powers, was admitted to our facility due to persistent abdominal pain and unintended weight loss over a three-month period. On initial assessment, he presented with decreased appetite, fatigue, and changes in bowel habits. Subsequent diagnostic investigations including blood tests, CT scans, and colonoscopy revealed a large tumor in his colon, confirming the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Powers has a history of hypertension managed with medication, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD) with a history of smoking. He underwent a left knee replacement surgery in 2015. His family history is significant for colorectal cancer, as his father passed away from the same disease at age 65. Mr. Powers is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a moderately differentiated adenocarcinoma in the colon. CT scan revealed a 7cm x 6cm mass in the transverse colon, with lymph node involvement. Blood tests showed anemia (Hb 9g/dL) and elevated carcinoembryonic antigen (CEA) level of 10ng/mL.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Powers. This included a right hemicolectomy with primary anastomosis, post-operative chemotherapy regimen consisting of FOLFOX (Folinic Acid, 5-Fluorouracil, and Oxaliplatin) for 12 cycles, and consideration of adjuvant radiation therapy.
+
+Hospital Course:
+	Mr. Powers underwent a successful right hemicolectomy on April 30th. Post-operative care focused on pain management, monitoring bowel function, and managing complications such as anastomotic leak and post-operative bleeding. He received adjuvant chemotherapy as scheduled and tolerated the treatment well. He was also supported by physical therapy and nutritional services to aid in recovery.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Powers includes regular outpatient appointments every three months for the first two years, then every six months thereafter. Medications will be adjusted as needed based on his response to therapy and management of comorbidities. A low-fiber diet is recommended, along with smoking cessation. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Powers and his family were educated about the importance of post-surgical care, specifically managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, neuropathy, and diarrhea associated with chemotherapy.
+
+Discharge Instructions:
+	Mr. Powers was discharged with instructions to adhere strictly to his medications, practice good wound care, maintain adequate hydration, and gradually increase physical activity as tolerated. He was also provided with information on local resources for support.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Powers is favorable given the successful surgical resection and completion of chemotherapy. Regular monitoring will be essential for early detection of recurrence and management of ongoing health issues related to his comorbidities.
+
+Final Remarks:
+	I would like to commend Mr. Robert Powers on his courageous fight against colorectal cancer. His resilience and cooperation throughout the treatment journey have been inspiring. It has been a privilege to be part of his care team, and we look forward to seeing him continue to thrive in his recovery process.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Andrea Haddock
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1163
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Lyle Manship
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Andrea Haddock, a 47-year-old male, presented to the emergency department with complaints of persistent abdominal pain, altered bowel habits, and unexplained weight loss over the past few months. The initial assessment revealed a distended abdomen with localized tenderness and palpable masses. A series of diagnostic tests, including a computed tomography (CT) scan and colonoscopy, were conducted to confirm the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Haddock has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a left hip replacement surgery six years ago. His family history is significant for colorectal cancer, as his father passed away from the same disease at the age of 55. Mr. Haddock has allergies to penicillin and sulfa drugs. Prior to admission, he was on metformin, amlodipine, and inhaled bronchodilators for his comorbidities.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the sigmoid colon with multiple lymph nodes involvement, consistent with colorectal cancer (Stage III). Pathology reports from the biopsy confirmed adenocarcinoma. Blood tests showed elevated carcinoembryonic antigen (CEA) levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Haddock. He underwent a sigmoid colectomy, followed by a permanent ileal conduit creation. Post-operative care included pain management, antibiotics to prevent infection, and nutritional support through a feeding tube. Mr. Haddock was scheduled for six cycles of adjuvant chemotherapy (FOLFOX regimen) with leucovorin, 5-fluorouracil, and oxaliplatin. He also received radiation therapy to the affected area as part of adjuvant treatment.
+
+Hospital Course:
+	Mr. Haddock's initial recovery from surgery was challenging due to post-operative complications such as ileus and anemia. However, with aggressive management, he made remarkable progress. He received physical therapy for mobility and was eventually able to ambulate without assistance. Nutritional support through a feeding tube helped manage his weight loss.
+
+Follow-Up Plan:
+	Mr. Haddock will have regular follow-ups every three months for the first year, then six-monthly thereafter. He is to continue taking metformin and inhaled bronchodilators but discontinue amlodipine due to interactions with chemotherapy agents. He should maintain a low-fiber diet and avoid heavy lifting or strenuous activities for the first six months post-surgery.
+
+Patient Education:
+	Mr. Haddock was educated about the importance of adhering to his medication schedule, recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits, and managing common side effects like nausea, diarrhea, and fatigue. Instructions on post-surgical care, including ileal conduit management and hygiene practices, were provided to him and his family.
+
+Discharge Instructions:
+	Upon discharge, Mr. Haddock was given instructions on wound care practices, importance of proper hydration, and guidelines for physical activity. He was also instructed to monitor his blood sugar levels closely and report any unusual symptoms to his primary care physician or oncologist immediately.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Stage III colorectal cancer is good with adjuvant therapy; however, regular monitoring for early detection of recurrence is crucial. Mr. Haddock was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise, to manage his ongoing health issues.
+
+Final Remarks:
+	Dr. Lyle Manship expressed her appreciation for Mr. Haddock's resilience throughout the treatment journey. She emphasized the importance of continued adherence to the treatment plan and follow-up appointments. The report was signed by both Dr. Lyle Manship and Andrea Haddock on 15/01/2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Barbara Colburn
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1387
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. John Vines
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Barbara Colburn, presented to the emergency department with symptoms of abdominal pain, change in bowel habits, and unexplained weight loss over the past few months. Upon initial assessment, he exhibited signs of anemia and dehydration. A series of diagnostic tests were conducted, including a complete blood count (CBC), carcinoembryonic antigen (CEA) test, computed tomography (CT) scan of the abdomen and pelvis, and a colonoscopy. These tests confirmed the presence of colorectal cancer in the descending colon.
+
+Medical History:
+	Mr. Colburn has a history of hypertension managed with lisinopril and hydrochlorothiazide, type 2 diabetes mellitus controlled with metformin, and chronic obstructive pulmonary disease (COPD) requiring regular bronchodilator therapy. He has no known allergies to medications but is sensitive to penicillin. Prior surgeries include an appendectomy at age 18 and a cholecystectomy in 2005.
+
+Diagnostic Findings:
+	The CBC revealed anemia (Hb 9 g/dL), and the CEA level was elevated at 16 ng/mL. The CT scan showed a large mass in the descending colon with involvement of several lymph nodes. Histopathology from the colonoscopy confirmed adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team, including oncologists, surgeons, and radiotherapists, developed a comprehensive treatment plan for Mr. Colburn. He underwent a low anterior resection of the descending colon, followed by a primary anastomosis and formation of an ileal conduit. Postoperative care included managing pain, preventing complications such as infection, and promoting bowel function. Mr. Colburn was also started on a six-month regimen of adjuvant chemotherapy with FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) to reduce the risk of recurrence. The decision for radiation therapy was deferred due to potential side effects and ongoing recovery from surgery.
+
+Hospital Course:
+	Mr. Colburn's initial recovery from surgery was uneventful; however, he experienced several complications during his hospital stay, including postoperative ileus, which required nasogastric tube insertion and fluid resuscitation. He also developed anemia due to ongoing blood loss from the tumor. To address these issues, Mr. Colburn received iron supplementation and blood transfusions as needed. Occupational therapy helped him regain strength and mobility, while dietitians focused on appropriate nutrition for his condition.
+
+Follow-Up Plan:
+	Following discharge, Mr. Colburn will undergo regular follow-ups with his oncologist and surgeon. He is to continue the prescribed chemotherapy regimen and maintain close monitoring for any signs of recurrence or complications related to the ileal conduit. Lifestyle modifications include maintaining a balanced diet, engaging in regular physical activity, and avoiding tobacco products.
+
+Patient Education:
+	The patient and his family were provided with extensive education regarding post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as neuropathy, nausea, and diarrhea associated with chemotherapy. They were also instructed on wound care practices, proper hydration, and activity guidelines to ensure a smooth recovery process.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Colburn was given clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with information about community resources for support during his recovery journey.
+
+Prognosis and Long-Term Outlook:
+	It is essential for Mr. Colburn to maintain regular follow-ups with his healthcare team to monitor for early signs of recurrence and manage ongoing health issues such as diabetes and hypertension. With the comprehensive treatment plan, a positive attitude, and adherence to lifestyle modifications, Mr. Colburn has a good prognosis for long-term survival and recovery.
+
+Final Remarks:
+	In conclusion, Mr. Barbara Colburn successfully underwent treatment for colorectal cancer (Stage III) after presenting with symptoms of abdominal pain, change in bowel habits, and unexplained weight loss. His resilience and cooperation throughout the treatment journey have been commendable. We wish him a speedy recovery and long-term health maintenance.

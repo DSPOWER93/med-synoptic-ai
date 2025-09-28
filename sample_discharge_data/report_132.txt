@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Fredric Johnson
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M132
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Rebecca Mangual
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Fredric Johnson, presented to the emergency department with persistent abdominal pain, rectal bleeding, and a change in bowel habits. Upon initial assessment, he was found to be anemic and had a palpable mass in the lower abdomen. Further investigations, including CT scan and colonoscopy, confirmed the presence of a large tumor in the descending colon.
+
+Medical History:
+	Mr. Johnson has a history of hypertension, for which he has been on amlodipine 5mg daily. He also has a family history significant for colorectal cancer, with his father diagnosed at age 60 and mother at age 65. He underwent a laparoscopic cholecystectomy in 2015 for gallstones.
+
+Diagnostic Findings:
+	Pathology results from the resected colon confirmed the diagnosis of adenocarcinoma. Imaging studies revealed lymph node involvement, with multiple enlarged nodes in the mesocolon. Blood tests indicated elevated carcinoembryonic antigen (CEA) levels at 10.5 ng/mL (normal range <3.0 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Johnson, which included an initial laparoscopic right hemicolectomy with a temporary ileostomy followed by adjuvant chemotherapy. Post-operative care involved management of the ileostomy, fluid and electrolyte balance, pain control, and antiemetics for chemotherapy-related nausea. The recommended chemotherapy regimen was FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) with a total of 12 cycles.
+
+Hospital Course:
+	Mr. Johnson's initial recovery from surgery was uneventful, but he experienced chemotherapy-induced neutropenia and diarrhea. These side effects were managed effectively through supportive care and medication adjustments. Adequate nutrition was maintained through enteral feeding supplementation during periods of poor oral intake.
+
+Follow-Up Plan:
+	Mr. Johnson will be followed up closely by his oncologist every 3 months for the first year, then every 6 months thereafter. He will continue on adjuvant chemotherapy as prescribed and will receive counseling regarding lifestyle modifications, such as smoking cessation and regular exercise. If he experiences any signs of complications or recurrence, such as abdominal pain, changes in bowel habits, or unexplained weight loss, he has been instructed to seek immediate medical attention.
+
+Patient Education:
+	Mr. Johnson and his family were provided extensive education about the treatment options for colorectal cancer, the importance of adjuvant chemotherapy, and the management of an ileostomy. They were also taught how to recognize signs of complications and manage common side effects such as diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Johnson was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to maintain a balanced diet and to report any unusual symptoms to his healthcare team promptly.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Johnson is guarded due to the advanced stage of his colorectal cancer at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues, such as hypertension and nutritional status, will be crucial in optimizing his long-term outcome.
+
+Final Remarks:
+	The attending physician, Dr. Rebecca Mangual, would like to express her gratitude to Mr. Johnson for his resilience and cooperation throughout this challenging treatment journey. She encourages him to continue being an active participant in his care and to maintain a positive outlook as he moves forward in recovery.

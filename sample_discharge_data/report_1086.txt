@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Julia Favors
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1086
+	•Date of Admission: 02/03/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Maxine Goodfellow
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Julia Favors was admitted to our facility following the discovery of a large mass in his right kidney during a routine ultrasound examination. The patient presented with symptoms of blood in urine, flank pain, and fatigue. Upon admission, a series of diagnostic tests were conducted, including a CT scan, MRI, and biopsy, which confirmed the diagnosis of advanced RCC.
+
+Medical History:
+	Mr. Favors has a significant medical history. He is a 37-year-old male with a known history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). Previous surgical interventions include appendectomy and laparoscopic cholecystectomy. Mr. Favors has a family history of colon cancer and breast cancer in his mother and grandmother, respectively. He is known to be allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, amlodipine, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	The pathology report of the biopsied tissue revealed clear cell RCC with extensive necrosis and high-grade nuclear pleomorphism. Imaging scans showed a large mass (approximately 10 cm) in his right kidney, with multiple enlarged lymph nodes in the abdomen and surrounding areas. Blood tests indicated anemia, elevated creatinine levels, and elevated alkaline phosphatase.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Favors. This included radical nephrectomy, followed by adjuvant therapy consisting of six cycles of sunitinib, a targeted tyrosine kinase inhibitor. Radiation therapy was deemed unnecessary given the extent of the disease. The patient was also managed with pain medication and antibiotics to control post-operative complications.
+
+Hospital Course:
+	Mr. Favors underwent radical nephrectomy on [Date of Surgery]. His initial recovery from surgery was uneventful, but he faced challenges such as anemia, nausea, and fatigue due to the disease itself and the side effects of chemotherapy. He received regular therapy sessions, nutritional support, and pain management throughout his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Favors will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary based on his response to treatment and any side effects experienced. He has been instructed to maintain a healthy diet low in sodium, to engage in light physical activity, and to avoid heavy lifting or strenuous exercise.
+
+Patient Education:
+	The patient and his family were extensively educated about the disease, its treatment options, and post-surgical care. Instructions included managing the ileal conduit, recognizing signs of complications such as fever, persistent pain, or changes in urine color or output, and managing common side effects like fatigue, nausea, and anemia.
+
+Discharge Instructions:
+	Upon discharge, Mr. Favors was provided with comprehensive instructions to ensure his continued recovery. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also informed about the importance of follow-up appointments and regular monitoring for early detection of recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues. The prognosis for advanced RCC can be challenging, but with proper management and adherence to the treatment plan, Mr. Favors has a chance at prolonged survival and improved quality of life.
+
+Final Remarks:
+	This report concludes with our attending physician's final remarks, expressing admiration for Mr. Favors's resilience and cooperation throughout his treatment journey. The report is signed by Dr. Maxine Goodfellow and Mr. Julia Favors on [Date of Report]. Validation of the report is provided by the date of discharge.

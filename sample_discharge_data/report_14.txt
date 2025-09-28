@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jenny Brew
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M14
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 31-01-2022
+	•Attending Physician: Dr. Corey Sansone
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Brew presented to the emergency department with a two-week history of abdominal pain, decreased appetite, and weight loss. The initial assessment revealed a palpable abdominal mass, and a digital rectal examination was positive. Subsequent diagnostic tests, including computed tomography (CT) scan, endoscopy, and biopsy, confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Brew has a history of hypertension and type 2 diabetes mellitus, for which he was on regular medications Amlodipine 10mg daily and Metformin 850mg twice daily. He also had a significant family history of colorectal cancer. No known allergies were reported.
+
+Diagnostic Findings:
+	The pathology report revealed an invasive adenocarcinoma of the sigmoid colon, with positive lymph node involvement (N2). Imaging scans showed a large mass in the sigmoid colon with surrounding lymphadenopathy. Blood tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Brew. He underwent a sigmoid colon resection with permanent ileostomy, followed by six cycles of adjuvant chemotherapy (FOLFOX regimen). Radiation therapy was deemed unnecessary due to the surgical resection and the absence of distant metastases.
+
+Hospital Course:
+	After the surgery, Mr. Brew recovered well and tolerated the post-operative care without complications. He received regular nutritional support and managed his diabetes effectively. During his stay, he was educated about managing his ileal conduit, recognizing signs of complications, and managing common side effects associated with chemotherapy.
+
+Follow-Up Plan:
+	Mr. Brew will have follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue taking his hypertension and diabetes medications as prescribed, adjusting insulin doses as necessary. A low-fiber diet is recommended to minimize complications with his ileal conduit. Any significant changes in bowel habits or unexplained weight loss should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Brew and his family were extensively educated about the nature of colorectal cancer, the rationale for surgery, chemotherapy, and the management of his ileal conduit. They were also instructed on recognizing signs of complications and managing common side effects associated with chemotherapy.
+
+Discharge Instructions:
+	Mr. Brew was provided with detailed discharge instructions, including medication adherence guidelines, wound care practices, hydration recommendations, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Given the stage of his cancer at diagnosis, Mr. Brew's prognosis is generally favorable, with a five-year survival rate of approximately 65%.
+
+Final Remarks:
+	Dr. Sansone concluded the report, expressing her appreciation for Mr. Brew's resilience and cooperation throughout his treatment journey. She emphasized the importance of adhering to the follow-up plan and maintaining a healthy lifestyle for the best possible outcomes. Both the physician and patient signed the report on 31-01-2022, validating the document.

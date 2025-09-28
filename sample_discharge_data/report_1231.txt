@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Edward Gutierrez
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1231
+	•Date of Admission: 02/02/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Janessa White
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Edward Gutierrez presented to the emergency department complaining of persistent abdominal pain, weight loss, and changes in bowel habits over the past few months. Upon admission, he underwent a series of diagnostic tests, including CT scans, MRI, and blood tests, which revealed a mass in the colon and multiple liver metastases consistent with colorectal cancer.
+
+Medical History:
+	Mr. Gutierrez has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee replacement surgery ten years ago. His family history is significant for colon cancer, with his father diagnosed at the age of 60. He is allergic to penicillin and iodine-based contrast agents. Prior to admission, he was taking metformin, lisinopril, albuterol inhaler, and ipratropium bromide inhaler.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed adenocarcinoma of the sigmoid colon. Liver function tests revealed elevated levels of alkaline phosphatase and gamma-glutamyl transferase, indicating liver involvement. CT scans showed a large mass in the sigmoid colon, multiple liver metastases, and lymph node involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Gutierrez. He underwent a sigmoid colectomy followed by an ileo-rectal anastomosis, along with liver metastasectomy. Post-operative care included pain management, wound care, and nutritional support. A six-month regimen of FOLFOX (oxaliplatin, leucovorin, fluorouracil, and irinotecan) chemotherapy was initiated, with cycles every two weeks. Radiation therapy was considered for any remaining liver lesions.
+
+Hospital Course:
+	Mr. Gutierrez's initial recovery from surgery was uneventful; however, he developed a fever on the fourth post-operative day, which responded to antibiotic treatment. He required additional pain management and nutritional support during his hospital stay. His condition stabilized, and he demonstrated good progress in rehabilitation.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Gutierrez will follow up with his oncologist every three months for the first year, then every six months thereafter. He will continue FOLFOX chemotherapy for six months, followed by maintenance therapy if tolerated. A low-fiber diet and physical activity guidelines were recommended to manage symptoms and promote healing of the ileal conduit.
+
+Patient Education:
+	Mr. Gutierrez and his family were educated about the importance of adhering to the chemotherapy regimen, recognizing signs of complications such as fever or abdominal pain, and managing common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Gutierrez received instructions on wound care, medication adherence, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Gutierrez's ongoing health issues. The prognosis will be closely tied to the success of chemotherapy, surgical resection, and regular follow-ups with his oncologist.
+
+Final Remarks:
+	Dr. White expressed her appreciation for Mr. Gutierrez's resilience and cooperation throughout the treatment journey. She emphasized the importance of continued collaboration between the patient, family, and medical team to achieve the best possible outcomes. The report was signed by both Dr. White and Mr. Gutierrez on April 12th, 2022.

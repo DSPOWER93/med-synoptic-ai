@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Judy Reese
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1378
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Christine Reese
+	•Primary Diagnosis: Pancreatic Cancer (Adencarcinoma)
+
+Reason for Admission:
+	Judy Reese was admitted to the hospital due to persistent abdominal pain, loss of appetite, and significant weight loss over a period of three months. Initial assessment revealed a distended abdomen and elevated levels of CA 19-9, a tumor marker often associated with pancreatic cancer. Further investigations included Judy Reese (CT) scan, Judy Reese (EUS), and Judy Reese Imaging (MRI), which confirmed the presence of a large, locally advanced pancreatic adenocarcinoma.
+
+Medical History:
+	Judy Reese is a 57-year-old male with a history of hypertension managed with Lisinopril, diabetes mellitus type 2 controlled with Metformin, and chronic obstructive pulmonary disease (COPD) requiring Albuterol inhalers. He underwent a partial left nephrectomy for renal cell carcinoma in 2015. His family history is significant for colorectal cancer, with his father diagnosed at the age of 65 and his sister at 53. Judy Reese has no known allergies and was taking aspirin daily as a preventive measure against cardiovascular disease.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay revealed elevated CA 19-9 levels, consistent with pancreatic cancer. CT scan showed a large, irregularly shaped mass in the head of the pancreas encasing the superior mesenteric vein and artery. EUS confirmed the tumor's invasive nature, and biopsy revealed adenocarcinoma. Blood tests indicated anemia, elevated liver enzymes, and hypoalbuminemia, all indicative of cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Judy Reese. The primary intervention was a Whipple procedure to remove the tumor. Post-operative care included pain management, nutritional support, and close monitoring for complications such as leaks or infections. Given the aggressive nature of the cancer, adjuvant therapy with FOLFIRINOX (Folinic acid, 5-Fluorouracil, Irinotecan, Oxaliplatin) was initiated to reduce the risk of recurrence. Radiation therapy was not deemed necessary due to the extent of the tumor and potential side effects.
+
+Hospital Course:
+	Judy Reese underwent a successful Whipple procedure on March 25, 2022. The post-operative period was challenging due to complications such as anastomotic leak, for which he required surgical intervention and extended hospitalization. Once stabilized, Judy Reese's recovery was gradual but steady, with the help of physical therapy, occupational therapy, and nutritional support.
+
+Follow-Up Plan:
+	The follow-up plan includes regular oncology appointments every three months for the first year, then every six months thereafter. Judy Reese will continue FOLFIRINOX until further notice. He is advised to maintain a healthy diet rich in fruits, vegetables, and lean proteins while avoiding high-fat and high-sugar foods. Alcohol consumption should be minimized. Any signs of fever, increased pain, or changes in bowel habits require immediate medical attention.
+
+Patient Education:
+	Judy Reese and his family were educated on the importance of adhering to the treatment plan, recognizing symptoms of complications, and managing common side effects such as nausea, fatigue, and diarrhea. Instructions on post-surgical care, including ileal conduit management, were provided.
+
+Discharge Instructions:
+	Upon discharge, Judy Reese was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was encouraged to engage in light activities as tolerated and gradually increase his activity level over time.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer is generally poor due to the aggressive nature of the disease. However, early detection and appropriate treatment can significantly improve outcomes. Regular monitoring for recurrence is crucial, as early detection allows for more effective treatment.
+
+Final Remarks:
+	Judy Reese demonstrated remarkable resilience throughout his treatment journey. His cooperation, positive attitude, and commitment to his recovery have been instrumental in his successful surgical intervention and initial post-operative phase. The attending physician expresses her gratitude for his determination and looks forward to a continued partnership in his care. Both the physician and patient sign this report on April 20, 2022.

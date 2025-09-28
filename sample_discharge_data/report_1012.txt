@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Morgan
+	•Date of Birth: 12/06/1975
+	•Medical Record Number: M1012
+	•Date of Admission: 03/12/2022
+	•Date of Discharge: 04/10/2022
+	•Attending Physician: Dr. Thomas Zamudio
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC), bladder
+
+Reason for Admission:
+	James Morgan was admitted to the hospital due to persistent hematuria (blood in urine) and dysuria (painful urination) for over a month. Initially, these symptoms were managed with antibiotics, but upon further examination, a suspicious mass was found during cystoscopy, leading to a biopsy which confirmed the diagnosis of TCC. The disease had progressed to stage IIIA, requiring immediate treatment.
+
+Medical History:
+	Mr. Morgan's medical history included hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy for renal cell carcinoma in 2015 and has a family history of colorectal cancer. Prior to admission, he was on multiple medications, including metformin for diabetes, metoprolol for hypertension, and albuterol for COPD.
+
+Diagnostic Findings:
+	Diagnostic tests conducted during the hospital stay included a CT scan of the abdomen and pelvis, which revealed a large mass in the bladder with regional lymph node involvement. Pathology reports confirmed the diagnosis of TCC, and blood tests showed elevated levels of creatinine (indicating kidney function impairment) and hemoglobin (due to blood loss).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan. Mr. Morgan underwent radical cystectomy with ileal conduit diversion, followed by six cycles of neoadjuvant chemotherapy using gemcitabine and cisplatin, and radiation therapy to the pelvic lymph nodes. Post-operative care involved pain management, fluid balance maintenance, nutritional support, and prevention of urinary tract infections.
+
+Hospital Course:
+	During his hospital stay, Mr. Morgan successfully recovered from surgery, although he faced challenges related to post-operative ileus and electrolyte imbalances. He received physical therapy for mobility restoration, and dietary counseling to aid in wound healing. The disease was managed with chemotherapy, and radiation therapy was initiated after the completion of his chemotherapy cycles.
+
+Follow-Up Plan:
+	After discharge, Mr. Morgan will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue the medications prescribed during hospitalization, and lifestyle changes such as smoking cessation and a healthy diet are strongly recommended. Warning signs of complications include fever, increased pain, worsening urinary symptoms, or unexplained weight loss.
+
+Patient Education:
+	Mr. Morgan and his family were educated on post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Morgan was provided with comprehensive instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for TCC depends on the stage at diagnosis and response to treatment. Regular monitoring for early detection of recurrence is essential. Mr. Morgan will be closely monitored for ongoing health issues, including diabetes and COPD management.
+
+Final Remarks:
+	Throughout his treatment journey, James Morgan demonstrated remarkable resilience and cooperation. We are confident that he will continue to make progress in recovery and manage his condition effectively. This report is signed by Dr. Thomas Zamudio on 04/10/2022, validating the documentation provided.

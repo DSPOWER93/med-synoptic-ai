@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kathleen Moran
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1037
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. Jeremy Moran
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Kathleen Moran was admitted to the hospital due to persistent hematuria (blood in urine), accompanied by dysuria (painful urination). Upon initial assessment, his vital signs were stable. However, a urinalysis revealed the presence of blood and cancer cells, which prompted further investigation via cystoscopy, a test that visualizes the bladder's interior. The cystoscopic examination confirmed a TCC tumor in the bladder, necessitating immediate treatment.
+
+Medical History:
+	Mr. Moran has a history of hypertension and diabetes, both of which were well-controlled with medication. He also suffers from Chronic Obstructive Pulmonary Disease (COPD), requiring regular bronchodilator therapy. In the past, he underwent a cholecystectomy for gallstones and a partial nephrectomy due to kidney cancer. Mr. Moran is not known to have any significant family history of diseases and has no allergies. He was on various medications before admission, including antihypertensives, insulin for diabetes management, and inhalers for COPD.
+
+Diagnostic Findings:
+	During his hospital stay, Mr. Moran underwent a series of diagnostic tests to determine the extent of his TCC. Computed Tomography (CT) scan, Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET) scans were conducted to assess the tumor's size, location, and spread. Pathology reports from biopsy samples confirmed the diagnosis of TCC. Blood tests revealed elevated creatinine levels, indicating possible kidney dysfunction due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team, consisting of urologists, oncologists, radiologists, and nurses, developed a comprehensive treatment plan for Mr. Moran. His TCC was managed with radical cystectomy, followed by creation of an ileal conduit to facilitate urine collection in a bag outside the body. Post-operative care included pain management, wound care, and antimicrobial therapy to prevent infection. Additionally, he was scheduled for chemotherapy as adjuvant treatment, with a regimen consisting of Gemcitabine and Cisplatin administered every three weeks for six cycles. Radiation therapy was not deemed necessary in this case.
+
+Hospital Course:
+	Post-surgery, Mr. Moran's recovery progressed well. He faced challenges in managing his diabetes and COPD during the hospital stay but with proper care and adjustment of medication, he was able to maintain stable vital signs throughout. Therapy played a crucial role in helping him regain strength, and nutritional support ensured appropriate caloric intake for recovery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Moran was scheduled for regular follow-up appointments with his urologist and oncologist every three months for the first year, then every six months thereafter. He will continue to take antihypertensives, insulin for diabetes management, and inhalers for COPD. Dietary recommendations include a balanced diet rich in fruits, vegetables, lean proteins, and whole grains. Mr. Moran was advised to contact his healthcare provider immediately if he experiences fever, chills, persistent abdominal pain, or significant changes in urine output.
+
+Patient Education:
+	Mr. Moran and his family were educated on the importance of post-surgical care, including wound care practices, medication adherence, maintaining hydration, and engaging in gentle physical activities to promote healing. They were instructed on managing the ileal conduit, recognizing signs of complications such as infection or blockage, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Moran was provided with detailed instructions on medication adherence, wound care practices, and hydration guidelines. He was also given instructions on the proper use of his ileal conduit and managing potential complications. The importance of regular follow-up appointments was emphasized, along with lifestyle and dietary recommendations to promote overall health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing TCC. Mr. Moran was advised to maintain a healthy lifestyle by consuming a balanced diet, engaging in regular exercise, avoiding tobacco products, and minimizing alcohol intake.
+
+Final Remarks:
+	Dr. Jeremy Moran commends Mr. Moran for his resilience and cooperation throughout the treatment journey. She emphasizes that while TCC is a challenging diagnosis, with regular follow-up care and adherence to lifestyle changes, Mr. Moran can expect a good prognosis. Both Dr. Moran and Mr. Moran have signed this report on 15/02/2022 to validate its contents.

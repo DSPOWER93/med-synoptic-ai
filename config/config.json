@@ -1,0 +1,39 @@
+{
+  "ecrRepositoryName": "med-synoptic-ai-app",
+  "ecrCloudFormationJobName": "med-synoptic-ai-cloud-formation",
+  "taskDefinition": {
+    "name": "med-synoptic-ai-task-definition",
+    "cloudFormationTemplateName": "med-synoptic-ai-ecs-cf",
+    "containerName": "med-synoptic-ai-container",
+    "portMappingName": "my-port-mapping",
+    "taskExecutionRoleArn": "arn:aws:iam::414506459202:role/ecsTaskExecutionRole"
+  },
+  "ECSCluster": {
+    "name": "ecs-cluster-deploy",
+    "clusterName": "med-synoptic-ai-cluster",
+    "infrastructure": "AWS Fargate Serverless"
+  },
+  "ECSClusterServiceStackName":"med-synoptic-ai-app-ecs-service-stack",
+  "ECSClusterService": {
+    "computeConfiguration": {
+      "computeOptions": "capacity provider strategy",
+      "capacityProviderStrategy": {
+        "capacityProvider": "FARGATE",
+        "base": 1,
+        "weight": 1,
+        "platformVersion": "LATEST"
+      }
+    },
+    "deploymentConfiguration": {
+      "applicationType": "Service",
+      "taskDefinitionFamily": "med-synoptic-ai-task-definition",
+      "serviceName": "med-synoptic-ai-task-definition",
+      "serviceType": "replica",
+      "desiredTask": 1
+    },
+    "networking": {
+      "vpc": "Default VPC",
+      "securityGroup": "Default Security Group"
+    }
+  }
+}

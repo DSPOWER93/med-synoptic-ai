@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gary Hayes
+	•Date of Birth: 03/12/1978
+	•Medical Record Number: M1430
+	•Date of Admission: 01/15/2023
+	•Date of Discharge: 02/20/2023
+	•Attending Physician: Dr. Arthur Zbell
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Gary Hayes was admitted to the hospital due to a rapidly growing mass observed in his abdomen during routine screening. He complained of intermittent lower abdominal pain and altered bowel habits. Upon admission, a comprehensive physical examination was conducted, and further diagnostic investigations were ordered. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels, a known marker for colorectal cancer. Imaging scans confirmed the presence of a large mass in the lower abdomen, invading adjacent organs. The severity of his symptoms was significant, with the tumor causing partial obstruction of the intestine.
+
+Medical History:
+	Mr. Hayes has a history of hypertension and diabetes mellitus type 2, both of which were under good control prior to admission. He also suffers from chronic obstructive pulmonary disease (COPD), for which he was on regular inhalation therapy. Before his hospitalization, Mr. Hayes had undergone a cholecystectomy ten years ago. He has no known allergies and was taking medications for his chronic conditions, including metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Upon admission, Mr. Hayes underwent a series of diagnostic tests to confirm the suspicion of colorectal cancer. The pathology report from the biopsy revealed an adenocarcinoma, consistent with colon cancer. Imaging scans, including a computed tomography (CT) scan and positron emission tomography (PET) scan, demonstrated the extent of the tumor, showing that it had invaded adjacent organs and metastasized to several lymph nodes.
+
+Treatment Plan:
+	After thorough consultation with the multidisciplinary team, a treatment plan was developed for Mr. Hayes. The primary intervention was a partial colectomy, followed by the creation of an ileal conduit. Post-operative care included monitoring of wound healing and management of pain. He was also initiated on adjuvant chemotherapy consisting of four cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) every two weeks. Radiation therapy was considered but ultimately deferred due to the risk of complications post-surgery.
+
+Hospital Course:
+	Mr. Hayes's hospital course was marked by an initial recovery from surgery, followed by a period of managing post-operative complications such as anemia and electrolyte imbalances. A multidisciplinary team approach was essential in his care, with input from oncologists, surgeons, nutritionists, and therapists. Throughout this time, Mr. Hayes demonstrated resilience and a strong willingness to cooperate with the treatment plan.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hayes will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. His medications will continue, with adjustments made as necessary. Dietary recommendations include a low-fiber diet initially, followed by gradual reintroduction of fiber-rich foods. Lifestyle modifications such as maintaining a healthy weight and regular exercise are essential for long-term health management.
+
+Patient Education:
+	Mr. Hayes and his family were provided education on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and understanding common side effects such as diarrhea and fatigue. They were also educated on the importance of early detection in case of recurrence and the necessity of regular screenings for colorectal cancer.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Hayes received comprehensive discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also provided with a list of contacts for emergencies and scheduled follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Hayes's long-term care. It is essential that he adheres to the treatment plan and maintains a healthy lifestyle to optimize his chances of recovery.
+
+Final Remarks:
+	In conclusion, Mr. Gary Hayes has demonstrated resilience throughout his treatment journey for colorectal cancer. With a combination of surgery, chemotherapy, and regular follow-up care, we hope for a successful outcome in managing his condition. We are confident that with continued cooperation from Mr. Hayes, he will overcome this challenge and return to a healthy, active life.

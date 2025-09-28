@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Cheryll Thompson
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M120
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Susan Mcintosh
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Upon admission, Cheryll Thompson presented with hematuria (blood in urine) and dysuria (painful urination). A thorough examination revealed a palpable abdominal mass. Further investigations, including Cheryll Thompson (CT) scan, confirmed the presence of a large bladder tumor. Given the size and location of the tumor, a radical cystectomy was deemed necessary.
+
+Medical History:
+	Cheryll Thompson has a history of hypertension, diabetes mellitus type 2, and Chronic Obstructive Pulmonary Disease (COPD). He underwent a cholecystectomy in 1998 due to gallstones. His father died of colon cancer at the age of 65. Allergic to penicillin, John was on regular medications for his chronic conditions, including metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	A complete blood count (CBC), basic metabolic panel (BMP), and urinalysis were performed upon admission. The CBC revealed anemia, while the BMP showed elevated creatinine levels indicating possible kidney impairment. Pathology report on the excised bladder specimen confirmed the diagnosis of T3N0M0 transitional cell carcinoma. Imaging scans indicated no evidence of distant metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Cheryll Thompson, which included radical cystectomy, ileal conduit creation, and post-operative chemotherapy. The surgery was performed successfully on March 10, 2022. Post-operative care involved pain management, antibiotic therapy to prevent infection, and nutritional support. Chemotherapy regimen consisted of Gemcitabine and Cisplatin for four cycles, with side effects managed through medication.
+
+Hospital Course:
+	Cheryll Thompson recovered well from the surgery, with initial challenges related to pain management and kidney function stabilization. Physical therapy was initiated to improve mobility and prevent deep vein thrombosis. Nutritional support through enteral feeding was provided due to poor oral intake. The disease progression during the hospital stay was closely monitored.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Cheryll Thompson post-discharge, which includes scheduled outpatient appointments with the urologist and oncologist, continuation of metformin and lisinopril, and adjustment of albuterol as needed. Lifestyle recommendations include a low-sodium diet, regular exercise, and avoidance of tobacco products. Warning signs such as fever, increased pain, or changes in urine color require immediate medical attention.
+
+Patient Education:
+	Cheryll Thompson and his family were educated about the ileal conduit, its function, and care instructions. They were also taught to recognize signs of complications such as abdominal distention, decreased urinary output, or changes in urine color. Common side effects of chemotherapy, including nausea, fatigue, and nephrotoxicity, were discussed, along with management strategies.
+
+Discharge Instructions:
+	Prior to discharge, Cheryll Thompson was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for support and follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Cheryll Thompson's long-term health. Lifelong surveillance, including cystoscopy and imaging studies, will be necessary.
+
+Final Remarks:
+	This report documents the successful treatment journey of Cheryll Thompson, who demonstrated resilience and cooperation throughout his care. We appreciate his trust in our team and wish him continued health and wellness.

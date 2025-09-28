@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Nancy Salinas
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1396
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 15-02-2022
+	•Attending Physician: Dr. Clara Burrough
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	The patient, Nancy Salinas, was admitted to the hospital due to complaints of hematuria, persistent lower abdominal pain, and a palpable mass in his lower abdomen. Upon initial assessment, the patient appeared uncomfortable, with a moderate degree of anemia and hydronephrosis noted on ultrasound examination. A CT scan was performed, which revealed a large, irregular lesion in the bladder. These findings were confirmed through cystoscopy, biopsy, and pathology reports, diagnosing Nancy Salinas with bladder cancer.
+
+Medical History:
+	Nancy Salinas's past medical history includes hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has undergone a cholecystectomy in the past. His family history is significant for colon cancer, which affected his father at an early age. Nancy Salinas is known to be allergic to penicillin. Before admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	During the hospital stay, extensive diagnostic tests were conducted on Nancy Salinas. The pathology report confirmed a high-grade transitional cell carcinoma (T3N0M0). Imaging scans showed the tumor to be 5 cm in diameter with no evidence of lymph node involvement. Blood tests revealed elevated creatinine and white blood cell count, indicating potential kidney dysfunction and infection.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Nancy Salinas. He underwent a radical cystectomy with ileal conduit formation. Post-operative care involved wound management, pain control, and nutritional support to aid recovery. Chemotherapy was initiated as part of adjuvant therapy with a regimen of MVAC (Methotrexate, Vinblastine, Adriamycin, Cisplatin). Radiation therapy was not deemed necessary due to the absence of lymph node involvement.
+
+Hospital Course:
+	Nancy Salinas's initial recovery from surgery was smooth, with gradual improvement in his symptoms. However, he experienced several challenges such as post-operative complications like urinary tract infection and delayed bowel function. These were promptly managed through appropriate antibiotic therapy and laxatives. The patient received regular physiotherapy sessions to maintain mobility and prevent the development of deep vein thrombosis.
+
+Follow-Up Plan:
+	Post-discharge, Nancy Salinas will be closely monitored for any signs of recurrence or complications. He is scheduled for follow-up appointments every three months for the first year, then six months thereafter. His medications will be adjusted based on blood tests and symptoms. A low-sodium, high-protein diet is recommended to maintain kidney health.
+
+Patient Education:
+	Nancy Salinas was educated about his condition, treatment options, and post-surgical care. He was instructed on the proper management of his ileal conduit, recognizing signs of complications such as foul-smelling urine or persistent abdominal pain. Common side effects like nausea, alopecia, and neuropathy were also discussed.
+
+Discharge Instructions:
+	Discharge instructions included adherence to medication schedule, proper wound care practices, maintaining adequate hydration, and gradually increasing physical activity levels as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Nancy Salinas is guarded due to the aggressive nature of his cancer. Regular monitoring for early detection of recurrence is crucial.
+
+Final Remarks:
+	Dr. Clara Burrough, M.D., commends Nancy Salinas's resilience and cooperation throughout the treatment journey. The report is signed by both the physician and patient, validated on 15-02-2022.

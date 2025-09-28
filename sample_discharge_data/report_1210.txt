@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Parks
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1210
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Shizue Jackson
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mr. Parks presented with complaints of abdominal pain, changes in bowel habits, and unexplained weight loss over the past few months. A physical examination revealed a palpable mass in the lower abdomen. Further diagnostic investigations including a computed tomography (CT) scan confirmed the presence of a large tumor in the sigmoid colon. The severity of his symptoms necessitated an urgent admission for further management.
+
+Medical History:
+	Mr. Parks has a history of hypertension and chronic obstructive pulmonary disease (COPD). He underwent a partial colectomy ten years ago due to diverticular disease. His family history is significant for colorectal cancer, with his father being diagnosed at the age of 60. Mr. Parks has known allergies to penicillin and sulfa drugs. Prior to admission, he was on a regimen of lisinopril, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Pathology results from the surgical excision confirmed Stage III Colorectal Cancer. The CT scan revealed a 10cm mass in the sigmoid colon with regional lymph node involvement. Blood tests indicated anemia (hemoglobin 9.5g/dL) and elevated carcinoembryonic antigen (CEA) levels of 12.3 ng/ml.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Parks, which included a sigmoid colectomy followed by an ileo-rectal anastomosis. Post-operative care involved management of pain, wound infection prevention, and nutritional support. He was also started on adjuvant chemotherapy (FOLFOX regimen) consisting of oxaliplatin, leucovorin, and fluorouracil, with a total of 12 cycles scheduled over six months. Radiation therapy was not deemed necessary based on the extent of disease.
+
+Hospital Course:
+	Mr. Parks's initial recovery from surgery was complicated by a post-operative infection, requiring intravenous antibiotics. However, with the support of the medical team and proper management, he eventually made a good recovery. His condition stabilized, and he began receiving chemotherapy on an outpatient basis.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Parks will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue his medications (lisinopril, albuterol, and ipratropium bromide), but his CEA levels will be closely monitored. A low-fiber diet is recommended, along with regular physical activity to maintain a healthy weight. Warning signs such as persistent abdominal pain, unexplained weight loss, or changes in bowel habits require immediate medical attention.
+
+Patient Education:
+	Mr. Parks and his family were educated about the importance of post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were also instructed on managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Parks was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about community resources for colorectal cancer patients.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Parks's long-term health. Lifestyle modifications, including a balanced diet and regular exercise, can help reduce the risk of recurrence and improve overall quality of life.
+
+Final Remarks:
+	This report concludes with Dr. Jackson's final remarks, commending Mr. Parks for his resilience and cooperation throughout the treatment journey. Both the physician and patient have signed and dated this report to validate its authenticity.

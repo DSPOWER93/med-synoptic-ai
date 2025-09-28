@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stephanie Reiff
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1075
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 07/01/2022
+	•Attending Physician: Dr. Catherine Steffee
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Stephanie Reiff was admitted to the hospital due to worsening abdominal pain and unintentional weight loss over a span of several weeks. The initial assessment revealed a distended abdomen, and laboratory tests showed an elevated CA19-9 level (over 300 U/ml), suggesting pancreatic cancer. A Stephanie Reiff (CT) scan confirmed the suspicion, revealing a large tumor in the pancreas with local invasion and metastases to the liver.
+
+Medical History:
+	Mr. Reiff has a history of hypertension, which is well-controlled with medication. He also has a family history of pancreatic cancer (his father passed away from the disease). In addition, he has been diagnosed with COPD and has undergone a right lower lobectomy for lung cancer five years ago. He has no known allergies and was taking atorvastatin, amlodipine, metoprolol, and salmeterol/fluticasone prior to admission.
+
+Diagnostic Findings:
+	Pathology examination of the resected pancreas confirmed a poorly differentiated adenocarcinoma (stage IV). The tumor was found to be invasive with lymph node involvement and multiple liver metastases. Liver function tests revealed elevated bilirubin, alkaline phosphatase, and aspartate aminotransferase levels.
+
+Treatment Plan:
+	Given the advanced stage of cancer, a multidisciplinary team developed a treatment plan consisting of surgical resection (Whipple procedure), followed by chemotherapy and radiation therapy. Post-operative care included nutritional support, pain management, and wound care. The chemotherapy regimen consisted of FOLFIRINOX (Folinic acid, 5-Fluorouracil, Irinotecan, Oxaliplatin) with planned cycles every two weeks for six months. The patient was also considered for radiation therapy to the liver metastases after recovery from surgery.
+
+Hospital Course:
+	Post-operatively, Mr. Reiff showed signs of early recovery but faced complications such as anastomotic leak and delayed gastric emptying. These issues were managed with close monitoring, supportive care, and antibiotics. The patient was also enrolled in physical therapy to facilitate mobilization and prevent deep vein thrombosis.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Reiff will be scheduled for regular follow-up appointments every three months, including CT scans and tumor markers evaluation. He will continue the FOLFIRINOX regimen until disease progression or intolerable side effects occur. Lifestyle recommendations include smoking cessation, maintaining a balanced diet, and engaging in regular physical activity.
+
+Patient Education:
+	The patient and his family were provided education on post-surgical care, managing the ileal conduit (if applicable), recognizing signs of complications such as fever, abdominal pain, or changes in stool, and managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Discharge instructions for Mr. Reiff include adhering to the medication regimen, performing wound care as instructed, maintaining adequate hydration, and gradually increasing physical activity under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer is generally poor due to its aggressive nature and late presentation. However, surgery combined with chemotherapy and radiation therapy can improve survival in selected patients. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial.
+
+Final Remarks:
+	Dr. Steffee congratulates Mr. Reiff on his successful surgery and resilience throughout the treatment journey. She emphasizes the importance of regular follow-up appointments, medication adherence, and lifestyle changes to improve quality of life and increase the chances of long-term survival. Both Dr. Steffee and Mr. Reiff sign the report on 07-01-2022 to validate its accuracy.

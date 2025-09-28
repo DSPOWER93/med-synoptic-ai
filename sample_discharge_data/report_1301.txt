@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gary Sortore
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1301
+	•Date of Admission: 02/04/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Glendora Rand
+	•Primary Diagnosis: Squamous Cell Carcinoma (SCC) of the Bladder
+
+Reason for Admission:
+	Gary Sortore was admitted to our facility due to persistent hematuria and lower abdominal pain over a period of six weeks. Initial assessment revealed that he was experiencing regular, painful urination with a high frequency, and a noticeable decrease in appetite and weight loss. Blood tests showed an elevated creatinine level indicative of possible kidney issues, while an ultrasound detected a mass in the bladder. Subsequent cystoscopy and biopsy confirmed the diagnosis of SCC.
+
+Medical History:
+	Mr. Sortore has a history of hypertension, which is well-controlled with medication. He also suffers from type 2 diabetes, and Chronic Obstructive Pulmonary Disease (COPD), for which he uses an inhaler regularly. He underwent appendectomy five years ago due to appendicitis. There is no significant family history of cancer. Prior to admission, he was taking metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of SCC in the bladder, while imaging scans (CT scan and MRI) showed a large, irregular mass encroaching upon the urinary tract. Blood tests revealed elevated levels of creatinine, suggesting possible kidney involvement, as well as anemia.
+
+Treatment Plan:
+	Given the advanced stage of the disease, Mr. Sortore underwent a radical cystectomy with ileal conduit diversion. Post-operative care involved management of pain and wound healing, along with chemotherapy to prevent recurrence. He received six cycles of gemcitabine and cisplatin chemotherapy, with side effects including nausea, fatigue, and nephrotoxicity. The multidisciplinary team also considered radiation therapy for adjuvant treatment; however, given the patient's kidney function issues, it was decided to postpone this until his renal status stabilizes.
+
+Hospital Course:
+	Mr. Sortore's initial recovery from surgery was challenging due to complications related to anemia and nephrotoxicity from chemotherapy. However, with close monitoring, timely transfusions, and supportive care, his condition gradually improved. He received occupational therapy for strength training and mobility exercises, and dietary counseling to ensure proper nutrition and hydration.
+
+Follow-Up Plan:
+	Mr. Sortore will have regular follow-up appointments with the oncology team every three months for the first year, then six-monthly thereafter. He will continue taking his blood pressure and diabetes medications, while adjusting his COPD medication as necessary. Lifestyle changes include quitting smoking (if applicable) and maintaining a balanced diet rich in fruits, vegetables, lean proteins, and whole grains.
+
+Patient Education:
+	Mr. Sortore and his family were educated about the importance of post-surgical care, including ileal conduirct management, signs of complications (such as fever, chills, persistent pain, or abnormal urine color), and managing common side effects like nausea, fatigue, and nephrotoxicity.
+
+Discharge Instructions:
+	Upon discharge, Mr. Sortore was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also educated about the importance of follow-up appointments and early detection for potential recurrence.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of any signs of recurrence or progression of the disease. Mr. Sortore's prognosis depends on factors such as the success of the initial treatment, overall health status, and adherence to follow-up care instructions.
+
+Final Remarks:
+	Congratulations, John, on your successful discharge! Your resilience and cooperation throughout this challenging journey have been truly inspiring. We hope for a swift recovery and continued good health. Sincerely, Dr. Glendora Rand.

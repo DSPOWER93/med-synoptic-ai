@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dylan Wilson
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1295
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15-01-2022
+	•Attending Physician: Dr. Susan Wilder
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Dylan Wilson was admitted to the hospital due to a worsening abdominal pain and unintentional weight loss of approximately 20 pounds over a three-month period. The initial assessment revealed a distended abdomen, a palpable mass in the upper quadrant, and tenderness upon examination. A series of diagnostic investigations were conducted, including a CT scan, MRI, and laboratory tests which confirmed the presence of a large, locally advanced pancreatic tumor.
+
+Medical History:
+	Dylan Wilson has a significant medical history marked by hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone laparoscopic cholecystectomy in 2015 for gallstone disease. John's family history is notable for colon cancer in his father at the age of 60 and breast cancer in his mother at the age of 55. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, losartan, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during John's hospital stay revealed a large, locally advanced pancreatic tumor measuring 6 cm in greatest diameter. Pathology reports confirmed the diagnosis of adenocarcinoma of the pancreas. Blood tests showed elevated levels of CA19-9 (250 U/mL) and CEA (7 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Dylan Wilson. This included a Whipple procedure, post-operative care, chemotherapy, and radiation therapy. The surgery was successfully performed on 05-01-2022. Post-operative care involved managing pain, preventing infections, and ensuring proper wound healing. The chemotherapy regimen consisted of FOLFIRINOX (oxaliplatin, irinotecan, fluorouracil, and leucovorin) given every two weeks for six cycles, with a planned follow-up of another six cycles if well-tolerated. Radiation therapy was not indicated due to the extent of the tumor.
+
+Hospital Course:
+	Dylan Wilson's hospital course was marked by an initial recovery from surgery, followed by challenges related to pain management and nutritional support. He required intensive physical therapy to help regain his strength and mobility. The role of occupational therapy was crucial in helping him adapt to life with an ileal conduit.
+
+Follow-Up Plan:
+	Dylan Wilson's follow-up plan includes scheduled outpatient appointments every three months for the first year, then every six months thereafter. He is to continue taking metformin, losartan, and albuterol, with adjustments to be made based on his response to treatment. Dietary recommendations include a low-fat, high-protein diet, with a focus on maintaining proper hydration and managing weight. Warning signs that require immediate medical attention include fever, persistent abdominal pain, jaundice, or sudden changes in bowel habits.
+
+Patient Education:
+	Dylan Wilson and his family were provided extensive education about the treatment options, post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Dylan Wilson was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to avoid heavy lifting or strenuous activities for at least six weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Dylan Wilson will need to manage ongoing health issues such as hypertension, diabetes mellitus type II, and COPD, while also undergoing regular screening tests for pancreatic cancer.
+
+Final Remarks:
+	Dr. Susan Wilder, M.D., FACS concludes the report by expressing her appreciation for Dylan Wilson's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued follow-up and adherence to the recommended care plan for a favorable prognosis. Both the physician and patient sign the report on 15-01-2022, validating this comprehensive documentation of John's medical history and treatment course.

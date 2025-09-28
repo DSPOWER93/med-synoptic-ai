@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Tara Cooper
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1073
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 01/20/2023
+	•Attending Physician: Dr. Randy Sallee
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Tara Cooper, a 58-year-old male, presented to the emergency department with persistent abdominal pain, jaundice, and weight loss over the past two months. On admission, his vital signs were stable but laboratory tests revealed elevated levels of bilirubin, amylase, and lipase, suggesting an obstruction in the pancreatic duct. Tara Cooper scan confirmed a mass in the head of the pancreas with evidence of distant metastasis.
+
+Medical History:
+	Mr. Cooper has a history of hypertension, controlled with medication, and chronic obstructive pulmonary disease (COPD), managed with bronchodilators. He underwent a total knee replacement five years ago. His father passed away from colon cancer at the age of 65, and his mother had diabetes mellitus type II. Mr. Cooper is allergic to penicillin and sulfa drugs. Prior to admission, he was taking amlodipine, salmeterol/fluticasone, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology report from the pancreatic biopsy revealed a moderately differentiated adenocarcinoma. The Cooper scan also indicated liver metastasis, but no evidence of lymph node involvement. Blood tests showed anemia with a hemoglobin level of 9.5 g/dL.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cooper, which included a Whipple procedure followed by FOLFIRINOX chemotherapy and concurrent radiation therapy to the liver metastasis. The post-operative care involved pain management, nutritional support, and close monitoring of blood glucose levels due to his history of hypertension and diabetes.
+
+Hospital Course:
+	Following the Whipple procedure, Mr. Cooper experienced complications such as anastomotic leak and delayed gastric emptying. However, he responded well to conservative management with antibiotics and nasogastric suction. Throughout his hospital stay, he was closely monitored for signs of recurrence and supported by physical therapy, occupational therapy, and speech therapy.
+
+Follow-Up Plan:
+	After discharge, Mr. Cooper will be scheduled for regular follow-up appointments with the oncology team every three months for the first year, then every six months thereafter. He will continue FOLFIRINOX chemotherapy and concurrent radiation therapy to the liver metastasis. He is advised to maintain a healthy diet low in fat and rich in fiber, avoid alcohol, and quit smoking if he has resumed smoking during his hospital stay.
+
+Patient Education:
+	Mr. Cooper was educated about the importance of adhering to his post-surgical care plan, including managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like nausea, fatigue, and mouth sores.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cooper was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to follow up with his primary care physician for routine check-ups and management of concurrent conditions like hypertension and COPD.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Cooper's ongoing health issues. His cooperation throughout the treatment journey has been commendable, and we hope for a favorable outcome.
+
+Final Remarks:
+	Dr. Randy Sallee, MD, concludes this report, emphasizing Mr. Cooper's resilience and cooperation throughout the treatment journey. The attending physician and patient have both signed this report on 01/20/2023.

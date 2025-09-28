@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Pearl Parra
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1025
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Randall Edward
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Pearl Parra, presented to the emergency department with a one-month history of abdominal pain, weight loss, and changes in bowel habits. Upon initial assessment, he exhibited signs of anemia and abnormalities in laboratory tests, prompting further diagnostic investigations. Subsequent colonoscopy and CT scan confirmed the presence of a large tumor in his colon, suggesting colorectal cancer.
+
+Medical History:
+	Mr. Parra has a history of hypertension, diabetes mellitus type 2, and COPD (Chronic Obstructive Pulmonary Disease). He underwent a partial left nephrectomy in 2017 for renal cell carcinoma. His father died at the age of 65 from pancreatic cancer, and his mother suffered from Alzheimer's disease. Prior to admission, he was taking metformin, lisinopril, salmeterol, and fluticasone.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of moderately differentiated adenocarcinoma in the colon. Imaging scans revealed a large tumor in the transverse colon with lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Parra. He underwent a right colectomy, anastomosis, and lymph node dissection followed by six cycles of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) chemotherapy. Due to his COPD, he required careful monitoring during the treatment period and was referred to a pulmonologist for optimizing his lung function.
+
+Hospital Course:
+	Mr. Parra's initial recovery from surgery was smooth, but he faced challenges due to chemotherapy-related side effects, including neutropenia and neuropathy. He required frequent blood transfusions and pain management during this period. Therapy and nutritional support were crucial in helping him regain his strength. His condition stabilized over time, and he was able to resume a semi-normal diet towards the end of his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Parra is scheduled for regular outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue taking metformin and lisinopril, while the dose of salmeterol and fluticasone may be adjusted based on his lung function. A low-fat, high-fiber diet is recommended to help prevent recurrence. Any changes in bowel habits or persistent abdominal pain should prompt an immediate medical consultation.
+
+Patient Education:
+	The patient and his family were educated about the ileal conduit, its functioning, and potential complications. Instructions on recognizing signs of obstruction, leakage, or infection were provided. They were also advised on managing common side effects like fatigue, nausea, and diarrhea during chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Parra was given instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, maintain a clean and dry wound, drink plenty of fluids, and gradually increase his physical activity after recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for Mr. Parra's long-term health. He is advised to maintain a healthy lifestyle, including regular exercise, balanced diet, and stress management techniques.
+
+Final Remarks:
+	The attending physician, Dr. Randall Edward, commends Mr. Parra's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for optimal outcomes. This report is signed by both Dr. Edward and Mr. Parra on April 20, 2022.

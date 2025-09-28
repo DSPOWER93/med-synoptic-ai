@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph March
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1243
+	•Date of Admission: 04/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Jason Bonnette
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Joseph March was admitted to the hospital due to increasing abdominal pain, changes in bowel habits, and unintended weight loss over several months. Upon initial assessment, the abdomen was distended, tender, and guarding was noted. Laboratory investigations revealed anemia, elevated levels of carcinoembryonic antigen (CEA), and a positive fecal occult blood test. A computed tomography (CT) scan confirmed the presence of a large mass in the sigmoid colon with lymph node involvement, leading to the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. March has a history of hypertension, which is well-controlled with medication. He also has a family history of colorectal cancer, with his father being diagnosed at 60 years old. Previously, he underwent a cholecystectomy for gallbladder stones. Mr. March is allergic to penicillin and iodine-based contrast agents. He was taking aspirin daily for his hypertension prior to admission.
+
+Diagnostic Findings:
+	A biopsy of the sigmoid colon confirmed adenocarcinoma. The pathology report showed moderately differentiated cancer cells with lymphatic and venous invasion. Staging was determined as T4aN1M0 (Stage III) based on the CT scan findings.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. March. He underwent an elective sigmoid colon resection followed by an ileal conduit formation, with a temporary loop ileostomy. Postoperative care included pain management, antibiotics to prevent infection, and nutritional support via total parenteral nutrition (TPN). He also received adjuvant chemotherapy consisting of oxaliplatin, leucovorin, fluorouracil (FOLFOX), and bevacizumab. Radiation therapy was deferred due to the extent of surgery.
+
+Hospital Course:
+	Mr. March's postoperative recovery was complicated by an anastomotic leak that required a return to the operating room for repair. He responded well to treatment and was eventually able to tolerate oral intake without complications. Therapy, nutritional support, and pain management played significant roles in his recovery.
+
+Follow-Up Plan:
+	Mr. March will have regular follow-up appointments every 3 months for the first year post-discharge, then every 6 months thereafter. He will continue taking aspirin for hypertension and will be monitored closely for potential side effects of chemotherapy. Lifestyle modifications such as a low-fiber diet and maintaining a healthy weight are recommended.
+
+Patient Education:
+	Mr. March and his family were educated about the importance of post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Mr. March was provided with detailed discharge instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to monitor for signs of complications such as fever, abdominal pain, or changes in the ileostomy output.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. March will require long-term management for ongoing health issues related to his cancer treatment.
+
+Final Remarks:
+	I commend Mr. March on his resilience and cooperation throughout the treatment journey. His family has also been instrumental in supporting him during this challenging time. I wish him a successful recovery and a healthy future.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Melissa Fairbank
+	•Date of Birth: 12/05/1978
+	•Medical Record Number: M1385
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 08/02/2023
+	•Attending Physician: Dr. Leroy Mccormick
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer) with surgical resection and adjuvant chemotherapy
+
+Reason for Admission:
+	The patient, Mr. Melissa Fairbank, presented to the Melissa Fairbank on 01/02/2023 with a complaint of frequent urination, blood in the urine, and lower back pain that had been progressing over the past two weeks. Initial assessment revealed a distended abdomen, palpable mass in the lower abdomen, and hematuria on dipstick testing. Diagnostic investigations included ultrasound, CT scan, and cystoscopy which confirmed the presence of a large bladder tumor.
+
+Medical History:
+	Mr. Fairbank has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a right total knee replacement surgery in 2019 due to osteoarthritis. His family history is notable for breast cancer in his mother and colon cancer in his paternal grandfather. He is allergic to penicillin. Prior to admission, he was taking metformin, lisinopril, furosemide, albuterol, and tiotropium.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) revealed a high-grade urothelial carcinoma invading the muscle layer of the bladder wall. Imaging studies showed a large, irregular mass in the bladder with evidence of extravesical extension. Blood tests revealed anemia and elevated creatinine levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Fairbank which included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy. Post-operative care involved managing pain, preventing infection, and promoting wound healing. The chemotherapy regimen consisted of gemcitabine and cisplatin administered every three weeks for six cycles. Radiation therapy was not deemed necessary based on the staging of the tumor.
+
+Hospital Course:
+	Mr. Fairbank underwent a successful radical cystectomy with ileal conduit formation on 02/03/2023. Post-operative recovery was complicated by anastomotic leak, which was managed conservatively with antibiotics and fluid resuscitation. The patient also required frequent dialysis due to his preexisting renal insufficiency. Dietary support was provided to maintain adequate nutritional status.
+
+Follow-Up Plan:
+	Mr. Fairbank will return for regular follow-ups every three months for the first year, then every six months thereafter. He will continue with his current medications and will be monitored closely for any signs of recurrence or complications related to his ileal conduit. Dietary recommendations include a low-salt diet to manage hypertension and diabetes.
+
+Patient Education:
+	Mr. Fairbank and his family were educated about the importance of regular follow-ups, recognizing signs of recurrence, managing complications related to the ileal conduit such as urinary tract infections and blockages, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Fairbank was provided with instructions on medication adherence, wound care practices, importance of hydration, and guidelines for physical activity. He was also advised to monitor his urine output, color, and consistency.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Fairbank's long-term health. Given the high grade of his tumor, close surveillance is needed to ensure timely intervention if necessary.
+
+Final Remarks:
+	This report concludes the treatment journey of Mr. Melissa Fairbank for his urothelial carcinoma. His resilience and cooperation throughout the process were commendable. We wish him a speedy recovery and hope for the best in his future health.

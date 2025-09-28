@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Charles Yount
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M1148
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Juanita Sullivan
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient was admitted to our facility on [Date of Admission] due to complaints of hematuria, dysuria, and frequent urinary tract infections over the past three months. Upon initial assessment, the patient exhibited signs of anemia, fatigue, and weight loss. Subsequent investigations including urine analysis, cystoscopy, and a computed tomography (CT) scan confirmed the diagnosis of TCC of the bladder with localized invasive growth.
+
+Medical History:
+	The patient has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), which were all well-controlled prior to admission. The patient underwent a left total hip replacement surgery in 2015. The patient's family has a significant history of bladder cancer. The patient was not known to have any allergies and was on regular medications for the management of hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of the bladder tumor (TURBT) revealed a moderately differentiated TCC with invasive growth up to the muscularis propria layer. CT scan revealed no evidence of metastasis. The patient's complete blood count showed anemia (Hb 8 g/dL), while other biochemistry and renal function tests were within normal limits.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. The primary intervention was radical cystectomy with ileal conduit construction, followed by adjuvant chemotherapy. Post-operative care included management of pain, prevention and treatment of complications such as urinary tract infections, and rehabilitation. The chosen chemotherapy regimen consisted of four cycles of MVAC (Methotrexate, Vinblastine, Adriamycin, Cisplatin).
+
+Hospital Course:
+	The patient underwent radical cystectomy and ileal conduit construction on [Date of Surgery]. Post-operative recovery was uneventful, with the patient managing to walk without assistance within a week. However, the patient experienced complications such as urinary tract infections and delayed wound healing, which were managed effectively through antibiotics and wound care. The patient's condition improved steadily, and by the time of discharge, they were able to maintain an adequate diet and engage in physical activities as recommended by the rehabilitation team.
+
+Follow-Up Plan:
+	The patient will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. The patient will continue on oral chemotherapy for a total of six cycles, after which regular checkups and imaging studies will be conducted to monitor for recurrence. Lifestyle modifications include smoking cessation, a balanced diet, and maintaining adequate hydration.
+
+Patient Education:
+	Extensive education was provided to the patient and their family regarding post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	The patient was discharged with a comprehensive list of medications to be continued, including analgesics, antibiotics, and antacids. Wound care instructions included keeping the area clean and dry, and monitoring for signs of infection. Hydration guidelines were emphasized, and physical activity recommendations were provided based on the patient's condition.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing this condition. The patient was informed about the importance of maintaining a healthy lifestyle and attending follow-up appointments as scheduled.
+
+Final Remarks:
+	We commend [Patient's Name] for their resilience and cooperation throughout the treatment journey. We are confident that with continued adherence to the post-discharge plan, the patient will experience a good quality of life. This report is signed by [Physician's Name] on [Date].

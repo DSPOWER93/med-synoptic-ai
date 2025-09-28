@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michelle Hulsey
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1230
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 05/15/2022
+	•Attending Physician: Dr. Henrietta Aviles
+	•Primary Diagnosis: Colorectal Cancer
+
+Reason for Admission:
+	Michelle Hulsey was admitted to the hospital due to persistent abdominal pain, rectal bleeding, and unexplained weight loss over several months. An initial physical examination revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA). Further investigations included a CT scan, which confirmed the presence of a large tumor in the colon, as well as metastases to several lymph nodes.
+
+Medical History:
+	Michelle Hulsey has a history of hypertension and type 2 diabetes, both of which have been under control with medications. He was diagnosed with chronic obstructive pulmonary disease (COPD) five years ago and has been on inhalers and oxygen therapy since then. His family history is significant for colorectal cancer, as his father passed away from the disease at the age of 65. Michelle Hulsey had no known allergies and was not taking any medications before admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed that the tumor was adenocarcinoma of the colon, and imaging scans showed metastases in the liver and lungs. Blood tests revealed anemia, elevated white blood cell count, and a high CEA level.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Michelle Hulsey. This included a partial colectomy with lymph node dissection followed by chemotherapy and radiation therapy. Post-operative care involved monitoring for complications such as anastomotic leaks, wound infections, and ileus. The chemotherapy regimen consisted of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) every two weeks for six cycles. Radiation therapy was recommended to the liver metastasis.
+
+Hospital Course:
+	Michelle Hulsey underwent a successful partial colectomy on 04/15/2022. The post-operative period was challenging due to complications such as anastomotic leaks and ileus, which required additional surgeries and extended hospital stay. During his stay, Michelle Hulsey received supportive care including intravenous fluids, pain management, and nutritional support via a nasogastric tube. He also started chemotherapy on 04/29/2022.
+
+Follow-Up Plan:
+	Upon discharge, Michelle Hulsey will have regular outpatient appointments every three months for the first year, then every six months thereafter. His medication regimen includes oral iron supplements to manage anemia and continue taking medications for hypertension, diabetes, and COPD. He has been instructed on proper wound care practices, maintaining a balanced diet, and staying hydrated.
+
+Patient Education:
+	Michelle Hulsey and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea, neuropathy, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Michelle Hulsey was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also instructed to avoid heavy lifting or strenuous activities for several weeks after discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Michelle Hulsey's long-term health. Lifelong follow-up, including annual colonoscopies, will be recommended to detect any potential recurrence or new primary tumors.
+
+Final Remarks:
+	Dr. Henrietta Aviles would like to express her appreciation for Michelle Hulsey's resilience and cooperation throughout this treatment journey. She encourages him to continue taking care of himself, both physically and emotionally, and looks forward to monitoring his progress during follow-up appointments.

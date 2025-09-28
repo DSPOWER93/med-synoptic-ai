@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ronald Squires
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M168
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 10/01/2023
+	•Attending Physician: Dr. Liberty Heisserer
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the liver and lungs
+
+Reason for Admission:
+	Ronald Squires, a 38-year-old male, presented to the emergency department complaining of severe abdominal pain, nausea, and unexplained weight loss over the past two months. Upon initial assessment, a palpable mass was detected in the lower abdomen. Laboratory tests revealed anemia, increased creatinine level, and elevated levels of alpha-fetoprotein (AFP), leading to further investigations through imaging scans. The results confirmed RCC with metastasis to the liver and lungs.
+
+Medical History:
+	Ronald Squires has a history of hypertension, which he has been managing with medication. He also has a family history of colon cancer. Prior surgeries include an appendectomy in 2008 and a hernia repair in 2015. John is allergic to penicillin. Before admission, he was taking medications for hypertension (Lisinopril) and iron supplements due to anemia.
+
+Diagnostic Findings:
+	The diagnostic tests performed during the hospital stay included computed tomography (CT) scans of the abdomen and pelvis, magnetic resonance imaging (MRI) of the brain, positron emission tomography (PET) scan, and a biopsy of the kidney mass. The results showed a large mass in the right kidney with metastases to the liver and lungs.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Ronald Squires. He underwent a radical nephrectomy, followed by adjuvant immunotherapy (Nivolumab) every two weeks for four cycles. Simultaneously, palliative radiation therapy was administered to the liver and lung metastases. The patient experienced typical side effects such as fatigue, nausea, and loss of appetite, which were managed with medications.
+
+Hospital Course:
+	Ronald Squires's initial recovery from surgery was smooth, with no major complications. However, he faced challenges related to his diet due to loss of appetite and nausea. He received nutritional support through total parenteral nutrition (TPN) for a week. His condition stabilized during the hospital stay, with regular monitoring of kidney function, liver enzymes, and hemoglobin levels.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments with the oncologist every three months for the first year, then six monthly thereafter. John will continue Nivolumab therapy, and his hypertension medication (Lisinopril) will be adjusted as necessary. He is advised to maintain a healthy diet, avoid heavy lifting, and engage in light physical activity. Any signs of increased abdominal pain, fever, or worsening fatigue require immediate medical attention.
+
+Patient Education:
+	Ronald Squires and his family were educated about the disease, its treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Ronald Squires was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take Nivolumab as prescribed, maintain a healthy diet, and monitor his weight regularly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Ronald Squires's ongoing health issues.
+
+Final Remarks:
+	We commend Ronald Squires for his resilience and cooperation throughout the treatment journey. We believe that with continued care and regular follow-ups, we can help him manage this challenging condition effectively.

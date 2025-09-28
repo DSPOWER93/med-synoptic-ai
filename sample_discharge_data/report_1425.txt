@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Scott
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1425
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/22/2022
+	•Attending Physician: Dr. Jason Falcone
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	James Scott was admitted to the hospital after experiencing hematuria (blood in urine), frequency of urination, and lower abdominal pain. The initial assessment revealed a distended bladder upon physical examination and abnormalities in routine laboratory tests. Further investigations including CT scan, cystoscopy, and biopsy confirmed the diagnosis of James Scott (bladder cancer).
+
+Medical History:
+	James Scott has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), for which he was regularly taking medications. He also had a surgical history of appendectomy in 1998 and cholecystectomy in 2015. John has a family history of colon cancer, with his father being diagnosed at the age of 65.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay included CT scans, cystoscopy, and biopsy. The CT scan revealed a mass in the bladder, while the cystoscopic examination confirmed the presence of a tumor. Biopsy results were positive for urothelial carcinoma. Blood tests showed elevated creatinine levels, suggesting potential kidney dysfunction due to the tumor's size and location.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for James Scott. This included radical cystectomy followed by an ileal conduit formation, six cycles of chemotherapy (Gemcitabine and Cisplatin), and radiation therapy to the pelvic region. During his hospital stay, James Scott underwent surgery successfully, and post-operative care was managed effectively.
+
+Hospital Course:
+	In the immediate post-surgery recovery period, James Scott experienced some complications due to his pre-existing conditions. However, these were managed effectively through close monitoring by the medical team and appropriate adjustments in medications. Nutritional support was also provided to aid in the healing process. Throughout his hospital stay, James Scott showed remarkable resilience and cooperation.
+
+Follow-Up Plan:
+	After discharge, James Scott will be scheduled for regular outpatient appointments for follow-ups, including CT scans every six months for the first three years and annually thereafter. His medications, particularly those for diabetes and hypertension, will need to be adjusted as his condition improves post-surgery. A low-fat, high-fiber diet is recommended to aid in overall health maintenance.
+
+Patient Education:
+	James Scott and his family were educated on the importance of post-surgical care, including ileal conduit management, recognizing signs of complications such as fever or persistent pain, and managing common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	Upon discharge, James Scott was provided with detailed instructions regarding medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing James Scott's ongoing health issues.
+
+Final Remarks:
+	Dr. Jason Falcone concludes the report, emphasizing James Scott's resilience and cooperation throughout his treatment journey. The report is signed by both Dr. Jason Falcone and James Scott, dated April 22, 2022.

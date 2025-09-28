@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ruth Strickland
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M150
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Elisabeth Medellin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Ruth Strickland Strickland presented to the emergency department with a complaint of lower abdominal pain, persistent blood in stools, and unintended weight loss over the past two months. The initial assessment revealed that Mr. Strickland was experiencing mild dehydration due to diarrhea and had signs of abdominal tenderness. Blood tests indicated anemia and elevated levels of carcinoembryonic antigen (CEA). Subsequent imaging studies, including a colonoscopy and computed tomography (CT) scan, confirmed the presence of a tumor in the lower portion of his colon.
+
+Medical History:
+	Mr. Strickland has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 due to gallstones. His father died from colon cancer at the age of 65. Mr. Strickland is allergic to penicillin and has been taking metformin, lisinopril, atorvastatin, and albuterol for his pre-existing conditions.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy and subsequent resection of the tumor confirmed a moderately differentiated adenocarcinoma of the rectum. Imaging studies showed lymph node involvement, suggesting Stage III colorectal cancer. Blood tests also revealed an elevated CEA level of 12.5 ng/mL (normal range <3 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Strickland, which included a low anterior resection surgery to remove the tumor and surrounding lymph nodes followed by adjuvant chemotherapy. The surgical procedure was successfully performed on 03/01/2022. Post-operative care involved pain management, wound care, and nutritional support. Mr. Strickland was administered a FOLFOX regimen of oxaliplatin, leucovorin, fluorouracil, and irinotecan for six cycles of chemotherapy. Radiation therapy was not deemed necessary due to the absence of lymph node involvement in the pelvic area.
+
+Hospital Course:
+	Mr. Strickland's initial recovery from surgery was uneventful, and he tolerated the first cycle of chemotherapy well. However, he experienced nausea and fatigue following the second cycle, which were managed with antiemetics and additional supportive care. Mr. Strickland remained in the hospital for 10 days post-surgery for close monitoring, rehabilitation, and therapy sessions.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Strickland was scheduled for regular follow-up appointments every three months during the first two years after treatment, then every six months thereafter. He will continue taking metformin, lisinopril, and atorvastatin, but the dosage of albuterol will be adjusted based on his COPD symptoms. A low-fiber, high-protein diet is recommended to minimize digestive discomfort. Mr. Strickland was instructed to monitor for signs of recurrence such as abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Strickland and his family were provided extensive education on the importance of adhering to the treatment plan, maintaining a healthy lifestyle, and recognizing signs of complications related to the ileal conduit and chemotherapy side effects. Instructions included managing common side effects such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Strickland was provided with comprehensive instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines to ensure his continued recovery and health maintenance. He was advised to follow up with his primary care physician for regular monitoring of his pre-existing conditions.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Stage III colorectal cancer is good when treated with surgery and adjuvant chemotherapy, provided that the disease does not recur. Regular monitoring for early detection of recurrence is essential to achieve the best possible outcomes. Mr. Strickland was encouraged to maintain a positive attitude and follow the recommended treatment plan closely.
+
+Final Remarks:
+	The attending physician expressed appreciation for Mr. Strickland's resilience, cooperation, and determination throughout his treatment journey. The report is signed by Dr. Elisabeth Medellin on 05/01/2022, and Mr. Ruth Strickland Strickland has signed as well, confirming the accuracy of the documentation.

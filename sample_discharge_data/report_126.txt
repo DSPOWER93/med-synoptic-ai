@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michelle Morris
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M126
+	•Date of Admission: 06/04/2023
+	•Date of Discharge: 10/05/2023
+	•Attending Physician: Dr. Audrey Myers
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Michelle Morris presented to the emergency department with a one-month history of abdominal pain, weight loss, and changes in bowel habits. The initial assessment revealed anemia, abdominal tenderness, and a palpable mass. Further diagnostic investigations, including a colonoscopy and computed tomography scan, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Morris has a past medical history significant for hypertension, diabetes mellitus type II, chronic obstructive pulmonary disease (COPD), and hypothyroidism. He underwent a cholecystectomy in 2017. His father died of colon cancer at the age of 65, and his mother has been diagnosed with breast cancer. He is allergic to penicillin. Prior to admission, he was taking metformin, lisinopril, albuterol, levothyroxine, and insulin.
+
+Diagnostic Findings:
+	Pathology of the resected specimen confirmed adenocarcinoma of the colon. The tumor was invading into the submucosa but not through the muscularis propria, with 12 positive lymph nodes out of 15. The carcinoembryonic antigen (CEA) level was elevated at 6.5 ng/mL.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Morris, which included a right hemicolectomy with primary anastomosis and regional lymph node dissection. Post-operative care involved close monitoring for complications such as anastomotic leak and wound infection. He received adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, leucovorin, and fluorouracil) consisting of 12 cycles. Radiation therapy was not indicated in this case due to the absence of positive surgical margins.
+
+Hospital Course:
+	Mr. Morris's initial recovery from surgery was uneventful. However, he developed diarrhea and fatigue during chemotherapy treatment, which were managed with loperamide and growth factor support. He required nutritional support through a nasogastric tube for a week due to poor oral intake. His glucose and blood pressure were well-controlled throughout the hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Morris will be scheduled for outpatient follow-up appointments every three months for the first two years, then every six months thereafter. He will continue taking metformin, lisinopril, albuterol, and levothyroxine, with insulin doses adjusted as needed. A low-fiber diet is recommended initially, followed by gradual reintroduction of fiber once tolerated. Any significant changes in bowel habits or unexplained weight loss should prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Morris and his family were educated about the importance of adhering to the treatment plan, including chemotherapy and follow-up appointments. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and fatigue were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Morris was given instructions on wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, monitor his bowel movements, and report any signs of complications promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Morris will need to manage ongoing health issues such as hypertension, diabetes, and COPD while undergoing surveillance and treatment if necessary.
+
+Final Remarks:
+	Dr. Audrey Myers concludes this report, expressing her appreciation for Mr. Morris's resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the treatment plan for optimal outcomes. The date of this report is 10-05-2023.

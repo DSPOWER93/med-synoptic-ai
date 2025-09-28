@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rita Vincent
+	•Date of Birth: 03/02/1985
+	•Medical Record Number: M1123
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 10/01/2022
+	•Attending Physician: Dr. Edwin Boggioni
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Rita Vincent, a 36-year-old male, presented to the emergency department complaining of hematuria and persistent lower abdominal pain for the past three weeks. Initial assessments revealed a palpable abdominal mass. Further investigations, including computed tomography (CT) scans, confirmed the presence of a large bladder tumor.
+
+Medical History:
+	Mr. Vincent has a medical history significant for hypertension and chronic obstructive pulmonary disease (COPD). He underwent a left nephrectomy in 2015 due to renal cell carcinoma. He is allergic to penicillin and has a family history of colon cancer. Before admission, he was taking lisinopril, amlodipine, and albuterol.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of bladder transitional cell carcinoma (T3N0M0). CT scans revealed a large heterogeneously enhancing mass in the bladder, with involvement of the muscularis propria but no evidence of lymph node or distant metastasis. Blood tests showed elevated creatinine and a slightly elevated white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Vincent. The primary intervention was a radical cystectomy followed by an ileal conduit formation, which was successfully performed on 03/01/2022. Post-operative care included wound management, pain control, and nutritional support. He also received adjuvant chemotherapy (MVAC regimen), with the first cycle administered on 02/02/2022. The decision to include radiation therapy was deferred due to his post-surgical recovery status.
+
+Hospital Course:
+	During his hospital stay, Mr. Vincent made a good initial recovery from surgery but experienced several complications, including wound infection and delayed gut function. These were managed through intravenous antibiotics, local wound care, and stool softeners. He also received physical therapy to aid in mobilization and prevent deep vein thrombosis.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Vincent will undergo regular outpatient follow-ups with his oncologist and urologist. He will continue taking lisinopril and amlodipine, but the dose of albuterol may be reduced based on pulmonary function tests. He is advised to maintain a high-protein diet and avoid heavy lifting for six weeks. Any signs of fever, increased pain, or changes in urinary output require immediate medical attention.
+
+Patient Education:
+	Mr. Vincent was educated about his diagnosis, treatment options, and the importance of post-surgical care. He was instructed on managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in urinary output, and managing common side effects of chemotherapy like nausea, fatigue, and hair loss.
+
+Discharge Instructions:
+	Upon discharge, Mr. Vincent was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, perform daily wound care, maintain adequate hydration, and gradually increase physical activity based on tolerance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential. Mr. Vincent will need regular follow-ups with his healthcare team to manage ongoing health issues such as hypertension and COPD, as well as potential late effects of chemotherapy and radiation therapy.
+
+Final Remarks:
+	Dr. Boggioni concludes this report, expressing admiration for Mr. Vincent's resilience and cooperation throughout his treatment journey. Both the physician and patient have signed this document, validating the information provided on 10/01/2022.

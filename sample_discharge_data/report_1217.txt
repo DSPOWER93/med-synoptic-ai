@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Matthew Kepler
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1217
+	•Date of Admission: 05/01/2022
+	•Date of Discharge: 20/01/2022
+	•Attending Physician: Dr. Beverly Clark
+	•Primary Diagnosis: Colorectal Cancer, Stage III (T4N1M0)
+
+Reason for Admission:
+	Mr. Kepler presented to the emergency department with a three-month history of intermittent abdominal pain, weight loss, and changes in bowel habits. The initial assessment revealed a palpable mass in the lower abdomen, anemia, and a positive fecal occult blood test. Subsequent investigations, including computed tomography (CT) scan and colonoscopy, confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Kepler has a significant medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2017 for gallbladder stones. His father died of colon cancer at the age of 65. Mr. Kepler is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, losartan, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection specimen confirmed moderately differentiated adenocarcinoma of the sigmoid colon with involved mesocolon and multiple lymph nodes. Imaging studies showed no evidence of distant metastasis. Blood tests revealed anemia (hemoglobin 8.2 g/dL), elevated carcinoembryonic antigen (CEA) level (10.5 ng/mL), and normal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Kepler. He underwent a sigmoid colon resection with end ileostomy, followed by adjuvant chemotherapy (FOLFOX). Post-operative care included management of pain, nutritional support, and prevention of complications such as wound infection and deep vein thrombosis.
+
+Hospital Course:
+	Mr. Kepler's initial recovery from surgery was uneventful. He was managed aggressively for his diabetes and hypertension throughout the hospital stay. He tolerated the chemotherapy well, with only mild nausea and fatigue. The role of therapy, nutrition support, and symptom management helped him regain strength and improve his overall condition.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Kepler will follow up with an oncologist every three months for the first two years, then every six months thereafter. He will continue oral chemotherapy (Capecitabine) and adjustments to his diabetic and hypertensive medications as needed. Lifestyle modifications including a healthy diet, regular exercise, and avoidance of tobacco products are recommended.
+
+Patient Education:
+	Mr. Kepler and his family were educated on post-surgical care, management of the ileal conduit, recognition of signs of complications such as obstruction or leakage, and management of common side effects like diarrhea, dehydration, and skin irritation around the stoma.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Kepler was provided with detailed written instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated on signs of infection or complications that require immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Kepler's long-term survival. It is essential that he maintains a healthy lifestyle, adheres to his treatment regimen, and attends all follow-up appointments.
+
+Final Remarks:
+	Dr. Clark commended Mr. Kepler for his resilience and cooperation throughout the treatment journey, emphasizing the importance of continued vigilance in managing his health. The report is signed by both Dr. Clark and Mr. Kepler on 20/01/2022.

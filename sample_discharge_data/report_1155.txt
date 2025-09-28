@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Olive Marchitto
+	•Date of Birth: 02/25/1970
+	•Medical Record Number: M1155
+	•Date of Admission: 06/10/2023
+	•Date of Discharge: 08/15/2023
+	•Attending Physician: Dr. Maria Tittle
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Olive Marchitto, a 53-year-old male with no significant prior surgical history, presented to our institution on June 10, 2023, complaining of progressive abdominal pain, altered bowel habits, and unexplained weight loss. The patient reported experiencing intermittent cramping and discomfort in the lower right quadrant of his abdomen for approximately two months prior to admission. Upon initial assessment, John appeared visibly distressed, with signs of moderate dehydration and mild abdominal tenderness upon palpitation. A series of diagnostic tests were ordered, including a comprehensive metabolic panel, complete blood count, and a computed tomography (CT) scan of the abdomen and pelvis.
+
+Medical History:
+	Olive Marchitto has a significant past medical history of hypertension, for which he had been undergoing regular medication therapy. His father died from colon cancer at the age of 65, and his mother passed away from breast cancer in her early 50s. He is allergic to penicillin and sulfa drugs. Prior to admission, John was taking lisinopril, amlodipine, and metformin for hypertension and type 2 diabetes mellitus.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of moderately differentiated adenocarcinoma within the sigmoid colon, with extensive lymphovascular invasion. A subsequent laparoscopic sigmoid colectomy and right hemi-hepatectomy were performed to remove the primary tumor and metastatic lesion in the liver. Histopathological examination of the resected specimen confirmed the diagnosis of colorectal cancer (Stage IIIB) with lymph node involvement and distant metastases.
+
+Treatment Plan:
+	Following surgical resection, John underwent a six-month course of adjuvant chemotherapy consisting of FOLFOX regimen (Folinic acid, Fluorouracil, and Oxaliplatin). As expected, he experienced various side effects, including neutropenia, fatigue, and peripheral neuropathy. He was closely monitored throughout his treatment course, with appropriate interventions for the management of these adverse events.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	In order to monitor John's response to treatment and ensure early detection of any recurrence, he will be scheduled for regular follow-up appointments every three months during the first year post-treatment. He will also undergo annual colonoscopies thereafter. His current medication regimen includes lisinopril, amlodipine, metformin, and calcium supplements to address his comorbidities. John has been instructed on proper care of his ileal conduit and management of potential complications such as obstruction or leakage. He was advised to maintain a balanced diet rich in fiber and lean proteins while avoiding foods that may exacerbate diarrhea or constipation.
+
+Patient Education:
+	John and his family were provided comprehensive education on the nature of colorectal cancer, its treatment options, and potential side effects. They were taught about recognizing signs of complications associated with the ileal conduit and managing common adverse events such as peripheral neuropathy and fatigue. Importance was placed on stressing the importance of medication adherence, proper wound care practices, maintaining adequate hydration, and engaging in regular physical activity.
+
+Discharge Instructions:
+	Prior to discharge, John was given detailed instructions regarding his continued recovery and health maintenance. He was provided with written guidelines on medication adherence, wound care practices, hydration recommendations, and physical activity guidelines. He was advised to monitor his weight and report any sudden changes or signs of complications promptly.
+
+Prognosis and Long-Term Outlook:
+	Olive Marchitto's prognosis is considered favorable given his response to treatment thus far. However, it is essential that he adheres strictly to the prescribed follow-up plan to ensure early detection of any recurrence or progression. Regular monitoring and appropriate interventions will play a crucial role in managing ongoing health issues related to his colorectal cancer diagnosis.
+
+Final Remarks:
+	Olive Marchitto demonstrated remarkable resilience throughout his treatment journey, consistently cooperating with the medical team and actively participating in his care. We are confident that with continued cooperation and adherence to our recommendations for follow-up care, he will have a successful recovery. Dr. Maria Tittle (Medical Oncologist)

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terry Baker
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1367
+	•Date of Admission: 02/03/2022
+	•Date of Discharge: 04/05/2022
+	•Attending Physician: Dr. Nicolette Defazio
+	•Primary Diagnosis: Carcinoma of the Colon (Stage III)
+
+Reason for Admission:
+	Mr. Terry Baker, aged 52, presented to the emergency department complaining of a persistent abdominal pain that had escalated over the past week, associated with unexplained weight loss and changes in bowel habits. Upon initial examination, he exhibited signs of abdominal distension, tenderness, and palpable masses. A series of diagnostic tests, including computed tomography (Baker) scan, were conducted to ascertain the cause of his symptoms. Terry Baker scan revealed a large tumor in his colon, leading to the definitive diagnosis of colon cancer.
+
+Medical History:
+	Mr. Baker has a significant past medical history, with hypertension and type II diabetes being diagnosed 10 years ago. He has been managing these conditions under the care of his primary care physician. In addition, he was previously diagnosed with Chronic Obstructive Pulmonary Disease (COPD), requiring regular medication and oxygen therapy. Terry patient has no known family history of colon cancer but is a smoker with a 30-pack-year history.
+
+Diagnostic Findings:
+	Upon hospitalization, laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and increased lactic acid dehydrogenase (LDH). Pathology findings from the colonoscopy confirmed the presence of a large tumor in his sigmoid colon. Staging was determined to be Stage III through further imaging studies.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Baker. Terry primary intervention was a right hemicotomy with anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care included pain management, nutritional support, and close monitoring of his blood counts and electrolyte levels. Terry chemotherapy regimen consisted of FOLFOX (5-Fluorouracil, Leucovorin, and Oxaliplatin) for six cycles, with regular monitoring for side effects such as neutropenia, neuropathy, and nausea.
+
+Hospital Course:
+	Terry initial days post-surgery were challenging for Mr. Baker, as he experienced complications related to anastomotic leakage. However, with prompt intervention by the surgical team, the complication was managed successfully. Throughout his hospital stay, Mr. Baker received intensive care, physical therapy, and occupational therapy to aid in his recovery.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Baker will continue under the care of Dr. Nicolette Defazio for regular follow-ups every three months for the first year, then every six months thereafter. Medications will be continued as prescribed, and lifestyle modifications such as quitting smoking and maintaining a balanced diet are strongly recommended. Warning signs requiring immediate medical attention include fever, abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Baker and his family were thoroughly educated about the importance of adhering to the prescribed medications, managing the ileal conduit, recognizing signs of complications, and understanding common side effects associated with chemotherapy. Instructions included proper wound care practices, hydration guidelines, and physical activity recommendations.
+
+Discharge Instructions:
+	Upon discharge, Mr. Baker was provided comprehensive instructions to ensure his continued recovery and health maintenance. These included medication adherence, proper wound care practices, maintaining a healthy diet, and monitoring for signs of dehydration or infection. He was also advised to engage in light physical activity as tolerated and gradually increase exercise levels under the guidance of his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	Terry prognosis for Mr. Baker is guarded, as he has undergone treatment for Stage III colon cancer. Regular monitoring for early detection of recurrence will be crucial in managing his ongoing health issues. It is essential that Mr. Baker maintains a close relationship with his healthcare team and follows all recommended guidelines to improve his chances of long-term survival.
+
+Final Remarks:
+	Dr. Nicolette Defazio commends Mr. Baker for his resilience throughout this challenging journey and acknowledges the cooperation he displayed during his treatment process. This report is submitted for documentation purposes, signed by both Dr. Nicolette Defazio on [04/05/2022] and Terry Baker on [04/10/2022].

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Hill
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1354
+	•Date of Admission: 02/04/2022
+	•Date of Discharge: 04/12/2022
+	•Attending Physician: Dr. Jaclyn Babcock
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC)
+
+Reason for Admission:
+	Patricia Hill presented to the emergency department with severe left flank pain and hematuria. Initial assessment revealed a palpable mass in the abdomen, and laboratory investigations showed increased creatinine levels. A computed tomography scan (CT) confirmed the presence of a large mass in the right kidney, consistent with RCC, and metastasis to the lungs and liver.
+
+Medical History:
+	Mr. Hill has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a left total hip replacement surgery six years ago and is known to be allergic to penicillin. Prior to admission, he was on multiple medications, including lisinopril, metformin, and albuterol.
+
+Diagnostic Findings:
+	Diagnostic investigations during the hospital stay included a CT scan, MRI, and positron emission tomography (PET) scan. The PET scan showed extensive metastatic disease in both lungs and liver. Pathology results from the nephrectomy confirmed the diagnosis of RCC. Blood tests revealed anemia, elevated creatinine levels, and normal white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hill. The initial intervention was a nephrectomy followed by adjuvant therapy. Post-operative care included pain management, fluid management, and nutritional support. He received a chemotherapy regimen of sunitinib, with six cycles completed during the hospital stay. Radiation therapy was not deemed necessary due to the widespread metastasis.
+
+Hospital Course:
+	Mr. Hill's recovery from surgery was uneventful, and he responded well to pain management and fluid management. He developed anemia, which was managed with iron supplementation and erythropoietin therapy. His COPD exacerbated during the hospital stay, requiring increased use of albuterol and oxygen therapy.
+
+Follow-Up Plan:
+	Mr. Hill will return for outpatient appointments every three months for the first year, then every six months thereafter. He will continue on sunitinib therapy, with the dose adjusted based on tolerance and efficacy. Lifestyle recommendations include a low-sodium diet, regular exercise, and avoidance of smoking and alcohol.
+
+Patient Education:
+	Mr. Hill and his family were educated about the disease, treatment options, and post-surgical care. They were instructed on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and hand-foot syndrome.
+
+Discharge Instructions:
+	Upon discharge, Mr. Hill was provided with a list of medications to continue, including sunitinib, lisinopril, metformin, albuterol, and oxygen therapy as needed. He was instructed on wound care practices, hydration, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Mr. Hill's prognosis is guarded due to the advanced stage of his RCC. Regular monitoring for early detection of recurrence is crucial. Managing ongoing health issues such as hypertension, diabetes, and COPD will be essential in maintaining his overall health.
+
+Final Remarks:
+	I would like to express my appreciation for Mr. Hill's resilience throughout this difficult journey. His cooperation and determination have been instrumental in his treatment progress. I wish him the best of health and a swift recovery.

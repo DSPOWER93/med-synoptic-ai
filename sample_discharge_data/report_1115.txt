@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Karl Thomas
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1115
+	•Date of Admission: 02/05/2023
+	•Date of Discharge: 07/06/2023
+	•Attending Physician: Dr. Federico Price
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Karl Thomas, a 48-year-old male with a medical history significant for hypertension and chronic obstructive pulmonary disease (COPD), presented to the emergency department complaining of abdominal pain, bloating, and changes in bowel habits for over a month. The initial assessment revealed an abdominal mass, and subsequent diagnostic investigations including computed tomography (CT) scan, colonoscopy, and pathology confirmed a diagnosis of colorectal cancer.
+
+Medical History:
+	Apart from hypertension and COPD, John had no significant past medical history. He underwent a cholecystectomy in 2018 due to gallstones. There was no family history of cancer, but he reported allergies to penicillin and sulfa drugs. His pre-admission medications included lisinopril for hypertension and albuterol for COPD.
+
+Diagnostic Findings:
+	The pathology report indicated moderately differentiated adenocarcinoma involving the ascending colon. CT scan findings showed a large mass in the right lower quadrant with regional lymph node involvement. Blood tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and an increased lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	After a multidisciplinary team discussion, a comprehensive treatment plan was developed for John. This included surgical resection of the primary tumor, followed by adjuvant chemotherapy and radiation therapy. The surgery was performed on 06-05-2023, and a permanent ileal conduit was created due to the extensive nature of the cancer. Post-operative care involved close monitoring for complications such as anastomotic leakage, wound infection, and post-operative ileus.
+
+Hospital Course:
+	John's initial recovery from surgery was challenging due to his pre-existing conditions and the extensive nature of the surgery. However, he responded well to supportive care, including antibiotics for wound infection prevention, pain management, and nutritional support. The cancer was staged as Stage III, and additional chemotherapy was initiated on 06-15-2023. John completed six cycles of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) chemotherapy regimen with manageable side effects such as neutropenia, diarrhea, and peripheral neuropathy.
+
+Follow-Up Plan:
+	John will be scheduled for regular follow-up appointments every three months for the first two years and then six-monthly thereafter. He will continue on adjuvant capecitabine therapy for a year, with close monitoring for potential side effects. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and avoidance of smoking and alcohol.
+
+Patient Education:
+	John and his family were provided thorough education about post-surgical care, including the management of the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects like diarrhea and peripheral neuropathy.
+
+Discharge Instructions:
+	Before discharge, John was provided with clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated about the importance of follow-up appointments for cancer monitoring.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage III colorectal cancer patients is generally good with adjuvant therapy. John's continued adherence to treatment plan, lifestyle modifications, and regular follow-ups will play a significant role in his long-term outlook.
+
+Final Remarks:
+	I would like to acknowledge John's resilience throughout his treatment journey. His cooperation, along with the support of his family, has been instrumental in achieving this milestone. I wish him the best for his continued recovery and hope for a successful outcome.

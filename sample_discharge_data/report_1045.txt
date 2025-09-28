@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ann Damour
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1045
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 01/15/2023
+	•Attending Physician: Dr. Dr. Miller
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Miller presented to the emergency room with persistent abdominal pain, change in bowel habits, and unexplained weight loss. Preliminary examinations revealed an abnormal mass in his lower abdomen. Further investigations, including a CT scan and colonoscopy, confirmed the presence of a large tumor in his colon. The cancer had spread to nearby lymph nodes, indicating Stage III colorectal cancer.
+
+Medical History:
+	Mr. Miller has a history of hypertension, managed with medication. He was also diagnosed with type 2 diabetes mellitus and chronic obstructive pulmonary disease (COPD), which are controlled through regular medications and lifestyle adjustments. His family history is significant for colorectal cancer, as his father passed away from the same disease at the age of 60. Mr. Miller has no known allergies and was taking a variety of medications before admission.
+
+Diagnostic Findings:
+	The pathology report confirmed that the tumor was adenocarcinoma. Imaging scans revealed extensive lymph node involvement, as well as potential metastasis to the liver. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of advanced disease.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Miller. This included surgical resection of the tumor followed by chemotherapy to eradicate any remaining cancer cells and prevent recurrence. The surgery was performed successfully, with the removal of the affected portion of the colon and the creation of an ileal conduit. Post-operative care involved pain management, nutritional support, and monitoring for complications.
+
+Hospital Course:
+	After the initial recovery from surgery, Mr. Miller faced several challenges, including poor appetite, weight loss, and fatigue due to chemotherapy. He responded well to therapy and demonstrated resilience throughout his hospital stay. Therapy sessions, nutritional support, and pain management were crucial in helping him cope with these difficulties.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Miller will continue the six-month course of FOLFOX chemotherapy and radiation therapy to the liver. He is scheduled for regular follow-up appointments to monitor his progress and ensure early detection of any recurrence or new health issues. Lifestyle modifications, including a balanced diet, regular exercise, and smoking cessation if applicable, are also recommended.
+
+Patient Education:
+	Mr. Miller and his family were educated about the importance of adhering to the prescribed medication regimen, monitoring for signs of complications such as infection or bleeding in the ileal conduit, managing common side effects like nausea and fatigue, and recognizing warning signs that require immediate medical attention.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Miller was provided comprehensive instructions on medication adherence, wound care practices for his ileostomy site, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues related to diabetes mellitus, hypertension, and COPD.
+
+Final Remarks:
+	Dr. Watson commends Mr. Miller's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the treatment plan, follow-up appointments, and lifestyle modifications for a positive long-term outlook. Both the physician and patient have signed this report on 01/15/2023.

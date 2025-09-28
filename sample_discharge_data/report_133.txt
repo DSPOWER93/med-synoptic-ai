@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kathy Chaney
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M133
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Carroll Wells
+	•Primary Diagnosis: Pancreatic Cancer (Stage IIIB)
+
+Reason for Admission:
+	Kathy Chaney was admitted to the hospital on 01/02/2023 due to persistent abdominal pain, weight loss, and jaundice. An initial assessment revealed a mass in his upper abdomen, and laboratory tests showed elevated levels of CA 19-9, a tumor marker associated with pancreatic cancer. Further diagnostic investigations, including an abdominal CT scan, confirmed the presence of a large tumor in his pancreas.
+
+Medical History:
+	Kathy Chaney is a 43-year-old male with a history of hypertension and COPD. He has no known family history of cancer but does have a significant history of tobacco use. He was taking medications for his hypertension and COPD prior to admission.
+
+Diagnostic Findings:
+	A biopsy of the pancreatic mass confirmed the diagnosis of pancreatic adenocarcinoma (Stage IIIB). Blood tests revealed elevated levels of bilirubin, amylase, and lipase, indicative of a blocked bile duct. The abdominal CT scan showed a large tumor encasing the main pancreatic duct and superior mesenteric artery, with metastasis to several lymph nodes.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Kathy Chaney. This included a Whipple procedure (pancreaticoduodenectomy), post-operative care, six cycles of FOLFIRINOX chemotherapy regimen, and radiation therapy to the pancreas area. The goal was to remove the tumor and reduce metastasis.
+
+Hospital Course:
+	Kathy Chaney underwent a successful Whipple procedure on 01/05/2023. His post-operative recovery was initially challenging due to complications such as pancreatic fistula and delayed gastric emptying. However, with the support of the medical team, he managed these complications effectively. He received chemotherapy cycles during his hospital stay and started radiation therapy upon discharge.
+
+Follow-Up Plan:
+	Kathy Chaney will continue on the FOLFIRINOX regimen as an outpatient. He will have regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will maintain a low-fat, high-protein diet and avoid alcohol consumption. Any signs of recurrence or complications should be reported immediately.
+
+Patient Education:
+	Kathy Chaney was educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Kathy Chaney was provided with detailed discharge instructions focusing on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to schedule follow-up appointments as recommended by his healthcare team.
+
+Prognosis and Long-Term Outlook:
+	While Kathy Chaney's prognosis is guarded due to the advanced stage of his cancer at diagnosis, early detection and aggressive treatment offer hope for prolonging his life and improving his quality of life. Regular monitoring for recurrence will be crucial in managing his ongoing health issues.
+
+Final Remarks:
+	Kathy Chaney has shown remarkable resilience throughout his treatment journey. His cooperation and determination have played a significant role in his progress. We are optimistic about his recovery and look forward to supporting him through his continued healing process.

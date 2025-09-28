@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Brian Fernendez
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M131
+	•Date of Admission: 05/08/2022
+	•Date of Discharge: 09/15/2022
+	•Attending Physician: Dr. Katherine Wheeler
+	•Primary Diagnosis: Pancreatic Adenocarcinoma
+
+Reason for Admission:
+	Brian Fernendez presented to the emergency department with severe abdominal pain, nausea, and jaundice. Initial assessment revealed a distended abdomen, and laboratory tests showed elevated levels of bilirubin and amylase. A CT scan confirmed the presence of a tumor in the pancreatic head.
+
+Medical History:
+	Mr. Fernendez had a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He had undergone a left total knee replacement surgery 5 years ago. His family history was significant for pancreatic cancer. He was allergic to penicillin and iodine-based contrast agents. His pre-admission medications included metformin, lisinopril, atorvastatin, albuterol, ipratropium, and celecoxib.
+
+Diagnostic Findings:
+	Pathology report of the biopsied tumor confirmed it as pancreatic adenocarcinoma (stage IIIB). The extent of the disease was further evaluated through a PET-CT scan, which showed metastasis to the liver and multiple lymph nodes. Blood tests revealed anemia, elevated CA19-9 levels, and mild kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Fernendez. This included a Whipple procedure followed by FOLFIRINOX chemotherapy regimen consisting of four cycles and daily radiation therapy for two weeks. The surgery was successfully performed, and the post-operative course was managed with pain control, antibiotics, and nutrition support.
+
+Hospital Course:
+	Mr. Fernendez's initial recovery from surgery was uneventful; however, he developed complications such as anastomotic leak and sepsis, which were promptly addressed by the medical team. The patient received intensive care and antibiotic therapy to manage these issues. He also underwent nutritional support through a jejunostomy tube during his hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Fernendez was scheduled for outpatient appointments every three months for the first year, then six monthly thereafter. His medications were adjusted to manage his comorbidities, and he was advised to follow a low-fat, high-protein diet and avoid smoking and alcohol. He was instructed to report any signs of recurrence or complications immediately.
+
+Patient Education:
+	Mr. Fernendez and his family were educated about the ileal conduit, post-surgical care, and managing potential complications such as diarrhea, constipation, and pain. They were also taught to recognize signs of dehydration, infection, and bleeding.
+
+Discharge Instructions:
+	On discharge, Mr. Fernendez was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to carry a medical ID card and wear a medical alert bracelet.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer is generally poor; however, regular monitoring for early detection of recurrence is crucial in managing the disease.
+
+Final Remarks:
+	Dr. Wheeler expressed her appreciation for Mr. Fernendez's resilience and cooperation throughout the treatment journey. She emphasized the importance of follow-up care and stressed the need for vigilance to maintain his health and quality of life. The report was signed by Dr. Wheeler and Mr. Fernendez on 09/15/2022, validating its accuracy.

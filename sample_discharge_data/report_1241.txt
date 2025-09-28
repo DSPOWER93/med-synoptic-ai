@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Shane Barnes
+	•Date of Birth: 12/01/1985
+	•Medical Record Number: M1241
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Nina Flores
+	•Primary Diagnosis: Colorectal Cancer (T3N1M0)
+
+Reason for Admission:
+	Mr. Shane Barnes, a 36-year-old male, presented to the emergency department complaining of abdominal pain, decreased appetite, and unexplained weight loss for the past three months. The patient reported experiencing intermittent crampy pain in the lower abdomen, with associated bloating and constipation. A digital rectal examination confirmed a palpable mass, leading to an immediate CT scan of the abdomen and pelvis, which revealed a large, irregular mass in the sigmoid colon.
+
+Medical History:
+	Mr. Barnes has a history of hypertension, for which he has been on lisinopril 10mg daily for the past five years. He also has a family history of colorectal cancer; his father was diagnosed at age 65 and passed away at 70. The patient has no known allergies and is not currently taking any other medications.
+
+Diagnostic Findings:
+	Pathology report from the colon resection confirmed the presence of moderately differentiated adenocarcinoma of the sigmoid colon, with 12 lymph nodes showing metastasis (N1). Imaging studies revealed multiple liver lesions suggestive of hepatic metastases. Blood tests showed an elevated CEA level (10 ng/ml) and a slightly low hemoglobin count (10.5 g/dl).
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Flores, developed a comprehensive treatment plan for Mr. Barnes. The primary intervention was a sigmoid colon resection followed by a permanent ileal conduit creation and abdominal closure. Post-operative care included bowel rest with total parenteral nutrition, pain management, and monitoring of wound healing. The patient underwent six cycles of FOLFOX (oxaliplatin, fluorouracil, leucovorin) chemotherapy to reduce the risk of recurrence. Radiation therapy was not deemed necessary due to the extent of disease.
+
+Hospital Course:
+	Mr. Barnes underwent a successful sigmoid colon resection on 03/01/2022 and recovered well post-surgery, with no significant complications. He faced challenges related to appetite loss and fatigue during the hospital stay but responded positively to nutritional support and physical therapy. The patient received regular follow-ups from the surgical team, oncology team, and supportive care services.
+
+Follow-Up Plan:
+	Mr. Barnes will be scheduled for outpatient appointments every three months for the first year, then every six months thereafter. He will continue on FOLFOX chemotherapy until completion of the planned six cycles, followed by surveillance for recurrence. Lifestyle modifications include maintaining a balanced diet, regular exercise, and avoiding tobacco products. Warning signs that require immediate medical attention include fever, persistent abdominal pain, changes in bowel habits, or unexplained weight loss.
+
+Patient Education:
+	Mr. Barnes was educated on the importance of post-surgical care, including managing his ileal conduit and recognizing signs of complications such as obstruction, infection, or leakage. He was also instructed on managing common side effects of chemotherapy, such as nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Barnes was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also given a contact number for the surgical team in case of any concerns or emergencies.
+
+Prognosis and Long-Term Outlook:
+	Mr. Barnes's prognosis will depend on the success of his treatment and regular monitoring for early detection of recurrence. He is advised to maintain a healthy lifestyle and attend all scheduled follow-up appointments to ensure optimal outcomes.
+
+Final Remarks:
+	Dr. Flores commends Mr. Barnes on his resilience throughout the treatment journey and cooperation with the medical team. The report is signed by both Dr. Flores and Mr. Barnes, validating the information provided on 05/01/2022.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joseph Goodner
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1160
+	•Date of Admission: 02/02/2022
+	•Date of Discharge: 09/03/2022
+	•Attending Physician: Dr. Wesley Shelly
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Goodner was admitted to the hospital after presenting with hematuria (blood in urine), dysuria (painful urination), and frequent urges to urinate, which had persisted for two weeks prior to admission. Initial assessments included a thorough physical examination, urinalysis, and an intravenous pyelogram (IVP) scan. The results of these tests indicated an abnormality in the bladder, leading to the further investigation with transurethral resection of bladder tumor (TURBT) and histopathology confirmation of urothelial cell carcinoma.
+
+Medical History:
+	Mr. Goodner has a past medical history of hypertension, type 2 diabetes mellitus, chronic obstructive pulmonary disease (COPD), and gastroesophageal reflux disease (GERD). He has undergone two previous surgeries laparoscopic cholecystectomy in 2010 and transurethral prostatectomy in 2015. Mr. Goodner's family history is significant for colon cancer, with his father diagnosed at age 65. He has known allergies to penicillin and sulfa drugs and was taking lisinopril, metformin, albuterol, and omeprazole prior to admission.
+
+Diagnostic Findings:
+	During the hospital stay, Mr. Goodner underwent several diagnostic tests, including a TURBT, computed tomography (CT) scan of the abdomen and pelvis, and a positron emission tomography (PET) scan. The TURBT revealed a 2.5 cm tumor in the bladder. CT and PET scans showed no evidence of distant metastasis but did indicate lymph node involvement. Blood tests indicated an elevated creatinine level, which was managed throughout his hospital stay.
+
+Treatment Plan:
+	The treatment plan developed by the multidisciplinary team included transurethral bladder resection followed by radical cystectomy and ileal conduit urinary diversion. Post-operative care involved catheter management, pain control, and nutritional support. Mr. Goodner was also started on a standard chemotherapy regimen of gemcitabine and cisplatin for six cycles with anticipated side effects such as nausea, vomiting, fatigue, and nephrotoxicity. Radiation therapy was not deemed necessary at this time.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	The post-discharge follow-up plan includes scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. Medications to be continued include lisinopril, metformin, and omeprazole; however, the dosage of these medications may need adjustment. Lifestyle modifications, such as smoking cessation and a healthy diet low in protein and high in fluids, are encouraged to reduce the risk of recurrence. Mr. Goodner will also receive education on post-surgical care, managing his ileal conduit, recognizing signs of complications, and managing common side effects associated with chemotherapy.
+
+Patient Education:
+	Mr. Goodner was educated about his diagnosis, treatment options, and the importance of follow-up appointments for monitoring his recovery and detecting any potential recurrence. He received instructions on post-surgical care, including proper wound care practices, maintaining hydration, and guidelines for physical activity. He was also informed of signs requiring immediate medical attention, such as fever, increased pain, or changes in urine output.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Goodner was given comprehensive instructions on medication adherence, wound care practices, hydration management, and physical activity guidelines. He was advised to take his medications as prescribed, care for his surgical wound according to the provided instructions, maintain adequate hydration by drinking plenty of fluids, and engage in light physical activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Mr. Goodner's prognosis is favorable given the early detection and aggressive treatment plan. However, it is essential that he adhere to his follow-up appointments, maintain a healthy lifestyle, and recognize and promptly report any potential signs of recurrence for early intervention.
+
+Final Remarks:
+	Mr. Goodner demonstrated resilience and cooperation throughout his treatment journey, and I am confident that he will continue to do so during his recovery and long-term management of this disease. I extend my best wishes for a successful recovery and encourage him to remain vigilant in his follow-up care.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Theresa Benjamin
+	•Date of Birth: 12/06/1985
+	•Medical Record Number: M123
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 06/03/2023
+	•Attending Physician: Dr. Andrea Johnson
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage III)
+
+Reason for Admission:
+	Theresa Benjamin, a 37-year-old male, was admitted to our hospital after presenting with persistent abdominal pain, weight loss, and jaundice. The initial assessment revealed a distended abdomen, tenderness in the upper right quadrant, and yellowish discoloration of the skin and eyes. Further diagnostic investigations, including computed tomography (CT) scan, magnetic resonance imaging (MRI), and endoscopic retrograde cholangiopancreatography (ERCP), confirmed a large, irregular mass in the head of the pancreas, consistent with adenocarcinoma.
+
+Medical History:
+	Mr. Benjamin has a history of hypertension and has been on medication for the same. He also has a family history of colon cancer. There was no known allergy to any medications. Prior to admission, he was taking losartan, amlodipine, and aspirin daily.
+
+Diagnostic Findings:
+	The results of the pathology report confirmed the diagnosis of pancreatic adenocarcinoma. The tumor was found to be 5 cm in size, invading the surrounding tissue but not the adjacent organs. Blood tests revealed elevated levels of carbohydrate antigen 19-9 (CA19-9), a tumor marker for pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team, including surgical oncologists, medical oncologists, radiation oncologists, and supportive care specialists, developed a comprehensive treatment plan for Mr. Benjamin. The initial intervention was a Whipple procedure (pancreaticoduodenectomy), followed by a course of FOLFIRINOX chemotherapy (oxaliplatin, irinotecan, fluorouracil, and leucovorin) for six cycles. Due to the risk of local recurrence, radiation therapy was also recommended post-operatively.
+
+Hospital Course:
+	Mr. Benjamin's initial recovery from surgery was smooth, with no major complications. However, he experienced common side effects of chemotherapy, including fatigue, nausea, and hair loss. These were managed effectively through supportive care measures and medication adjustments. He also received nutritional support to help maintain his weight during the course of treatment.
+
+Follow-Up Plan:
+	Mr. Benjamin will have scheduled follow-up appointments every three months for the first two years, then every six months thereafter. His current medications, including losartan and amlodipine, will be continued. He will also be advised to maintain a balanced diet rich in fruits, vegetables, and lean proteins, while avoiding high-fat foods and spicy dishes.
+
+Patient Education:
+	Mr. Benjamin was provided detailed instructions on post-surgical care, including wound care practices, hydration, and physical activity guidelines. He was also educated about managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects of chemotherapy and radiation therapy.
+
+Discharge Instructions:
+	Mr. Benjamin was provided comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to report any unusual symptoms immediately.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with pancreatic cancer depends on the stage at diagnosis and response to treatment. Mr. Benjamin's survival will be monitored closely, and early detection of recurrence is crucial. Regular follow-up appointments and adherence to the recommended lifestyle changes will help manage his ongoing health issues.
+
+Final Remarks:
+	I am pleased to report that Mr. Benjamin has shown resilience and cooperation throughout his treatment journey. His family has been a source of support, and we are optimistic about his recovery. We wish him the best in the coming days and will continue to provide the necessary care and support during his follow-up visits.

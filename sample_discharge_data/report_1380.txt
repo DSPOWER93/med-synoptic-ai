@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sarah Yielding
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1380
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 07/01/2022
+	•Attending Physician: Dr. Susan Mcintosh
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Sarah Yielding, a 42-year-old male, was admitted to our institution on 02/01/2022, complaining of persistent lower abdominal pain, unexplained weight loss, and altered bowel habits. The initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests demonstrated elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9). Subsequent imaging scans, such as computed tomography (CT) scan and magnetic resonance imaging (MRI), confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Mr. Yielding had a significant medical history, including well-controlled hypertension and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His father died of colon cancer at the age of 65. Allergies included penicillin, and he was taking aspirin for his hypertension before admission.
+
+Diagnostic Findings:
+	The pathology report from the surgical excision of the tumor confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. CT scan showed multiple enlarged lymph nodes in the pelvis and abdomen, suggesting regional spread of the disease. CA19-9 levels were found to be significantly elevated at 520 U/mL (normal range 0-37 U/mL).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Yielding. He underwent an elective laparoscopic sigmoid colectomy, followed by primary anastomosis and ileostomy creation (Kock pouch) for post-operative management. Post-operative care included antibiotics to prevent infection, pain medication, and stool output management through the ileostomy. He was started on adjuvant chemotherapy with FOLFOX regimen (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles to reduce the risk of recurrence. Radiation therapy was not indicated due to the absence of distant metastases.
+
+Hospital Course:
+	Mr. Yielding's hospital course was marked by a smooth recovery from surgery, with minimal complications. He received extensive physical and occupational therapy to regain his strength and mobility. A dietitian provided nutritional support and guidance to manage the ileostomy output. The disease was managed through close monitoring of CEA and CA19-9 levels, which showed a gradual decrease during his stay.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Yielding was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue with aspirin for his hypertension and undergo CEA and CA19-9 testing as per schedule. Lifestyle modifications include a high-fiber diet, avoidance of red meat, regular exercise, and quitting smoking.
+
+Patient Education:
+	Mr. Yielding was educated about the importance of post-surgical care, including wound management, stool output control, and recognizing signs of complications such as infection, obstruction, or leakage from the ileostomy. He was also taught how to monitor his symptoms for any signs of recurrence.
+
+Discharge Instructions:
+	Mr. Yielding was provided with comprehensive discharge instructions to ensure continued recovery and health maintenance. These included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Yielding's case. It is essential to manage ongoing health issues such as hypertension and COPD effectively.
+
+Final Remarks:
+	I would like to express my appreciation for Mr. Yielding's resilience and cooperation throughout his treatment journey. I am confident that he will continue to do well with regular follow-up care and a strong commitment to maintaining his health.

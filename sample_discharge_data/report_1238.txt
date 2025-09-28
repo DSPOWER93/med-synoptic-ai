@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Julia Hampton
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1238
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Theresa Mccoy
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Julia Hampton was admitted to the hospital due to persistent abdominal pain and unexplained weight loss over a period of two months. The initial assessment revealed a distended abdomen, loss of appetite, nausea, and jaundice. Subsequent investigations including ultrasound, CT scan, and MRI confirmed the presence of a mass in the pancreas, which was further diagnosed as adenocarcinoma following a biopsy.
+
+Medical History:
+	Mr. Hampton has a history of hypertension and COPD, for which he was on regular medication. He had no known allergies but did have a family history of pancreatic cancer. Prior to admission, he had undergone a knee replacement surgery in 2015.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay revealed significant abnormalities in Mr. Hampton's blood tests, including elevated levels of CA 19-9 (a tumor marker for pancreatic cancer) and increased bilirubin levels indicating jaundice. Imaging scans showed a large mass in the head of the pancreas that had spread to nearby lymph nodes.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hampton, which included a Whipple procedure (pancreaticoduodenectomy) followed by chemotherapy and radiation therapy. Post-operative care involved monitoring for complications such as leaks from the anastomosis site, pancreatic fistula, and delayed gastric emptying. The chemotherapy regimen consisted of FOLFIRINOX (irinotecan, fluorouracil, leucovorin, and oxaliplatin) administered every two weeks for six cycles, with appropriate management of side effects such as neutropenia, diarrhea, and neuropathy.
+
+Hospital Course:
+	Mr. Hampton underwent a successful Whipple procedure on March 25, 2022. The initial recovery was challenging due to complications related to the anastomosis site. However, with careful monitoring, nutritional support, and management of pain, he gradually improved. Mr. Hampton also received adjuvant chemotherapy as per the scheduled plan.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hampton will be scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue with his current medications and lifestyle modifications to manage hypertension and COPD. A low-fat, high-protein diet is recommended to minimize strain on the ileal conduit. Warning signs of complications include fever, abdominal pain, persistent nausea or vomiting, and changes in bowel habits.
+
+Patient Education:
+	Mr. Hampton and his family were educated about post-surgical care, including wound care practices, dietary restrictions, and recognizing signs of complications. They were also provided information on managing common side effects such as fatigue, diarrhea, and neuropathy.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Hampton was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a regular exercise routine, start gradually, and build up over time.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Hampton's long-term health. He will need to manage ongoing issues related to diabetes and malabsorption due to the ileal conduit.
+
+Final Remarks:
+	I would like to commend Mr. Hampton for his resilience and cooperation throughout this challenging journey. His positive attitude, strong support system, and adherence to the treatment plan have played a significant role in his progress so far. I wish him all the best for his continued recovery.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Murray
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M16
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Julie Fancher
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIB
+
+Reason for Admission:
+	The patient, Patricia Murray, presented with symptoms of persistent abdominal pain, change in bowel habits, and unexplained weight loss over the past two months. Upon initial assessment, he exhibited signs of anemia and abdominal distension. Further diagnostic investigations, including a colonoscopy, computed tomography (CT) scan, and complete blood count (CBC), confirmed a mass in the colon and metastasis to regional lymph nodes.
+
+Medical History:
+	Mr. Murray has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015 due to appendicitis. His family history is significant for colorectal cancer in his father. Allergies include penicillin and iodine. Prior to admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a 5cm mass in the sigmoid colon with regional lymph node involvement. CBC showed hemoglobin level of 8 g/dL and elevated carcinoembryonic antigen (CEA) level of 10 ng/ml.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Murray, which included a partial colectomy, creation of an ileal conduit, six cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy, and radiation therapy to the affected lymph nodes. Post-operative care involved pain management, wound care, and nutritional support.
+
+Hospital Course:
+	Mr. Murray underwent a successful partial colectomy on March 15, 2023. The post-operative period was marked by recovery from the surgery, management of post-operative pain, and initiation of chemotherapy. Challenges faced included delayed recovery due to comorbidities, particularly COPD exacerbations. Therapy and nutritional support were crucial in helping Mr. Murray regain strength during his hospital stay.
+
+Follow-Up Plan:
+	The follow-up plan includes outpatient appointments every three months for the first year, six-monthly thereafter. Medications to be continued include lisinopril, metformin, and inhalers for COPD. A low-fiber diet is recommended, and Mr. Murray should be aware of signs of complications such as fever, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	The patient and his family were educated about the importance of adhering to the medication regimen, proper wound care practices, maintaining adequate hydration, and gradually increasing physical activity levels. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, diarrhea, and fatigue were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Murray was given comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also informed about the importance of follow-up appointments and the need for regular monitoring.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues such as diabetes and COPD. Mr. Murray's cooperation throughout the treatment journey bodes well for his long-term prognosis.
+
+Final Remarks:
+	This report documents Patricia Murray's treatment journey for colorectal cancer, Stage IIIB. His resilience and cooperation throughout the process are commendable. We wish him a speedy recovery and good health in the future.

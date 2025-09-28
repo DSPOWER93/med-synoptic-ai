@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ester Dubois
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1410
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Elisabeth Medellin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Ester Dubois, presented to our facility complaining of persistent abdominal pain, changes in bowel habits, and unexplained weight loss over the past few months. During the initial assessment, it was observed that he appeared weak and had a palpable mass in the lower abdomen. Subsequent laboratory tests revealed elevated levels of carcinoembryonic antigen (CEA) and a positive fecal occult blood test. A computed tomography (CT) scan confirmed the presence of a large tumor in the colon, along with metastasis to several lymph nodes.
+
+Medical History:
+	Ester Dubois has a significant medical history. He was previously diagnosed with hypertension and type 2 diabetes mellitus. He underwent a cholecystectomy for gallbladder stones in 2015. His family history is notable for colorectal cancer, as his father was diagnosed at the age of 60 and passed away from the disease three years later. Known allergies include penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and aspirin daily.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during John's hospital stay included CT scan, colonoscopy, pathology examination of the biopsied tissue, complete blood count (CBC), comprehensive metabolic panel (CMP), and a series of other tests to evaluate his overall health status. The findings from these tests confirmed the diagnosis of colorectal cancer (Stage III). The CT scan showed a large mass in the descending colon with several involved lymph nodes, while the colonoscopy revealed an invasive adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Ester Dubois. The initial intervention was a low anterior resection of the colon followed by the creation of an ileal conduit. Post-operative care focused on pain management, wound care, and the prevention and management of complications such as infection and thromboembolism.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Post-discharge, Ester Dubois will be scheduled for regular follow-up appointments every 3 months during the first year, then every 6 months thereafter. He will continue taking metformin and lisinopril but will discontinue aspirin due to the increased risk of bleeding associated with chemotherapy. Dietary recommendations include a high-fiber diet rich in fruits, vegetables, and whole grains, while physical activity guidelines encourage daily walks and light exercises.
+
+Patient Education:
+	During his hospital stay, Ester Dubois was educated about his diagnosis, the rationale for the treatment plan, and potential side effects of chemotherapy. He was instructed on post-surgical care, including how to manage his ileal conduit, recognize signs of complications such as infection or obstruction, and cope with common side effects like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Ester Dubois was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Despite the challenges faced during treatment, Ester Dubois has demonstrated resilience and cooperation throughout his journey. Regular monitoring for early detection of recurrence will be crucial in managing his ongoing health issues and improving his long-term outlook.
+
+Final Remarks:
+	I am pleased to announce that Ester Dubois has been successfully discharged from our facility, and we wish him the best during his recovery process. We appreciate his cooperation throughout treatment and look forward to continuing to support him in his journey towards health and wellness.

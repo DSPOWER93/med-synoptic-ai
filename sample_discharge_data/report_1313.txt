@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ellie Goldsberry
+	•Date of Birth: 12/04/1975
+	•Medical Record Number: M1313
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 15/05/2023
+	•Attending Physician: Dr. Douglas Gulick
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Ellie Goldsberry, a 47-year-old male, was admitted to the hospital on 03/05/2023 due to persistent abdominal pain, unexplained weight loss, and rectal bleeding. Upon initial assessment, his vital signs were stable, but he appeared visibly uncomfortable. A series of diagnostic tests were ordered, including a complete blood count (CBC), carcinoembryonic antigen (CEA) test, computed tomography (CT) scan of the abdomen and pelvis, and colonoscopy. The results indicated a large tumor in the sigmoid colon and regional lymph node involvement, confirming the diagnosis of colorectal cancer.
+
+Medical History:
+	Ellie Goldsberry has a history of hypertension, for which he was on medication. He also had a 15-year history of diabetes, which was well-controlled. His family history was significant for colorectal cancer in his father and paternal grandfather. John reported no known allergies and was taking metformin, lisinopril, and aspirin before admission.
+
+Diagnostic Findings:
+	The CBC showed mild anemia, while the CEA level was significantly elevated. The CT scan revealed a large mass in the sigmoid colon with regional lymph node involvement. The pathology report from the biopsy confirmed adenocarcinoma of the rectum.
+
+Treatment Plan:
+	A multidisciplinary team, including oncologists, surgeons, and radiotherapists, developed a comprehensive treatment plan for Ellie Goldsberry. He underwent a partial colectomy with lymph node dissection followed by a temporary ileostomy. The post-operative care included wound management, pain control, and nutritional support. A six-cycle regimen of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy was initiated to reduce the risk of recurrence. The decision for radiation therapy was deferred due to his overall condition and response to initial treatment.
+
+Hospital Course:
+	Ellie Goldsberry's recovery from surgery was uneventful, but he faced challenges with pain management and maintaining adequate nutrition. He received physical therapy to help regain his mobility and strength. The disease responded well to the chemotherapy, and there were no signs of progression during his hospital stay.
+
+Follow-Up Plan:
+	Ellie Goldsberry will have follow-up appointments every three months for the first year post-discharge, then six-monthly thereafter. He will continue on FOLFOX chemotherapy for a total of 12 cycles. His diabetes management will also be closely monitored. A low-fiber diet and fluid intake of at least eight glasses per day are recommended. Any signs of fever, abdominal pain, or rectal bleeding require immediate medical attention.
+
+Patient Education:
+	Ellie Goldsberry and his family were educated about the ileostomy, its care, and potential complications. They were also instructed on recognizing signs of infection, dehydration, and bowel obstruction. Common side effects of chemotherapy such as fatigue, nausea, and diarrhea were discussed, along with management strategies.
+
+Discharge Instructions:
+	Ellie Goldsberry was provided discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a healthy diet and lifestyle to aid in his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Ellie Goldsberry's prognosis will largely depend on his response to treatment, adherence to the follow-up plan, and management of ongoing health issues.
+
+Final Remarks:
+	Dr. Douglas Gulick expressed her appreciation for Ellie Goldsberry's resilience and cooperation throughout his treatment journey. She emphasized the importance of regular follow-ups and strict adherence to the prescribed regimen for optimal outcomes. Both the physician and patient signed the report on 15/05/2023, validating its authenticity.

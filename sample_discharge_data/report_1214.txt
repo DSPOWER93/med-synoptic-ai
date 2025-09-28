@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Samuel Sims
+	•Date of Birth: 12/05/1978
+	•Medical Record Number: M1214
+	•Date of Admission: 02/12/2023
+	•Date of Discharge: 03/20/2023
+	•Attending Physician: Dr. Richard Bielecki
+	•Primary Diagnosis: Stage IIIB Colorectal Cancer (CRC) with a metastasis to the liver
+
+Reason for Admission:
+	Samuel Sims presented at the emergency department complaining of persistent lower abdominal pain, unintended weight loss, and changes in bowel habits. Physical examination revealed an abdominal mass, and laboratory tests indicated elevated levels of carcinoembryonic antigen (CEA). Subsequent imaging scans (computed tomography - CT) confirmed the presence of a large colon tumor with liver metastasis.
+
+Medical History:
+	Mr. Sims had a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2014 due to gallstones. His family history was notable for CRC in his father and brother. Allergies included penicillin, and pre-admission medications included metformin, lisinopril, albuterol, ipratropium bromide, and oxycodone/acetaminophen.
+
+Diagnostic Findings:
+	Pathology report confirmed the diagnosis of adenocarcinoma in the colon. CT scan revealed a 10 cm mass in the ascending colon with multiple liver metastases. Blood tests showed elevated CEA levels (25 ng/mL), anemia, and elevated liver function tests.
+
+Treatment Plan:
+	The multidisciplinary team devised a comprehensive treatment plan that included surgery, chemotherapy, and radiation therapy. Mr. Sims underwent a right hemicolectomy with end ileostomy and an extended hepatectomy for liver metastases. Post-operative care involved pain management, nutritional support, and monitoring for complications.
+
+Hospital Course:
+	Post-operative recovery was initially challenging due to anastomotic leakage, which was managed conservatively. Mr. Sims demonstrated resilience throughout his hospital stay, and active participation in physical therapy and occupational therapy. Nutritional support via total parenteral nutrition (TPN) was required for a week before transitioning to oral intake.
+
+Follow-Up Plan:
+	The follow-up plan involves scheduled outpatient appointments every 3 months for the first year, then every 6 months thereafter. Medications to be continued include metformin (for diabetes) and oxycodone/acetaminophen (for pain management). Dietary recommendations include a low-fiber diet initially, followed by gradual reintroduction of fiber-rich foods. Lifestyle changes such as quitting smoking and regular exercise are encouraged.
+
+Patient Education:
+	Mr. Sims and his family were educated on post-surgical care, ileostomy management, recognizing signs of complications (such as fever, increased abdominal pain, or changes in stool), and managing common side effects such as neuropathy and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Sims was provided with comprehensive instructions on medication adherence, wound care practices (for the ileostomy), hydration (at least 2-3 liters per day), and physical activity guidelines (starting with short walks and gradually increasing intensity).
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The importance of managing ongoing health issues such as diabetes and COPD cannot be overstated.
+
+Final Remarks:
+	Dr. Richard Bielecki commends Mr. Sims on his resilience and cooperation throughout the treatment journey. She emphasizes that while this is a significant milestone, continued follow-up and adherence to recommendations are essential for optimal outcomes. Both patient and physician sign the report on 03/20/2023.

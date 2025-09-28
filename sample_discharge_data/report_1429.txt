@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susanne Reuter
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1429
+	•Date of Admission: 05/05/2021
+	•Date of Discharge: 10/06/2021
+	•Attending Physician: Dr. Gregory Baker
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	The patient, Mr. Susanne Reuter, presented to the emergency department with a two-month history of progressively worsening abdominal pain, jaundice, and weight loss. Initial assessment revealed an obstructed biliary system, and subsequent diagnostic imaging confirmed the presence of a mass in the pancreas.
+
+Medical History:
+	Mr. Reuter has a past medical history significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and hyperlipidemia. He underwent a laparoscopic cholecystectomy in 2018 due to gallstones. His father died of pancreatic cancer at the age of 65, and his mother had a history of breast cancer. Mr. Reuter was allergic to penicillin and aspirin. His regular medications included metformin, insulin, amlodipine, and atorvastatin.
+
+Diagnostic Findings:
+	Diagnostic tests conducted during the hospital stay revealed elevated CA 19-9 levels, obstructive jaundice on imaging, a mass lesion in the pancreas on CT scan, and positive cytology from the endoscopic retrograde cholangiopancreatography (ERCP). Pathology reports confirmed the diagnosis of adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Reuter. This included a Whipple procedure followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved close monitoring for complications, nutritional support, and pain management. The chemotherapy regimen consisted of FOLFIRINOX, with six cycles planned. Radiation therapy was considered based on the post-surgical pathology report.
+
+Hospital Course:
+	Mr. Reuter's hospital course began with the Whipple procedure, which was successfully performed. The initial recovery was challenging due to post-operative complications, including anastomotic leak and delayed gastric emptying. However, these were managed effectively through therapy, nutritional support, and medication adjustments.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Reuter. This includes regular outpatient appointments with the oncologist and gastroenterologist every three months for the first year, then every six months thereafter. Medications will continue as prescribed, with adjustments made based on response and tolerability. Lifestyle recommendations include quitting smoking, maintaining a healthy diet, and regular exercise.
+
+Patient Education:
+	Education provided to Mr. Reuter and his family included understanding the nature of the disease, treatment options, and post-surgical care instructions. Specifically, they were instructed on managing the ileal conduit, recognizing signs of complications such as abdominal pain, fever, or changes in bowel habits, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence, wound care practices, maintaining adequate hydration, and guidelines for physical activity. Mr. Reuter was advised to attend all scheduled follow-up appointments and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues such as diabetes and hypertension.
+
+Final Remarks:
+	The attending physician, Dr. Gregory Baker, commends Mr. Reuter's resilience and cooperation throughout the treatment journey. She emphasizes the importance of regular follow-up and adherence to treatment plan for the best possible outcome. Both the physician and patient have signed this report on 10/06/2021.

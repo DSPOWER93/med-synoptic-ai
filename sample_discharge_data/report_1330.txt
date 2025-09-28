@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kathleen Parham
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1330
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/10/2022
+	•Attending Physician: Dr. Ann Burge
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Kathleen Parham was admitted to our facility on March 15, 2022, due to persistent abdominal pain, unexplained weight loss, and changes in bowel habits over the past two months. The initial assessment revealed a palpable mass in the lower abdomen, and subsequent laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). A computed tomography (CT) scan confirmed the presence of a tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Parham has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His father died from colorectal cancer at the age of 65, and his mother passed away from breast cancer at 70. Mr. Parham is allergic to penicillin and has been taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the sigmoid colon. Staging was determined as T4aN1M0 (Stage III). Additional tests such as a complete blood count, comprehensive metabolic panel, and coagulation profile were within normal limits, except for elevated CEA (12.5 ng/ml) and LDH (398 U/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Parham, including a right hemicolectomy with an ileal conduit formation, post-operative care, adjuvant chemotherapy, and radiation therapy. The surgery was successful, and the patient recovered well from the initial phase of the operation. Post-operatively, he received a combined chemotherapy regimen of FOLFOX (5-FU, leucovorin, oxaliplatin) for six cycles. Due to the extent of the tumor and lymph node involvement, radiation therapy was recommended.
+
+Hospital Course:
+	During his hospital stay, Mr. Parham received extensive care from our team. He faced some challenges in recovering from anesthesia and managing post-operative pain effectively. Adequate nutritional support was provided to help him regain strength. The disease progression was closely monitored through regular scans and blood tests.
+
+Follow-Up Plan:
+	After discharge, Mr. Parham will have scheduled follow-up appointments every three months for the first year, every six months for the second year, and annually thereafter. He will continue taking metformin, lisinopril, and salmeterol/fluticasone but will need to add adjuvant chemotherapy medications as prescribed. Dietary recommendations focus on maintaining a balanced diet rich in fiber, and physical activity should be gradually increased to promote overall health.
+
+Patient Education:
+	Mr. Parham was educated about the importance of adhering to his medication regimen, proper wound care practices, and maintaining hydration. He was instructed on managing his ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in urine color, and managing common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Parham was given comprehensive instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also provided with contact information for our clinic in case of any questions or concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential to maintain Mr. Parham's long-term health. The patient understands the importance of maintaining a healthy lifestyle, attending follow-up appointments, and seeking immediate medical attention if any concerning symptoms arise.
+
+Final Remarks:
+	I would like to express my appreciation for Mr. Parham's resilience throughout his treatment journey. His cooperation and adherence to the prescribed regimen have played a significant role in his successful recovery. This report is signed by Dr. Ann Burge on April 10, 2022, as validation of the provided documentation.

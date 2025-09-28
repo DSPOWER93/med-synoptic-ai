@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Gordon
+	•Date of Birth: 12/05/1980
+	•Medical Record Number: M1249
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Rodney Bathe
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Robert Gordon presented to the emergency department with a 3-month history of hematuria (blood in urine), urgency, and frequency. Initial assessment revealed no signs of abdominal or pelvic pain. Further investigation, including a computed tomography urogram (CTU) and cystoscopy, confirmed the presence of a large, invasive urothelial cell carcinoma in the bladder.
+
+Medical History:
+	Mr. Gordon's medical history was significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial right nephrectomy in 2015 due to renal cell carcinoma. His family history was unremarkable. Prior to admission, he was taking metformin, lisinopril, atorvastatin, and albuterol for his chronic conditions. He had a known allergy to penicillin.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) revealed high-grade urothelial carcinoma with invasive properties. Further imaging, such as a positron emission tomography (PET) scan, demonstrated no evidence of distant metastases.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Gordon. This included radical cystectomy with ileal conduit diversion, post-operative chemotherapy (MVAC regimen), and radiation therapy to the pelvic lymph nodes. The surgery was performed successfully without any complications. Post-operatively, Mr. Gordon was managed for pain, wound care, nutritional support, and prevention of thromboembolism.
+
+Hospital Course:
+	During his hospital stay, Mr. Gordon made a satisfactory recovery from surgery. He faced challenges with pain management and wound healing but responded well to adjustments in analgesics and dressings. His diabetes and hypertension were closely monitored and managed throughout the hospital course. He was also actively involved in physical therapy and occupational therapy sessions to regain strength and mobility.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Gordon will follow up with his oncologist every 3 months for the first year, then every 6 months thereafter. He will continue the MVAC chemotherapy regimen for a total of six cycles. His lifestyle will be modified to include a low-fat diet and regular exercise. It is essential that he recognizes any signs of complications such as fever, abdominal pain, or changes in urine output.
+
+Patient Education:
+	Mr. Gordon and his family were educated about the importance of adhering to the chemotherapy regimen, managing the ileal conduit, and recognizing signs of complications. They were instructed on proper wound care practices, hydration guidelines, and appropriate physical activity levels to promote healing and prevent recurrence.
+
+Discharge Instructions:
+	Mr. Gordon was discharged with instructions to continue his medications as prescribed, maintain a healthy diet, engage in regular exercise, and monitor his blood sugar and blood pressure levels. He was also provided wound care materials and given information about community resources for support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for bladder cancer varies depending on the stage at diagnosis. Regular monitoring for early detection of recurrence is crucial to ensure the best possible outcome. It is essential that Mr. Gordon maintains a healthy lifestyle, attends all follow-up appointments, and adheres to his treatment plan.
+
+Final Remarks:
+	We congratulate Mr. Robert Gordon on his successful surgery and commend him for his resilience and cooperation throughout this challenging journey. We look forward to supporting him in his recovery and beyond.

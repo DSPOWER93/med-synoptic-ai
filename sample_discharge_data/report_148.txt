@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Paula Woolsey
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M148
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. Lois Singletary
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Paula Woolsey, a 42-year-old male, presented to the emergency department complaining of persistent abdominal pain, weight loss, and changes in bowel habits for the past three months. Initial assessment revealed an abdominal mass, and subsequent imaging studies confirmed a large mass in the lower abdomen. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), supporting the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Woolsey had a past medical history significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and gastroesophageal reflux disease (GERD). He underwent appendectomy in 2015 due to appendicitis. His father had a history of colorectal cancer, and he was a non-smoker with no known drug allergies. Prior to admission, he was taking metformin, lisinopril, salmeterol, fluticasone, omeprazole, and simvastatin.
+
+Diagnostic Findings:
+	The results of the pathology report confirmed the presence of adenocarcinoma in the right colon. Imaging studies showed a large mass in the lower abdomen, with evidence of liver metastases. The CEA level was 15.2 ng/mL (normal range <5.0 ng/mL), and the LDH level was 397 U/L (normal range 140-280 U/L).
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Singletary, developed a comprehensive treatment plan for Mr. Woolsey. The plan included right hemicolectomy with primary anastomosis, systemic chemotherapy, and adjuvant radiation therapy. Post-operative care involved management of pain, wound infection prevention, and bowel function restoration. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, fluorouracil) for six cycles, and adjuvant radiation therapy was administered to the liver metastases.
+
+Hospital Course:
+	Mr. Woolsey underwent a right hemicolectomy on 04/10/2022. The initial post-operative course was uneventful; however, he developed an anastomotic leak on day 8, which required re-exploration and the creation of an ileal conduit. Following this complication, Mr. Woolsey required aggressive wound care, nutritional support, and management of pain. He responded well to treatment, and his condition gradually improved.
+
+Follow-Up Plan:
+	The follow-up plan included scheduled outpatient appointments every three months for the first year, then every six months thereafter. Mr. Woolsey was advised to continue taking metformin, lisinopril, salmeterol, fluticasone, and simvastatin. He was instructed to maintain a high-fiber diet, drink plenty of fluids, and engage in regular physical activity. Warning signs such as increased abdominal pain, fever, or changes in bowel habits required immediate medical attention.
+
+Patient Education:
+	Mr. Woolsey and his family were provided with detailed instructions on post-surgical care, including wound care practices, hydration, and physical activity guidelines. They were educated about the management of the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Woolsey was given a detailed discharge summary, medication list, and contact information for follow-up appointments. He was instructed to maintain a healthy lifestyle, follow the prescribed medication regimen, and report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Woolsey was favorable due to the aggressive treatment he received. Regular monitoring for early detection of recurrence is crucial in managing ongoing health issues.
+
+Final Remarks:
+	Dr. Singletary commended Mr. Woolsey on his resilience and cooperation throughout the treatment journey. The report was signed by Dr. Singletary and Paula Woolsey on 15/02/2022, validating the report's completion.

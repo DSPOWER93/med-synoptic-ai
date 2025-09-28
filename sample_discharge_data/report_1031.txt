@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Dawn Varner
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1031
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Nina Flores
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Dawn Varner, a 58-year-old male, was admitted to our hospital due to persistent hematuria and lower abdominal pain. Upon initial assessment, the patient presented with anemia, fatigue, and frequent urination. Extensive diagnostic investigations were conducted, including cystoscopy, computed tomography (CT), magnetic resonance imaging (MRI), and blood tests. The results indicated a large T3 tumor in his bladder, leading to the definitive diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Varner has a history of hypertension and diabetes mellitus type 2, for which he had been under regular medical care prior to admission. He also suffers from chronic obstructive pulmonary disease (COPD), requiring the use of inhalers on a daily basis. His family history is notable for colon cancer, with his father passing away from the disease at age 60. Mr. Varner had no known allergies and was taking metformin, amlodipine, salmeterol/fluticasone, and tiotropium before admission.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) procedure confirmed the presence of a moderately differentiated adenocarcinoma. The post-operative CT scan showed no evidence of metastasis, and the staging was T3N0M0. Blood tests revealed anemia with a hemoglobin level of 8.5 g/dL and a normal white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Varner. The primary intervention was radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy. Post-operative care involved pain management, wound care, and catheter removal. Chemotherapy consisted of a regimen of gemcitabine and cisplatin, with six cycles planned. Radiation therapy was not deemed necessary at this stage due to the absence of metastasis.
+
+Hospital Course:
+	Mr. Varner's post-surgery recovery proceeded satisfactorily, with challenges related to pain management and nutritional support during his first week. Therapy sessions were initiated to help strengthen his muscles and improve mobility. He was also provided with nutritional counseling and meal plans tailored to his condition and dietary restrictions. As the disease progression remained stable, Mr. Varner was able to manage his symptoms effectively with the help of medical staff.
+
+Follow-Up Plan:
+	Following discharge, Mr. Varner will undergo regular follow-up appointments every three months for the first year, and then every six months thereafter. He will continue taking metformin, amlodipine, and inhalers as prescribed. Lifestyle recommendations include quitting smoking and maintaining a balanced diet rich in fruits, vegetables, lean proteins, and whole grains. Warning signs requiring immediate medical attention include fever, abdominal pain, or any changes in urine color or quantity.
+
+Patient Education:
+	Mr. Varner and his family were educated about the ileal conduit, including care instructions for the new opening (stoma), recognizing potential complications such as leaks or blockages, and managing common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, Mr. Varner was given detailed written instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also advised to attend all scheduled follow-up appointments and to report any concerning symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Varner's ongoing health issues. The long-term outlook for bladder cancer patients who undergo radical cystectomy with adjuvant chemotherapy is generally favorable, with five-year survival rates ranging from 50% to 80%.
+
+Final Remarks:
+	This report concludes Dawn Varner's successful treatment journey. The resilience and cooperation exhibited by Mr. Varner throughout his treatment have been remarkable. I am confident that he will continue to make progress as he transitions back home and continues his follow-up care.

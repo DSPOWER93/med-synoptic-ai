@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Harry Brimer
+	•Date of Birth: 07/06/1985
+	•Medical Record Number: M1272
+	•Date of Admission: 01/05/2022
+	•Date of Discharge: 15/05/2022
+	•Attending Physician: Dr. Ann Morgan
+	•Primary Diagnosis: Adenocarcinoma of the Colon, Stage IIIB
+
+Reason for Admission:
+	Harry Brimer was admitted to the hospital following a rapid onset of symptoms including abdominal pain, unintended weight loss, and changes in bowel habits persisting over several weeks. On physical examination, a palpable mass was detected in the lower abdomen, and laboratory tests revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH). Subsequent computed tomography (CT) scan confirmed the presence of a large tumor in the colon with regional lymph node involvement.
+
+Medical History:
+	Harry Brimer has a history of hypertension, for which he was taking prescribed medication. He also had a recent diagnosis of type 2 diabetes and was managing his condition through diet and oral medications. His family history was significant for colorectal cancer in his father, who was diagnosed at the age of 60. Harry Brimer was not allergic to any known medications but reported an intolerance to iodine-based contrast agents due to a previous adverse reaction.
+
+Diagnostic Findings:
+	Pathology results from the colon resection confirmed the diagnosis of moderately differentiated adenocarcinoma with regional lymph node involvement. Imaging studies, including CT scans and magnetic resonance imaging (MRI), revealed a large tumor in the descending colon with involved regional lymph nodes. Additional tests, such as positron emission tomography (PET) scan, were used to assess the extent of disease spread. Blood tests showed elevated levels of CEA (25.6 ng/mL; reference range <5.0 ng/mL), LDH (389 U/L; reference range 140-270 U/L), and alkaline phosphatase (ALP) (160 U/L; reference range 40-129 U/L).
+
+Treatment Plan:
+	A multidisciplinary team of oncologists, surgeons, radiologists, and pathologists developed a comprehensive treatment plan for Harry Brimer. This included a partial colectomy, followed by a primary anastomosis or ileostomy creation (ileal conduit) based on the surgeon's assessment during surgery. Post-operative care involved pain management, prevention of post-operative complications, and monitoring for signs of recurrence. Harry Brimer was also scheduled to undergo adjuvant chemotherapy with a combination of FOLFOX (5-FU, leucovorin, oxaliplatin) to reduce the risk of disease recurrence.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Following discharge, Harry Brimer was scheduled for regular follow-up appointments every 3 months for the first year and then every 6 months thereafter. Blood tests were ordered to monitor CEA levels as an early indicator of disease recurrence. He was advised to continue his hypertension and diabetes medications, with close monitoring by his primary care physician. Lifestyle recommendations included maintaining a healthy diet, regular exercise, and avoiding excessive alcohol consumption.
+
+Patient Education:
+	Harry Brimer received thorough education on post-surgical care, including the management of the ileal conduit, recognizing signs of complications such as leakage, obstruction, or infection, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue. He was also provided information about the importance of maintaining a healthy lifestyle to improve overall health outcomes.
+
+Discharge Instructions:
+	Upon discharge, Harry Brimer received comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to continue taking his hypertension and diabetes medications as prescribed, maintain a healthy diet, engage in regular physical activity, and avoid lifting heavy objects or strenuous exercise for at least 4 weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Harry Brimer was guarded due to the advanced stage of his disease at diagnosis. However, with successful surgery, adjuvant chemotherapy, and regular monitoring, there is a chance for improved outcomes and increased survival. It is crucial that Harry Brimer maintains a close relationship with his oncology team to ensure early detection of any recurrence or complications.
+
+Final Remarks:
+	Dr. Ann Morgan expressed her appreciation for Harry Brimer's resilience throughout the treatment process and emphasized the importance of continued cooperation in managing his health moving forward. She signed the report along with Harry Brimer, validating this comprehensive documentation of his care journey.

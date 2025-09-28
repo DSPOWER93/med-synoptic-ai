@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Delores Long
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1191
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Sandra Bennett
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Delores Long, a 52-year-old male, presented to the emergency department with complaints of persistent lower abdominal pain, change in bowel habits, and unintentional weight loss over the past three months. The initial assessment revealed anemia, abdominal tenderness, and signs of obstruction. Further diagnostic investigations, including a colonoscopy, CT scan, and laboratory tests, confirmed the presence of colorectal cancer in the sigmoid colon with regional lymph node involvement (Delores Long).
+
+Medical History:
+	Mr. Long has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD) under control with medication. He had no known allergies and was not on any significant pre-admission medications. His family history was notable for colorectal cancer in his father at the age of 65.
+
+Diagnostic Findings:
+	The pathology report from the surgical resection revealed moderately differentiated adenocarcinoma with positive margins and lymphovascular invasion. The tumor was 10 cm in size, and thirteen out of thirty-one lymph nodes were found to be positive for cancer. Imaging scans showed no evidence of distant metastasis. Blood tests revealed anemia (Hb 9 g/dL) and elevated CEA levels (25 ng/mL).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Long. He underwent an elective sigmoid colectomy with regional lymph node dissection followed by a permanent ileal conduit formation. Post-operative care included pain management, wound care, and intravenous hydration. The patient was started on adjuvant chemotherapy (FOLFOX regimen) consisting of oxaliplatin, leucovorin, and fluorouracil with a plan for six cycles. The team also considered radiation therapy as an adjunct treatment based on the pathology report, but it was deferred due to the patient's poor pulmonary reserve.
+
+Hospital Course:
+	Mr. Long’s initial recovery from surgery was uneventful. He required minimal analgesia for pain control and showed good wound healing. The patient developed chemotherapy-related side effects, including nausea, vomiting, and peripheral neuropathy. These were managed effectively with medication and supportive care. Nutritional support was provided through a high-calorie diet and enteral feeding when needed.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments every three months for the first year, followed by six-monthly visits thereafter. Mr. Long will continue his medications (metformin, lisinopril, and inhaled bronchodilators) and undergo regular CEA levels monitoring to assess disease recurrence. A low-fiber diet is recommended, and the patient was instructed on how to manage his ileal conduit effectively.
+
+Patient Education:
+	The patient and his family were educated about post-surgical care, including wound care practices and hydration guidelines. They were also taught how to recognize signs of complications such as fever, increased abdominal pain, or changes in bowel habits. Common side effects of chemotherapy, like nausea and fatigue, were explained, and management strategies were discussed.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Long was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a written summary of his treatment plan and follow-up schedule.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Long's long-term health issues. The importance of lifestyle modifications, including quitting smoking (if applicable), maintaining a healthy diet, and regular exercise, was emphasized to improve his overall quality of life.
+
+Final Remarks:
+	Dr. Bennett commends Mr. Long for his resilience throughout the treatment journey and cooperation with the medical team. The report is signed by both Dr. Bennett and Mr. Long, dated April 15, 2022, validating the accurate documentation of Mr. Long's care.

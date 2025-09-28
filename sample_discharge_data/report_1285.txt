@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Enrique Alford
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1285
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 15-01-2023
+	•Attending Physician: Dr. Catherine Steffee
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Enrique Alford, a 37-year-old male, was admitted to the hospital following the discovery of a suspicious growth in his bladder during a routine check-up. Over the subsequent days, he experienced symptoms including pain and burning during urination, increased frequency of urination, and traces of blood in his urine. Upon admission, initial assessments revealed abnormalities in his urinalysis and cystoscopy results, which led to further diagnostic investigations.
+
+Medical History:
+	Mr. Alford has a history of hypertension and COPD, which were well-managed with medication before admission. He underwent a left nephrectomy five years ago due to kidney cancer. His family history is significant for bladder cancer in his father. He is allergic to penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of urothelial carcinoma in the bladder. Computed Tomography (CT) scans revealed a tumor measuring 4 cm in diameter, confined to the muscularis propria layer (T2). Magnetic Resonance Imaging (MRI) showed no evidence of lymph node involvement (N0), and there were no distant metastases (M0). Blood tests indicated anemia and elevated creatinine levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Alford, including radical cystectomy with ileal conduit diversion, post-operative chemotherapy, and radiation therapy. The surgery was successfully performed on [05-01-2023]. Post-operatively, he was managed in the Intensive Care Unit (ICU) for close monitoring due to his pre-existing conditions. He completed two cycles of adjuvant chemotherapy with Gemcitabine and Cisplatin, with manageable side effects including nausea and fatigue. Radiation therapy was deemed unnecessary given the early stage of the cancer.
+
+Hospital Course:
+	Mr. Alford's recovery from surgery was initially challenging due to complications related to his pre-existing conditions. However, he responded well to supportive care, which included antibiotics for an infection and fluid management for hydration. Physical therapy and occupational therapy played a crucial role in helping him regain mobility and independence. Nutritional support was also essential to aid in his recovery.
+
+Follow-Up Plan:
+	Mr. Alford will be scheduled for follow-up appointments every three months for the first two years, then every six months thereafter. He is to continue taking medication for hypertension and COPD and adjust his diet to promote overall health. Any signs of hematuria, pain during urination, or unexplained weight loss should be reported immediately to his healthcare provider.
+
+Patient Education:
+	Mr. Alford and his family were educated about the ileal conduit, including its function, care, and potential complications. They were also instructed on recognizing signs of infection, obstruction, or leakage. Common side effects such as urinary frequency, dehydration, and skin irritation around the stoma were discussed, along with strategies to manage them effectively.
+
+Discharge Instructions:
+	Mr. Alford was provided comprehensive discharge instructions focusing on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also advised to monitor his blood pressure and lung function regularly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing bladder cancer. Mr. Alford's prognosis is favorable given the early stage at diagnosis, but he must maintain a healthy lifestyle to optimize his long-term outlook.
+
+Final Remarks:
+	I commend Enrique Alford for his resilience and cooperation throughout this challenging treatment journey. His family has been a constant source of support during this time. I wish him the best in his continued recovery and future health.

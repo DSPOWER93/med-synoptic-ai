@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jennifer Thornton
+	•Date of Birth: 05/07/1980
+	•Medical Record Number: M158
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Pamela Sichler
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Jennifer Thornton was admitted to the hospital due to persistent hematuria, a symptom of blood in the urine, and recurrent urinary tract infections over the past six months. The initial assessment revealed an abdominal mass suspected to be of bladder origin. A series of diagnostic investigations, including CT scans, MRI, and cystoscopy with biopsy, confirmed a diagnosis of Jennifer Thornton (Jennifer Thornton Carcinoma).
+
+Medical History:
+	Mr. Thornton has a history of hypertension managed with medication. He was recently diagnosed with type 2 diabetes mellitus and was on oral hypoglycemic agents. Additionally, he has a family history of bladder cancer, with his father being a long-term survivor after treatment for the same condition. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of malignant cells in the biopsied tissue, while imaging scans indicated a large tumor occupying most of the bladder. Blood tests showed elevated creatinine levels, indicating kidney function impairment due to the tumor.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Thornton. He underwent radical cystectomy with ileal conduit diversion, followed by six cycles of chemotherapy (Gemcitabine and Cisplatin). Radiation therapy was not indicated due to the advanced stage of the cancer.
+
+Hospital Course:
+	Mr. Thornton's initial recovery from surgery was smooth, with no major complications. Post-operative care focused on pain management, wound healing, and monitoring kidney function. Challenges during his stay included managing diabetes and ensuring adequate nutrition due to loss of appetite. The role of physiotherapy and occupational therapy was crucial in helping Mr. Thornton regain strength and mobility.
+
+Follow-Up Plan:
+	After discharge, Mr. Thornton will be scheduled for regular outpatient appointments with his oncologist and urologist. He is to continue taking his prescribed medications (Antihypertensives, Antidiabetic drugs, and Analgesics) and make dietary adjustments as recommended by the nutritionist. Any signs of fever, increased pain, or difficulty passing urine should be reported immediately.
+
+Patient Education:
+	Mr. Thornton and his family were educated about the ileal conduit, its function, and care requirements. They were also instructed on recognizing signs of complications such as infection or blockage. Managing common side effects like fatigue, nausea, and neuropathy was also discussed.
+
+Discharge Instructions:
+	Upon discharge, Mr. Thornton was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence will be essential in managing Mr. Thornton's long-term health.
+
+Final Remarks:
+	Dr. Sichler concludes the report, commending Mr. Thornton's resilience and cooperation throughout his treatment journey. The report is signed by Dr. Sichler on [05/06/2022], validating the detailed documentation of Mr. Jennifer Thornton's medical history and treatment plan.

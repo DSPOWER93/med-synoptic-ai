@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Evangelina Meinhart
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1220
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. Arthur Zbell
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Meinhart was admitted to our facility due to increasing abdominal pain, changes in bowel habits, and unintended weight loss over the past three months. Upon initial assessment, he displayed signs of anemia and a palpable mass in the lower abdomen. Subsequent diagnostic investigations, including a colonoscopy, CT scan, and blood tests, confirmed the presence of a tumor in the colon and metastases to the liver.
+
+Medical History:
+	Mr. Meinhart has a history of hypertension, managed with medication, and chronic obstructive pulmonary disease (COPD), which is currently well-controlled through inhalers. He underwent appendectomy surgery in 2013. His family history is significant for colon cancer. Mr. Meinhart has a known allergy to penicillin and sulfa drugs. Before admission, he was taking ramipril, metoprolol, salmeterol, and fluticasone.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the colon. Imaging scans revealed a large tumor in the sigmoid colon with multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Meinhart. He underwent a laparoscopic sigmoid colectomy followed by an ileostomy creation. Post-operative care included management of pain, monitoring of vital signs, and prevention of post-surgical complications. A 6-month regimen of FOLFOX (oxaliplatin, fluorouracil, and leucovorin) chemotherapy was initiated, with the first cycle started on day 12 post-surgery. Radiation therapy was deemed unnecessary due to the extent of liver metastases.
+
+Hospital Course:
+	Mr. Meinhart's initial recovery from surgery was uneventful. However, he experienced nausea and vomiting during his first chemotherapy cycle, which were managed with antiemetics. He also developed an ileus that required bowel rest for a few days. Throughout his hospital stay, Mr. Meinhart received nutritional support through total parenteral nutrition (TPN). His pain was well-controlled with opioids and nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+Follow-Up Plan:
+	Mr. Meinhart will be scheduled for regular outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue taking ramipril and metoprolol, but his inhalers may be adjusted based on pulmonary function tests. A low-fiber, high-protein diet is recommended, along with maintaining good hydration and engaging in gentle physical activity as tolerated. Any signs of fever, abdominal pain, rectal bleeding, or increased ileostomy output should prompt an immediate medical consultation.
+
+Patient Education:
+	Mr. Meinhart and his family were educated about post-surgical care for the ileostomy, including emptying the appliance, changing the pouch, and managing potential complications such as blockage or leakage. They were instructed on recognizing signs of dehydration, electrolyte imbalances, and infections. The common side effects of chemotherapy, including fatigue, nausea, and neutropenia, were discussed, along with strategies to manage them.
+
+Discharge Instructions:
+	Upon discharge, Mr. Meinhart was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information about local support groups for colorectal cancer survivors and resources for managing emotional wellbeing during the recovery process.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Meinhart's long-term management. He will need to undergo CEA levels testing every three months initially, then every six months thereafter. Adherence to the prescribed treatment regimen and lifestyle modifications are essential factors in achieving optimal outcomes.
+
+Final Remarks:
+	Mr. Meinhart demonstrated remarkable resilience and cooperation throughout his treatment journey. I commend him for his strength and dedication to fighting this disease. I wish him continued recovery, good health, and the best of luck as he embarks on this new phase of life post-treatment.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Earl Goldson
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M107
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Nicolette Defazio
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Earl Goldson, a 52-year-old male, presented to our facility on March 15th with complaints of hematuria, persistent lower abdominal pain, and frequent urination. On admission, a thorough physical examination revealed no signs of abnormalities apart from slight abdominal tenderness. Initial laboratory investigations indicated anemia, elevated creatinine levels, and positive urinary cytology. Subsequent imaging tests including a CT scan and cystoscopy confirmed the presence of a bladder tumor.
+
+Medical History:
+	Mr. Goldson's past medical history includes hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His family history is significant for colon cancer, and he has known allergies to penicillin and iodine-based contrast agents. Prior to admission, Mr. Goldson was on metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and insulin aspart.
+
+Diagnostic Findings:
+	The pathology report from the excised bladder tumor confirmed a diagnosis of Transitional Cell Carcinoma (TCC). Imaging scans showed that the tumor had invaded the muscularis propria but had not spread beyond the bladder. Blood tests revealed elevated creatinine levels, indicating possible kidney dysfunction due to the tumor.
+
+Treatment Plan:
+	After a multidisciplinary discussion, it was decided that Mr. Goldson would undergo a radical cystectomy followed by an ileal conduit formation. Post-operative care included antibiotics, pain management, and fluid and electrolyte replacement. He was also started on adjuvant chemotherapy consisting of Gemcitabine and Cisplatin for four cycles, with regular monitoring for side effects such as nausea, vomiting, and nephrotoxicity. The decision to add radiation therapy was deferred due to the patient's pre-existing kidney dysfunction.
+
+Hospital Course:
+	Mr. Goldson's initial recovery from surgery was smooth. However, he developed a urinary tract infection 10 days post-surgery which was promptly treated with antibiotics. His diabetes and hypertension were well-managed through adjustments in his medications. Regular multidisciplinary meetings were held to discuss his progress, and he received physical therapy for mobility enhancement.
+
+Follow-Up Plan:
+	Mr. Goldson is scheduled for regular outpatient appointments every three months for the first year post-discharge, then six monthly thereafter. His medications will be continued, and the dosages of metformin and insulin may need adjustment based on his blood glucose levels. He has been instructed to maintain a low-fat, high-fiber diet, avoid heavy lifting, and perform daily exercises for wound healing and overall health maintenance. Any signs of bleeding, fever, or persistent pain should be reported immediately.
+
+Patient Education:
+	Mr. Goldson and his family were provided detailed information about the ileal conduit, its function, and care instructions. They were also educated about potential complications such as urinary tract infections, blockages, and leakage, and how to manage them. Common side effects of chemotherapy, including nausea and nephrotoxicity, were discussed, along with strategies for their management.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Goldson was provided with detailed written instructions on medication adherence, wound care practices, fluid intake, and physical activity guidelines. He was also reminded about the importance of regular follow-ups and monitoring for early detection of recurrence or complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence or metastasis. It's important to note that bladder cancer can have a high rate of recurrence, so maintaining a close watch on the patient's health will be essential.
+
+Final Remarks:
+	We commend Mr. Goldson for his courage and cooperation throughout this challenging journey. His resilience and positive attitude have played a significant role in his recovery. We look forward to seeing him on his follow-up appointments and wish him the best in his continued health maintenance.

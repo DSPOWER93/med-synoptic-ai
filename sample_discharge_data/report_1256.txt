@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lindsay Elliott
+	•Date of Birth: 01/10/1985
+	•Medical Record Number: M1256
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Dr. Davis
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, Lindsay Elliott, presented to our facility with persistent hematuria and increased frequency of urination. Upon initial assessment, a thorough physical examination revealed no abnormalities other than the symptoms reported. Further diagnostic investigations, including cystoscopy, biopsy, CT scan, and blood tests, confirmed the diagnosis of TCC of the bladder. The tumor was found to be moderately invasive, necessitating surgical intervention.
+
+Medical History:
+	Mr. Elliott has a history of hypertension and diabetes mellitus type 2, both of which are well-controlled with medication. He has a family history of colon cancer, and his father passed away due to the disease at the age of 65. Allergies include penicillin and iodine. Prior to admission, he was on medications including metformin, amlodipine, and lisinopril.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of moderately invasive TCC of the bladder. CT scan findings revealed a 4cm mass in the left lateral wall of the bladder with invasion into the muscularis propria. Blood tests showed mild anemia and increased creatinine levels, likely due to the tumor obstructing urine flow.
+
+Treatment Plan:
+	A multidisciplinary team was consulted, and a comprehensive treatment plan was developed. The primary intervention was a cystectomy with ileal conduit formation. Post-operative care included pain management, wound care, and bladder irrigation to prevent infection. The patient also underwent six cycles of chemotherapy (GCG) to reduce the risk of recurrence. Radiation therapy was not deemed necessary at this time.
+
+Hospital Course:
+	Mr. Elliott's recovery from surgery was initially challenging due to post-operative complications, including anastomotic leak and infection. However, with aggressive management, he made significant progress over the course of his stay. His nutritional status improved under the guidance of our dietitian, and physical therapy played a crucial role in his rehabilitation.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Elliott will be scheduled for regular outpatient appointments with his oncologist and urologist. He will continue on maintenance chemotherapy for the next year, and his medications will be adjusted as necessary to manage his comorbidities. A low-fat, high-fiber diet is recommended, along with daily exercise to maintain a healthy weight.
+
+Patient Education:
+	The patient and his family were provided comprehensive education on post-surgical care, including wound care practices, signs of complications such as fever or increased pain, and managing common side effects like fatigue and nausea. They were also instructed on the care and management of the ileal conduit.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Elliott was provided detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and managing ongoing health issues. Mr. Elliott's long-term prognosis will depend on the response to chemotherapy, adherence to lifestyle recommendations, and regular follow-up care.
+
+Final Remarks:
+	Mr. Elliott displayed remarkable resilience throughout his treatment journey. His cooperation and positive attitude have been instrumental in his recovery. We are confident that he will continue to do well with regular follow-up care and adherence to our recommendations.

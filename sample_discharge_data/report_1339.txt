@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Harvey Walker
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1339
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Erna Booth
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Harvey Walker, a 37-year-old male, presented to the emergency department complaining of persistent abdominal pain and rectal bleeding for the past three weeks. Upon initial assessment, he appeared weak and pale, with signs of dehydration. Laboratory tests revealed anemia, and abnormal carcinoembryonic antigen (CEA) levels. Further investigations including a computed tomography scan confirmed the presence of a large mass in the colon, along with several lymph nodes involvement.
+
+Medical History:
+	Mr. Walker's medical history was significant for hypertension and controlled diabetes mellitus type 2. He had no known allergies and was taking metoprolol, glipizide, and metformin before admission. His family history was notable for colorectal cancer in his father at the age of 65.
+
+Diagnostic Findings:
+	Pathology results from the colonoscopy and biopsy confirmed a moderately differentiated adenocarcinoma. The CT scan revealed a mass measuring approximately 7 cm in the transverse colon, with multiple enlarged lymph nodes in the mesocolon and along the inferior margin of the pancreas.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Walker, which included a right hemicolectomy, followed by 6 cycles of adjuvant chemotherapy (FOLFOX) and radiation therapy to the abdominal region to address potential micrometastases. Post-operative care focused on pain management, nutritional support, and bowel function recovery.
+
+Hospital Course:
+	Mr. Walker underwent a right hemicolectomy successfully, followed by an uneventful recovery. He was managed aggressively with fluid replacement to combat dehydration, pain control, and prevent post-operative complications. His nutritional status improved gradually, and he was discharged on appropriate dietary recommendations.
+
+Follow-Up Plan:
+	Mr. Walker's follow-up plan includes regular outpatient appointments with his oncologist and surgeon, monitoring of CEA levels, and adherence to the prescribed chemotherapy regimen for six cycles. He is advised to maintain a low-fiber diet and perform regular exercise as tolerated. Any signs of rectal bleeding, abdominal pain, or unexplained weight loss should be reported immediately.
+
+Patient Education:
+	Mr. Walker and his family were provided education on post-surgical care, including ileal conduit management, recognizing complications such as obstruction or leakage, and managing common side effects of chemotherapy like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Walker was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also provided with information on community resources for cancer support and follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Walker's long-term health. The prognosis for colorectal cancer patients with Stage III disease depends on the extent of resection, lymph node involvement, and adherence to adjuvant therapy.
+
+Final Remarks:
+	Dr. Erna Booth expressed her appreciation for Mr. Walker's resilience throughout his treatment journey and emphasized the importance of continued cooperation in ensuring optimal outcomes. Both physician and patient signed the report on 05/01/2023, validating the detailed documentation provided herein.

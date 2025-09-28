@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Richards
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1260
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 07/03/2023
+	•Attending Physician: Dr. Jennifer Griffin
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	James Richards, a 48-year-old male, presented to the emergency department complaining of persistent abdominal pain, bloating, and unintentional weight loss over the past two months. During the initial assessment, he was found to have an abdominal mass, rectal bleeding, and decreased appetite. The diagnostic workup consisted of a series of blood tests, a CT scan, and a colonoscopy, which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Richards has a history of hypertension, managed with lisinopril 10mg daily, and type II diabetes mellitus controlled with metformin 500mg twice daily. He underwent a left lower quadrant laparoscopic cholecystectomy in 2018 due to gallstones. His family history is significant for colorectal cancer, as his father was diagnosed at age 65 and passed away from the disease at 72. He has no known allergies and was not on any other medications before admission.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the descending colon with regional lymphadenopathy, while the colonoscopy showed an ulcerated tumor in the sigmoid colon. Pathology results confirmed the diagnosis of moderately differentiated adenocarcinoma. Blood tests indicated elevated levels of CA19-9 (270 U/ml) and CEA (5.6 ng/ml).
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Griffin, developed a comprehensive treatment plan for Mr. Richards. The plan included a laparoscopic sigmoid colectomy with primary anastomosis followed by adjuvant chemotherapy and radiation therapy to address the positive lymph nodes found on pathology. Post-operative care focused on pain management, bowel function recovery, and nutritional support.
+
+Hospital Course:
+	Mr. Richards underwent a successful laparoscopic sigmoid colectomy with primary anastomosis on 03/05/2023. His post-operative course was uneventful, and he regained normal bowel function by the third day after surgery. He received six cycles of FOLFOX (oxaliplatin, leucovorin, fluorouracil) chemotherapy, with the first cycle starting on 03/25/2023. Radiation therapy was administered concurrently, and completed by the end of April. Throughout his hospital stay, Mr. Richards received supportive care, including wound care, hydration, and pain management.
+
+Follow-Up Plan:
+	The follow-up plan for Mr. Richards includes monthly appointments with Dr. Griffin for the next six months to assess for any signs of recurrence or complications. He will also have a CT scan every three months for the first two years and annually thereafter. His metformin dose was reduced from 500mg twice daily to 500mg once daily due to potential interactions with chemotherapy agents. He has been instructed on managing his ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Patient Education:
+	
+
+Discharge Instructions:
+	Upon discharge, Mr. Richards was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to continue taking his pain medications as prescribed, monitor his incision site for signs of infection, maintain adequate hydration by drinking at least eight cups of fluid per day, and gradually increase his physical activity level as tolerated.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Stage III colorectal cancer is generally good when treated appropriately. Mr. Richards's adherence to the recommended treatment plan, regular follow-up appointments, and diligent self-care will be crucial in managing his ongoing health issues and ensuring early detection of any recurrence.
+
+Final Remarks:
+	Dr. Griffin would like to commend Mr. Richards on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of maintaining open communication with her team, adhering to the prescribed treatment plan, and seeking prompt medical attention for any concerns or questions that arise during the follow-up period. The date of this report is 07/03/2023, signed by Dr. Jennifer Griffin, M.D., and James Richards.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Barry Hart
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M163
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Miriam Windham
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Barry Hart, a 43-year-old male, was admitted to our facility on 03/15/2023 due to persistent abdominal pain, weight loss, and jaundice. Upon initial assessment, the patient presented with a palpable mass in the epigastric region, accompanied by a tender liver. The patient reported experiencing these symptoms for over two months, and they had progressively worsened in severity. Diagnostic investigations, including a CT scan of the abdomen, confirmed a large mass in the pancreas with obstructive jaundice.
+
+Medical History:
+	The patient has a history of hypertension, for which he was being managed on amlodipine and hydrochlorothiazide. He also had a previous history of asthma, for which he used an inhaler as needed. No significant family history of cancer was reported. The patient had undergone a cholecystectomy due to gallstones ten years ago. He did not report any known allergies and was not on any other medications prior to admission.
+
+Diagnostic Findings:
+	Following the admission, multiple diagnostic tests were conducted, including blood tests, an endoscopic retrograde cholangiopancreatography (ERCP), and a CT scan of the abdomen. The ERCP revealed a blocked common bile duct due to the pancreatic cancer, which was subsequently drained. The CT scan confirmed a large mass in the head of the pancreas, with local invasion and distant metastasis noted in the liver and lungs.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hart. After an extensive discussion with the patient and his family, a decision was made to proceed with a Whipple procedure (pancreaticoduodenectomy) followed by adjuvant chemotherapy. Post-operative care included management of ileus, pain control, and nutritional support. A chemotherapy regimen consisting of Gemcitabine and Abraxane was initiated, with the first cycle commencing on 04/01/2023. Given the presence of liver metastasis, radiation therapy was also considered, but the patient decided against it due to potential side effects.
+
+Hospital Course:
+	Mr. Hart underwent a successful Whipple procedure on 03/25/2023. His immediate recovery was satisfactory; however, post-operative complications such as anastomotic leakage and delayed gastric emptying were managed with appropriate interventions. The patient was also referred to physical therapy for mobility enhancement and respiratory therapy for asthma exacerbation. Nutritional support was provided through a combination of enteral feeding and dietary recommendations.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Hart. He will be scheduled for outpatient appointments every three months for the first year, then every six months thereafter. The patient will continue with Gemcitabine and Abraxane chemotherapy as prescribed, with regular monitoring of blood counts and liver function tests. Lifestyle modifications, including a healthy diet and regular exercise, are also recommended.
+
+Patient Education:
+	Mr. Hart and his family were educated about the nature of pancreatic cancer, the treatment options, and the importance of adhering to the prescribed medication regimen. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications such as bleeding or bowel obstruction, and managing common side effects like fatigue, neuropathy, and nausea were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Hart was given comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his weight regularly and report any sudden changes or unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence cannot be overstated. Mr. Hart will need to manage ongoing health issues, such as diabetes due to pancreas removal, effectively to improve his quality of life.
+
+Final Remarks:
+	In conclusion, Mr. Barry Hart displayed remarkable resilience throughout his treatment journey, cooperating fully with our team and adhering diligently to the prescribed regimen. We wish him the best in his continued recovery and hope for a brighter future ahead.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Debra Logue
+	•Date of Birth: 12/04/1980
+	•Medical Record Number: M1137
+	•Date of Admission: 05/05/2022
+	•Date of Discharge: 06/20/2022
+	•Attending Physician: Dr. Beth Mcmillin
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIB
+
+Reason for Admission:
+	Upon admission, Mr. Logue presented with severe abdominal pain, constipation, and unexplained weight loss over the past three months. Initial assessment revealed a distended abdomen and signs of obstruction. Subsequent diagnostic tests including abdominopelvic computed tomography (CT), colonoscopy, and carcinoembryonic antigen (CEA) blood test confirmed the presence of colorectal cancer. The tumor was located in the sigmoid colon, with evidence of regional lymph node involvement and distant metastasis to the liver.
+
+Medical History:
+	Mr. Logue has a history of hypertension and chronic obstructive pulmonary disease (COPD), for which he was on regular medications. He also has a family history of colorectal cancer, with his father diagnosed at the age of 65. Before admission, he was taking aspirin daily for cardiovascular prophylaxis, lisinopril for hypertension, and albuterol inhaler for COPD.
+
+Diagnostic Findings:
+	Pathology report from the surgical resection of the sigmoid colon revealed a moderately differentiated adenocarcinoma. The CT scan showed a large mass in the sigmoid colon, multiple enlarged lymph nodes, and several liver lesions suspicious for metastasis. CEA levels were elevated at 10.5 ng/mL (normal range < 5 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan consisting of surgical resection, chemotherapy, and radiation therapy. Mr. Logue underwent a partial colectomy with an ileal conduit formation on 05/12/2022. Post-operative care included pain management, wound care, and antibiotic therapy to prevent infection. He received adjuvant chemotherapy consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) every two weeks for a total of 12 cycles. Radiation therapy was also planned to address the liver metastasis after chemotherapy completion.
+
+Hospital Course:
+	Mr. Logue's recovery from surgery was smooth, with no significant post-operative complications. He faced challenges related to managing his bowel function with the ileal conduit and nutrition due to occasional nausea and loss of appetite. Throughout his hospital stay, he received supportive therapy for pain management, bowel management, and nutritional support.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Logue was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking aspirin daily for cardiovascular prophylaxis and lisinopril for hypertension. His CEA levels will be monitored regularly as a marker of disease progression. A low-fiber diet is recommended to manage his bowel function, and he was advised on signs of complications that require immediate medical attention.
+
+Patient Education:
+	Mr. Logue and his family were educated about the nature of colorectal cancer, treatment options, and the importance of adhering to the post-surgical care instructions. They were instructed on managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Before discharge, Mr. Logue was provided with comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a balanced diet, rich in fiber, and avoid constipating foods.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for long-term survival. Mr. Logue's follow-up plan includes close surveillance using imaging studies and tumor markers to assess disease progression.
+
+Final Remarks:
+	Dr. Beth Mcmillin expressed her appreciation for Mr. Logue's resilience throughout the treatment journey, emphasizing the importance of continued cooperation and adherence to the follow-up plan for optimal outcomes. Both the physician and patient have signed this report on 06/20/2022.

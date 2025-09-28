@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Juliana Strickland
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1015
+	•Date of Admission: 02/12/2022
+	•Date of Discharge: 05/15/2022
+	•Attending Physician: Dr. Wade Mihaly
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Juliana Strickland, presented with abdominal pain, persistent constipation, and unexplained weight loss over a period of three months. Upon initial assessment, signs of abdominal distension were noted. Diagnostic investigations including a colonoscopy, computed tomography (CT) scan, and blood tests confirmed the presence of colorectal cancer. The tumor was found to be in the sigmoid colon, with lymph node involvement and distant metastasis in the liver.
+
+Medical History:
+	Mr. Strickland has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy five years ago. His father passed away from colon cancer at the age of 65. Mr. Strickland is allergic to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, salmeterol/fluticasone, and albuterol.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of adenocarcinoma in the sigmoid colon. CT scan revealed a large mass in the sigmoid colon with multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Strickland, which included a partial colectomy with creation of an ileal conduit followed by six cycles of FOLFOX chemotherapy and radiation therapy to the liver metastases. The patient was closely monitored for complications such as anastomotic leakage, infection, and chemotherapy-induced myelosuppression.
+
+Hospital Course:
+	Mr. Strickland underwent a successful partial colectomy on 02/15/2022. Post-operative recovery was initially challenging due to complications such as anastomotic leakage, which were managed with conservative treatment and antibiotics. The patient responded well to the chemotherapy regimen, showing improvement in his symptoms and reduction of liver metastases as observed on follow-up scans.
+
+Follow-Up Plan:
+	Mr. Strickland will return for outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue on oral chemotherapy (capecitabine) and maintain his current medications for hypertension and COPD. A low-fiber diet is recommended, along with adequate fluid intake to ensure proper functioning of the ileal conduit. Any signs of fever, increased abdominal pain, or change in bowel habits require immediate medical attention.
+
+Patient Education:
+	Mr. Strickland and his family were provided education on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. They were also instructed on managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects of chemotherapy like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Strickland was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a booklet detailing the signs of complications and when to seek medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Strickland's long-term health. Lifelong follow-up care, including annual colonoscopies, will be necessary to monitor for any signs of disease progression or recurrence.
+
+Final Remarks:
+	Mr. Juliana Strickland demonstrated remarkable resilience and cooperation throughout his treatment journey. We are pleased to see him discharged in stable condition and wish him a swift and full recovery. Dr. Wade Mihaly, 05/15/2022.

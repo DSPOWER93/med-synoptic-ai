@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Paul Cutwright
+	•Date of Birth: 12/05/1980
+	•Medical Record Number: M157
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. April Kroll
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Mr. Cutwright was admitted to the hospital due to persistent abdominal pain, changes in bowel habits, and unexplained weight loss over the past three months. Initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests indicated anemia and elevated levels of carcinoembryonic antigen (CEA). Subsequent imaging studies confirmed the presence of a large tumor in the colon, with metastases to the liver.
+
+Medical History:
+	Mr. Cutwright has a history of hypertension and diabetes mellitus type II, both well-controlled with medications. He is a lifelong smoker with a 40-year pack-year history. His family history is significant for colorectal cancer in his father and brother. Mr. Cutwright underwent appendectomy for appendicitis at age 25. He has no known allergies, and before admission was taking metformin, lisinopril, and atorvastatin.
+
+Diagnostic Findings:
+	Pathology report from the excised tumor confirmed adenocarcinoma of the colon. Imaging scans, including computed tomography (CT) of the chest, abdomen, and pelvis, revealed a large primary tumor in the transverse colon, with multiple liver metastases. Blood tests showed anemia (hemoglobin 8 g/dL), elevated CEA (150 ng/mL), and slightly elevated liver function tests.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Cutwright, including a partial colectomy with ileostomy creation, adjuvant chemotherapy, and radiation therapy. Post-operative care involved management of pain, prevention and treatment of complications, and nutritional support. The chosen chemotherapy regimen was FOLFOX (folinic acid, fluorouracil, and oxaliplatin), with six cycles planned over the course of six months. Radiation therapy to the liver metastases was also considered, but due to Mr. Cutwright's overall health status, it was decided to defer this treatment until a later stage.
+
+Hospital Course:
+	Mr. Cutwright underwent partial colectomy with ileostomy creation on 02/05/2022. Post-operative recovery was challenging due to complications such as anastomotic leak and delayed bowel function return. However, with the help of the surgical team and intensive care unit staff, these issues were managed effectively. Throughout his hospital stay, Mr. Cutwright received close monitoring, pain management, nutritional support, and therapy to aid in recovery.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Cutwright will follow up with his oncologist every three months for the first year, then every six months thereafter. He will continue taking metformin and lisinopril, and atorvastatin will be resumed once his bowel function stabilizes. A low-fiber diet is recommended to minimize discomfort associated with the ileostomy. Mr. Cutwright should report any signs of fever, increased abdominal pain, bleeding from the ileostomy, or unexplained weight loss to his oncologist immediately.
+
+Patient Education:
+	Mr. Cutwright and his family were educated about colorectal cancer, the importance of regular screenings for early detection, and the role of lifestyle changes in reducing the risk of recurrence. Instructions on post-surgical care, managing the ileostomy, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea were provided.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cutwright was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also provided with a care plan detailing the follow-up schedule, as well as contact information for his oncologist's office in case of any concerns or emergencies.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Cutwright's long-term health. The five-year survival rate for Stage III colorectal cancer with adjuvant chemotherapy is approximately 60%, and Mr. Cutwright will require ongoing support and care throughout this process.
+
+Final Remarks:
+	Dr. Kroll commends Mr. Cutwright on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued follow-up, adherence to the care plan, and maintaining a positive attitude during this challenging time. The date of this report is 15/02/2022.

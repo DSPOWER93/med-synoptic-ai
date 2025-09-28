@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Roy Orr
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1255
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Dr. Miller
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Roy Orr presented to the emergency department with complaints of severe abdominal pain, nausea, and weight loss over the past two months. Initial assessments included a thorough physical examination, laboratory tests, and an abdominal CT scan. The results indicated a large, irregular mass in his pancreas, consistent with malignancy.
+
+Medical History:
+	Mr. Orr has a history of hypertension and chronic obstructive pulmonary disease (COPD). He underwent a partial lung resection for a benign tumor six years ago. His family history is significant for pancreatic cancer, with his mother being diagnosed at age 50. Mr. Orr has no known allergies and was on medications such as lisinopril, salmeterol, and fluticasone prior to admission.
+
+Diagnostic Findings:
+	Further diagnostic tests during his hospital stay included an endoscopic ultrasound (EUS) that confirmed the mass was infiltrating the surrounding tissues and had spread to several lymph nodes. The pathology report from the biopsy revealed a diagnosis of pancreatic adenocarcinoma, stage IIIB. His blood tests showed elevated CA 19-9 levels, consistent with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Orr. This included a distal pancreatectomy with en bloc total pancreaticojejunostomy, splenectomy, and regional lymph node dissection to remove the tumor and affected lymph nodes. Post-operative care involved management of pain, wound infection prevention, and nutritional support via a nasogastric tube. Chemotherapy with gemcitabine and capecitabine was initiated as adjuvant therapy, followed by concurrent chemoradiation therapy for six weeks.
+
+Hospital Course:
+	Mr. Orr's recovery from surgery was initially challenging due to post-operative complications such as anastomotic leakage and delayed gastric emptying. He received appropriate medical management, including antibiotics and fluid resuscitation. His condition gradually improved with the support of the hospital team, physical therapy, and dietitian services.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Orr will follow up with his oncologist every three months for the first two years, then every six months thereafter. His medications will be adjusted to control his hypertension and COPD symptoms. He was instructed on proper care of his ileal conduit, managing potential complications, and maintaining a low-fat diet to reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Orr and his family were provided with detailed information about his diagnosis, treatment options, and post-surgical care instructions. They were educated on recognizing signs of complications such as fever, increased abdominal pain, or changes in stool consistency. Common side effects from chemotherapy and radiation therapy, including fatigue, nausea, and diarrhea, were discussed, along with management strategies.
+
+Discharge Instructions:
+	Upon discharge, Mr. Orr was provided with detailed written instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations to aid his recovery.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer depends largely on the stage at diagnosis. Mr. Orr's current stage and successful surgical resection offer a relatively favorable prognosis, although regular monitoring is essential for early detection of recurrence.
+
+Final Remarks:
+	In conclusion, Mr. Roy Orr has shown remarkable resilience throughout his treatment journey. The attending physician commends his cooperation and wishes him a swift and successful recovery. Signed Dr. Dr. Miller, M.D., Date 05/01/2023. Signed Roy Orr, Date 05/01/2023.

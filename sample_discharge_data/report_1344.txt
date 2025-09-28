@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lucille Bennett
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1344
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Donna Balado
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Lucille Bennett was admitted to our facility due to persistent lower abdominal pain, unexplained weight loss, and changes in bowel habits. The initial assessment revealed an enlarged abdomen, decreased appetite, fatigue, and rectal bleeding. Subsequent diagnostic investigations, including a CT scan of the abdomen and pelvis, colonoscopy, and biopsy, confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Lucille Bennett has a significant medical history marked by hypertension and type 2 diabetes, both well-controlled with medication. He is a lifelong non-smoker but had been a social drinker until three years ago. His father died of colon cancer at age 65, and his mother passed away from breast cancer at age 70. John was taking metformin for his diabetes, lisinopril for hypertension, and aspirin as a preventive measure against cardiovascular disease.
+
+Diagnostic Findings:
+	The pathology report indicated moderately differentiated adenocarcinoma in the descending colon with lymph node involvement. The CT scan revealed a 5-cm mass in the descending colon, with multiple enlarged lymph nodes along the inferior mesenteric artery and celiac axis. Blood tests showed mild anemia (hemoglobin 10.2 g/dL), elevated carcinoembryonic antigen (CEA) level (7.5 ng/mL), and slightly high liver enzymes (AST 46 U/L, ALT 38 U/L).
+
+Treatment Plan:
+	After a multidisciplinary tumor board discussion, a treatment plan was developed for Lucille Bennett. This included a partial colectomy with primary anastomosis followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved monitoring for complications such as anastomotic leakage, infection, and delayed recovery. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) administered every two weeks for a total of 12 cycles. Radiation therapy was considered post-chemotherapy to reduce the risk of recurrence.
+
+Hospital Course:
+	Lucille Bennett underwent a successful partial colectomy on April 5, 2022. He experienced typical post-surgical complications, including pain, nausea, and decreased appetite. He received aggressive pain management and was discharged on April 13, 2022, when his symptoms were well-controlled. John's recovery at home has been challenging due to ongoing fatigue, but he is adhering to a prescribed exercise regimen to improve his strength and endurance.
+
+Follow-Up Plan:
+	Lucille Bennett will have follow-up appointments every three months for the first two years after discharge, followed by semi-annual visits thereafter. He will continue taking his medications (metformin and lisinopril) as prescribed, and aspirin will be resumed once he has recovered from surgery. His diet is to be low in fiber and high in protein to aid in recovery and reduce the risk of recurrence.
+
+Patient Education:
+	Lucille Bennett was educated about the importance of adhering to his medication regimen, maintaining a balanced diet, and engaging in regular physical activity. He was taught how to care for his ileal conduit (if needed), recognize signs of complications such as fever, increased abdominal pain, or unusual drainage from the stoma, and manage common side effects like nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Lucille Bennett was provided with detailed discharge instructions, including medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He is to maintain a high-protein, low-fiber diet and limit his activities until fully recovered.
+
+Prognosis and Long-Term Outlook:
+	The long-term outlook for Lucille Bennett remains guarded due to the aggressive nature of his cancer. Regular monitoring for early detection of recurrence is essential to improve his chances of survival.
+
+Final Remarks:
+	It was a pleasure working with Lucille Bennett throughout his treatment journey. His resilience and cooperation were remarkable, making our job as healthcare providers that much easier. We are confident that he will continue to do well in the coming months and years. Here's wishing him all the best for a speedy recovery and a healthy future.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Aaron Dunham
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1411
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Eric Barker
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Aaron Dunham presented to the emergency room complaining of hematuria and lower abdominal pain, which had been persistent over the past week. His initial assessment revealed no signs of distress or systemic illness, but a urinary tract infection was suspected due to the presence of blood in his urine. Further diagnostic tests were ordered, including a cystoscopy, CT scan, and urine culture, which confirmed the presence of bladder cancer.
+
+Medical History:
+	Mr. Dunham has a history of hypertension, for which he is currently on lisinopril 20mg daily. He also has a history of chronic obstructive pulmonary disease (COPD), which was exacerbated by his recent smoking habit. No significant family history of cancer was reported. He had undergone an appendectomy in 1998. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	The cystoscopy revealed a tumor occupying approximately one-third of the bladder lumen, with no evidence of local invasion or lymph node involvement (T3N0M0). CT scan findings were consistent with T3 disease, showing a mass in the bladder with adjacent muscle invasion but no regional lymphadenopathy. Blood tests showed slightly elevated creatinine levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Dunham, which included radical cystectomy followed by ileal conduit formation, six cycles of chemotherapy (GCB-08 regimen), and external beam radiation therapy to the pelvic area. Post-operative care focused on pain management, nutritional support, and monitoring for complications.
+
+Hospital Course:
+	Mr. Dunham underwent a successful radical cystectomy and ileal conduit formation on 03/01/2022. The post-operative period was managed with pain control, fluid and electrolyte balance, and nutritional support. He experienced some complications, including delayed wound healing and minor urinary tract infections, but these were managed effectively.
+
+Follow-Up Plan:
+	Mr. Dunham will have scheduled outpatient appointments every three months for the first year post-discharge, then every six months thereafter. He will continue with his current hypertension medication and will need to adjust his dosage based on blood pressure readings. A low-fat diet is recommended to reduce the risk of recurrence and support overall health.
+
+Patient Education:
+	Mr. Dunham was educated about the importance of following a healthy lifestyle, including quitting smoking, maintaining a balanced diet, and engaging in regular physical activity. He was instructed on post-surgical care for his ileal conduir, including emptying it regularly, monitoring for signs of complications such as infection or blockage, and managing common side effects like fatigue and changes in bowel habits.
+
+Discharge Instructions:
+	Upon discharge, Mr. Dunham was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to monitor his blood pressure regularly and report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Dunham's long-term health. Lifelong follow-up is recommended, as bladder cancer patients are at increased risk of developing new primary cancers.
+
+Final Remarks:
+	In conclusion, Mr. Aaron Dunham demonstrated remarkable resilience and cooperation throughout his treatment journey for bladder cancer. We appreciate his commitment to his health and look forward to supporting him in his continued recovery.

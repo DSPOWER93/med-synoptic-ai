@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Victor Treuter
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1194
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/22/2022
+	•Attending Physician: Dr. Maria Golson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Victor Treuter presented to the emergency department complaining of severe abdominal pain, constipation, and unexplained weight loss over the past three months. A thorough physical examination revealed a mass in the lower abdomen, followed by further investigations including a computed tomography (CT) scan and colonoscopy that confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Treuter has a significant medical history, with chronic conditions such as hypertension, diabetes, and Chronic Obstructive Pulmonary Disease (COPD). He has undergone multiple surgeries in the past, including a laparoscopic gallbladder removal and a hysterectomy. His family history is notable for colorectal cancer, with his father and grandfather both having been diagnosed at similar ages. Mr. Treuter is allergic to penicillin and certain anesthetics. He was taking medications for his hypertension, diabetes, and COPD before admission.
+
+Diagnostic Findings:
+	Pathology reports from the colonoscopy and surgical excision confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. The CT scan revealed multiple liver metastases, indicating the Stage III disease. Blood tests showed elevated levels of carcinoembryonic antigen (CEA), a tumor marker associated with colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Treuter, which included a low anterior resection surgery to remove the primary tumor and affected lymph nodes followed by post-operative care. He was also scheduled to undergo six cycles of adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, fluorouracil, and leucovorin) to reduce the risk of recurrence. Radiation therapy was initially considered but ultimately deemed unnecessary due to the extensive liver metastases.
+
+Hospital Course:
+	After the surgery, Mr. Treuter experienced some complications related to anastomotic leakage and ileus, which were managed with additional procedures and supportive care. He received nutrition through a nasogastric tube during this period. His diabetes and hypertension were well-controlled throughout his stay. Regular follow-ups with the oncology team and therapists helped him regain strength and mobility.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Treuter will continue with regular outpatient appointments with his oncologist, surgeon, and endocrinologist to monitor his health status and manage ongoing issues. He will also undergo CEA tests every three months for early detection of recurrence. Lifestyle modifications including a balanced diet, regular exercise, and smoking cessation are strongly recommended.
+
+Patient Education:
+	Mr. Treuter and his family were educated about the importance of adhering to the medication regimen, managing potential side effects such as neuropathy, diarrhea, and fatigue, and recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits. Instructions were provided on post-surgical care, including ileal conduit management, hydration guidelines, and wound care practices.
+
+Discharge Instructions:
+	Upon discharge, Mr. Treuter was given detailed instructions on medication adherence, wound care practices, proper hydration, and physical activity guidelines. He was also advised to avoid heavy lifting and contact sports for several weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Treuter's long-term management. His oncologist emphasized the importance of maintaining a healthy lifestyle and attending all scheduled appointments to optimize his chances of recovery.
+
+Final Remarks:
+	Dr. Maria Golson commended Mr. Treuter for his resilience and cooperation throughout his treatment journey, expressing confidence in his ability to overcome this challenging experience. The report was signed by both the physician and patient on April 22, 2022.

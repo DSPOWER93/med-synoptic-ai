@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Shelly
+	•Date of Birth: 03/15/1980
+	•Medical Record Number: M110
+	•Date of Admission: 01/25/2022
+	•Date of Discharge: 02/16/2022
+	•Attending Physician: Dr. Wesley Shelly
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Robert Shelly was admitted to our institution following a series of persistent and troublesome haematuria episodes over several weeks. The severity of these episodes increased significantly during the preceding week, accompanied by abdominal pain and weight loss. An initial evaluation, including urine analysis, revealed the presence of blood and signs of infection. A computed tomography (CT) scan was ordered to further investigate these findings, which ultimately led to the detection of a mass within Robert's bladder. The severity and rapid progression of his symptoms necessitated urgent surgical intervention.
+
+Medical History:
+	Robert has a history of hypertension, for which he has been taking lisinopril 10mg daily. He was also recently diagnosed with type 2 diabetes mellitus and is currently on metformin 500mg twice daily. Additionally, he has a family history of cancer, as his father died from colon cancer at the age of 64. Robert has no known allergies and has not undergone any major surgeries in the past.
+
+Diagnostic Findings:
+	A CT scan confirmed the presence of a large mass within Robert's bladder, with signs of invasion into the muscular wall. Pathology results from the excision biopsy revealed a diagnosis of Transitional Cell Carcinoma (TCC) of the bladder. Blood tests conducted upon admission showed elevated creatinine and urea levels, indicative of potential kidney dysfunction due to the tumor.
+
+Treatment Plan:
+	After thorough discussion with our multidisciplinary team, a radical cystectomy was performed, followed by an ileal conduit diversion procedure. Post-operatively, Robert underwent six cycles of chemotherapy using gemcitabine and cisplatin to reduce the risk of recurrence. He also received radiation therapy to target any remaining cancer cells in the pelvic region.
+
+Hospital Course:
+	During his hospital stay, Robert experienced some post-operative complications, including a delayed recovery from anesthesia and a brief episode of atrial fibrillation. These were successfully managed through supportive care and medication adjustments. His nutrition was closely monitored, and he was provided with enteral feeding for several days due to nausea and loss of appetite. Throughout his stay, Robert displayed an impressive resilience and positive attitude, working diligently with our therapy team to regain strength and mobility.
+
+Follow-Up Plan:
+	Upon discharge, Robert will be scheduled for regular outpatient appointments at the cancer center. He will continue taking metformin 500mg twice daily but will temporarily suspend his lisinopril as his blood pressure has been well-controlled during his stay. A low-sodium diet is recommended to manage his hypertension post-discharge. Robert will also be provided with instructions on managing the ileal conduir, recognizing signs of complications such as infections or obstructions, and managing common side effects of chemotherapy, including nausea and fatigue.
+
+Patient Education:
+	During his hospital stay, Robert and his family were educated on the nature of TCC, the rationale behind the chosen treatment plan, and the potential side effects he may experience. Instructions were provided on post-surgical care for the ileal conduit, including irrigation techniques and signs of complications to watch for.
+
+Discharge Instructions:
+	Prior to discharge, Robert was given detailed instructions regarding his medications, wound care practices, hydration, and physical activity guidelines. He was also provided with a list of contact numbers for our cancer center in case of any questions or concerns post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Robert's long-term health. He will be closely followed up by our team to ensure optimal management of his ongoing health issues.
+
+Final Remarks:
+	We are pleased to report that Robert has successfully completed his treatment journey thus far and has demonstrated remarkable resilience and cooperation throughout this process. We wish him a swift recovery and a return to good health.

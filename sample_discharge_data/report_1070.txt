@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Angelina Veil
+	•Date of Birth: 12/05/1978
+	•Medical Record Number: M1070
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 03/20/2023
+	•Attending Physician: Dr. Andra Maranda
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Angelina Veil was admitted to the hospital following persistent symptoms of hematuria, frequent urination, and low back pain. A thorough initial assessment revealed a palpable abdominal mass and a distended bladder on ultrasound imaging. Subsequent cystoscopy and biopsy confirmed the diagnosis of transitional cell carcinoma of the bladder. The tumor was found to be moderately aggressive, with involvement of both the bladder wall and adjacent tissues.
+
+Medical History:
+	Angelina Veil has a history of hypertension, which is well-controlled with lisinopril 10mg daily. He also has a family history of colon cancer; his father was diagnosed at the age of 65. There were no known allergies, and he was taking no other medications prior to admission.
+
+Diagnostic Findings:
+	Diagnostic tests conducted during Angelina Veil's hospital stay included cystoscopy, biopsy, CT scan, MRI, and blood tests. The pathology report confirmed the diagnosis of transitional cell carcinoma. Imaging scans showed a large tumor in the bladder with local invasion. Blood tests revealed elevated levels of creatinine and white blood cells, indicative of kidney dysfunction and inflammation.
+
+Treatment Plan:
+	The treatment plan for Angelina Veil was developed by a multidisciplinary team including surgeons, oncologists, urologists, and radiation therapists. After a thorough discussion with the patient and his family, a radical cystectomy with ileal conduit creation was decided. Post-operative care included antibiotics for infection prevention, pain management, and nutritional support. A chemotherapy regimen consisting of gemcitabine and cisplatin was initiated, followed by radiation therapy to the pelvic region.
+
+Hospital Course:
+	Following the surgical intervention, Angelina Veil's recovery was initially challenging due to post-operative complications such as urinary tract infection and delayed wound healing. However, with close monitoring, aggressive treatment of infections, and nutritional support, he gradually improved. Regular checkups by the medical team ensured that his kidney function was maintained throughout the hospital stay.
+
+Follow-Up Plan:
+	Upon discharge, Angelina Veil was scheduled for regular follow-up appointments with his oncologist and urologist every three months for the first year, then every six months thereafter. He was advised to continue taking lisinopril as well as the prescribed chemotherapy medications. Lifestyle modifications included a low-sodium diet and avoiding heavy lifting or strenuous activity. Any signs of infection, abdominal pain, or changes in urination patterns were emphasized as potential warning signs requiring immediate medical attention.
+
+Patient Education:
+	Angelina Veil and his family were provided with extensive education on post-surgical care, including how to manage the ileal conduit, recognize signs of complications, and manage common side effects such as fatigue, nausea, and diarrhea. Instructions on wound care practices, maintaining hydration, and appropriate physical activity were also provided.
+
+Discharge Instructions:
+	Prior to discharge, Angelina Veil was given detailed discharge instructions emphasizing the importance of medication adherence, proper wound care, adequate hydration, and gentle physical activity. He was advised to schedule follow-up appointments as recommended by his medical team.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing bladder cancer. Angelina Veil was informed about the importance of maintaining a healthy lifestyle, attending all scheduled appointments, and reporting any concerning symptoms promptly.
+
+Final Remarks:
+	The attending physician, Dr. Andra Maranda, commended Angelina Veil for his resilience and cooperation throughout his treatment journey. She emphasized the importance of continued adherence to his treatment plan and regular follow-up appointments in ensuring the best possible outcome. Both Angelina Veil and Dr. Maranda signed and dated the report, marking the conclusion of this phase of treatment.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Cindy Walker
+	•Date of Birth: Redacted for privacy
+	•Medical Record Number: M106
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. John Brackenridge
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Mr. Walker was admitted to the hospital following the discovery of a tumor in his bladder during routine imaging tests. He presented with symptoms including painful and frequent urination, hematuria (blood in urine), and dysuria (painful urination). Initial assessments included a thorough physical examination, blood tests, and further imaging studies. These investigations confirmed the presence of a 4cm tumor in the bladder, suggesting stage T2 bladder cancer without regional lymph node involvement (N0) or distant metastasis (M0).
+
+Medical History:
+	Mr. Walker has a history of hypertension and type 2 diabetes mellitus, both well-controlled through medication. He underwent appendectomy at the age of 30 due to an appendicitis. He has no significant family history of cancer but is a lifelong smoker. His past medication regimen included ACE inhibitors for hypertension and metformin for diabetes.
+
+Diagnostic Findings:
+	Further diagnostic investigations included transurethral resection of bladder tumor (TURBT), cystoscopy, computed tomography urography (CTU), positron emission tomography-computed tomography (PET-CT) scan, and urine cytology. The TURBT provided a definitive diagnosis of transitional cell carcinoma, and the CTU and PET-CT scans confirmed no evidence of regional lymph node involvement or distant metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Walker. He underwent transurethral resection of bladder tumor (TURBT) as an initial procedure, followed by radical cystectomy with ileal conduit diversion and lymph node dissection. Post-operative care included management of pain, fluid balance, and nutritional support. He was also scheduled for a course of adjuvant chemotherapy (GCG regimen) consisting of Gemcitabine and Cisplatin every 3 weeks for six cycles, with management strategies in place to mitigate side effects such as nausea, vomiting, and renal dysfunction.
+
+Hospital Course:
+	Mr. Walker's initial recovery from surgery was uneventful, with controlled pain levels, adequate hydration, and normal electrolyte balance. He received physical therapy to improve mobility and prevent complications such as deep vein thrombosis (DVT). Nutritional support was provided through a dietitian-prescribed high-protein, low-fat meal plan. Throughout the hospital stay, the focus remained on managing his disease and ensuring a smooth transition to home care.
+
+Follow-Up Plan:
+	Mr. Walker will be following up with an oncologist every three months for the first year post-treatment, then every six months thereafter. He will continue taking metformin for diabetes management but will discontinue his ACE inhibitor due to potential interactions with chemotherapy medications. Lifestyle modifications include quitting smoking and maintaining a healthy diet and exercise regimen. He has been provided education on managing the ileal conduit, recognizing signs of complications, and strategies to manage common side effects such as fatigue, nausea, and diarrhea.
+
+Patient Education:
+	Mr. Walker and his family were extensively educated about bladder cancer, treatment options, and the importance of a healthy lifestyle post-treatment. They received instruction on post-surgical care, recognizing signs of complications such as infection or leaks, and managing common side effects associated with chemotherapy.
+
+Discharge Instructions:
+	Mr. Walker was discharged with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to maintain a healthy diet focused on high-protein, low-fat foods, avoid heavy lifting or strenuous activities, and report any signs of infection or complications immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Walker's long-term health. A focus on maintaining a healthy lifestyle post-treatment will play a crucial role in ensuring the best possible outcomes.
+
+Final Remarks:
+	Dr. Brackenridge concludes this report, expressing admiration for Mr. Walker's resilience and cooperation throughout his treatment journey. The attending physician and patient have both signed the report on 15/01/2022 to validate its contents.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Christopher Lambert
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M149
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Danial Barnes
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Christopher Lambert was admitted to the hospital after experiencing persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss over the past two months. Upon initial assessment, he appeared weak and lethargic. Further diagnostic investigations, including a CT scan, revealed a large mass in his colon, along with multiple lymph nodes showing signs of metastasis.
+
+Medical History:
+	Christopher Lambert has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone a cholecystectomy in 2015 due to gallstones. His family history is significant for colorectal cancer. He has a known allergy to penicillin and contrast agents. Prior to admission, John was taking metformin, lisinopril, salmeterol/fluticasone, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of a moderately differentiated adenocarcinoma in the colon. CT scan results indicated the tumor's size to be approximately 7 cm with metastasis to several lymph nodes. Blood tests showed an elevated CA-125 level, suggesting possible peritoneal involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Christopher Lambert that included a right hemicolectomy with primary anastomosis, followed by six cycles of FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) chemotherapy. Radiation therapy was considered but deferred due to potential complications given John's COPD.
+
+Hospital Course:
+	Post-surgery, Christopher Lambert's recovery was initially challenging due to postoperative ileus. However, with aggressive management of pain and nutritional support, he made steady progress. Throughout his hospital stay, John received regular oncology consultations, physical therapy sessions, and nutritional counseling.
+
+Follow-Up Plan:
+	Christopher Lambert will be scheduled for follow-up appointments every three months for the first year post-discharge, then every six months thereafter. His medications will continue as prescribed, with a focus on managing his underlying conditions and minimizing chemotherapy side effects. He is advised to maintain a balanced diet rich in fruits, vegetables, lean proteins, and whole grains.
+
+Patient Education:
+	Christopher Lambert and his family were educated about the importance of post-surgical care, particularly the management of the ileal conduit. They were instructed on recognizing signs of complications such as fever, abdominal pain, and changes in bowel habits. Common side effects of chemotherapy, including fatigue, nausea, and diarrhea, were discussed and managed accordingly.
+
+Discharge Instructions:
+	Upon discharge, Christopher Lambert was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for further support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial to detect any recurrence at an early stage. Christopher Lambert is advised to maintain a healthy lifestyle, including regular exercise and stress management techniques.
+
+Final Remarks:
+	Dr. Danial Barnes concludes this report, commending Christopher Lambert for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continuity of care and encourages John to maintain open communication with his healthcare team. Signed Dr. Danial Barnes, March 31, 2022.

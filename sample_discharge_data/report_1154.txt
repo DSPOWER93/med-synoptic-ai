@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Andrew Kennedy
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1154
+	•Date of Admission: 01/05/2022
+	•Date of Discharge: 05/06/2022
+	•Attending Physician: Dr. Charles Matos
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Andrew Kennedy, was admitted to our facility on the 01/05/2022 after experiencing persistent abdominal pain, bloating, and changes in bowel habits for over a month. An initial assessment revealed signs of potential obstruction, prompting further diagnostic investigations. A computed tomography (CT) scan confirmed the presence of a large tumor in his colon, which was subsequently biopsied to confirm a diagnosis of colorectal cancer (Andrew Kennedy).
+
+Medical History:
+	Mr. Kennedy has a significant medical history that includes hypertension and COPD, for which he had been under the care of several specialists prior to admission. He also suffered from diabetes mellitus type 2, requiring insulin therapy. His family history was notable for colon cancer in his father at an early age. Prior surgeries included a cholecystectomy and appendectomy. Mr. Kennedy was allergic to penicillin and sulfa drugs. He was on several medications, including metformin, lisinopril, insulin, albuterol inhaler, and ipratropium bromide inhaler.
+
+Diagnostic Findings:
+	Diagnostic tests during the hospital stay included a colonoscopy, CT scan, magnetic resonance imaging (MRI), and pathology reports from the biopsied tumor tissue. The CT scan revealed a large mass in the descending colon with multiple enlarged lymph nodes in the mesocolon. The MRI further delineated the extent of the lesion and the involvement of surrounding tissues. Pathology reports confirmed the presence of adenocarcinoma cells within the biopsied tissue. Blood tests revealed elevated carcinoembryonic antigen (CEA) levels, consistent with colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Kennedy. This included a partial colectomy, followed by an ileo-rectal anastomosis to reconnect the remaining portions of his intestine. Post-operative care involved pain management, monitoring for complications such as infection or bleeding, and ensuring proper bowel function. A chemotherapy regimen was initiated, consisting of Folfox (5-FU, leucovorin, and oxaliplatin) cycles, to eradicate any remaining cancer cells and reduce the risk of recurrence. Radiation therapy was considered but ultimately deferred due to potential complications given his lung condition.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Upon discharge, Mr. Kennedy was scheduled for regular follow-up appointments with his oncologist, surgeon, and primary care physician. He was to continue the prescribed chemotherapy regimen, adjusting the dosage as necessary based on his response and tolerance. Dietary recommendations emphasized a high-fiber diet and adequate hydration to promote bowel function and overall health. Lifestyle modifications included regular exercise and smoking cessation if applicable. Warning signs requiring immediate medical attention included fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	Mr. Kennedy and his family were educated about the importance of post-surgical care, including wound care practices, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, nausea, and fatigue. They were also taught how to monitor CEA levels through blood tests to help detect any potential recurrence at an early stage.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Kennedy was provided with detailed discharge instructions that emphasized medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take his medications as prescribed, maintain a healthy diet, engage in regular exercise, and attend all scheduled follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Kennedy's long-term health. He was advised to be vigilant about any changes in his symptoms or laboratory values, such as elevated CEA levels or anemia. Managing ongoing health issues, such as hypertension and diabetes, will also play a significant role in his overall prognosis.
+
+Final Remarks:
+	Mr. Kennedy demonstrated remarkable resilience throughout his treatment journey, demonstrating great cooperation and adherence to our recommendations. We are confident that he will continue to recover well post-discharge with the support of his family and our healthcare team.

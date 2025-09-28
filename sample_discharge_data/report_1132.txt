@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kent Spencer
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1132
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Jessica Carter
+	•Primary Diagnosis: Colorectal Cancer, Stage IIIA
+
+Reason for Admission:
+	Kent Spencer was admitted to the hospital due to persistent abdominal pain and rectal bleeding that had been ongoing for approximately two months. The patient's initial assessment revealed a distended abdomen, low-grade fever, and anemia. Subsequent diagnostic investigations included a complete blood count (CBC), computed tomography (CT) scan of the abdomen and pelvis, and colonoscopy. These tests confirmed the presence of a tumor in the descending colon, with multiple lymph nodes involvement.
+
+Medical History:
+	Kent Spencer has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2016. John's father passed away from colorectal cancer at the age of 65. He is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	The CBC showed a hemoglobin level of 9 g/dL (normal range 13.5-17.5 g/dL), white blood cell count of 10,200 cells/μL (normal range 4,500–11,000 cells/μL), and platelet count of 200,000 cells/μL (normal range 150,000-450,000 cells/μL). The CT scan revealed a large mass in the descending colon with multiple enlarged lymph nodes. The pathology report from the colonoscopy confirmed the diagnosis of adenocarcinoma of the colon.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Kent Spencer. This included partial colectomy, ileostomy creation, and adjuvant chemotherapy with FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) regimen. Radiation therapy was not deemed necessary in this case due to the absence of distant metastases.
+
+Hospital Course:
+	Kent Spencer underwent a successful partial colectomy on March 28, 2023. He experienced post-operative complications such as atrial fibrillation and anastomotic leakage. These were promptly managed with appropriate medical interventions and pharmacotherapy. The patient received the first cycle of FOLFOX chemotherapy on April 10, 2023.
+
+Follow-Up Plan:
+	Kent Spencer is scheduled for regular follow-up appointments every three months for the first two years post-treatment, then every six months thereafter. He will continue taking metformin and lisinopril, while his COPD medications will be adjusted as needed. A low-fiber, high-protein diet is recommended to minimize bowel discomfort related to the ileostomy.
+
+Patient Education:
+	Kent Spencer and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea, fatigue, and neuropathy.
+
+Discharge Instructions:
+	Kent Spencer was discharged with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Kent Spencer is favorable, as he underwent complete resection of the primary tumor with negative margins. Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues such as hypertension and diabetes.
+
+Final Remarks:
+	Dr. Jessica Carter concludes this report by expressing her appreciation for Kent Spencer's resilience and cooperation throughout his treatment journey. She emphasizes the importance of adhering to the follow-up plan and maintaining a positive attitude in the face of this challenging diagnosis. The report is signed by both Dr. Jessica Carter and Kent Spencer on April 20, 2023.

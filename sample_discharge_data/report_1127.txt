@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Cara Quarles
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1127
+	•Date of Admission: 04/01/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Richard Hardy
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Cara Quarles, a 52-year-old male, presented to our facility with complaints of abdominal pain, rectal bleeding, and a change in bowel habits over the past six months. Upon initial assessment, he appeared pale, weak, and dehydrated. Abdominal examination revealed a palpable mass, and laboratory tests indicated anemia and elevated carcinoembryonic antigen (CEA) levels. Further diagnostic investigations, including a computed tomography (CT) scan and colonoscopy, confirmed the presence of a large, invasive colorectal tumor.
+
+Medical History:
+	Mr. Quarles had a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a left lower lobe resection due to lung cancer six years prior. He was allergic to penicillin and sulfa drugs. His pre-admission medications included metformin, lisinopril, atorvastatin, albuterol inhaler, and tiotropium bromide inhaler.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed adenocarcinoma of the sigmoid colon. The CT scan showed the tumor invading adjacent organs and multiple lymph nodes, suggesting a Stage III colorectal cancer. Blood tests revealed anemia (hemoglobin 8 g/dL), elevated CEA levels (10 ng/mL), and high lactate dehydrogenase (LDH) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Quarles, which included a right hemicollectomy with an ileal conduit formation. Post-operative care involved wound management, pain control, and nutritional support. He was also scheduled to undergo six cycles of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) chemotherapy to reduce the risk of recurrence. Due to the extent of the tumor, radiation therapy was not deemed necessary at this time.
+
+Hospital Course:
+	Mr. Quarles underwent a successful surgical intervention on [Date]. He initially faced challenges with pain management and wound healing but responded well to adjustments in his analgesia regimen and wound care protocols. He received intensive care for nutrition and fluid management. The disease was managed effectively during his hospital stay, with regular monitoring of CEA levels and CT scans.
+
+Follow-Up Plan:
+	Mr. Quarles will be scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He is to continue taking metformin, lisinopril, atorvastatin, albuterol inhaler, and tiotropium bromide inhaler. He will also need to adjust his diet to include high-fiber foods and maintain adequate hydration. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, rectal bleeding, or changes in bowel habits.
+
+Patient Education:
+	Mr. Quarles and his family were educated about the importance of regular follow-ups, early detection of recurrence, and managing ongoing health issues associated with diabetes and COPD. They were also instructed on post-surgical care for the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy such as nausea, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Quarles was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for support and additional information about colorectal cancer and its management.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Quarles is favorable due to the complete removal of the tumor, but regular monitoring for early detection of recurrence is crucial. Mr. Quarles was encouraged to maintain a positive attitude and adhere strictly to his follow-up plan and lifestyle modifications.
+
+Final Remarks:
+	Dr. Richard Hardy noted Mr. Quarles's resilience throughout the treatment journey and commended him for his cooperation. The report is signed by both Dr. Hardy and Mr. Quarles, validating the contents on [Date]. We wish Mr. Quarles a speedy recovery and look forward to seeing him at his follow-up appointments.

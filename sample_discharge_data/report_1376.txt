@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Hazel Jaime
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1376
+	•Date of Admission: 04/01/2023
+	•Date of Discharge: 06/30/2023
+	•Attending Physician: Dr. Christine Roy
+	•Primary Diagnosis: Bladder Cancer (Muscle-Invasive Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Hazel Jaime presented with recurrent hematuria and dysuria over the past six months. A urinalysis revealed blood in the urine, and a cystoscopy confirmed a bladder tumor. Further investigation with CT scan showed the presence of a large mass invading the muscularis propria of the bladder. Given the size and location of the tumor, a radical cystectomy was recommended.
+
+Medical History:
+	Hazel Jaime has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2018 due to a renal cell carcinoma. His family history is notable for breast cancer and colon cancer in first-degree relatives. He has known allergies to penicillin and sulfa drugs. Prior to admission, he was on metformin, lisinopril, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of a muscle-invasive transitional cell carcinoma. Imaging scans showed the tumor to be approximately 5cm in size, with no evidence of metastasis. Blood tests revealed mildly elevated creatinine levels, suggesting possible kidney dysfunction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Hazel Jaime. This included radical cystectomy, ileal conduit creation, and adjuvant chemotherapy. Post-operative care involved close monitoring of kidney function, management of pain, and wound care. Chemotherapy regimen consisted of Gemcitabine and Cisplatin, administered every three weeks for six cycles. Radiation therapy was not deemed necessary due to the absence of metastasis.
+
+Hospital Course:
+	Hazel Jaime underwent a successful radical cystectomy and ileal conduit creation on April 15, 2023. Post-operative course was complicated by a urinary tract infection, which was promptly treated with antibiotics. He required a brief stay in the intensive care unit for close monitoring. Physical therapy was initiated to assist with mobility and strengthening. Nutritional support was provided to maintain adequate caloric intake and promote healing.
+
+Follow-Up Plan:
+	Hazel Jaime will return for follow-up appointments every three months for the first year, then every six months thereafter. He will continue on Gemcitabine maintenance therapy for one year. Lifestyle modifications include smoking cessation and a low-sodium diet to minimize the risk of recurrence and preserve kidney function.
+
+Patient Education:
+	Hazel Jaime and his family were educated about the importance of regular follow-ups, recognizing signs of complications such as fever, chills, or change in urine color, and managing common side effects like nausea and fatigue. Instructions on post-surgical care, including ileal conduit management, were provided.
+
+Discharge Instructions:
+	Upon discharge, Hazel Jaime was given instructions for medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to avoid heavy lifting and strenuous activities for six weeks.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Hazel Jaime's ongoing health management. Adherence to prescribed medications, lifestyle modifications, and follow-up appointments will play a significant role in his prognosis.
+
+Final Remarks:
+	The attending physician, Dr. Christine Roy, commends Hazel Jaime for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued adherence to the prescribed regimen and encourages Hazel Jaime to maintain a positive attitude. The report is signed by both Hazel Jaime and Dr. Roy on June 30, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Stacey Darou
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1208
+	•Date of Admission: 06/15/2023
+	•Date of Discharge: 08/10/2023
+	•Attending Physician: Dr. Pamela Sichler
+	•Primary Diagnosis: Urothelial Cell Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Stacey Darou was admitted to the hospital following a urinary tract infection that persisted despite antibiotic treatment. A cystoscopy revealed a mass in his bladder, leading to further investigations and ultimately the diagnosis of urothelial cell carcinoma. The tumor was found to be invasive and extending into the muscle wall of the bladder.
+
+Medical History:
+	Mr. Darou has a history of hypertension, which is well-controlled with medication. He also has a longstanding history of diabetes mellitus type 2. Furthermore, he was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) 5 years ago and underwent a lung resection surgery in 2018. Mr. Darou is allergic to penicillin and sulfa drugs. He was taking multiple medications, including metformin, lisinopril, and salmeterol/fluticasone before admission.
+
+Diagnostic Findings:
+	A series of tests were conducted upon admission, including CT scans, MRI, and pathology analysis of the bladder tissue obtained during cystoscopy. The imaging studies revealed a large tumor in Mr. Darou's bladder that had invaded the muscle wall. Pathology results confirmed the diagnosis of urothelial cell carcinoma. Blood tests indicated elevated creatinine levels and slightly anemia, which were attributed to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Darou. He underwent a radical cystectomy with ileal conduit formation followed by chemotherapy. Post-operative care involved managing pain, preventing infection, and monitoring for complications such as urine leakage and bowel issues. The initial chemotherapy regimen consisted of Gemcitabine and Cisplatin, administered every three weeks for four cycles. Radiation therapy was not deemed necessary due to the extent of surgical resection.
+
+Hospital Course:
+	Mr. Darou's recovery from surgery was initially challenging due to his pre-existing COPD and diabetes. However, with aggressive management of both conditions, he gradually improved and was eventually able to tolerate a regular diet. The chemotherapy cycles were administered as planned, with appropriate measures taken to manage side effects such as nausea, fatigue, and neutropenia.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Darou will be scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue his current medications, with close monitoring of his blood glucose levels and lung function. A low-sodium, high-fiber diet is recommended to manage his diabetes and promote overall health.
+
+Patient Education:
+	Mr. Darou and his family were educated about the ileal conduit, including its function and care requirements. They were also instructed on recognizing signs of complications such as urine leakage, fever, and abdominal pain. Common side effects of chemotherapy were discussed, along with strategies to manage them effectively.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Darou was provided detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to monitor his blood glucose levels regularly and report any concerns promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Darou's long-term health. His cooperation throughout the treatment journey has been commendable, and we remain optimistic about his prognosis.
+
+Final Remarks:
+	Mr. Darou's resilience and cooperation throughout this challenging journey have been remarkable. I am confident that with continued adherence to the follow-up plan and lifestyle recommendations, he will continue to improve and maintain good health.

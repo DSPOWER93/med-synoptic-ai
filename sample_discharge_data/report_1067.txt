@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kim Hefner
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1067
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 05/10/2022
+	•Attending Physician: Dr. Sybil Raio
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Kim Hefner was admitted to the hospital on March 15, 2022, due to persistent lower abdominal pain, unexplained weight loss, and changes in bowel habits. During the initial assessment, his vital signs were unstable with a fever of 103°F, tachycardia, and hypotension. Further investigation through blood tests, CT scans, and colonoscopy revealed a large mass in his colon and evidence of cancerous cells. The severity and progression of symptoms indicated that the cancer had advanced to Kim Hefner.
+
+Medical History:
+	Mr. Hefner has a history of hypertension and type 2 diabetes, which have been well-managed through medication. He underwent a cholecystectomy in 2015 due to gallstones. His family history is significant for colorectal cancer, with his father diagnosed at the age of 60. Mr. Hefner has no known allergies and was taking lisinopril, metformin, and aspirin before admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed adenocarcinoma in the ascending colon. The CT scan revealed a large mass, as well as several lymph nodes that were enlarged and suspicious for malignancy. Additional blood tests showed elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA 19-9).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hefner. The primary intervention was an open right hemicolectomy with lymph node dissection. Postoperative care included pain management, wound care, and nutritional support. Following recovery from surgery, he started a chemotherapy regimen consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) with cycles every two weeks. Additionally, radiation therapy was considered for the management of potential recurrence but deferred due to Mr. Hefner's overall health status at the time.
+
+Hospital Course:
+	After an initial challenging recovery from surgery, Mr. Hefner showed significant improvement under the care of the medical team. He received aggressive therapy, and his symptoms were closely monitored. Despite experiencing some side effects such as nausea, fatigue, and neuropathy, he was able to maintain a positive attitude throughout his hospital stay.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hefner will continue with his chemotherapy regimen and will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will also undergo CEA and CA 19-9 blood tests to monitor for potential recurrence. Lifestyle modifications include maintaining a balanced diet, exercising regularly, and avoiding tobacco products.
+
+Patient Education:
+	Mr. Hefner and his family were provided with extensive education on post-surgical care, including instructions on managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and dehydration. They were also informed about the importance of reporting any unusual symptoms to their healthcare provider immediately.
+
+Discharge Instructions:
+	Upon discharge, Mr. Hefner was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was encouraged to maintain a supportive network and to follow up with his oncologist regularly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Hefner's long-term health. He will need to continue with regular follow-ups, maintain a healthy lifestyle, and adhere to his medication regimen to improve his chances of a successful recovery.
+
+Final Remarks:
+	I commend Mr. Kim Hefner for his resilience and cooperation throughout the treatment journey. His positive attitude and dedication to his care have played a significant role in his progress. With continued adherence to the follow-up plan, I am hopeful that he will continue to improve and maintain his health.

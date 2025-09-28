@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mildred Boynton
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1422
+	•Date of Admission: 06/05/2021
+	•Date of Discharge: 06/25/2021
+	•Attending Physician: Dr. James Flanagan
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Mr. Boynton presented to the emergency department complaining of abdominal pain, constipation, and unexplained weight loss over the past three months. Upon initial assessment, a mass was palpable in the lower abdomen, and laboratory tests revealed elevated levels of carcinoembryonic antigen (CEA). Further investigations, including computed tomography (CT) scans, confirmed the presence of a large tumor in the colon with multiple liver metastases.
+
+Medical History:
+	Mr. Boynton has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015 and hysterectomy in 2018. His family history is significant for colon cancer, with his father being diagnosed at the age of 60. He has a known allergy to penicillin and sulfa drugs. Before admission, he was taking metformin, lisinopril, salmeterol/fluticasone, and albuterol.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the colon. Imaging studies showed a large tumor in the transverse colon and multiple liver metastases. Blood tests revealed anemia, elevated CEA levels, and mildly abnormal liver function tests.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Boynton, which included surgical resection of the tumor, followed by chemotherapy and radiation therapy. A laparoscopic right hemicolectomy was performed on 06/10/2021, along with a primary anastomosis. Post-operative care involved managing pain, preventing infection, and monitoring for complications such as anastomotic leakage. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, and 5-fluorouracil) every two weeks, with a total of 12 cycles planned. Radiation therapy was considered after the completion of chemotherapy to treat the liver metastases.
+
+Hospital Course:
+	Mr. Boynton's recovery from surgery was initially challenging due to post-operative complications such as anastomotic leakage and a minor wound infection. However, with close monitoring, proper nutrition, and supportive care, these issues were effectively managed. The patient tolerated the first five cycles of chemotherapy well, experiencing fatigue, nausea, and diarrhea as common side effects.
+
+Follow-Up Plan:
+	Mr. Boynton will be scheduled for outpatient appointments every three months for the first year post-treatment, then every six months thereafter. He will continue on maintenance chemotherapy with capecitabine and will receive radiation therapy to the liver once his wound is fully healed. Dietary recommendations include a high-fiber diet and maintaining adequate hydration. Lifestyle modifications involve regular exercise, smoking cessation, and avoiding alcohol consumption. Warning signs that require immediate medical attention include fever, persistent abdominal pain, significant weight loss, or changes in bowel habits.
+
+Patient Education:
+	Mr. Boynton and his family were provided with information on post-surgical care, including wound care practices, hydration guidelines, and physical activity recommendations. Instructions were given on managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and techniques for managing common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Mr. Boynton was discharged with a supply of pain medication, antibiotics for the wound infection, and anti-diarrheal medication. He was instructed to maintain meticulous wound care, monitor his temperature, and report any concerning symptoms to his oncologist immediately. Medication adherence is crucial, and he was advised to keep a calendar of his dosages.
+
+Prognosis and Long-Term Outlook:
+	Mr. Boynton's prognosis will depend on the effectiveness of his treatment, the presence of any residual disease, and the emergence of any new metastases. Regular monitoring for early detection of recurrence is essential to optimize outcomes.
+
+Final Remarks:
+	Dr. Flanagan commends Mr. Boynton for his resilience and cooperation throughout his treatment journey. The attending physician emphasizes that the patient's continued efforts in following the prescribed regimen will play a significant role in managing his disease and improving his quality of life. Both parties have signed this report on 06/25/2021, validating its authenticity.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Danny Kerrigan
+	•Date of Birth: 12/05/1985
+	•Medical Record Number: M1139
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 15/10/2022
+	•Attending Physician: Dr. Erick Switzer
+	•Primary Diagnosis: Invasive Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	The patient presented with complaints of hematuria, dysuria, and frequent urination for the past three months. The symptoms intensified over time, leading to a reduced appetite and weight loss. Initial assessments included a urinalysis, which revealed blood in the urine, and an abdominal ultrasound that suggested a mass in the bladder. Further investigation with a CT scan confirmed the presence of a 4cm solid mass in the bladder, indicating a possible malignancy.
+
+Medical History:
+	The patient has a history of hypertension, which is currently controlled with medication. He was also diagnosed with type-2 diabetes five years ago and manages it through diet and oral medications. Recently, he underwent a laparoscopic cholecystectomy for gallstones. There is no significant family history of cancer, but the patient has a known allergy to penicillin. His regular medications include Metformin, Amlodipine, and Simvastatin.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of invasive bladder cancer (T3N0M0). Imaging scans revealed no evidence of distant metastasis (M0), but the tumor was found to have invaded the muscle layer of the bladder (T3). Blood tests showed an elevated creatinine level, suggesting possible kidney impairment due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. This included a radical cystectomy with ileal conduit diversion, followed by post-operative care and adjuvant chemotherapy. The surgery was successful, and the patient tolerated it well. Chemotherapy was initiated after recovery, starting with a regimen of Gemcitabine and Cisplatin for six cycles. The patient experienced anticipated side effects such as nausea, vomiting, and fatigue, which were managed effectively with appropriate medications. Radiation therapy was not deemed necessary based on the staging of the cancer.
+
+Hospital Course:
+	Post-surgery, the patient recovered well and was able to ambulate within a week. Challenges during the hospital stay included managing post-operative pain and maintaining adequate fluid intake due to nausea and vomiting associated with chemotherapy. Physical therapy helped strengthen the patient's lower body, and nutritional support ensured appropriate caloric intake. The disease was managed effectively through regular monitoring and medication adjustments.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for the patient post-discharge. This includes scheduled outpatient appointments every three months for the first year, then every six months thereafter. Medications will continue as prescribed, with close monitoring for any adverse effects. Lifestyle changes include a low-sodium diet and regular exercise to maintain overall health. The patient is advised to monitor for signs of complications such as fever, persistent pain, or changes in urine color or volume.
+
+Patient Education:
+	The patient and his family were educated about the nature of the disease, the treatment options chosen, and post-surgical care instructions. This included management of the ileal conduit, recognizing signs of complications, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	The patient was provided with detailed discharge instructions to ensure continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The patient was informed about the importance of maintaining a healthy lifestyle and attending all follow-up appointments.
+
+Final Remarks:
+	We commend the patient's resilience throughout his treatment journey and his cooperation in following the prescribed care plan. This report serves as documentation of the course of treatment provided, with the hope that it will contribute to his continued recovery and good health. Signed, Dr. Erick Switzer, M.D. / Danny Kerrigan. Date 15/10/2022.

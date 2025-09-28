@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Krista Provino
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1011
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Everett Gaskins
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Krista Provino, presented with persistent abdominal pain, loss of appetite, and unintended weight loss over a period of two months. A preliminary physical examination revealed a palpable mass in the upper abdomen, and laboratory investigations showed elevated levels of CA19-9 and CEA tumor markers. Subsequent imaging studies, including computed tomography (CT) scan and magnetic resonance imaging (MRI), confirmed the presence of a 4cm x 5cm mass in the pancreatic head with regional lymph node involvement.
+
+Medical History:
+	Krista Provino has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD) for which he was on regular medication. He has no known allergies and no significant family history of cancers. Before admission, his medications included metformin, enalapril, and tiotropium bromide.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy revealed moderately differentiated adenocarcinoma. The staging was confirmed after a positron emission tomography (PET) scan and endoscopic retrograde cholangiopancreatography (ERCP). Blood tests showed anemia, elevated liver enzymes, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Krista Provino, which included a Whipple procedure followed by adjuvant chemotherapy with FOLFIRINOX (Folinic acid, 5-Fluorouracil, Irinotecan, and Oxaliplatin) and concurrent radiation therapy to the pancreatic bed. Post-operative care involved monitoring for complications such as anastomotic leaks, delayed gastric emptying, and pancreatic fistula.
+
+Hospital Course:
+	Krista Provino underwent a successful Whipple procedure on March 28, 2023. The post-operative period was marked by management of pain, nutrition, and prevention of infections. Challenges included delayed gastric emptying and a brief episode of anastomotic leak that was managed conservatively. Radiation therapy commenced on April 5, 2023, followed by the initiation of FOLFIRINOX chemotherapy.
+
+Follow-Up Plan:
+	Krista Provino will return for outpatient follow-ups every three months for the first two years, then six-monthly thereafter. He will continue FOLFIRINOX chemotherapy as per the oncologist's advice and manage any side effects such as neutropenia, diarrhea, and neuropathy. Dietary recommendations include a low-fat diet to reduce the risk of recurrence and maintain a healthy weight.
+
+Patient Education:
+	Krista Provino and his family were educated about the ileal conduit and its care, including drainage, cleaning, and monitoring for signs of infection or leakage. They were instructed on recognizing symptoms of complications such as fever, abdominal pain, changes in bowel habits, and jaundice. Management of common side effects was discussed, including nausea, vomiting, diarrhea, and fatigue.
+
+Discharge Instructions:
+	Krista Provino was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, avoid heavy lifting, and follow the prescribed exercise regimen.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Krista Provino is guarded due to his advanced stage of cancer at diagnosis. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in ensuring the best possible outcome.
+
+Final Remarks:
+	I commend Krista Provino on his courage and resilience throughout his treatment journey. His cooperation, positive attitude, and determination have played a significant role in his recovery. I wish him all the best for his continued health and recovery.

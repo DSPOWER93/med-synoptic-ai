@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Julie Nunes
+	•Date of Birth: 06/25/1978
+	•Medical Record Number: M1033
+	•Date of Admission: 01/12/2023
+	•Date of Discharge: 02/17/2023
+	•Attending Physician: Dr. Jason Bonnette
+	•Primary Diagnosis: Pancreatic Cancer (Locally Advanced Adenocarcinoma)
+
+Reason for Admission:
+	Mr. Julie Nunes, a 44-year-old male, was admitted to our facility due to increasing abdominal pain, nausea, and unintended weight loss over the past three months. The initial assessment revealed severe upper abdominal tenderness, jaundice, and a palpable mass in the epigastric region. Further diagnostic investigations confirmed the presence of a locally advanced pancreatic adenocarcinoma with metastasis to regional lymph nodes.
+
+Medical History:
+	Mr. Nunes has a significant medical history, including hypertension, diabetes, and COPD. He had undergone a right total knee replacement in 2015. His family history is notable for breast cancer and colon cancer. He is known to be allergic to penicillin and sulfa drugs. Prior to admission, he was on medications including metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	The diagnostic workup included a CT scan of the abdomen and pelvis, an MRI of the pancreas, and an endoscopic retrograde cholangiopancreatography (ERCP). The CT scan revealed a large, irregular mass in the head of the pancreas with invasion of adjacent vessels and metastasis to regional lymph nodes. The ERCP confirmed obstructive jaundice and a dilated common bile duct. Pathology report from the biopsy performed during ERCP confirmed the diagnosis of locally advanced pancreatic adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team, including surgical oncologists, medical oncologists, and radiation oncologists, developed a treatment plan for Mr. Nunes. He underwent a Whipple procedure followed by FOLFIRINOX chemotherapy regimen. The post-operative care included management of pain, nutritional support, and prevention of infectious complications. A decision was made to consider radiation therapy post-chemotherapy based on the patient's response.
+
+Hospital Course:
+	After successful surgery, Mr. Nunes faced several challenges during his hospital stay, including post-operative bleeding requiring blood transfusions and anastomotic leakage requiring drainage. He was closely monitored by the medical team, and his condition improved significantly over the course of his stay. Therapy sessions were initiated to improve his mobility and strengthen his respiratory function.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Nunes will be scheduled for regular follow-up appointments with his oncologist and gastroenterologist. He will continue the FOLFIRINOX regimen and undergo radiation therapy if deemed necessary based on response to chemotherapy. Lifestyle modifications including a low-fat diet, cessation of smoking, and regular exercise are recommended to improve overall health and wellbeing.
+
+Patient Education:
+	Mr. Nunes and his family were provided comprehensive education about the diagnosis, treatment options, and post-surgical care. Instructions included care of the ileal conduit, signs of complications such as fever, abdominal pain, or changes in stool, and management of common side effects like nausea, vomiting, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Nunes was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet, avoid heavy lifting, and report any concerns to his healthcare team promptly.
+
+Prognosis and Long-Term Outlook:
+	Mr. Nunes's prognosis will depend on the response to chemotherapy and any potential complications during radiation therapy. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial in his long-term outlook.
+
+Final Remarks:
+	I would like to commend Mr. Julie Nunes for his resilience and cooperation throughout the treatment journey. His family has been a strong source of support, and I am confident that with their continued support, he will continue to make progress in his recovery. This report is validated by my signature on 02/17/2023.

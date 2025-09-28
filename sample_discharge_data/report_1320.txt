@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Graciela Jennings
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1320
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 15-01-2022
+	•Attending Physician: Dr. Sade Gillman
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Graciela Jennings presented to the emergency department complaining of pain in the lower abdomen, frequent urination, and hematuria. Initial assessment revealed a distended abdomen with tenderness upon palpation. A non-contrast computed tomography (CT) scan was performed, which indicated a mass in the bladder along with hydronephrosis of the right kidney. Subsequent cystoscopy and biopsy confirmed the diagnosis of urothelial carcinoma.
+
+Medical History:
+	Mr. Jennings has a significant medical history marked by hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 for gallbladder stones. His family history is notable for breast cancer in his mother at the age of 48 and colon cancer in his father at the age of 67. Mr. Jennings has a known allergy to penicillin and was taking metformin, lisinopril, and salmeterol before admission.
+
+Diagnostic Findings:
+	During the hospital stay, a series of diagnostic tests were conducted. Pathology results confirmed urothelial carcinoma. Imaging studies such as CT scans showed a large, irregular mass in the bladder with invasion into the muscle wall and involvement of the right hydronephrosis. Blood tests revealed elevated creatinine levels, suggesting kidney dysfunction due to obstruction caused by the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Jennings. The initial step was an open radical cystectomy, followed by creation of an ileal conduit and neobladder. Postoperative care involved management of pain, fluid and electrolyte balance, and prevention of infections. Chemotherapy with a regimen of MVAC (Methotrexate, Vinblastine, Adriamycin, and Cisplatin) was initiated as adjuvant therapy for four cycles, followed by radiation therapy to the pelvic region.
+
+Hospital Course:
+	Mr. Jennings's postoperative recovery was complicated by a prolonged ileus and sepsis, which required intravenous antibiotics and bowel rest. However, with supportive care and interventions from various specialties, he made significant progress and was discharged in stable condition.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Jennings will undergo regular follow-ups every three months for the first two years, followed by semi-annual visits thereafter. Medications such as metformin, lisinopril, and salmeterol will be continued. A low-fat, high-fiber diet is recommended to manage his diabetes and prevent recurrence of bladder cancer.
+
+Patient Education:
+	Mr. Jennings and his family were educated about the importance of recognizing signs of complications related to the ileal conduit, such as abdominal pain, fever, or changes in urine color. They were also instructed on managing common side effects of chemotherapy like nausea, vomiting, and hair loss.
+
+Discharge Instructions:
+	Upon discharge, Mr. Jennings was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for a few weeks.
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence cannot be overstated. Mr. Jennings will require lifelong follow-up and active management of his underlying conditions to maintain overall health.
+
+Final Remarks:
+	Dr. Gillman concludes this report by acknowledging Mr. Jennings's resilience throughout the treatment journey and emphasizing the critical role he played in his own recovery. The physician's signature, along with that of Mr. Jennings, signifies the validation of this comprehensive medical documentation.

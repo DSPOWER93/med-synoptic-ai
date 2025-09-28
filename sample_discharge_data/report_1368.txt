@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Ables
+	•Date of Birth: 03/25/1980
+	•Medical Record Number: M1368
+	•Date of Admission: 02/17/2023
+	•Date of Discharge: 03/14/2023
+	•Attending Physician: Dr. Christopher Waugh
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage III)
+
+Reason for Admission:
+	Mr. Ables was admitted to our facility due to persistent abdominal pain, jaundice, and significant weight loss over a two-month period. Upon initial assessment, he exhibited signs of an obstructive jaundice, and blood tests revealed elevated levels of CA 19-9, a tumor marker associated with pancreatic cancer. Subsequent imaging scans, including CT and MRI, confirmed the presence of a large mass in the head of the pancreas and an obstruction in the common bile duct.
+
+Medical History:
+	Mr. Ables has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His father died from pancreatic cancer at the age of 65. Mr. Ables is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, amlodipine, and albuterol inhalers for his chronic conditions.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the resected pancreatic tissue. Imaging scans showed a 5cm tumor mass encasing the superior mesenteric artery and vein, with multiple enlarged lymph nodes. Liver function tests indicated elevated bilirubin levels, consistent with obstructive jaundice.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Ables. This included a Whipple procedure (pancreatoduodenectomy), post-operative care, six cycles of FOLFIRINOX chemotherapy regimen, and radiation therapy to the tumor bed. The patient experienced nausea, fatigue, and diarrhea as common side effects of chemotherapy.
+
+Hospital Course:
+	Mr. Ables underwent a successful Whipple procedure on 02/18/2023. His initial recovery was uneventful, but he faced challenges with nutritional support and managing post-operative pain. He received enteral nutrition through a nasogastric tube for two weeks before transitioning to oral intake. The patient showed resilience throughout his hospital stay and actively participated in physical therapy sessions to improve his mobility.
+
+Follow-Up Plan:
+	Mr. Ables will have scheduled outpatient appointments every three months for the first year, then every six months thereafter. He is to continue taking metformin, amlodipine, and albuterol inhalers as prescribed. A low-fat, high-protein diet is recommended, along with regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, and rapid weight loss.
+
+Patient Education:
+	Mr. Ables and his family were educated on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as leaks or obstruction, and managing common side effects like diarrhea and nausea. They were also instructed to monitor their blood glucose levels closely due to the increased risk of diabetes-related complications following surgery.
+
+Discharge Instructions:
+	Mr. Ables was discharged with instructions to adhere strictly to his medication regimen, maintain a proper diet, and engage in regular physical activity as tolerated. Wound care practices were discussed, along with guidelines for hydration and activity levels.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial to improve Mr. Ables's prognosis. The patient was informed about the importance of managing ongoing health issues, particularly diabetes and COPD, to optimize his overall health.
+
+Final Remarks:
+	I am pleased to report that James Ables has demonstrated remarkable resilience throughout his treatment journey for pancreatic cancer. With his cooperation and active participation in his care, we are hopeful for a positive outcome. I look forward to seeing him during follow-up appointments and wish him continued strength and good health.

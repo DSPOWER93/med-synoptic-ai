@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Abdo
+	•Date of Birth: 12/01/1985
+	•Medical Record Number: M1006
+	•Date of Admission: 06/15/2022
+	•Date of Discharge: 07/20/2022
+	•Attending Physician: Dr. Hubert Stinett
+	•Primary Diagnosis: Urothelial Carcinoma of the Renal Pelvis (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	John Abdo, a 36-year-old male, presented to the emergency department with complaints of intermittent hematuria (blood in urine) and lower back pain for three weeks. The patient had initially self-treated with over-the-counter pain medications, but his symptoms persisted and worsened, prompting him to seek medical attention. Upon admission, a comprehensive physical examination was conducted, and the initial assessment suggested a possible urinary tract infection. A urinalysis confirmed the presence of blood in the urine, but cultures failed to identify any bacterial growth, leading to further diagnostic investigations. Subsequent imaging studies including a CT scan revealed a mass in the patient's right renal pelvis, consistent with malignancy.
+
+Medical History:
+	John Abdo has a history of hypertension and is currently on lisinopril 20mg daily. He has no known allergies to medications or contrast agents. His father died from prostate cancer at the age of 65, and his mother has been diagnosed with diabetes mellitus type 2. John Abdo is a non-smoker and does not consume alcohol excessively.
+
+Diagnostic Findings:
+	A transurethral resection of the bladder tumor (TURBT) was performed, which confirmed the diagnosis of Urothelial Carcinoma of the Renal Pelvis. Pathology reports indicated a moderately differentiated urothelial carcinoma with invasion of the muscularis propria. Further imaging studies were conducted to assess the extent of the disease. A positron emission tomography (PET) scan revealed no evidence of metastasis, but the tumor was classified as T2bN0M0 (stage pT2).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John Abdo. The primary intervention was a radical nephroureterectomy with ileal conduit diversion, followed by six cycles of gemcitabine and cisplatin chemotherapy. Post-operative care included pain management, fluid and electrolyte balance maintenance, and nutritional support. A urology consultation was sought for the management of his ileal conduit. The oncology team also considered radiation therapy as an adjuvant treatment but decided against it due to potential complications given John Abdo's overall health status.
+
+Hospital Course:
+	John Abdo underwent surgery on July 5, 2022, and recovered well. He faced some post-operative pain and nausea, which were managed effectively with medication. The surgical wound healed well, and he was able to tolerate a regular diet by the end of the first week. Throughout his hospital stay, John Abdo received education on managing his ileal conduir, recognizing signs of complications, and managing common side effects such as fatigue and nausea.
+
+Follow-Up Plan:
+	Upon discharge, John Abdo was scheduled for regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue to take lisinopril as prescribed and may need additional medications to manage potential side effects such as neuropathy or kidney damage caused by chemotherapy. John Abdo was also provided guidelines for a healthy diet and recommended regular exercise to maintain his overall health.
+
+Patient Education:
+	During his hospital stay, John Abdo and his family were provided extensive education on the disease, its treatment options, and post-surgical care. They were informed about managing the ileal conduit, recognizing signs of complications, and strategies for dealing with common side effects. The importance of adherence to the prescribed medications was emphasized, as well as the need for regular follow-up appointments.
+
+Discharge Instructions:
+	Prior to discharge, John Abdo was provided comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of potential signs that required immediate medical attention such as fever, increased pain, or persistent nausea.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with Urothelial Carcinoma of the Renal Pelvis depends on several factors including tumor stage, grade, and patient health status. Regular monitoring for early detection of recurrence is crucial in managing this disease. John Abdo's follow-up appointments will be closely monitored to ensure timely intervention if necessary.
+
+Final Remarks:
+	This report concludes the treatment journey for John Abdo, who demonstrated resilience and cooperation throughout his treatment process. We congratulate him on his successful surgery and wish him a swift recovery. The attending physician, Dr. Hubert Stinett, signs off on this report on July 20, 2022, along with John Abdo's signature, validating the report. It is essential to continue monitoring John Abdo closely for early detection of any recurrence and manage ongoing health issues effectively.

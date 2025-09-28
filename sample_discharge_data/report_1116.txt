@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clayton Covington
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1116
+	•Date of Admission: 04/15/2023
+	•Date of Discharge: 05/12/2023
+	•Attending Physician: Dr. Gloria Pastor
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Clayton Covington, a 48-year-old male, presented to our hospital with increasing difficulty in urinating and hematuria (blood in urine). On admission, a thorough physical examination was conducted, along with laboratory tests including urinalysis, urine cytology, complete blood count (CBC), and biochemical profile. The initial assessment revealed moderate hydronephrosis (a swelling of the kidney due to obstruction) in his right kidney. A computed tomography (CT) scan was ordered which confirmed a mass in the bladder, with involvement of the muscularis propria layer and extension into the right lateral wall. A cystoscopy was performed, and a tissue sample was obtained for histopathological examination which confirmed the diagnosis of Clayton Covington Carcinoma (TCC).
+
+Medical History:
+	Mr. Covington has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD) for which he was previously on medications including Atenolol, Metformin, and Salmeterol/Fluticasone Propionate inhaler. He has no known allergies and has undergone one laparoscopic cholecystectomy in the past.
+
+Diagnostic Findings:
+	The pathology report from the bladder biopsy confirmed Clayton Covington Carcinoma with moderate differentiation, invading the muscularis propria. Imaging studies revealed a 5 cm x 4 cm mass arising from the bladder dome, extending into the right lateral wall and obstructing the ureter. There were no distant metastases detected on positron emission tomography (PET) scan.
+
+Treatment Plan:
+	A multidisciplinary team of surgeons, oncologists, and radiotherapists collaborated to develop a treatment plan for Mr. Covington. This included radical cystectomy with ileal conduit formation, post-operative chemotherapy, and consideration for radiation therapy depending on pathological findings.
+
+Hospital Course:
+	Mr. Covington underwent an uneventful radical cystectomy with ileal conduit formation on 04/25/2023. Post-operative recovery was complicated by a prolonged ileus (a delay in the passage of stool), necessitating nasogastric tube insertion for gastric decompression. He received a combination of oxaliplatin and cisplatin chemotherapy as planned, with appropriate dose adjustments due to his baseline renal function impairment.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Covington will be scheduled for regular follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue on oral Bacillus Calmette-Guérin (BCG) therapy to help prevent recurrence in the remaining bladder. Lifestyle modifications to manage his underlying conditions of hypertension and diabetes will also be emphasized.
+
+Patient Education:
+	Mr. Covington and his family were provided with comprehensive education about his diagnosis, treatment options, and potential side effects. Instructions on post-surgical care, including ileal conduit management, recognizing signs of complications such as obstruction or infection, and managing common side effects like fatigue, neuropathy, and nausea were discussed in detail.
+
+Discharge Instructions:
+	Upon discharge, Mr. Covington was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to maintain a healthy diet rich in fiber for proper bowel function and manage his underlying conditions effectively.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Covington is favorable given the early detection of his TCC. Regular monitoring will be essential for early detection of recurrence or progression to a higher stage.
+
+Final Remarks:
+	We commend Mr. Covington for his resilience and cooperation throughout his treatment journey, and we are confident that he will continue to make significant strides towards recovery. This report is signed by Dr. Gloria Pastor on 05/12/2023, confirming the completion of his hospital care during this admission.

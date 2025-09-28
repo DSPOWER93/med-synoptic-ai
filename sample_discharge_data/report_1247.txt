@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Hughes
+	•Date of Birth: 02/12/1980
+	•Medical Record Number: M1247
+	•Date of Admission: 08/15/2022
+	•Date of Discharge: 09/15/2022
+	•Attending Physician: Dr. Jeremy Moran
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Michael Hughes presented to the emergency department with symptoms of abdominal pain, constipation, and unexplained weight loss over the past three months. His initial assessment revealed a distended abdomen, palpable mass in the lower quadrant, and signs of dehydration. Diagnostic investigations including computerized tomography (CT) scan, colonoscopy, and blood tests confirmed the presence of a large tumor in his sigmoid colon and elevated levels of carcinoembryonic antigen (CEA).
+
+Medical History:
+	Michael Hughes has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD) managed with medication. He underwent laparoscopic cholecystectomy in 2015 for gallstones. His father died of colon cancer at the age of 65, and his older brother was diagnosed with prostate cancer at the age of 60. Michael Hughes was taking metformin, lisinopril, salmeterol/fluticasone, and simvastatin before admission.
+
+Diagnostic Findings:
+	Pathology report from the colonoscopy revealed a large invasive adenocarcinoma of the sigmoid colon. The CT scan demonstrated a 7 cm mass in the sigmoid colon with regional lymphadenopathy and no evidence of distant metastasis. Blood tests showed elevated CEA (15.2 ng/mL, normal range <5 ng/mL) and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Michael Hughes. He underwent a laparoscopic sigmoid colectomy with primary ileo-rectal anastomosis followed by 12 cycles of adjuvant chemotherapy (FOLFOX regimen). Radiation therapy was deferred due to the patient's COPD and poor performance status.
+
+Hospital Course:
+	Michael Hughes recovered well from surgery, with minimal post-operative complications. He received nutritional support via total parenteral nutrition (TPN) for a week due to delayed return of bowel function. The disease was managed effectively during his hospital stay, and he was discharged with improved symptoms and acceptable levels of CEA (2.5 ng/mL).
+
+Follow-Up Plan:
+	Michael Hughes will be scheduled for regular follow-up appointments every three months for the first year post-treatment and then every six months thereafter. He is to continue taking his hypertension, diabetes, and COPD medications as prescribed. Lifestyle modifications include maintaining a balanced diet, regular exercise, avoiding tobacco products, and adhering to recommended screening guidelines for colon cancer recurrence.
+
+Patient Education:
+	Michael Hughes and his family were provided with detailed instructions on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Michael Hughes was provided with clear instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues related to Michael Hughes's underlying conditions.
+
+Final Remarks:
+	Dr. Jeremy Moran expressed her appreciation for Michael Hughes's resilience and cooperation throughout the treatment journey, emphasizing that his active participation in his care plan contributed significantly to his successful outcome. Both physician and patient signed the report, validating its authenticity on September 15, 2022.

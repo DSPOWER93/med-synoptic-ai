@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Victoria Caricofe
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1108
+	•Date of Admission: 01/02/2023
+	•Date of Discharge: 03/07/2023
+	•Attending Physician: Dr. Richard Blackstock
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Victoria Caricofe was admitted to our hospital due to persistent abdominal pain, unexplained weight loss, and a change in bowel habits that had been ongoing for several weeks. On admission, his vital signs were unstable with a heart rate of 120 beats per minute and a blood pressure of 90/60 mmHg. Initial laboratory tests revealed anemia, elevated carcinoembryonic antigen (CEA) levels, and a positive fecal occult blood test. A computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large mass in the sigmoid colon and multiple liver metastases.
+
+Medical History:
+	Victoria Caricofe has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), all well-controlled with medications. He underwent appendectomy in 2015 due to appendicitis. His family history is significant for colorectal cancer in his father. Victoria Caricofe has no known allergies and was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	Further investigations revealed a large mass in the sigmoid colon measuring 10 cm x 8 cm, with multiple liver metastases seen on CT scan. Pathology report from the colon biopsy confirmed adenocarcinoma of the sigmoid colon. Blood tests showed anemia (hemoglobin 9 g/dL), elevated CEA levels (12.5 ng/mL), and liver function abnormalities.
+
+Treatment Plan:
+	A multidisciplinary team of surgeons, oncologists, radiotherapists, and gastroenterologists developed a comprehensive treatment plan for Victoria Caricofe. He underwent an open right colectomy with permanent ileostomy due to the size and location of the tumor. Post-operative care included pain management, antibiotics, fluid replacement, and nutritional support. A chemotherapy regimen consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) was initiated and will continue for six cycles. Radiation therapy was not deemed necessary due to the extent of disease and potential side effects.
+
+Hospital Course:
+	Victoria Caricofe's initial recovery from surgery was uneventful. However, he experienced several complications including anastomotic leak and delayed ileus, both of which were managed successfully with additional surgical intervention and extended hospital stay. He also required close monitoring for side effects of chemotherapy, particularly neutropenia and neuropathy.
+
+Follow-Up Plan:
+	Victoria Caricofe will be scheduled for regular outpatient follow-ups every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary to manage his diabetes and hypertension effectively. Dietary advice will focus on a balanced diet rich in fiber and low in fat to promote bowel health and reduce the risk of recurrence. Victoria Caricofe was provided instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and skin irritation.
+
+Patient Education:
+	Detailed education was provided to Victoria Caricofe and his family about the diagnosis, treatment options, and expected outcomes. They were taught how to care for the ileal conduit, recognize signs of complications, and manage common side effects. They were also encouraged to ask questions and seek support from our hospital's patient support services.
+
+Discharge Instructions:
+	Prior to discharge, Victoria Caricofe was provided comprehensive instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to limit heavy lifting, contact sports, and vigorous exercise for six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in colorectal cancer patients. Victoria Caricofe was informed about the importance of regular follow-ups and maintaining a healthy lifestyle to improve his chances of long-term survival.
+
+Final Remarks:
+	We are pleased to report that Victoria Caricofe has shown significant improvement since admission and has cooperated fully throughout his treatment journey. We wish him the best for his continued recovery and long-term health.

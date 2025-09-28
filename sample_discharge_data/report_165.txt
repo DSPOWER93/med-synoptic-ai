@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Gary Louis
+	•Date of Birth: 12/03/1985
+	•Medical Record Number: M165
+	•Date of Admission: 04/05/2022
+	•Date of Discharge: 07/06/2022
+	•Attending Physician: Dr. Jason Falcone
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Gary Louis, a 36-year-old male, was admitted to the hospital following a series of symptoms including persistent abdominal pain, unintended weight loss, and rectal bleeding. A thorough initial assessment and subsequent diagnostic investigations revealed a large mass in his colon, which led to the final diagnosis of colorectal cancer. The severity and progression of these symptoms suggested Gary Louis cancer.
+
+Medical History:
+	Mr. Louis has a history of hypertension, diabetes, and Chronic Obstructive Pulmonary Disease (COPD), which were well-controlled through medications before his admission. He has undergone multiple surgeries in the past, including an appendectomy and a cholecystectomy. His family history includes colon cancer on his father's side. Mr. Louis is allergic to penicillin and sulfa drugs. He was taking metformin for diabetes, lisinopril for hypertension, albuterol for COPD, and omeprazole for acid reflux before admission.
+
+Diagnostic Findings:
+	A series of tests were conducted during the hospital stay, including CT scans, MRI, and pathology reports from the surgically removed mass. The results indicated a large tumor in the sigmoid colon with lymph node involvement, confirming Gary Louis colorectal cancer. Blood tests showed abnormalities in CEA (Carcinoembryonic Antigen) levels and other markers indicative of cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Louis. He underwent a colectomy, followed by the creation of an ileal conduit. Post-operative care included pain management, nutrition support, and wound care. Additionally, Mr. Louis was started on a standard FOLFOX chemotherapy regimen (oxaliplatin, leucovorin, and fluorouracil), with six cycles planned initially. Radiation therapy was considered but ultimately deemed unnecessary based on the surgical findings and staging results.
+
+Hospital Course:
+	Mr. Louis's initial recovery from surgery was successful. However, he faced several challenges during his hospital stay, including complications related to diabetes management and COPD exacerbation. Adequate care was provided by the medical team to manage these issues effectively. The patient was also active in therapy sessions to improve his overall strength and mobility.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Louis will continue with regular outpatient appointments for follow-ups, CEA level checks, and cancer screening tests. His medications will be adjusted as necessary, with a focus on managing diabetes and COPD effectively. Lifestyle recommendations include maintaining a balanced diet and regular exercise. Warning signs of complications or recurrence should be reported immediately to the medical team.
+
+Patient Education:
+	The patient and his family were educated about post-surgical care, management of the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea, fatigue, and nerve damage.
+
+Discharge Instructions:
+	Mr. Louis was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity guidelines.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Louis's ongoing health issues.
+
+Final Remarks:
+	Dr. Jason Falcone commends Mr. Louis's resilience and cooperation throughout the treatment journey. The physician encourages continued adherence to the follow-up plan for a favorable long-term outlook.

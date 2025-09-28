@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Anna Partridge
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1322
+	•Date of Admission: 06/12/2022
+	•Date of Discharge: 01/01/2023
+	•Attending Physician: Dr. Doris Gonzalez
+	•Primary Diagnosis: Bladder Cancer (T4N1M0)
+
+Reason for Admission:
+	Upon admission, Anna Partridge presented with symptoms of hematuria and dysuria that had progressively worsened over the past month. An initial assessment revealed a palpable abdominal mass, and subsequent diagnostic tests, including computed tomography (CT) scans and cystoscopy, confirmed the presence of a large, invasive bladder tumor. The tumor was found to have invaded the muscle wall of the bladder (T4) and had spread to one regional lymph node (N1).
+
+Medical History:
+	Anna Partridge has a significant medical history, with a past diagnosis of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2010 due to a renal cell carcinoma. John is allergic to penicillin and has a family history of colon cancer, with his father diagnosed at the age of 65. Prior to admission, he was taking metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	Biopsy results from the cystoscopy confirmed a urothelial carcinoma of the bladder. Blood tests showed elevated levels of creatinine and glucose, indicative of kidney dysfunction and uncontrolled diabetes. Imaging scans revealed the extensive growth of the tumor, including involvement of the muscle wall of the bladder (T4) and regional lymph node metastasis (N1).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Anna Partridge. This included a radical cystectomy with an ileal conduit diversion, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, wound care, and nutritional support. The chemotherapy regimen consisted of Gemcitabine and Cisplatin, administered every three weeks for four cycles. Radiation therapy was considered but ultimately deferred due to the patient's kidney dysfunction.
+
+Hospital Course:
+	Anna Partridge underwent a successful radical cystectomy with ileal conduit diversion on 07/12/2022. The post-operative period was complicated by an infection requiring antibiotic treatment. He received the first cycle of chemotherapy on 15/01/2023, following which his kidney function stabilized. John's overall recovery has been slow due to his preexisting conditions, but he has shown good progress in managing his diabetes and COPD.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Anna Partridge, including scheduled outpatient appointments every three months for the first year, six monthly appointments for the second year, and annual appointments thereafter. He will continue to take metformin and lisinopril, with the dose of tiotropium bromide adjusted as needed. Lifestyle recommendations include a low-sodium, low-fat diet and regular exercise. Warning signs requiring immediate medical attention include fever, persistent abdominal pain, or changes in urine output or color.
+
+Patient Education:
+	Anna Partridge and his family were provided education on the nature of his cancer, the rationale for the chosen treatment plan, and the importance of adhering to the follow-up schedule. Instructions were given on post-surgical care, including managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Anna Partridge was given comprehensive discharge instructions, detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to monitor his blood glucose levels regularly and follow a healthy diet.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Anna Partridge's long-term health. Given the advanced stage of his cancer at diagnosis, ongoing management of his diabetes and COPD will also be essential to ensure optimal health outcomes.
+
+Final Remarks:
+	I would like to express my admiration for Anna Partridge's resilience and cooperation throughout this challenging treatment journey. It has been a privilege to work with him, and I am confident that he will continue to make progress in his recovery. I encourage John to stay strong, maintain hope, and remember that he is not alone in this fight against cancer.

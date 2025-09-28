@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Karen Chennault
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1369
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Joyce Grenier
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Karen Chennault was admitted to our facility due to persistent lower abdominal pain, unexplained weight loss, and changes in bowel habits. On initial assessment, his vital signs were stable, but physical examination revealed a palpable mass in the lower abdomen. A series of diagnostic tests including CT scans, MRI, and biopsy were performed, confirming the presence of colorectal cancer.
+
+Medical History:
+	Mr. Chennault has a significant medical history. He is diagnosed with hypertension for which he is on medication, and he also suffers from COPD (Chronic Obstructive Pulmonary Disease). He has had one appendectomy in the past. His family history is noteworthy as his father died of colon cancer at the age of 65. Mr. Chennault is allergic to penicillin and sulfa drugs. Prior to admission, he was on a regimen of metoprolol, salmeterol/fluticasone, and simvastatin.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of moderately differentiated adenocarcinoma in the descending colon. Imaging scans showed that the tumor had invaded the submucosa and muscle layers with regional lymph node involvement. Blood tests revealed anemia, elevated CEA levels (Cancer Antigen 125), and mildly elevated CRP (C-reactive protein).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Chennault. He underwent an elective colectomy with primary ileo-rectal anastomosis, followed by a temporary loop ileostomy (ileal conduit). Post-operative care involved pain management, wound care, and the initiation of a course of adjuvant chemotherapy consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) for six cycles. Due to his COPD, special consideration was given to pulmonary rehabilitation and oxygen therapy during his hospital stay.
+
+Hospital Course:
+	During his hospital stay, Mr. Chennault demonstrated an initial recovery from surgery. However, he faced post-operative complications including wound infection and anemia which were managed promptly. He received aggressive nutritional support to aid in his recovery. The oncology team worked closely with the patient and his family to educate them about the disease and its treatment options.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Chennault will be under the close observation of our facility for regular follow-ups. He is to continue taking his existing medications and adjustments will be made as necessary based on his condition. A low-fiber diet and fluid intake are recommended to ease the ileal conduit management. Any unusual symptoms such as increased abdominal pain, fever, or changes in bowel habits should prompt immediate medical attention.
+
+Patient Education:
+	The patient was educated on post-surgical care including wound care practices, proper hydration, and physical activity guidelines. Instructions were given on managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and strategies to cope with common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. A detailed plan for post-discharge follow-ups was provided, emphasizing the importance of continued monitoring for early detection of recurrence or complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of any potential recurrences or new health issues. With a good understanding of his condition and active participation in his care, Mr. Chennault stands a fighting chance against this disease.
+
+Final Remarks:
+	It was a pleasure working with Karen Chennault during his treatment journey. His resilience and cooperation throughout the process were commendable. We wish him all the best for a speedy recovery and a healthy future. Sincerely, Dr. Joyce Grenier (Date 15/01/2022) / Patient Signature (Date 15/01/2022)

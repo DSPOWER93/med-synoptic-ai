@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ruth Wiant
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1235
+	•Date of Admission: 04/15/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Randall Edward
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Mr. Wiant presented to the Ruth Wiant complaining of hematuria and persistent lower back pain, which had been increasing in severity over the past three weeks. A urinalysis confirmed the presence of blood in his urine. Further investigations including a computed tomography (CT) scan revealed a mass in his bladder with evidence of local invasion.
+
+Medical History:
+	Mr. Wiant has a significant medical history, including hypertension controlled by medication and diabetes mellitus type 2 managed through diet and oral medications. He has a family history of colon cancer and asthma. Allergic to penicillin and sulfa drugs, he was previously admitted for appendectomy in 2015. His pre-admission medications included Atenolol, Metformin, and Glipizide.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of invasive transitional cell carcinoma in the bladder. Staging CT scan revealed a 6 cm mass in the bladder with local invasion but no evidence of metastasis. Blood tests showed elevated creatinine levels, indicating possible kidney dysfunction due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Wiant. This included radical cystectomy with ileal conduit formation, followed by six cycles of adjuvant chemotherapy (Gemcitabine and Cisplatin). Radiation therapy was deemed unnecessary based on the staging results. The focus during post-operative care was to manage complications such as urinary tract infections and wound healing issues.
+
+Hospital Course:
+	Mr. Wiant underwent successful radical cystectomy and ileal conduit formation on April 25, 2022. He experienced post-operative complications including anemia and delayed wound healing, which were managed through blood transfusions and aggressive wound care. His kidney function improved with fluid management and electrolyte balance maintenance.
+
+Follow-Up Plan:
+	Mr. Wiant will be scheduled for outpatient appointments every three months for the first year post-discharge, then six-monthly thereafter. He will continue his diabetes medications but discontinue Atenolol due to potential interactions with chemotherapy. Lifestyle recommendations include a low-fat diet and regular exercise. Warning signs requiring immediate medical attention include fever, worsening back pain, change in urinary habits, or signs of dehydration.
+
+Patient Education:
+	Mr. Wiant and his family were educated about the importance of follow-up appointments, the function of the ileal conduit, and the recognition of potential complications. They were also instructed on managing common side effects such as nausea, fatigue, and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Wiant was provided with detailed instructions regarding medication adherence, wound care practices including dressing changes, hydration, and physical activity guidelines to promote healing and prevent complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Wiant's long-term health. He was advised about the importance of maintaining a healthy lifestyle, including regular exercise and a balanced diet, to improve his overall prognosis.
+
+Final Remarks:
+	Dr. Edward commends Mr. Wiant for his courage and cooperation throughout his treatment journey. The report is signed by both Dr. Edward and Mr. Wiant on May 20, 2022, validating the accurate documentation of his care.

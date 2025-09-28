@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Shirley Rodriguez
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M0
+	•Date of Admission: 05/03/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Jennifer Griffin
+	•Primary Diagnosis: Stage IIIB Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Shirley Rodriguez, a 38-year-old male, presented to our facility with a one-month history of intermittent abdominal pain, change in bowel habits, and unexplained weight loss. Upon initial assessment, he displayed signs of anemia and abnormal laboratory test results, including elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA 19-9). These findings prompted further diagnostic investigations, which led to the discovery of a large tumor in the colon and multiple liver metastases.
+
+Medical History:
+	Mr. Rodriguez has been diagnosed with hypertension and asthma, for which he takes daily medications lisinopril (20mg) and salmeterol/fluticasone (50/250mcg). He also suffers from chronic obstructive pulmonary disease (COPD), which has been managed over the past five years. His family history is notable for colorectal cancer, with his father being diagnosed at age 65 and undergoing surgery for resection of a malignant tumor.
+
+Diagnostic Findings:
+	A colonoscopy revealed an invasive adenocarcinoma in the sigmoid colon. Computed tomography (CT) scans confirmed the presence of multiple liver metastases. Biopsy samples taken from both the primary tumor and liver lesions were positive for colorectal cancer.
+
+Treatment Plan:
+	The multidisciplinary team, consisting of surgeons, oncologists, radiotherapists, and nurses, developed a comprehensive treatment plan. Mr. Rodriguez underwent surgical resection of the primary tumor and the creation of an ileal conduit to manage waste elimination post-surgery. Subsequently, he began chemotherapy, following a FOLFOX regimen (Folinic acid, Fluorouracil, and Oxaliplatin) for six cycles. Due to the severity of liver metastases, radiation therapy was also administered.
+
+Hospital Course:
+	Initially, Mr. Rodriguez experienced post-operative complications, including an infection at the surgical site. However, with the assistance of our infectious disease specialists and wound care team, these issues were managed effectively. Throughout his hospital stay, Mr. Rodriguez received extensive nutritional support to help combat weight loss and maintain his overall health.
+
+Follow-Up Plan:
+	Following discharge, Mr. Rodriguez is scheduled for regular follow-up appointments with Dr. Griffin every three months for the first year, then every six months thereafter. His medication regimen includes maintenance chemotherapy to prevent recurrence and control any potential disease progression. Additionally, lifestyle modifications such as a low-fat diet and regular exercise are recommended to improve his overall health.
+
+Patient Education:
+	Mr. Rodriguez was educated on the importance of post-surgical care for his ileal conduit, including monitoring for signs of complications like leakage or blockages. He was also taught how to recognize common side effects of chemotherapy, such as nausea, fatigue, and diarrhea, and provided strategies to manage these symptoms effectively.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rodriguez received detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to monitor his weight and report any sudden changes or signs of complications to his healthcare providers immediately.
+
+Prognosis and Long-Term Outlook:
+	While colorectal cancer is a serious condition, with appropriate follow-up care and treatment, patients like Mr. Rodriguez can achieve remission and maintain their quality of life. It is crucial for him to attend regular checkups and adhere strictly to his medication regimen to minimize the risk of recurrence and manage ongoing health issues effectively.
+
+Final Remarks:
+	During his treatment journey, Shirley Rodriguez demonstrated remarkable resilience and cooperation. He embraced each challenge with determination and a positive attitude. As we celebrate his successful discharge from our care, we look forward to seeing him continue on the path towards recovery. We are confident that Mr. Rodriguez will maintain his health and regain his vitality as he transitions back to his daily life.

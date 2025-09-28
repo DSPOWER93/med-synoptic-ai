@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sara Stapleton
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1379
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 03/20/2022
+	•Attending Physician: Dr. Roberta Salais
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Sara Stapleton, a 52-year-old male, was admitted to our facility on October 3, 2022, due to persistent symptoms of abdominal pain, bloody stools, and unintentional weight loss over the past six months. The initial assessment included physical examination, laboratory tests, and imaging studies, which revealed an obstructed colon, suspected tumor, and metastasis in the liver.
+
+Medical History:
+	Mr. Stapleton has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He has undergone two knee surgeries and one gallbladder removal in the past. His family history is significant for colorectal cancer, with his father and a paternal uncle both diagnosed at age 60 and 75, respectively. Mr. Stapleton is allergic to penicillin and sulfa drugs. He was taking metformin, lisinopril, insulin, and inhaled bronchodilators before admission.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during the hospital stay included abdominal computed tomography (CT) scan, colonoscopy, and biopsy of the tumor. The CT scan revealed a large obstructing mass in the sigmoid colon with liver metastasis. The pathology report confirmed the diagnosis of moderately differentiated adenocarcinoma of the colon. The blood tests showed anemia (hemoglobin 8.2 g/dL), elevated CEA level (15 ng/mL), and increased liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stapleton. The initial intervention was an open laparotomy with sigmoid colon resection, creation of ileal conduit, and partial hepatectomy to remove the liver metastasis. Post-operative care included pain management, nutritional support, and bowel regimen. A four-cycle regimen of FOLFOX (Folinate + 5-Fluorouracil + Oxaliplatin) chemotherapy was initiated to reduce the risk of recurrence. Radiation therapy was considered but deferred due to the patient's general condition and potential side effects.
+
+Hospital Course:
+	Mr. Stapleton experienced an initial recovery from surgery, followed by complications related to anastomotic leakage and post-operative infection. The role of intensive care unit (ICU) therapy, wound management, and antibiotics was crucial during this phase. After stabilization, he was transferred to the surgical ward for continued nutritional support, disease management, and rehabilitation.
+
+Follow-Up Plan:
+	The follow-up plan includes scheduled outpatient appointments with Dr. Salais every three months for the first year, then every six months thereafter. Mr. Stapleton will continue his medications (metformin, lisinopril, and inhaled bronchodilators), but insulin dosage may be adjusted based on blood glucose levels. A low-fiber diet is recommended to minimize the risk of complications with the ileal conduit. Weight maintenance and regular exercise are essential for overall health. Mr. Stapleton should immediately seek medical attention if he experiences fever, abdominal pain, or changes in bowel habits.
+
+Patient Education:
+	Mr. Stapleton was educated about his diagnosis, treatment options, and post-surgical care instructions. This included information on managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and strategies to manage common side effects like diarrhea, fatigue, and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Stapleton was provided comprehensive instructions for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also informed about signs of infection, such as increased redness, swelling, or drainage at the incision site, and advised to seek medical attention immediately if these symptoms arise.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential for long-term survival. Mr. Stapleton will need ongoing management of his underlying conditions (hypertension, diabetes, and COPD) to optimize overall health and minimize the risk of complications.
+
+Final Remarks:
+	The attending physician, Dr. Roberta Salais, would like to express her appreciation for Mr. Stapleton's resilience and cooperation throughout his treatment journey. She emphasizes the importance of adhering to the follow-up plan and encourages him to seek medical attention promptly if any concerns arise. This report is signed by both Dr. Salais and Mr. Sara Stapleton on March 20, 2022, validating the documentation of his treatment process.

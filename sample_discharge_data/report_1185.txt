@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Ethel Carl
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1185
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 03/15/2023
+	•Attending Physician: Dr. Beth Crowe
+	•Primary Diagnosis: Carcinoma of the Bladder (T4N0M1)
+
+Reason for Admission:
+	Ethel Carl was admitted to our hospital after presenting with severe hematuria (blood in urine), persistent pain in the lower abdomen, and weight loss. Upon initial assessment, it was evident that Mr. Carl was experiencing significant discomfort. A series of diagnostic tests were conducted, including a CT scan, cystoscopy, and urinalysis, which confirmed the presence of a large, invasive bladder tumor (T4). The extent of the cancer had metastasized to nearby lymph nodes (N0) and had spread beyond the pelvic region (M1).
+
+Medical History:
+	Mr. Carl has a history of hypertension, which is well-controlled with medication. He also suffers from chronic obstructive pulmonary disease (COPD), for which he requires regular bronchodilator therapy. Mr. Carl underwent a partial nephrectomy in 2015 due to a renal cyst. His family has a history of colon cancer, and he is allergic to penicillin. Prior to admission, Mr. Carl was on a regimen of lisinopril, albuterol, ipratropium bromide, and metformin.
+
+Diagnostic Findings:
+	Laboratory tests revealed elevated creatinine levels, suggesting kidney dysfunction, likely due to the tumor's proximity to the ureters. Pathology reports confirmed the presence of an invasive urothelial carcinoma. The CT scan indicated a large, irregular mass in the bladder with evidence of lymph node involvement and distant metastases.
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Crowe, developed a comprehensive treatment plan for Mr. Carl. This included a radical cystectomy, followed by immediate ileal conduit formation. Post-operative care involved close monitoring of vital signs, electrolyte balance, and kidney function. A chemotherapy regimen consisting of gemcitabine and cisplatin was initiated, with six cycles scheduled over the course of six months. Radiation therapy was not deemed necessary due to the aggressive nature of the cancer.
+
+Hospital Course:
+	Mr. Carl underwent a successful radical cystectomy on 02/15/2023. The post-operative period was challenging, with complications related to wound healing and kidney function. Intensive therapy, nutritional support, and meticulous wound care were crucial in his recovery. By the time of discharge, Mr. Carl had shown significant improvement, albeit with a need for continued monitoring and management of his health issues.
+
+Follow-Up Plan:
+	A follow-up plan has been designed to ensure optimal care for Mr. Carl post-discharge. This includes scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. Medications will be continued as prescribed, and adjustments may be made based on his response to treatment and overall health status. Lifestyle modifications, such as a low-fat diet and cessation of tobacco use, are strongly recommended. Mr. Carl should report any signs of complications, including fever, increased pain, or changes in urine color or output.
+
+Patient Education:
+	Mr. Carl and his family were provided with detailed instructions on post-surgical care for the ileal conduit, including emptying techniques and catheter care. They were also educated about recognizing signs of complications, such as foul-smelling drainage or redness around the stoma site. Common side effects of chemotherapy, such as nausea, fatigue, and hair loss, were discussed, along with strategies for managing these symptoms.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Carl was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to monitor his weight, blood pressure, and blood glucose levels regularly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Carl's long-term health. It is crucial that he adheres to the prescribed treatment plan and makes necessary lifestyle modifications to improve his prognosis.
+
+Final Remarks:
+	Dr. Crowe would like to express her appreciation for Mr. Carl's resilience and cooperation throughout this challenging treatment journey. She emphasizes the importance of continued adherence to the treatment plan and encourages Mr. Carl to maintain an optimistic outlook as he moves forward in his recovery.

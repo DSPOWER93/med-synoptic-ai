@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Linda Flanagan
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M162
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 07/01/2023
+	•Attending Physician: Dr. James Flanagan
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Linda Flanagan was admitted to our institution on 01/01/2023 due to persistent hematuria, or blood in the urine, and frequent urinary tract infections over the past two months. Initial assessment revealed a high-grade upper tract urothelial carcinoma, confirmed through cystoscopy, biopsy, and computed tomography (CT) scans of the abdomen and pelvis.
+
+Medical History:
+	Mr. Flanagan has a significant medical history, including hypertension for which he is on daily medication, diabetes mellitus type 2 managed with dietary modifications and oral medications, and chronic obstructive pulmonary disease (COPD) due to a 30-year smoking history. He underwent a total left knee replacement surgery three years ago. Mr. Flanagan has no known allergies and was taking aspirin for his hypertension before admission.
+
+Diagnostic Findings:
+	During the hospital stay, pathology reports confirmed the presence of high-grade urothelial carcinoma. CT scans revealed the tumor in the right upper ureter extending to the renal pelvis, with no evidence of distant metastasis. Blood tests showed mild anemia and elevated creatinine levels due to urinary obstruction.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Flanagan. This included a partial nephroureterectomy with ureteral reimplantation, followed by a six-cycle of intravesical Bacillus Calmette-Guérin (BCG) therapy and 45 Gray external beam radiation therapy to the right kidney. The post-operative care included pain management, antibiotics for urinary tract infections, and nutritional support.
+
+Hospital Course:
+	Mr. Flanagan underwent a successful partial nephroureterectomy on 03/01/2023. The immediate post-operative period was challenging due to anastomotic leakage; however, with prompt intervention and close monitoring, the condition improved significantly. Subsequent BCG therapy and radiation therapy were well-tolerated.
+
+Follow-Up Plan:
+	Mr. Flanagan will be scheduled for regular outpatient follow-ups every three months for the first year, then six-monthly thereafter. His medications, including anti-hypertensives and diabetes medication, will be adjusted as necessary. He has been advised to maintain a healthy diet rich in fruits and vegetables, avoid smoking, and limit alcohol consumption.
+
+Patient Education:
+	The patient and his family were educated about the importance of post-surgical care, recognizing signs of complications such as fever, persistent abdominal pain, and changes in urinary patterns. They were instructed on managing the ileal conduit, including emptying schedules and cleaning methods.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Flanagan was provided with detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to gradually increase his activities as tolerated and to report any unusual symptoms immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Flanagan has been informed about the importance of managing ongoing health issues, particularly diabetes and hypertension, to improve his overall prognosis.
+
+Final Remarks:
+	This report concludes with Dr. James Flanagan's final remarks, expressing appreciation for Mr. Flanagan's resilience and cooperation throughout his treatment journey. The physician's and patient's signatures are affixed to validate the report dated 07/01/2023.

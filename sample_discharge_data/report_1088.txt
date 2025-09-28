@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Clinton Stanley
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1088
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 15/02/2023
+	•Attending Physician: Dr. Casey Hurst
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Clinton Stanley, a 48-year-old male, was admitted to the hospital on February 1st, 2023, due to persistent lower abdominal pain and weight loss over the past three months. An initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated carcinoembryonic antigen (CEA) levels. A computed tomography (CT) scan confirmed a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Stanley has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a left total knee replacement surgery four years ago. His family history is significant for colorectal cancer, as his father was diagnosed at the age of 60. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, amlodipine, and inhaled bronchodilators.
+
+Diagnostic Findings:
+	During his hospital stay, Mr. Stanley underwent a series of diagnostic tests. The pathology report confirmed adenocarcinoma of the sigmoid colon, and the CT scan showed lymph node involvement and liver metastasis. Blood tests revealed anemia, hypoalbuminemia, and elevated lactic dehydrogenase levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Stanley. He underwent a sigmoid colectomy with primary anastomosis, followed by a temporary loop ileostomy due to the tumor's location. Post-operative care included intravenous hydration and pain management. A chemotherapy regimen of FOLFOX (Folinic acid, Fluorouracil, and Oxaliplatin) was initiated with six planned cycles. Radiation therapy was not deemed necessary due to the extensive metastasis.
+
+Hospital Course:
+	Mr. Stanley's initial recovery from surgery was uneventful. He experienced some post-operative pain and required occasional analgesia. Nutritional support was provided through a high-protein diet and supplemental nutrition via a nasogastric tube for two weeks. He responded well to chemotherapy, showing a reduction in the size of liver metastases after the first cycle.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Stanley was scheduled for regular outpatient appointments every three months for the first year, then every six months thereafter. He will continue with the FOLFOX regimen until the completion of all cycles. Lifestyle recommendations include maintaining a balanced diet, avoiding tobacco products, and regular exercise. Dietary advice includes consuming high-fiber foods and staying hydrated. Warning signs requiring immediate medical attention include fever, worsening abdominal pain, unintended weight loss, or changes in stool color or consistency.
+
+Patient Education:
+	Mr. Stanley and his family were educated about the ileal conduit, post-surgical care, and signs of complications. They were instructed on managing common side effects such as fatigue, nausea, and diarrhea. They were also taught how to recognize and manage symptoms of dehydration.
+
+Discharge Instructions:
+	Upon discharge, Mr. Stanley was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to continue taking his other medications as prescribed.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Stanley was counseled on the importance of maintaining a healthy lifestyle, attending all scheduled appointments, and reporting any concerning symptoms promptly.
+
+Final Remarks:
+	I am pleased to report that Clinton Stanley has shown great resilience throughout his treatment journey. His cooperation and adherence to the treatment plan have been commendable. I wish him a speedy recovery and hope for a favorable long-term outlook.

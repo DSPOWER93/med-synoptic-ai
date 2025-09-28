@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Pamela Baylor
+	•Date of Birth: Date of Birth
+	•Medical Record Number: M1054
+	•Date of Admission: Admission Date
+	•Date of Discharge: Discharge Date
+	•Attending Physician: Dr. Maria Abbott
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient was admitted to the hospital due to persistent haematuria (blood in urine) and recurrent lower abdominal pain, which worsened over a period of two weeks. Initial assessment revealed tachycardia (rapid heart rate), and the patient reported feeling fatigued and anorexic. Diagnostic investigations, including urine cytology, ultrasound, and Pamela Baylor (CT) scan, confirmed the presence of a TCC in the bladder. The tumor was found to be invasive, with involvement of the muscle layer, necessitating prompt surgical intervention.
+
+Medical History:
+	The patient has a significant past medical history, including hypertension and Chronic Obstructive Pulmonary Disease (COPD), for which they have been under regular medical care. They have had a hysterectomy in 2015 due to uterine cancer. Their family history is notable for breast cancer in their mother at the age of 48 and prostate cancer in their father at the age of 67. The patient has known allergies to penicillin and sulfa drugs. Prior to admission, they were taking metoprolol for hypertension control, inhaled bronchodilators for COPD management, and paracetamol for occasional pain relief.
+
+Diagnostic Findings:
+	Pathology report from the transurethral resection of bladder tumor (TURBT) confirmed the diagnosis of TCC. CT scan revealed a 5cm mass in the posterior wall of the bladder with surrounding edema and hydronephrosis. Blood tests showed elevated white blood cell count, creatinine level, and electrolyte imbalance indicative of dehydration.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. The primary intervention was a radical cystectomy with ileal conduit creation. Post-operative care included pain management, fluid and electrolyte replacement, and nutritional support. The patient also commenced adjuvant chemotherapy with a regimen of gemcitabine and cisplatin for four cycles. Radiation therapy was deemed unnecessary based on the staging of the disease.
+
+Hospital Course:
+	After surgery, the patient experienced complications such as urinary leakage, which were managed conservatively with continuous bladder irrigation and antibiotics. The patient's condition improved steadily over time, and they regained their appetite. They also underwent physical therapy to aid in recovery and prevent complications like deep vein thrombosis.
+
+Follow-Up Plan:
+	Post-discharge, the patient will be scheduled for regular follow-up appointments with the oncologist and urologist. They are advised to continue taking metoprolol and inhaled bronchodilators while adjusting their dosage as directed by their physicians. A low-fiber diet is recommended initially to minimize discomfort associated with the ileal conduit. The patient should maintain good hydration, engage in light physical activity, and monitor for signs of dehydration, infection, or recurrence.
+
+Patient Education:
+	Education was provided to the patient and their family regarding post-surgical care, including emptying the ileal conduit, managing common side effects like diarrhea and skin irritation around the stoma site, recognizing signs of complications such as infection or obstruction, and maintaining good hydration.
+
+Discharge Instructions:
+	Discharge instructions included medication adherence, proper wound care practices, maintaining adequate hydration, and guidelines for physical activity to promote healing and prevent complications. The patient was also advised on signs requiring immediate medical attention such as fever, increased abdominal pain, or changes in urine output or color.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing the long-term outlook for patients with TCC. Patients are also at risk for other bladder cancers and should be vigilant regarding changes in urinary symptoms.
+
+Final Remarks:
+	The attending physician commends the patient on their resilience and cooperation throughout the treatment journey. The report is signed by both the physician and the patient, with the date indicated to validate the documentation.

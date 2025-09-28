@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lorie Martin
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1200
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. Elisabeth Medellin
+	•Primary Diagnosis: Colorectal Cancer, Stage III
+
+Reason for Admission:
+	Mr. Martin presented to the Lorie Martin with a three-week history of progressive abdominal pain, bloating, and altered bowel habits. The symptoms were accompanied by unintentional weight loss and fatigue. Initial assessment revealed an abnormal physical examination, prompting further diagnostic investigations including a computed tomography (CT) scan of the abdomen and pelvis, which revealed a large mass in the sigmoid colon.
+
+Medical History:
+	Mr. Martin has a past medical history significant for hypertension, type 2 diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His father died of colon cancer at the age of 65. Mr. Martin is allergic to penicillin and has been taking metformin, lisinopril, and tiotropium bromide regularly before admission.
+
+Diagnostic Findings:
+	The CT scan confirmed a large, irregular mass in the sigmoid colon with regional lymphadenopathy and liver metastases. Pathology report of the biopsied tissue confirmed adenocarcinoma of the colon. Blood tests revealed anemia, elevated CEA levels, and slightly abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Martin. He underwent a laparoscopic sigmoid colectomy with primary anastomosis. Post-operative care included management of ileus, pain control, and nutritional support. He received adjuvant chemotherapy (FOLFOX regimen) for six cycles, with close monitoring for side effects such as neutropenia, diarrhea, and peripheral neuropathy. Radiation therapy was deemed unnecessary due to the absence of resectable liver metastases.
+
+Hospital Course:
+	Mr. Martin's initial recovery from surgery was uneventful. However, he developed a post-operative ileus which resolved with conservative management. His symptoms of abdominal pain and bloating significantly improved during his hospital stay. He received regular therapy sessions for mobility and respiratory function and was supported nutritionally.
+
+Follow-Up Plan:
+	Mr. Martin will return for follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue with his current medications (metformin, lisinopril, and tiotropium bromide) but may need additional medication to manage diarrhea associated with chemotherapy. Lifestyle modifications include a high fiber diet and regular exercise.
+
+Patient Education:
+	Mr. Martin was educated about the importance of post-surgical care, including wound care practices, maintaining adequate hydration, and engaging in gentle physical activity as tolerated. He was taught how to manage the ileal conduit, recognize signs of complications such as infection or obstruction, and manage common side effects like diarrhea and peripheral neuropathy.
+
+Discharge Instructions:
+	Mr. Martin was provided with discharge instructions detailing medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to report any signs of complications immediately.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Martin will need to manage ongoing health issues related to his comorbidities.
+
+Final Remarks:
+	Dr. Medellin commends Mr. Martin's resilience and cooperation throughout the treatment journey and wishes him a speedy recovery. The report is signed by Dr. Elisabeth Medellin on 15/01/2023, validating the documentation.

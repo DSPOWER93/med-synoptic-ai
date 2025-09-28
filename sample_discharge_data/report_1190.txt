@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mike Caldwell
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1190
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Norman Schoonover
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mike Caldwell was admitted to the hospital due to persistent abdominal pain and unexplained weight loss over the past few months. Upon admission, a thorough physical examination revealed several tumor masses in the lower abdomen, prompting immediate diagnostic investigations. A series of tests including computed tomography (CT) scans, magnetic resonance imaging (MRI), and biopsies confirmed the diagnosis of colorectal cancer. The severity of the disease was evident from the extensive growth of the tumors, and the progression had led to localized perforation, causing the abdominal pain.
+
+Medical History:
+	Mr. Caldwell has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a gallbladder removal surgery in 2015. His family history is significant for colorectal cancer, with his father having passed away from the disease at the age of 60. Mr. Caldwell is allergic to penicillin and has been taking aspirin daily as part of his cardiovascular management.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a moderately differentiated adenocarcinoma in the colon. Imaging scans showed that the disease had spread to nearby lymph nodes, with some distant metastases detected in the liver. Blood tests revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of the cancer's aggressiveness.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Caldwell. This included a total colectomy followed by an ileo-rectal anastomosis, along with a temporary ileostomy to allow the anastomosis site to heal. He underwent six cycles of adjuvant chemotherapy using FOLFOX (5-Fluorouracil, Leucovorin, and Oxaliplatin) to reduce the risk of recurrence. The team also considered radiation therapy for his liver metastases but decided against it due to potential complications.
+
+Hospital Course:
+	Mr. Caldwell's initial recovery from surgery was smooth, with the expected post-operative complications such as ileus and dehydration managed effectively. He faced a few challenges during his hospital stay, including nutritional deficiencies due to reduced food intake and fatigue associated with the chemotherapy. His progress was closely monitored, with regular consultations from medical oncologists, surgeons, radiologists, and nutritionists.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Caldwell will continue with follow-up appointments every three months for the first year, then every six months thereafter. He will need to continue his aspirin and maintain a balanced diet low in fiber to minimize stress on his ileal conduit. Lifestyle changes such as regular exercise and quitting smoking are strongly recommended. Any sudden abdominal pain, changes in bowel habits, or unexplained weight loss should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Caldwell and his family were educated about the importance of adhering to the prescribed medication regimen and lifestyle changes. They were taught how to manage the ileal conduit, recognize signs of complications such as blockage or leakage, and handle common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, Mr. Caldwell was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to carry a medical ID card stating his condition and allergies.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in Mr. Caldwell's case. Given the aggressive nature of his cancer, ongoing health issues related to diabetes and COPD must also be managed diligently.
+
+Final Remarks:
+	Dr. Schoonover concludes this report by acknowledging Mr. Caldwell's resilience throughout his treatment journey and expressing appreciation for his cooperation. She emphasizes the importance of continued follow-up care and compliance with post-discharge instructions to ensure a smooth recovery and long-term health maintenance. Both Dr. Schoonover and Mr. Caldwell have signed this report, validating its accuracy on April 25th, 2022.

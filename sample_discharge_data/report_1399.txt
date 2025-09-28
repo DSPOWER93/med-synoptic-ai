@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carline Cohen
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1399
+	•Date of Admission: 03/01/2023
+	•Date of Discharge: 10/01/2023
+	•Attending Physician: Dr. Deborah Erickson
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastasis
+
+Reason for Admission:
+	Carline Cohen, a 57-year-old male, presented to the emergency department complaining of persistent lower abdominal pain and decreased appetite over the past month. Initial assessment revealed an abnormal mass in the lower abdomen along with laboratory results showing elevated levels of carcinoembryonic antigen (CEA) and a positive fecal occult blood test. A subsequent computed tomography (CT) scan confirmed the presence of a large tumor in the sigmoid colon, as well as multiple liver metastases.
+
+Medical History:
+	Carline Cohen has a history of hypertension managed with medication and diabetes mellitus type 2 diagnosed five years ago. He underwent a cholecystectomy in 2018 due to gallstones. His father died of colorectal cancer at the age of 65, and his elder brother was recently diagnosed with prostate cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, Carline Cohen was taking metformin for diabetes management and lisinopril for hypertension control.
+
+Diagnostic Findings:
+	Pathology results confirmed the presence of adenocarcinoma in the sigmoid colon. CT scan revealed a 10 cm tumor in the sigmoid colon with multiple liver metastases. A positron emission tomography (PET) scan showed increased fluorodeoxyglucose (FDG) uptake in both the primary tumor and the liver lesions. Blood tests showed elevated CEA levels of 15 ng/mL (normal range <5 ng/mL), anemia, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Carline Cohen. The primary intervention was a sigmoid colon resection with end ileostomy followed by a course of systemic chemotherapy (FOLFOX) administered over six cycles, along with targeted therapy (bevacizumab). Radiation therapy was not indicated due to the extensive liver metastasis. The post-operative care included monitoring for complications such as anastomotic leakage and ileus.
+
+Hospital Course:
+	Carline Cohen underwent a successful sigmoid colon resection on 04/01/2023. Post-operative recovery was initially challenging due to anemia and electrolyte imbalances, which were managed with blood transfusions and intravenous fluid therapy. He also experienced common side effects of chemotherapy such as fatigue, nausea, and diarrhea. Carline Cohen received nutrition support through a nasogastric tube during the first week post-surgery and gradually transitioned to oral intake thereafter.
+
+Follow-Up Plan:
+	Upon discharge, Carline Cohen was scheduled for regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He will continue taking oral chemotherapy and targeted therapy as prescribed. A low-fiber diet is recommended to minimize discomfort associated with the ileostomy. Carline Cohen was advised to monitor for signs of dehydration, electrolyte imbalances, and anemia.
+
+Patient Education:
+	The healthcare team provided education on post-surgical care, including ileostomy management, recognizing signs of complications such as leakage, obstruction, or peristomal skin irritation, and managing common side effects like diarrhea and fatigue. Carline Cohen was also informed about the importance of attending all scheduled follow-up appointments and maintaining regular screenings for colorectal cancer recurrence.
+
+Discharge Instructions:
+	Upon discharge, Carline Cohen was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a contact number for the nurse navigator to address any questions or concerns that may arise post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence. Carline Cohen's prognosis will depend on factors such as the response to chemotherapy, the presence of residual disease, and any new metastases that may develop. Managing ongoing health issues like diabetes and hypertension is equally important in ensuring a favorable long-term outlook.
+
+Final Remarks:
+	Carline Cohen demonstrated resilience throughout his treatment journey, cooperating diligently with the medical team and following the prescribed care plan. The attending physician, Dr. Deborah Erickson, emphasized the importance of continued adherence to the treatment regimen and regular follow-up appointments for optimal outcomes. Both Carline Cohen and Dr. Erickson signed this report on 10/01/2023, validating its accuracy and completeness.

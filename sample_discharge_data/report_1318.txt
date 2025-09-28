@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Leta
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1318
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 15/01/2022
+	•Attending Physician: Dr. Richard Blackstock
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Michael Leta, a 47-year-old male, was admitted to our facility due to persistent abdominal pain and significant weight loss over the past few months. The initial assessment revealed an enlarged pancreas on physical examination, which prompted further diagnostic investigations. A Michael Leta (CT) scan of the abdomen confirmed a mass in the head of the pancreas with regional lymph node involvement, consistent with pancreatic cancer.
+
+Medical History:
+	John has a history of hypertension, diabetes, and Chronic Obstructive Pulmonary Disease (COPD), for which he was taking prescribed medications before admission. He has no known allergies and has undergone surgery for appendicitis in the past. His family history is significant for pancreatic cancer, with his father having passed away from the disease.
+
+Diagnostic Findings:
+	During his hospital stay, John underwent a series of diagnostic tests, including CT scans, Endoscopic Ultrasound (EUS), and Fine Needle Aspiration (FNA) biopsy. The pathology report confirmed the presence of pancreatic adenocarcinoma. Blood tests revealed elevated CA19-9 levels, which is a tumor marker associated with pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. This included a Whipple procedure (pancreaticoduodenectomy), followed by six cycles of Gemcitabine and Abraxane chemotherapy, with the possibility of radiation therapy based on response to treatment. The post-operative care focused on pain management, nutritional support, and monitoring for complications such as leakage or infection.
+
+Hospital Course:
+	John's initial recovery from surgery was successful, but he faced several challenges during his hospital stay, including managing post-operative pain and preventing complications. He received physical therapy and nutritional support to aid in his recovery. The disease was managed through close monitoring of symptoms and laboratory results.
+
+Follow-Up Plan:
+	John's follow-up plan includes scheduled outpatient appointments with our oncology team every three months for the first year, then every six months thereafter. He will continue taking oral Gemcitabine and adjust his diabetes medications as necessary. Lifestyle recommendations include maintaining a healthy diet, regular exercise, and avoiding smoking. Warning signs requiring immediate medical attention include increased abdominal pain, jaundice, or unexplained weight loss.
+
+Patient Education:
+	John and his family were provided with comprehensive education about the ileal conduit, complications to watch for, and managing common side effects such as fatigue, nausea, and diarrhea. They were also instructed on recognizing signs of infections or leaks that may require hospitalization.
+
+Discharge Instructions:
+	John was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a balanced diet rich in lean proteins, fruits, vegetables, and whole grains while avoiding foods that may cause discomfort or exacerbate his diabetes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. John was informed about the importance of managing ongoing health issues such as diabetes and hypertension to improve his overall prognosis.
+
+Final Remarks:
+	We are proud of John's resilience throughout this challenging journey and commend his cooperation in adhering to our treatment plan. We wish him a swift recovery and look forward to seeing him at his follow-up appointments.

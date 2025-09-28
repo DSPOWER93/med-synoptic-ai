@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Arthur Westphalen
+	•Date of Birth: 12/01/1985
+	•Medical Record Number: M1219
+	•Date of Admission: 02/15/2022
+	•Date of Discharge: 04/05/2022
+	•Attending Physician: Dr. Gregory Baker
+	•Primary Diagnosis: Adenocarcinoma of the Colon, Stage IIIB
+
+Reason for Admission:
+	Arthur Westphalen was admitted to our facility on February 15th, 2022, due to increasing abdominal pain, persistent diarrhea, and unintentional weight loss over a six-week period. Upon initial assessment, he exhibited signs of abdominal distension and tenderness, and laboratory tests revealed anemia, hypokalemia, and elevated carcinoembryonic antigen (CEA) levels. A series of diagnostic investigations followed, including computed tomography (CT) scans and colonoscopy, which confirmed the presence of a large mass in his colon.
+
+Medical History:
+	Mr. Westphalen has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD), all of which were well-controlled with medications before admission. He underwent appendectomy in 2014. His father passed away due to colorectal cancer at the age of 65, prompting Mr. Westphalen to undergo regular colonoscopies since the age of 45. He was not allergic to any known medications and was taking metformin, lisinopril, and tiotropium before admission.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass (8 cm) in his descending colon with adjacent mesocolon thickening, multiple hepatic lesions, and multiple lung nodules suggestive of metastasis. Pathology reports from the colonoscopy confirmed the diagnosis of adenocarcinoma of the colon. Further tests indicated elevated CEA levels (20 ng/mL), low hemoglobin (9 g/dL), and low potassium levels (3.1 mEq/L).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Westphalen, which included a partial colectomy followed by a right hemicolectomy with ileal conduit formation and regional lymph node dissection. Post-operative care involved close monitoring of his blood glucose levels due to diabetes, management of pain, and prevention of deep vein thrombosis. He underwent six cycles of adjuvant chemotherapy (FOLFOX) with leucovorin, 5-fluorouracil, and oxaliplatin, and radiation therapy to the liver metastases.
+
+Hospital Course:
+	Mr. Westphalen's initial recovery from surgery was complicated by postoperative atrial fibrillation and hypokalemia, both of which were managed effectively with medication adjustments. He received nutritional support through a nasogastric tube during the first week after surgery and gradually transitioned to solid food thereafter. He also participated in physical therapy sessions to aid his recovery.
+
+Follow-Up Plan:
+	Mr. Westphalen will return for follow-up appointments every three months for the first year post-treatment, then every six months thereafter. He will continue taking metformin and lisinopril but will taper off tiotropium as his COPD symptoms improve. A low-fiber diet is recommended to manage his ileal conduit, and he should maintain a healthy weight and regular exercise routine. Any signs of abdominal pain, rectal bleeding, or rapid weight loss warrant immediate medical attention.
+
+Patient Education:
+	Mr. Westphalen and his family were educated on the importance of adhering to his medication regimen and attending scheduled follow-up appointments. They were also instructed on post-surgical care, recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Westphalen was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to avoid heavy lifting for at least six weeks after surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Westphalen's ongoing health issues.
+
+Final Remarks:
+	This report concludes the treatment journey of Arthur Westphalen, who demonstrated remarkable resilience throughout his battle with colorectal cancer. We are confident that with continued support and adherence to the follow-up plan, Mr. Westphalen will continue to recover effectively.

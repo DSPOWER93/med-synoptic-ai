@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Erika Dewar
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1125
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Dianne Grisham
+	•Primary Diagnosis: Urothelial Carcinoma (Bladder Cancer)
+
+Reason for Admission:
+	Mr. Dewar presented to the emergency department with persistent hematuria, pain in the lower abdomen, and frequent urination over a period of two weeks. Upon initial assessment, his vital signs were stable, but laboratory tests revealed an elevated white blood cell count, suggesting an infection or inflammation. A cystoscopy was performed, which confirmed the presence of a bladder tumor. Subsequent imaging studies, such as a computed tomography (CT) scan and magnetic resonance imaging (MRI), demonstrated a large, invasive urothelial carcinoma involving the bladder wall and adjacent structures.
+
+Medical History:
+	Mr. Dewar had a history of hypertension and type 2 diabetes mellitus, for which he was taking prescribed medications. He also suffered from chronic obstructive pulmonary disease (COPD) and had undergone a lung resection surgery eight years ago. His family history was significant for bladder cancer, as his father died of the same disease at the age of 65. Mr. Dewar reported no known allergies to medications.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of the bladder tumor (TURBT) revealed high-grade urothelial carcinoma, with positive lymph node involvement. Blood tests showed anemia and elevated creatinine levels, likely due to the extensive tumor burden.
+
+Treatment Plan:
+	A multidisciplinary team of oncologists, surgeons, and radiotherapy specialists developed a comprehensive treatment plan for Mr. Dewar. He underwent radical cystectomy with an ileal conduit construction, followed by six cycles of adjuvant chemotherapy (gemcitabine and cisplatin) and radiation therapy to the pelvic region. The surgery was successful, and Mr. Dewar experienced no significant postoperative complications.
+
+Hospital Course:
+	Post-surgery, Mr. Dewar's recovery was closely monitored by the medical team. He received appropriate pain management and nutritional support throughout his hospital stay. The disease remained stable during this period, and there were no major setbacks or challenges. Physical therapy helped him regain mobility, and he was eventually able to ambulate independently.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Dewar was scheduled for regular follow-up appointments with his oncologist every three months for the first year, then every six months thereafter. He was instructed to continue taking his prescribed medications and maintain a healthy diet focused on fiber intake. Additionally, he was advised to avoid alcohol and smoking to minimize the risk of recurrence or developing new cancers.
+
+Patient Education:
+	Mr. Dewar and his family were educated about the nature of bladder cancer, the rationale for the chosen treatment plan, and potential side effects such as fatigue, nausea, diarrhea, and neuropathy. Instructions on post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects were provided.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Dewar received a detailed list of medications to continue taking at home, along with instructions on proper wound care practices, hydration, and physical activity guidelines. He was advised to monitor his urine for any abnormalities and to seek immediate medical attention if he experienced fever, increased pain, or difficulty urinating.
+
+Prognosis and Long-Term Outlook:
+	Given the aggressive nature of Mr. Dewar's cancer and the potential for recurrence, regular monitoring is crucial for early detection. He was informed about the importance of maintaining a healthy lifestyle to manage ongoing health issues and minimize the risk of other complications.
+
+Final Remarks:
+	In conclusion, Mr. Dewar successfully underwent radical cystectomy and adjuvant chemoradiation therapy for urothelial carcinoma. His resilience and cooperation throughout the treatment journey were commendable, and we are hopeful for his continued recovery. This report is signed by Dr. Dianne Grisham on April 20, 2022.

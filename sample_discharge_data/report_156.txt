@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terry Motta
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M156
+	•Date of Admission: 02/15/2023
+	•Date of Discharge: 03/20/2023
+	•Attending Physician: Dr. Melanie Ellis
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Upon admission, John presented with complaints of hematuria (blood in urine) and dysuria (painful urination), persistent for over a month. Initial assessment included a physical examination, which revealed no abnormalities. Urinalysis confirmed the presence of blood, and cystoscopy was conducted, revealing a tumor in the bladder. Subsequent imaging studies, including computed tomography (CT) scan and magnetic resonance imaging (MRI), confirmed the diagnosis of bladder cancer.
+
+Medical History:
+	John has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft surgery in 2015. John's father passed away due to prostate cancer, and his mother had a history of breast cancer. He is allergic to penicillin and contrast agents. Before admission, he was on medications including metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and albuterol.
+
+Diagnostic Findings:
+	Pathology report confirmed the presence of transitional cell carcinoma in the bladder. CT scan and MRI revealed a tumor of approximately 4 cm in size with no evidence of metastasis. Blood tests showed elevated creatinine levels, suggesting possible kidney impairment due to the cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. He underwent a radical cystectomy with ileal conduit formation on 03/05/2023, followed by post-operative care. He was administered a combination chemotherapy regimen (GCB), which consists of Gemcitabine, Cisplatin, and BCG therapy. The treatment plan includes six cycles of GCB chemotherapy, with each cycle lasting three weeks. Potential side effects include myelosuppression, nephrotoxicity, and gastrointestinal disturbances.
+
+Hospital Course:
+	John's recovery from surgery was initially challenging due to complications related to his pre-existing conditions. However, with aggressive management of diabetes, hypertension, and COPD, John made significant progress over the course of his hospital stay. He underwent physical therapy for mobilization and nutritional support to manage his weight.
+
+Follow-Up Plan:
+	John will return for scheduled outpatient appointments every three months for the first year, then six-monthly thereafter. Medications including metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and albuterol will continue as prescribed. Lifestyle changes such as smoking cessation, maintaining a healthy diet, and regular exercise are recommended to promote overall health and reduce the risk of recurrence.
+
+Patient Education:
+	John and his family were provided with detailed instructions on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as infection, obstruction, or leakage, and managing common side effects such as diarrhea, fatigue, and nausea.
+
+Discharge Instructions:
+	Upon discharge, John was provided with a detailed list of medications to be continued, along with instructions for medication adherence. He was also given wound care instructions, hydration guidelines, and recommendations for physical activity.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues. John's compliance with the follow-up plan, adherence to lifestyle changes, and active participation in his care will significantly impact his long-term prognosis.
+
+Final Remarks:
+	Dr. Melanie Ellis, MD I am proud of John's resilience and cooperation throughout this challenging journey. With continued commitment to his health, I am optimistic about John's recovery and future. I look forward to seeing him in the follow-up appointments.

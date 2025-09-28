@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Bratton
+	•Date of Birth: 12/03/1985
+	•Medical Record Number: M1168
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 31/01/2022
+	•Attending Physician: Dr. Christine Reese
+	•Primary Diagnosis: Colorectal Cancer (T4N1M0)
+
+Reason for Admission:
+	James Bratton, a 36-year-old male, presented to the emergency department complaining of persistent lower abdominal pain and rectal bleeding over the past two weeks. The initial assessment revealed abnormalities in his vital signs, including tachycardia and anemia. Diagnostic investigations, including laboratory tests, colonoscopy, and computed tomography (CT) scan, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Bratton had a history of hypertension, which was well-controlled with medication. He also suffered from chronic obstructive pulmonary disease (COPD), for which he required daily inhalation therapy. Prior to this admission, he underwent a laparoscopic cholecystectomy due to gallstone complications. His family history was significant for colorectal cancer, with his father diagnosed at the age of 60. He had no known allergies and was taking aspirin daily for cardiovascular prophylaxis.
+
+Diagnostic Findings:
+	The pathology report confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. Imaging studies, including CT scan and positron emission tomography (PET) scan, showed a large tumor with local invasion and regional lymph node involvement. Blood tests revealed anemia and elevated carcinoembryonic antigen (CEA) levels.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Bratton. This included a right hemicolectomy with lymph node dissection, followed by adjuvant chemotherapy. Post-operative care involved pain management, wound care, and nutritional support. He was started on a FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) regimen for six cycles, with close monitoring for side effects such as neutropenia, peripheral neuropathy, and diarrhea. Radiation therapy was considered but ultimately deferred due to the patient's overall condition and the need for adjuvant chemotherapy.
+
+Hospital Course:
+	Mr. Bratton underwent a right hemicolectomy successfully on 05/01/2022. His post-operative course was complicated by anastomotic leak, which required a return to the operating room for a secondary anastomosis. He received intensive care and was closely monitored for any signs of sepsis. A multidisciplinary approach involving surgery, oncology, and gastroenterology teams ensured optimal management of his disease and associated complications.
+
+Follow-Up Plan:
+	Mr. Bratton will be following up with his oncologist every three months for the first two years post-treatment, then annually thereafter. He will continue taking aspirin for cardiovascular prophylaxis and will remain on a low-fiber diet to minimize any discomfort or complications related to the ileal conduit. Close monitoring for recurrence and any signs of colorectal cancer is essential.
+
+Patient Education:
+	Mr. Bratton and his family were educated about the importance of early detection and regular screenings for colorectal cancer. They were also instructed on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bratton was given instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was encouraged to maintain a healthy diet rich in fruits, vegetables, and whole grains while avoiding processed foods and red meat. Close follow-up with his primary care physician and oncologist is essential for continued health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Mr. Bratton's prognosis depends on the successful detection and treatment of any recurrence. Regular monitoring for early detection is crucial in managing ongoing health issues related to colorectal cancer. His cooperation throughout the treatment journey was commendable, and his resilience during this challenging period will play a significant role in his recovery.
+
+Final Remarks:
+	This report concludes Dr. Christine Reese's management of James Bratton's colorectal cancer treatment. Mr. Bratton's courage and determination throughout the process were inspiring, and we wish him the best for a successful recovery. Sincerely, Dr. Christine Reese (Signature)

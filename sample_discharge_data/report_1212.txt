@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Cathleen Page
+	•Date of Birth: 03/05/1982
+	•Medical Record Number: M1212
+	•Date of Admission: 12/01/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. James Flanagan
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Cathleen Page, a 40-year-old male, presented to the emergency department complaining of abdominal pain, persistent constipation, and rectal bleeding for the past three weeks. On physical examination, he appeared lethargic with signs of dehydration. A series of diagnostic tests were ordered, including a complete blood count (CBC), chemistry panel, carcinoembryonic antigen (CEA) test, abdominal computed tomography (CT) scan, and colonoscopy. The results revealed anemia, elevated CEA levels, and a large mass in the descending colon, confirming a diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Page has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent appendectomy in 2015. His family history is significant for colon cancer, with his father being diagnosed at the age of 60. Allergic to penicillin and contrast agents, he was taking metformin, lisinopril, and albuterol before admission.
+
+Diagnostic Findings:
+	The CT scan revealed a large, irregular mass in the descending colon with regional lymph node involvement. Pathology results confirmed an adenocarcinoma of the colon. CEA levels were significantly elevated at 12.5 ng/mL (normal range < 5 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Page. He underwent a left colectomy with primary anastomosis and lymph node dissection, followed by adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, leucovorin, and fluorouracil) for 12 cycles. Radiation therapy was recommended but deferred due to the post-operative recovery period.
+
+Hospital Course:
+	Mr. Page's initial recovery from surgery was complicated by an infection, requiring broad-spectrum antibiotics and fluid resuscitation. The patient responded well to antibiotic therapy, and after a week, he was able to begin oral intake. Subsequent weeks focused on managing pain, promoting wound healing, and educating the patient about his condition and post-surgical care.
+
+Follow-Up Plan:
+	Mr. Page is scheduled for an outpatient follow-up appointment in one week, with a repeat CEA test to be performed every three months. He will continue taking metformin, lisinopril, and albuterol, with adjustments made as necessary by his primary care physician. Lifestyle recommendations include regular exercise, a diet rich in fruits, vegetables, and whole grains, and avoidance of red meat and processed foods.
+
+Patient Education:
+	Mr. Page was educated about the importance of post-surgical care, including ileal conduit management, recognizing signs of complications such as fever, increased abdominal pain, or changes in bowel habits, and managing common side effects like nausea, diarrhea, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Page was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Page's long-term health issues.
+
+Final Remarks:
+	In conclusion, Mr. Cathleen Page has shown resilience and cooperation throughout his treatment journey. We are confident that he will continue to make progress in his recovery. We wish him the best of health and encourage him to attend all scheduled follow-up appointments.

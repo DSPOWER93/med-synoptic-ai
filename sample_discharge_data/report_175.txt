@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Miguel Higa
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M175
+	•Date of Admission: 03/24/2023
+	•Date of Discharge: 04/12/2023
+	•Attending Physician: Dr. Wade Mihaly
+	•Primary Diagnosis: Locally Advanced Adenocarcinoma of the Colon
+
+Reason for Admission:
+	Miguel Higa was admitted to our facility due to complaints of abdominal pain, weight loss, and recurring diarrhea lasting over a month. The initial assessment revealed a palpable mass in the lower abdomen, signs of dehydration, and anemia. Subsequent diagnostic investigations included a complete blood count (CBC), computed tomography (CT) scan, and colonoscopy. The results confirmed the suspicion of colon cancer with advanced local growth and possible metastasis.
+
+Medical History:
+	Mr. Higa has a significant medical history marked by hypertension and Type 2 diabetes, both well-controlled with medication. He had a laparoscopic appendectomy in 2015 due to appendicitis. His family has a history of colon cancer, with his father being diagnosed at the age of 65. Mr. Higa is allergic to penicillin and sulfa drugs. Before admission, he was taking metformin for diabetes, amlodipine for hypertension, and aspirin as a precaution against cardiovascular events.
+
+Diagnostic Findings:
+	The CBC showed anemia (hemoglobin 9 g/dL), leukocytosis (white blood cells 12,000/μL), and thrombocytosis (platelets 500,000/μL). The CT scan revealed a large mass in the sigmoid colon with potential metastasis to several lymph nodes and liver. Pathology results from the biopsy confirmed the diagnosis of adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team, led by Dr. Wade Mihaly, developed a comprehensive treatment plan for Mr. Higa. This included a partial colectomy with primary anastomosis, post-operative chemotherapy, and radiation therapy for adjuvant treatment. The surgery was performed successfully on March 28, 2023. Post-operatively, Mr. Higa experienced expected complications such as ileus and anemia, which were managed effectively with supportive care and transfusions.
+
+Hospital Course:
+	After the surgery, Mr. Higa's recovery progressed well with adequate pain management and nutritional support. He was discharged on April 12, 2023, in stable condition and ready for outpatient care.
+
+Follow-Up Plan:
+	The follow-up plan consists of regular appointments every three months for the first year post-treatment, then semi-annually thereafter. Medications will be continued as prescribed, with a close eye on potential side effects such as neutropenia and neuropathy. A low-fiber diet is recommended to minimize discomfort, and regular exercise is encouraged to maintain overall health.
+
+Patient Education:
+	Mr. Higa and his family were educated about the importance of adhering to the treatment plan, recognizing signs of complications such as fever, persistent abdominal pain, and changes in bowel habits. They were also instructed on post-surgical care, including ileal conduit management, wound care practices, hydration guidelines, and activity restrictions during recovery.
+
+Discharge Instructions:
+	Upon discharge, Mr. Higa was provided with clear instructions regarding medication adherence, wound care practices, and hydration. He was advised to maintain physical activity levels as tolerated but avoid strenuous activities for the first six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring will be crucial in detecting potential recurrence early. Mr. Higa will need to manage ongoing health issues such as diabetes and hypertension, ensuring that they are well-controlled to improve overall prognosis.
+
+Final Remarks:
+	Dr. Wade Mihaly commends Mr. Higa for his resilience throughout the treatment journey and expresses optimism for his continued recovery. The attending physician and patient have signed this report on April 12, 2023, validating its contents.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Pamela Miyao
+	•Date of Birth: 12/03/1985
+	•Medical Record Number: M1283
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 05/01/2023
+	•Attending Physician: Dr. Randy Sallee
+	•Primary Diagnosis: Carcinoma of the Bladder (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Pamela Miyao presented to the Pamela Miyao with a persistent hematuria (blood in urine) and dysuria (painful urination). Initial assessment revealed a distended abdomen, palpable mass in the lower abdomen, and tenderness. A thorough physical examination was performed, followed by various diagnostic tests including urinalysis, blood tests, ultrasound, CT scan, and cystoscopy, which confirmed the presence of a large bladder tumor.
+
+Medical History:
+	Mr. Miyao has a significant past medical history, including hypertension for which he was on medication, Type 2 diabetes mellitus managed with insulin therapy, and chronic obstructive pulmonary disease (COPD) requiring inhalers. He has no known allergies and his pre-admission medications included amlodipine, metformin, glyburide, salmeterol/fluticasone, and albuterol.
+
+Diagnostic Findings:
+	The pathology report from the transurethral resection of bladder tumor (TURBT) procedure revealed a high-grade transitional cell carcinoma invading the muscle layer of the bladder. CT scan showed a large, irregular mass in the bladder with adjacent fat stranding and lymph node enlargement, suggesting regional spread. Blood tests indicated elevated creatinine levels suggestive of renal impairment due to obstruction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Miyao. He underwent an open radical cystectomy with ileal conduit urinary diversion, followed by adjuvant chemotherapy (GCB-AC regimen) to reduce the risk of recurrence. Post-operative care involved management of pain, wound healing, and prevention of complications such as urinary tract infections and delirium.
+
+Hospital Course:
+	Mr. Miyao's post-operative course was complicated by a delayed return of bowel function and electrolyte imbalances, requiring fluid and electrolyte replacement therapy. He also experienced chemo-induced myelosuppression, necessitating growth factor support. Throughout his stay, he received physical therapy to aid in mobility and respiratory therapy for COPD management.
+
+Follow-Up Plan:
+	Following discharge, Mr. Miyao will be scheduled for regular outpatient appointments every three months for the first year, six months thereafter, and annually thereafter. He will continue his diabetes and hypertension medications, with adjustments as necessary. A low-salt, low-fat diet is recommended to manage fluid balance and promote overall health.
+
+Patient Education:
+	Mr. Miyao and his family were educated on post-surgical care, including ileal conduit management, recognizing signs of complications such as obstruction or infection, and managing common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Miyao was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Miyao will be advised to manage ongoing health issues such as diabetes and COPD effectively.
+
+Final Remarks:
+	Mr. Miyao demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the medical team. We are confident that he will continue to make progress in his recovery. This report is signed by Dr. Randy Sallee on 05/01/2023 and by Pamela Miyao on the same date.

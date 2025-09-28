@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lindsey Fullmer
+	•Date of Birth: 15 January 1970
+	•Medical Record Number: M1237
+	•Date of Admission: 1 March 2023
+	•Date of Discharge: 20 April 2023
+	•Attending Physician: Dr. Mary Vargas
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stage IIIB)
+
+Reason for Admission:
+	Lindsey Fullmer was admitted to the hospital following a rapid onset of severe abdominal pain, nausea, and weight loss over the preceding three months. On initial assessment, he exhibited jaundice, a palpable mass in the epigastric region, and a C-reactive protein level of 145 mg/L (normal range <5 mg/L). Further diagnostic investigations including a CT scan and ERCP confirmed a large, irregular mass in the pancreatic head with liver metastasis.
+
+Medical History:
+	Mr. Fullmer has a significant medical history, including hypertension (controlled on amlodipine 5mg daily), diabetes mellitus type II (managed with metformin and glipizide), and chronic obstructive pulmonary disease (COPD) with FEV1 of 60% predicted. He has undergone a right total knee replacement in 2018 due to post-traumatic arthritis. He has no known allergies and was taking the aforementioned medications before admission.
+
+Diagnostic Findings:
+	The diagnostic workup included pathology (surgical specimen), CT scans, MRI, PET scan, and blood tests. The surgical pathology report confirmed an invasive ductal carcinoma of the pancreas with positive resection margins. Imaging studies showed a large (8cm) tumor in the pancreatic head with multiple liver metastases. Blood tests revealed elevated CA19-9 level at 563 U/mL (normal range <37 U/mL).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan consisting of surgical intervention (Whipple procedure), post-operative care, chemotherapy, and radiation therapy. The patient underwent the Whipple procedure successfully on 3rd April 2023. Post-operative care included nutritional support via an ileal conduit, pain management, and prevention of complications such as wound infections.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Mr. Fullmer, including scheduled outpatient appointments every three months for the first year, then every six months thereafter. Medications to be continued include amlodipine, metformin, and glipizide. Dietary recommendations have been made to maintain a low-fat, high-protein diet to minimize recurrence risk. Lifestyle modifications include smoking cessation, maintaining a healthy weight, and regular exercise. Warning signs requiring immediate medical attention include worsening abdominal pain, jaundice, unexplained weight loss, or fever.
+
+Patient Education:
+	Education was provided to Mr. Fullmer and his family regarding the nature of pancreatic cancer, treatment options, and post-surgical care. Instructions included managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects like fatigue and nausea.
+
+Discharge Instructions:
+	Discharge instructions focus on medication adherence (ensuring proper dosing and timing), wound care practices (keeping the incision clean and dry), hydration (maintaining adequate fluid intake to prevent dehydration), and physical activity guidelines (gradual resumption of activities as tolerated).
+
+Prognosis and Long-Term Outlook:
+	The importance of regular monitoring for early detection of recurrence cannot be overstated. Mr. Fullmer's prognosis is guarded due to the advanced stage at presentation, but he remains optimistic about his recovery.
+
+Final Remarks:
+	Dr. Mary Vargas expresses her appreciation for Mr. Fullmer's resilience and cooperation throughout the treatment journey. She emphasizes the importance of maintaining a positive attitude and close adherence to the follow-up plan. The report is signed by both Dr. Mary Vargas and Lindsey Fullmer on 20th April 2023.

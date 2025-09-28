@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Belle Payne
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1100
+	•Date of Admission: 04/05/2022
+	•Date of Discharge: 06/20/2022
+	•Attending Physician: Dr. Bradley Filson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Payne presented to the emergency department complaining of persistent abdominal pain, changes in bowel habits, and unexplained weight loss over the past three months. A preliminary physical examination revealed a palpable mass in the lower abdomen, prompting further diagnostic investigations. These investigations confirmed the presence of colorectal cancer with metastasis to the liver.
+
+Medical History:
+	Mr. Payne has a history of hypertension and chronic obstructive pulmonary disease (COPD), for which he was taking prescribed medications. He had undergone a cholecystectomy in 2015 due to gallstones. His father died at the age of 64 from lung cancer, and his mother, who passed away at 72, suffered from osteoarthritis.
+
+Diagnostic Findings:
+	The diagnostic tests conducted during Mr. Payne's hospital stay included a colonoscopy, CT scans of the abdomen and pelvis, liver function tests (LFTs), complete blood count (CBC), and tumor markers. The findings revealed an advanced stage III colorectal cancer with metastasis to the liver.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Payne, which included a hemicolectomy followed by adjuvant chemotherapy and radiation therapy. Post-operative care focused on pain management, nutritional support, and monitoring for complications. The chemotherapy regimen consisted of FOLFOX (Folinic Acid, 5-Fluorouracil, Oxaliplatin) with a cycle every two weeks, along with radiation therapy to the liver metastasis.
+
+Hospital Course:
+	Following the hemicolectomy, Mr. Payne initially recovered well but faced challenges post-operatively due to complications related to his COPD. He received pulmonary rehabilitation and was closely monitored by our respiratory therapy team. Nutritional support was provided through enteral feeding as he experienced difficulty eating solid foods. The disease was managed effectively throughout the hospital stay, and Mr. Payne's condition stabilized.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Payne post-discharge. This includes outpatient appointments every three months for the first year, then every six months thereafter. He will continue his current medications and adjustments may be made based on his response to treatment. Lifestyle modifications include quitting smoking, maintaining a balanced diet, and regular physical activity. Specific warning signs requiring immediate medical attention include fever, persistent abdominal pain, or unexplained weight loss.
+
+Patient Education:
+	Mr. Payne was educated on post-surgical care, management of the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects of chemotherapy like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Mr. Payne was provided with comprehensive discharge instructions to ensure his continued recovery. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential, as well as managing ongoing health issues associated with his comorbidities (hypertension and COPD).
+
+Final Remarks:
+	Mr. Payne demonstrated resilience and cooperation throughout his treatment journey, and we are confident that he will continue to do so in the coming months. We wish him a speedy recovery and a healthy future.

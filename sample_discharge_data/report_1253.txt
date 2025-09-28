@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mia Driggers
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1253
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 05/15/2023
+	•Attending Physician: Dr. Dr. Brown
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mia Driggers presented to the emergency department with a complaint of persistent lower abdominal pain, bloating, and altered bowel habits. He reported a weight loss of approximately 15 pounds over the past three months. Upon initial assessment, his vital signs were stable but he exhibited signs of abdominal tenderness and distension. Given these symptoms, further diagnostic investigations were initiated.
+
+Medical History:
+	Mia Driggers has a significant medical history, including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a left knee replacement surgery two years ago. He also has a family history of colorectal cancer, as his father was diagnosed at the age of 65. Mia Driggers is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, amlodipine, albuterol inhaler, and ipratropium bromide inhaler.
+
+Diagnostic Findings:
+	The CBC showed a slight anemia (hemoglobin 10.5 g/dL) and an elevated white blood cell count (12,000 cells/mm3). The CEA level was markedly elevated at 10.7 ng/mL. The CT scan revealed a large tumor in the descending colon, with evidence of metastasis to several lymph nodes and the liver. Pathology reports from the colonoscopy biopsy confirmed the diagnosis of colorectal adenocarcinoma (Stage III).
+
+Treatment Plan:
+	Given the advanced stage of Mia Driggers's cancer, a comprehensive treatment plan was developed by a multidisciplinary team. The primary treatment was a left hemicolectomy with an ileo-transverse colostomy. Post-operative care included pain management, wound care, and nutritional support.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Mia Driggers will be scheduled for regular follow-up appointments with his oncologist and primary care physician every three months for the first two years, then every six months thereafter. His medications will be adjusted as necessary based on his response to treatment and any new health issues that may arise. He has been advised to maintain a low-fat, high-fiber diet, avoid alcohol and processed foods, and engage in regular physical activity.
+
+Patient Education:
+	Mia Driggers was thoroughly educated about his condition, treatment options, and post-surgical care. He was instructed on how to manage the ileal conduit, recognize signs of complications such as obstruction or leakage, and manage common side effects of chemotherapy like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mia Driggers was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of warning signs that require immediate medical attention, such as fever, increased abdominal pain, and changes in bowel habits.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mia Driggers is guarded due to the advanced stage of his cancer at the time of diagnosis. Regular monitoring for early detection of recurrence is essential. It is important for Mia Driggers to maintain a healthy lifestyle, attend all scheduled appointments, and adhere to any recommended treatments to improve his long-term outlook.
+
+Final Remarks:
+	Dr. Dr. Brown concludes this report by acknowledging Mia Driggers's resilience throughout the treatment journey. She emphasizes the importance of continued cooperation and adherence to the follow-up plan for optimal health outcomes. Both the physician and patient have signed this report, validating its authenticity on May 15, 2023.

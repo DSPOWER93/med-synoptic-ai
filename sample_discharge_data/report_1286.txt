@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: David Deisher
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1286
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Stella Cataldo
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. David Deisher, was admitted to our facility following a series of persistent abdominal pain, weight loss, and changes in bowel habits that were concerning for possible colon cancer. Preliminary examinations revealed an abnormal mass in his lower abdomen, prompting further diagnostic tests. A colonoscopy confirmed the presence of a large tumor in the descending colon, along with several lymph nodes showing signs of metastasis.
+
+Medical History:
+	Mr. Deisher has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a partial nephrectomy in 2017 due to a kidney tumor. His family history is significant for colon cancer, with his father being diagnosed at the age of 55. Mr. Deisher has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking medications for his hypertension, diabetes, and COPD.
+
+Diagnostic Findings:
+	Pathology results confirmed adenocarcinoma of the colon. Imaging studies showed that the tumor had invaded the muscularis propria and extended beyond the colonic wall, with metastasis to multiple lymph nodes. Blood tests revealed anemia, elevated levels of carcinoembryonic antigen (CEA), and a low albumin level.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Deisher. This included a right hemicotomy with anastomosis, followed by a temporary loop ileostomy. Post-operative care involved managing pain, preventing complications such as infection and wound dehiscence, and monitoring for signs of recurrence. The oncology team recommended a combination chemotherapy regimen (FOLFOX) with six cycles, along with radiation therapy to the abdomen and pelvis.
+
+Hospital Course:
+	Mr. Deisher underwent surgery successfully on March 20, 2023. His initial recovery was challenging due to post-operative ileus, but he responded well to conservative management. Chemotherapy commenced on April 5, 2023, and was well tolerated. Radiation therapy began on April 15, 2023. Mr. Deisher required nutritional support in the form of total parenteral nutrition (TPN) for the first week post-surgery, but was later able to resume a regular diet.
+
+Follow-Up Plan:
+	Mr. Deisher will be followed up every three months for the first two years, then every six months thereafter. He is to continue with his current medications for hypertension and diabetes, with adjustments as necessary. A low-fiber diet is recommended, along with regular exercise. Any signs of rectal bleeding, abdominal pain, or changes in bowel habits should be reported immediately.
+
+Patient Education:
+	Mr. Deisher was educated about his diagnosis, treatment options, and post-surgical care. He was instructed on how to manage the ileal conduit, recognize signs of complications such as obstruction or leakage, and manage common side effects of chemotherapy like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Deisher was provided with detailed instructions on medication adherence, wound care practices, fluid intake, and activity guidelines. He was advised to avoid heavy lifting and contact sports for the first month post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Deisher's long-term survival. He has been counseled on the importance of maintaining a healthy lifestyle, including a balanced diet and regular exercise.
+
+Final Remarks:
+	Dr. Stella Cataldo commends Mr. David Deisher for his resilience and cooperation throughout his treatment journey. The report is signed by both the physician and patient, with the date April 20, 2023. This comprehensive medical report serves as a vital document for Mr. Deisher's future care and follow-up appointments.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Bobby Cutler
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1009
+	•Date of Admission: 03/03/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Gregory Baker
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Bobby Cutler, a 37-year-old male, presented to our facility with persistent lower abdominal pain and rectal bleeding over the past two months. Upon initial assessment, he appeared lethargic and pale, with a markedly low hemoglobin level of 6.8 g/dL. Further examination revealed an abnormal mass in the lower abdomen, prompting an immediate abdominal computed tomography (CT) scan, which confirmed the presence of a large tumor in the colon.
+
+Medical History:
+	Mr. Cutler has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), all of which were controlled with medication prior to this admission. He underwent an appendectomy in 2013 due to appendicitis. His father died at the age of 65 from lung cancer, while his mother is a survivor of breast cancer diagnosed at 48 years old. Mr. Cutler has no known allergies and was on metformin, lisinopril, and salmeterol/fluticasone for his chronic conditions before admission.
+
+Diagnostic Findings:
+	Further diagnostic tests revealed that the tumor was invading the muscular layer of the colon, with localized lymph node involvement. Pathology report showed moderately differentiated adenocarcinoma. Blood tests indicated elevated levels of carcinoembryonic antigen (CEA) at 7.2 ng/mL.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Cutler. He underwent a right hemicolectomy with primary anastomosis followed by post-operative care, including intravenous antibiotics and pain management. Due to the advanced stage of the cancer, adjuvant chemotherapy was initiated, consisting of a six-month regimen of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin). He also received radiation therapy to the pelvic region for five consecutive days.
+
+Hospital Course:
+	Mr. Cutler's initial recovery from surgery was uneventful, but he developed an infection in his abdomen on the sixth post-operative day, necessitating intravenous antibiotics and close monitoring. He responded well to treatment, and his condition gradually improved over the next few weeks. His pain was managed effectively with oral analgesics, and he was able to tolerate a regular diet by the end of the third week. Throughout his hospital stay, he participated actively in physical therapy and showed remarkable resilience in overcoming the challenges posed by his illness.
+
+Follow-Up Plan:
+	A detailed follow-up plan has been designed for Mr. Cutler post-discharge. He will have scheduled outpatient appointments every three months for the first year, then every six months thereafter. His current medications will be continued, with a possible adjustment in his diabetes regimen based on his blood glucose levels. He is advised to maintain a low-fat, high-fiber diet and avoid tobacco products. Any unusual symptoms such as increased abdominal pain, rectal bleeding, or significant weight loss should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Cutler and his family were educated extensively on post-surgical care, including wound care practices, maintaining a sterile environment to prevent infection, and recognizing signs of complications such as fever, redness, or increased pain at the incision site. They were also instructed on managing the ileal conduit, which includes emptying it regularly, monitoring stool for any abnormalities, and practicing good hygiene. Additionally, they learned about managing common side effects of chemotherapy, such as nausea, fatigue, and hair loss.
+
+Discharge Instructions:
+	Before discharge, Mr. Cutler was provided with clear instructions to ensure his continued recovery and health maintenance. He was advised to adhere strictly to his medication schedule, carefully monitor his wound for any signs of infection, maintain adequate hydration, and engage in light physical activity as tolerated. Regular follow-ups were emphasized, along with the importance of lifestyle modifications for overall health improvement.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Cutler is guarded due to the advanced stage of his colorectal cancer. Regular monitoring for early detection of recurrence and managing ongoing health issues is crucial for his long-term survival.
+
+Final Remarks:
+	Dr. Baker expresses her appreciation for Mr. Cutler's resilience throughout his treatment journey and emphasizes the importance of continued collaboration between him, his family, and the healthcare team in ensuring a favorable outcome. Both parties sign this report on 04/15/2022 to validate its authenticity.

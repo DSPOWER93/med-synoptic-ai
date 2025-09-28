@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carl Kim
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1069
+	•Date of Admission: 05/02/2022
+	•Date of Discharge: 12/03/2022
+	•Attending Physician: Dr. Joshua Kim
+	•Primary Diagnosis: Squamous Cell Carcinoma (SCC) of the Esophagus
+
+Reason for Admission:
+	Mr. Carl Kim was admitted to our facility due to progressive difficulty in swallowing, persistent chest pain, and significant weight loss over a period of six months. Upon initial assessment, his symptoms were exacerbated, with near-complete obstruction in the esophagus. A series of diagnostic tests, including an upper gastrointestinal (GI) endoscopy, biopsy, and computed tomography (CT) scan, confirmed the diagnosis of Carl Kim Carcinoma (SCC) of the Esophagus. The tumor was found to be locally advanced with lymph node involvement.
+
+Medical History:
+	Mr. Kim has a significant medical history, including well-controlled Hypertension and Chronic Obstructive Pulmonary Disease (COPD). He underwent a partial nephrectomy for a renal cell carcinoma in 2015. His family history is notable for Colorectal Cancer, with his father diagnosed at age 60 and passing away at 65. Mr. Kim is known to be allergic to Penicillin and Sulfa drugs. He was taking medications for hypertension and COPD prior to admission.
+
+Diagnostic Findings:
+	Pathology report from the esophageal biopsy confirmed the diagnosis of SCC, with a moderately differentiated grade. Imaging studies, including a CT scan and Positron Emission Tomography (PET) scan, showed the tumor to be locally advanced, invading into adjacent structures and involving multiple lymph nodes. Blood tests revealed anemia, elevated liver enzymes, and electrolyte imbalances.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Kim, which included neoadjuvant chemoradiation followed by esophagectomy with a gastric conduit reconstruction. Post-operative care involved strict monitoring of nutritional status, pain management, and prevention of complications such as anastomotic leakage and pneumonia. The patient underwent six cycles of chemotherapy, with cisplatin and 5-fluorouracil being the primary agents used. Radiation therapy was administered concurrently with the first four cycles of chemotherapy.
+
+Hospital Course:
+	Mr. Kim's hospital course was marked by an initial recovery from surgery, followed by challenges related to post-operative complications such as anastomotic leakage and pneumonia. Aggressive management through antibiotics, nutritional support, and fluid resuscitation helped him overcome these complications. Mr. Kim's disease was managed with regular esophagogastroduodenoscopy (EGD) and CT scans to monitor for recurrence or progression.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Kim will be scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He will continue his medications for hypertension and COPD, with adjustments as needed. Lifestyle recommendations include maintaining a healthy diet low in fat and high in fiber, avoiding smoking and alcohol, and regular exercise. Warning signs requiring immediate medical attention include fever, persistent pain, difficulty swallowing, or unexplained weight loss.
+
+Patient Education:
+	Mr. Kim and his family were educated about the treatment options, including the importance of neoadjuvant therapy, surgery, and post-operative care. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea were provided.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Kim was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also educated about the importance of regular follow-up appointments and the signs requiring immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Kim. Managing ongoing health issues such as hypertension and COPD will be essential to ensure a good quality of life.
+
+Final Remarks:
+	I am pleased to report that Mr. Carl Kim has demonstrated remarkable resilience throughout his treatment journey. His cooperation and adherence to the treatment plan have been commendable, and we are hopeful for a favorable outcome. I wish him all the best in his recovery and look forward to seeing him at his follow-up appointments.

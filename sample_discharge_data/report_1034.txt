@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Emily Rameriz
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1034
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 05/25/2023
+	•Attending Physician: Dr. Carl Sumbry
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Emily Rameriz was admitted to the hospital on March 15, 2023, due to persistent abdominal pain and significant weight loss over a short period. Upon initial assessment, he exhibited jaundice, nausea, and a palpable mass in the upper abdomen. Laboratory investigations revealed elevated levels of serum bilirubin and amylase, suggesting an obstruction in the pancreatic duct. A Emily Rameriz (CT) scan confirmed the presence of a large, irregular mass in the head of the pancreas, obstructing the common bile duct, consistent with pancreatic cancer.
+
+Medical History:
+	Emily Rameriz has a history of hypertension and diabetes mellitus type 2, both managed with medication. He was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) five years ago. He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. He has no known family history of cancer but is allergic to penicillin and iodine-based contrast agents. Before admission, he was taking metformin, amlodipine, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Biopsy results confirmed the diagnosis of pancreatic adenocarcinoma. A CT scan revealed a 6 cm mass in the head of the pancreas with local invasion and regional lymph node metastasis, staging the cancer as T3N1M0 (Stage IIIB).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Rameriz. He underwent a Whipple procedure on March 28, 2023, followed by adjuvant chemotherapy with Gemcitabine and Abraxane for six cycles. Due to the extent of the disease, radiation therapy was also considered post-operatively.
+
+Hospital Course:
+	Post-surgery, Emily Rameriz experienced a few complications, including delayed gastric emptying and anastomotic leakage. These were managed conservatively with nutritional support and antibiotics. He gradually improved and was discharged after two months of hospitalization.
+
+Follow-Up Plan:
+	Emily Rameriz will have regular follow-up appointments every three months for the first year, six months thereafter, and annually thereafter. He will continue taking metformin, amlodipine, albuterol, and ipratropium bromide but will need to adjust his diabetes medication according to blood glucose levels. He should maintain a low-fat diet and avoid alcohol consumption. Any signs of abdominal pain, fever, or jaundice should be reported immediately.
+
+Patient Education:
+	Emily Rameriz and his family were provided with detailed instructions about post-surgical care, including how to manage the ileal conduit, signs of complications, and common side effects such as diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Emily Rameriz was discharged with a detailed plan for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also provided with resources for emotional support during his recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Emily Rameriz will need to manage ongoing health issues related to diabetes and COPD.
+
+Final Remarks:
+	I commend Emily Rameriz for his resilience and cooperation throughout this challenging journey. I believe he has the strength to overcome these obstacles and live a fulfilling life ahead. Signed, Dr. Carl Sumbry (Date May 25, 2023) / Signed, Emily Rameriz (Date May 25, 2023)

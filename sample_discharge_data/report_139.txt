@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Shannon Chandler
+	•Date of Birth: 06/15/1960
+	•Medical Record Number: M139
+	•Date of Admission: 03/25/2023
+	•Date of Discharge: 04/23/2023
+	•Attending Physician: Dr. Deborah Erickson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Shannon Chandler was admitted to the hospital on March 25, 2023, due to persistent abdominal pain and unexplained weight loss. Upon admission, a thorough physical examination revealed tenderness in the lower abdomen and a palpable mass. A series of laboratory tests were conducted, including complete blood count (CBC), liver function tests (LFTs), and carcinoembryonic antigen (CEA) levels, all of which indicated elevated values. Subsequent imaging studies such as computed tomography (CT) scan and magnetic resonance imaging (MRI) confirmed a large mass in the lower abdomen with evidence of regional lymph node involvement, diagnostic of colorectal cancer.
+
+Medical History:
+	Shannon Chandler has a significant medical history. He was diagnosed with hypertension five years ago and is currently managed with antihypertensive medication. Additionally, he has been living with type 2 diabetes for the past seven years, requiring insulin therapy. He also suffers from chronic obstructive pulmonary disease (COPD), for which he uses inhalers on a regular basis. John has a family history of colon cancer and breast cancer. His medications prior to admission included lisinopril, metformin, and insulin glargine.
+
+Diagnostic Findings:
+	The pathology report from the surgical biopsy revealed moderately differentiated adenocarcinoma with extensive lymphovascular invasion and perforation, consistent with Stage III colorectal cancer. The staging was further supported by the CT scan and MRI findings, which showed a large tumor in the sigmoid colon with involvement of multiple regional lymph nodes.
+
+Treatment Plan:
+	Shannon Chandler underwent a laparoscopic sigmoidectomy followed by a permanent ileostomy on March 29, 2023. Post-operative care included managing pain, preventing complications such as infections and leaks, and ensuring adequate nutritional support. John began a standard six-month regimen of adjuvant chemotherapy with FOLFOX (oxaliplatin, leucovorin, fluorouracil), starting on April 5, 2023. Radiation therapy was deemed unnecessary in this case due to the extent of surgical resection and the absence of distant metastases.
+
+Hospital Course:
+	John's initial recovery from surgery was uneventful, although he faced challenges with pain management and post-operative nausea and vomiting. His diabetes and hypertension were well-controlled throughout his hospital stay. He received physical therapy to aid in mobility and prevent deep vein thrombosis. Nutritional support was provided via total parenteral nutrition (TPN) due to the temporary ileostomy.
+
+Follow-Up Plan:
+	Shannon Chandler will have follow-up appointments with his oncologist every three months for the first two years, followed by six-monthly visits thereafter. He will continue FOLFOX chemotherapy for the next five months. His medications for hypertension and diabetes will be adjusted as necessary. A low-fiber diet is recommended during the recovery period, and long-term lifestyle modifications such as regular exercise and smoking cessation are encouraged to improve overall health.
+
+Patient Education:
+	Shannon Chandler was educated on the importance of adhering to his medication regimen, managing his ileal conduit, recognizing signs of complications such as leakage or infection, and managing common side effects like diarrhea and fatigue associated with chemotherapy.
+
+Discharge Instructions:
+	Shannon Chandler was discharged with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was provided with written materials and demonstrations for proper ileostomy care.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Shannon Chandler's long-term survival. Lifelong follow-up will include colonoscopies every one to two years.
+
+Final Remarks:
+	I am pleased to report that Shannon Chandler has cooperated well throughout his treatment journey, showing resilience and determination. He is ready for discharge with a comprehensive plan in place to ensure continued recovery and health maintenance. Signed Dr. Deborah Erickson | Date April 23, 2023 | Patient's Signature Shannon Chandler | Date April 23, 2023

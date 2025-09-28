@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kendall Knight
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1269
+	•Date of Admission: 07/15/2022
+	•Date of Discharge: 08/10/2022
+	•Attending Physician: Dr. Sean Kathan
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Kendall Knight was admitted to the hospital due to persistent hematuria, or blood in the urine, and a lower abdominal pain that had been worsening over the past two months. The initial assessment revealed no signs of trauma or infection. Subsequent investigations, including a computed tomography (CT) scan, confirmed the presence of a bladder mass.
+
+Medical History:
+	Kendall Knight has a history of hypertension and asthma, which are both well-controlled with medications. He underwent a left nephrectomy in 2015 due to renal cell carcinoma. He is allergic to penicillin and iodinated contrast agents. Prior to admission, he was on aspirin for his hypertension, inhaled bronchodilators for asthma, and an angiotensin-converting enzyme (ACE) inhibitor for his blood pressure control.
+
+Diagnostic Findings:
+	Biopsy of the bladder mass revealed a moderately differentiated transitional cell carcinoma. A CT scan showed a 5 cm mass in the bladder with no evidence of lymph node involvement or distant metastases, indicating a T2N0M0 stage. Blood tests revealed mild anemia and elevated creatinine levels, indicative of kidney dysfunction.
+
+Treatment Plan:
+	The treatment plan was developed by a multidisciplinary team and included radical cystectomy with ileal conduit creation, followed by chemotherapy. Post-operative care involved management of the ileal conduit, pain control, and monitoring for complications such as urinary tract infections and anastomotic leaks. A chemotherapy regimen consisting of cisplatin and gemcitabine was initiated, with six cycles planned.
+
+Hospital Course:
+	Kendall Knight underwent a radical cystectomy on July 20, 2022. Post-operatively, he experienced some pain, which was managed effectively with analgesics. He developed a urinary tract infection on day seven post-surgery, which was treated with antibiotics. His kidney function improved gradually, and he was discharged with stable renal parameters.
+
+Follow-Up Plan:
+	Kendall Knight will have regular follow-up appointments at the oncology clinic every three months for the first year, then every six months thereafter. He will continue his hypertension medications and asthma inhalers but must avoid iodinated contrast agents due to his allergy. A low-salt diet is recommended due to his history of hypertension.
+
+Patient Education:
+	Kendall Knight and his family were educated about post-surgical care, including how to manage the ileal conduit, recognize signs of complications such as infection or obstruction, and manage common side effects like fatigue and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Kendall Knight was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous activities for six weeks post-surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence or new primary tumors. Kendall Knight will need to maintain a healthy lifestyle, including regular exercise and a balanced diet, to manage his ongoing health issues effectively.
+
+Final Remarks:
+	The attending physician commends Kendall Knight's resilience throughout the treatment journey and acknowledges the cooperation he demonstrated during the process. This report is signed by Dr. Sean Kathan on August 10, 2022, validating the documentation of Kendall Knight's medical care.

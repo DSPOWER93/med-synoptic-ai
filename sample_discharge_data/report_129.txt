@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kimberly Withers
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M129
+	•Date of Admission: 03/20/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Shay Garcia
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Kimberly Withers, was admitted to the hospital following a series of symptoms including persistent abdominal pain, changes in bowel habits, unexplained weight loss, and fatigue. Initial assessment revealed an abnormal physical examination, prompting further diagnostic investigations. A colonoscopy confirmed the presence of a large tumor in the descending colon, and subsequent imaging scans (CT scan and MRI) provided more detailed information about the extent of the disease. The severity of symptoms indicated a potential advanced stage of colorectal cancer.
+
+Medical History:
+	Mr. Withers has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a partial knee replacement surgery in 2015. His family history is significant for colorectal cancer, with his father having been diagnosed at the age of 60. Mr. Withers has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and inhalers for COPD management.
+
+Diagnostic Findings:
+	Pathology reports from the colon biopsy confirmed adenocarcinoma of the rectum, with regional lymph node involvement. Imaging scans showed tumor involvement in the descending colon, multiple enlarged lymph nodes, and liver metastasis. Blood tests revealed anemia, elevated CA 19-9 levels, and other abnormalities consistent with cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Withers. This included a partial colectomy followed by creation of an ileal conduit, six cycles of chemotherapy (FOLFOX regimen), and radiation therapy to the liver metastasis. Post-operative care involved pain management, wound care, and nutritional support.
+
+Hospital Course:
+	After the surgical intervention, Mr. Withers made an initial recovery and was subsequently able to tolerate chemotherapy without significant complications. He required frequent therapy sessions to improve his strength and mobility, and nutritional support to manage weight loss. Throughout his hospital stay, he actively cooperated with the medical team and adhered to the treatment plan.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Withers will be scheduled for regular outpatient appointments with his oncologist and primary care physician. His medication regimen will include oral chemotherapy, continued metformin and lisinopril, and antibiotics to prevent infections related to the ileal conduit. He will also receive counseling on lifestyle changes, including a low-fiber diet and regular exercise. Immediate medical attention is required for signs of infection, bleeding from the ileal conduit, or significant changes in bowel habits.
+
+Patient Education:
+	Mr. Withers was educated about the importance of adhering to his medication regimen and the need for regular follow-up appointments. He received instructions on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. He was also taught how to manage common side effects such as diarrhea, nausea, and fatigue.
+
+Discharge Instructions:
+	Mr. Withers was provided with detailed discharge instructions to ensure his continued recovery. These included medication adherence guidelines, wound care practices, hydration recommendations, and physical activity limitations. He was also given information about community resources for support during his cancer journey.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Withers will need to manage ongoing health issues related to diabetes, hypertension, and COPD.
+
+Final Remarks:
+	Dr. Shay Garcia commends Mr. Kimberly Withers for his resilience and cooperation throughout the treatment journey. The report is signed by both Dr. Garcia and Mr. Withers, with the date of April 15, 2022, to validate its authenticity.

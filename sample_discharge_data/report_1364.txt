@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Charles Brunette
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1364
+	•Date of Admission: 04/06/2022
+	•Date of Discharge: 21-06-2022
+	•Attending Physician: Dr. Charles Matos
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Charles Brunette presented to the emergency department with a one-month history of progressive abdominal pain, weight loss, and altered bowel habits. Upon initial assessment, he exhibited signs of severe anemia, abdominal distention, and tenderness. Subsequent diagnostic investigations, including a complete blood count, carcinoembryonic antigen (CEA) test, computerized tomography (CT) scan of the abdomen and pelvis, and colonoscopy confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Charles Brunette has a significant medical history. He is a 47-year-old male with a past medical history of hypertension, type 2 diabetes mellitus, chronic obstructive pulmonary disease (COPD), and benign prostatic hyperplasia. He underwent a left lower limb amputation due to a traumatic accident six years ago. His family history is notable for colorectal cancer in his father at the age of 65. Known allergies include penicillin, and he was on regular medication for his chronic conditions before admission.
+
+Diagnostic Findings:
+	Pathology report from the colonoscopy confirmed a T4N2M0 adenocarcinoma of the transverse colon. CT scan findings revealed multiple enlarged lymph nodes in the mesocolon, liver metastasis, and perforation of the colon. Blood tests showed anemia, elevated CEA level, and increased white blood cell count.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Charles Brunette. This included an emergency laparotomy followed by a right hemicollectomy with primary anastomosis and ileostomy creation. Post-operative care involved fluid resuscitation, pain management, and antibiotic therapy. He received adjuvant chemotherapy (FOLFOX) for six cycles starting four weeks post-surgery, with appropriate management of side effects such as neutropenia, diarrhea, and nausea. Radiation therapy was not indicated due to the presence of liver metastasis.
+
+Hospital Course:
+	Charles Brunette's initial recovery from surgery was complicated by anastomotic leakage requiring surgical intervention for a loop ileostomy. He subsequently required a prolonged hospital stay for management of sepsis and fluid imbalance. His condition gradually improved with aggressive treatment, physical therapy, and nutritional support.
+
+Follow-Up Plan:
+	A comprehensive follow-up plan has been designed for Charles Brunette. This includes regular outpatient appointments with his oncologist and surgeon, CEA tests every three months, and a CT scan of the abdomen and pelvis every six months for two years. He will continue oral chemotherapy as prescribed by his oncologist. Lifestyle modifications include quitting smoking, maintaining a balanced diet, and regular exercise.
+
+Patient Education:
+	Charles Brunette and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like diarrhea and skin irritation. They were also counseled on the importance of a low-fiber diet during the healing phase and gradual reintroduction of fiber thereafter.
+
+Discharge Instructions:
+	Charles Brunette was provided with comprehensive discharge instructions. These included details about his medication regimen, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised to follow up with his primary care physician for ongoing management of his chronic conditions.
+
+Prognosis and Long-Term Outlook:
+	Charles Brunette's prognosis is guarded due to the advanced stage at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues are crucial for his long-term survival.
+
+Final Remarks:
+	This report documents Charles Brunette's treatment journey for colon cancer. I would like to commend his resilience and cooperation throughout the process. I wish him a speedy recovery and a healthy future.

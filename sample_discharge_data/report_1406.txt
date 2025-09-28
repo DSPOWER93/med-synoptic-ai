@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Claudia Anzalone
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1406
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. James Collins
+	•Primary Diagnosis: Stage III Colorectal Cancer
+
+Reason for Admission:
+	Claudia Anzalone presented to the emergency department with symptoms of abdominal pain, weight loss, and changes in bowel habits persisting for over a month. Upon initial assessment, his vital signs were within normal limits, but he exhibited signs of anemia and abdominal tenderness. Subsequent laboratory tests revealed elevated carcinoembryonic antigen (CEA) levels, which prompted further diagnostic investigations. A computed tomography (CT) scan confirmed the presence of a large mass in his colon, as well as multiple liver metastases.
+
+Medical History:
+	Claudia Anzalone's past medical history was significant for hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone a cholecystectomy in 2015 due to gallstones. His family history was notable for colon cancer in his father at the age of 65. He was allergic to penicillin and aspirin. Before admission, he was taking metformin, lisinopril, albuterol, and tiotropium bromide.
+
+Diagnostic Findings:
+	Further investigations revealed a large mass in Claudia Anzalone's sigmoid colon, as well as multiple liver metastases. Pathology report confirmed the diagnosis of adenocarcinoma. Imaging studies also showed lymph node involvement. Blood tests revealed anemia, elevated CEA levels, and hyperglycemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Claudia Anzalone. The initial strategy involved surgical resection of the primary tumor followed by adjuvant chemotherapy and radiation therapy. He underwent an elective sigmoid colectomy with primary anastomosis, followed by a temporary ileostomy due to concern about anastomotic leakage.
+
+Hospital Course:
+	During his hospital stay, Claudia Anzalone exhibited a satisfactory recovery from surgery. However, he faced several challenges, including post-operative ileus, hyperglycemia, and anemia. He received intensive nutritional support to aid in his recovery. His diabetes and hypertension were well-controlled throughout his stay.
+
+Follow-Up Plan:
+	Upon discharge, Claudia Anzalone was scheduled for regular outpatient appointments with his oncologist every three months for the first year, then every six months thereafter. He was advised to continue taking metformin, lisinopril, albuterol, and tiotropium bromide, but the doses of these medications were adjusted to account for his altered gastrointestinal function due to the ileostomy.
+
+Patient Education:
+	Claudia Anzalone and his family were educated about the nature of colorectal cancer, the treatment options available, and the importance of regular follow-up visits. They were instructed on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects.
+
+Discharge Instructions:
+	Prior to discharge, Claudia Anzalone was provided with a detailed discharge plan outlining his medications, wound care practices, hydration guidelines, and physical activity recommendations. He was also given information about community resources for cancer survivors, such as support groups and counseling services.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for patients with stage III colorectal cancer is guarded, with a five-year survival rate of approximately 60%. Regular monitoring for early detection of recurrence is essential to improve outcomes. Managing ongoing health issues such as hypertension and diabetes will be crucial in maintaining Claudia Anzalone's overall health.
+
+Final Remarks:
+	This report documents the treatment journey of Claudia Anzalone, a 42-year-old man diagnosed with stage III colorectal cancer. Throughout his treatment, he demonstrated resilience and cooperation, and we are hopeful for a positive outcome. We will continue to monitor his progress closely and provide him with the support he needs during this challenging time.

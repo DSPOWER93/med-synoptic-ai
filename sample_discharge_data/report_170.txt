@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robin Herron
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M170
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Arthur Zbell
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	The patient, Mr. Robin Herron, presented with persistent lower abdominal pain, change in bowel habits, and unexplained weight loss over a period of several months. Upon initial assessment, the symptoms were found to be suggestive of colorectal cancer. Further diagnostic investigations including a colonoscopy, computed tomography (CT) scan, and carcinoembryonic antigen (CEA) blood test confirmed the suspicion.
+
+Medical History:
+	Mr. Herron has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone a cholecystectomy in 2015 due to gallstones. His family history is noteworthy for colorectal cancer and breast cancer. He has known allergies to penicillin and sulfa drugs. Pre-admission medications included metformin, lisinopril, and salmeterol/fluticasone.
+
+Diagnostic Findings:
+	Pathology findings from the colonoscopy revealed an invasive adenocarcinoma in the sigmoid colon. CT scan results showed a 6 cm mass in the sigmoid colon with regional lymph node involvement and liver metastases. Blood tests revealed elevated CEA level of 12.5 ng/mL (normal range < 3.0 ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Herron which included a low anterior resection surgery followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, nutrition support, and antibiotic therapy to prevent post-surgical infections. The chemotherapy regimen consisted of FOLFOX (Folinic Acid, 5-Fluorouracil, and Oxaliplatin) for 12 cycles, with a cycle lasting every two weeks. Radiation therapy was also planned for the liver metastases after completion of chemotherapy.
+
+Hospital Course:
+	Mr. Herron underwent a successful low anterior resection surgery on March 30, 2022. His post-operative recovery was uneventful. However, he faced challenges with pain management and had to be administered opioids for several days. He was also supported nutritionally through enteral feedings due to poor oral intake. During his hospital stay, the patient received chemotherapy cycles as per the planned schedule without any major adverse events.
+
+Follow-Up Plan:
+	The follow-up plan post-discharge includes regular oncology visits every three months for the first year, six months thereafter, and annually thereafter. Continuation of oral anticoagulation for his hypertension and diabetes control medications are advised. He is also instructed to maintain a low-fiber diet and perform routine emptying of the ileal conduit.
+
+Patient Education:
+	The patient was educated about the importance of medication adherence, proper wound care practices, maintaining hydration, and engaging in light physical activity as tolerated. He was taught how to manage common side effects such as diarrhea, nausea, and fatigue associated with chemotherapy. Instructions were also provided on recognizing signs of complications like fever, abdominal pain, or rectal bleeding, and the need for immediate medical attention in such cases.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Herron was given detailed instructions about his medication schedule, wound care practices, dietary guidelines, and physical activity recommendations. He was also provided with educational materials on colorectal cancer and its management.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Herron. He is advised to maintain a healthy lifestyle, including regular exercise and balanced diet, for optimal health outcomes.
+
+Final Remarks:
+	The attending physician, Dr. Arthur Zbell, commends Mr. Robin Herron's resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the follow-up plan for a favorable prognosis. This report is signed by Dr. Arthur Zbell on April 25, 2022, attesting to the completion of Mr. Herron's hospitalization and discharge.

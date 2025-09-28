@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kimberly Cassidy
+	•Date of Birth: 01/10/1980
+	•Medical Record Number: M1051
+	•Date of Admission: 03/20/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. Lilly Harris
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Kimberly Cassidy was admitted to the hospital due to persistent lower abdominal pain and rectal bleeding that had been ongoing for several weeks. Upon admission, he underwent an initial assessment which revealed a tender mass in the lower abdomen and anemia. Further diagnostic investigations including computed tomography (CT) scan, colonoscopy, and biopsy confirmed the diagnosis of Kimberly Cassidy colon cancer.
+
+Medical History:
+	Kimberly Cassidy has a history of hypertension, which is managed with medication. He also has a family history of colon cancer, with his father diagnosed at age 65. Prior to this admission, he had undergone a cholecystectomy for gallbladder removal. Allergic to penicillin, Kimberly Cassidy's regular medications included lisinopril and metformin.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy confirmed the presence of moderately differentiated adenocarcinoma in the colon. Imaging scans revealed tumors in the descending colon with localized regional lymph node involvement. Complete blood count (CBC) showed severe anemia, while liver function tests (LFTs) were within normal limits.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Kimberly Cassidy. This included a partial colectomy followed by an ileostomy, six cycles of FOLFOX chemotherapy, and radiation therapy to the pelvis. Management of side effects such as nausea, vomiting, diarrhea, and fatigue was also included in the plan.
+
+Hospital Course:
+	Kimberly Cassidy underwent a successful partial colectomy on March 25, 2023. Post-operative care focused on managing pain, preventing infection, and promoting wound healing. Challenges during his hospital stay included anemia, which was managed with blood transfusions, and nausea from the chemotherapy. Therapy and nutritional support were provided to aid in recovery.
+
+Follow-Up Plan:
+	Kimberly Cassidy's follow-up plan includes outpatient appointments every three months for the first two years post-discharge. Continuation of lisinopril, metformin, and iron supplementation was advised due to his existing conditions. Dietary recommendations included a high-fiber diet and regular exercise. Warning signs such as unexplained weight loss, persistent abdominal pain, and rectal bleeding were emphasized.
+
+Patient Education:
+	Kimberly Cassidy and his family were educated about the ileostomy, its care, and potential complications. They were also instructed on recognizing signs of infection, dehydration, and obstruction. Common side effects such as fatigue, diarrhea, and skin irritation from the ostomy pouch were discussed, along with management strategies.
+
+Discharge Instructions:
+	Discharge instructions focused on medication adherence, wound care practices, hydration, and physical activity guidelines. Kimberly Cassidy was advised to take his medications as prescribed, keep the ileostomy site clean and dry, maintain adequate hydration, and gradually increase physical activity levels.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Kimberly Cassidy's long-term health. He was advised to maintain a healthy lifestyle, including regular exercise and a balanced diet, to improve his overall wellbeing.
+
+Final Remarks:
+	Dr. Lilly Harris commends Kimberly Cassidy for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued vigilance in managing his health post-discharge. Both the physician's and patient's signatures validate this report dated April 15, 2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rex Klinger
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1053
+	•Date of Admission: 05/05/2022
+	•Date of Discharge: 15-06-2022
+	•Attending Physician: Dr. Keith Bergmark
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Rex Klinger was admitted to the hospital due to persistent hematuria (blood in urine), dysuria (painful urination), and frequent urination, accompanied by lower abdominal pain. On initial assessment, a mass was palpated in his lower abdomen. Various diagnostic tests were conducted, including cystoscopy, CT scan, and MRI, which confirmed the presence of a bladder tumor. The disease was staged as T2N0M0 based on the imaging findings.
+
+Medical History:
+	Rex Klinger has a history of hypertension, controlled with medication, and a 15-year history of COPD (Chronic Obstructive Pulmonary Disease). He had undergone a laparoscopic appendectomy in 2008. His family history is significant for colon cancer, with his father being diagnosed at age 65. Rex Klinger is allergic to penicillin and has been taking aspirin daily due to the risk of recurrent myocardial infarction.
+
+Diagnostic Findings:
+	Pathology results from the transurethral resection of bladder tumor (TURBT) revealed a high-grade transitional cell carcinoma. The CT scan showed no evidence of distant metastasis, while MRI confirmed the tumor's presence in the bladder with no extension to adjacent structures. Blood tests showed mild anemia and elevated creatinine levels due to the urinary obstruction caused by the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Rex Klinger, which included radical cystectomy with ileal conduit diversion, adjuvant chemotherapy, and radiation therapy for residual disease in the pelvic lymph nodes. Post-operative care involved management of pain, nutritional support, and prevention of complications such as urinary tract infection and anastomotic leakage.
+
+Hospital Course:
+	Rex Klinger underwent a successful radical cystectomy with ileal conduit diversion on 06-06-2022. The initial recovery was smooth, with the patient regaining bowel function and mobility within a week. However, he faced challenges related to his pre-existing COPD, requiring continuous oxygen therapy for a few days. Regular follow-ups with the surgical team, urologist, oncologist, and pulmonologist were scheduled throughout his hospital stay.
+
+Follow-Up Plan:
+	Rex Klinger will be scheduled for outpatient appointments every 3 months for the first year, then every 6 months thereafter. He will continue with adjuvant chemotherapy as prescribed by the oncologist. A low-fat, high-protein diet is recommended to support his recovery and manage his COPD symptoms. He has been instructed to report any signs of complications such as fever, persistent abdominal pain, or changes in urine color or odor.
+
+Patient Education:
+	Rex Klinger and his family were educated about the importance of regular follow-ups, early detection of recurrence, and managing ongoing health issues related to COPD. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects such as fatigue, diarrhea, and erectile dysfunction were provided.
+
+Discharge Instructions:
+	Rex Klinger was discharged with a clear understanding of his medication regimen, which includes pain medications, antibiotics for UTI prophylaxis, and his ongoing COPD medications. He was also given instructions on wound care practices, hydration guidelines, and physical activity restrictions.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Rex Klinger's long-term health. The importance of managing ongoing health issues related to his COPD was emphasized to ensure a good quality of life.
+
+Final Remarks:
+	Dr. Keith Bergmark expressed her satisfaction with Rex Klinger's progress and resilience throughout the treatment journey. She emphasized the importance of continued adherence to the follow-up plan and lifestyle recommendations for a favorable long-term outcome. Signed Dr. Keith Bergmark, [Date]. Signed Rex Klinger, [Date].

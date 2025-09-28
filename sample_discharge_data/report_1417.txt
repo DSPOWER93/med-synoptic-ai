@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sue Hutchison
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1417
+	•Date of Admission: 04/03/2023
+	•Date of Discharge: 04/15/2023
+	•Attending Physician: Dr. April Kroll
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Mr. Hutchison presented to the emergency department with symptoms of abdominal pain, bloating, and rectal bleeding that had been persisting for approximately two weeks. Upon initial assessment, he displayed signs of anemia, and a digital rectal examination revealed a palpable mass in the lower abdomen. Further diagnostic investigations, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in his sigmoid colon.
+
+Medical History:
+	Mr. Hutchison has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He had undergone appendectomy at the age of 10 due to appendicitis. His father passed away from colorectal cancer at the age of 65, which was discovered late and had progressed significantly by then. Mr. Hutchison is allergic to penicillin and sulfa drugs. He was taking metformin for diabetes, amlodipine for hypertension, and albuterol inhaler for COPD before admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed an adenocarcinoma of the sigmoid colon. CT scan showed a large mass (8 cm x 6 cm) in the sigmoid colon, as well as several enlarged lymph nodes and liver metastases. Blood tests revealed elevated levels of carcinoembryonic antigen (CEA), which is a tumor marker associated with colorectal cancer.
+
+Treatment Plan:
+	A multidisciplinary team, including surgical oncologists, medical oncologists, radiation oncologists, and nursing staff, developed a comprehensive treatment plan for Mr. Hutchison. He underwent a low anterior resection of the sigmoid colon with primary anastomosis followed by chemotherapy. The surgical procedure involved removing the affected portion of his colon and reconstructing the intestines to create an ileal conduit. Post-operative care included management of pain, monitoring for complications such as wound infection or leakage, and ensuring adequate nutritional support.
+
+Hospital Course:
+	
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hutchison will be scheduled for regular follow-up appointments with his oncologists every three months for the first two years, and then every six months thereafter. He will continue taking metformin, amlodipine, and albuterol inhaler, but his CEA levels will be monitored closely. Lifestyle modifications, including a healthy diet rich in fiber, regular exercise, and avoidance of tobacco products, are recommended to help manage his overall health and reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Hutchison and his family were provided extensive education on post-surgical care, including wound care practices, hydration guidelines, and physical activity restrictions. They were also instructed on recognizing signs of complications such as fever, abdominal pain, or drainage from the wound site. Instructions on managing common side effects of chemotherapy, such as nausea, vomiting, and fatigue, were provided as well. Education was also given on how to care for his ileal conduit, including emptying it regularly and monitoring its output for signs of bleeding or infection.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Hutchison received detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also provided a list of resources, including support groups, for continued education and emotional support throughout his recovery journey.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is essential in managing Mr. Hutchison's ongoing health issues. His prognosis will depend on several factors, such as the completeness of surgical resection, response to chemotherapy, and presence of liver metastases at the time of diagnosis.
+
+Final Remarks:
+	Dr. April Kroll commends Mr. Hutchison for his resilience and cooperation throughout his treatment journey. She emphasizes the importance of adhering to the follow-up plan, maintaining a healthy lifestyle, and taking all medications as prescribed to maximize his chances of successful recovery. Both Dr. Kroll and Mr. Hutchison sign this report on 04/15/2023 to validate its accuracy.

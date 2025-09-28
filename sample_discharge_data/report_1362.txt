@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: John Mcnitt
+	•Date of Birth: 03/20/1965
+	•Medical Record Number: M1362
+	•Date of Admission: 01/25/2023
+	•Date of Discharge: 02/15/2023
+	•Attending Physician: Dr. Carol Byrd
+	•Primary Diagnosis: Pancreatic Cancer (Stage IIIB)
+
+Reason for Admission:
+	Mr. Byrd was admitted to our facility after presenting with symptoms of persistent upper abdominal pain, weight loss, and jaundice. Initial assessment revealed a tender mass in the epigastric region, and laboratory tests showed elevated levels of CA 19-9 and liver enzymes. A computed tomography (CT) scan confirmed the presence of a large, irregular mass in the head of the pancreas, with lymph node involvement.
+
+Medical History:
+	Mr. Byrd has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a partial colectomy in 2018 due to colon cancer. His father passed away from pancreatic cancer at the age of 63. Allergic to penicillin, Mr. Byrd was taking metformin, lisinopril, and tiotropium before admission.
+
+Diagnostic Findings:
+	Pathology results confirmed adenocarcinoma of the pancreas. The CT scan showed a 5cm tumor in the head of the pancreas, with involvement of multiple lymph nodes and distant metastases to the liver. Other tests including MRI and PET-CT were consistent with these findings.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Byrd. The primary intervention was Whipple procedure, followed by adjuvant chemotherapy (FOLFIRINOX regimen). Radiation therapy was considered but not pursued due to the patient's overall condition and the risk of radiation-induced complications.
+
+Hospital Course:
+	Post-operatively, Mr. Byrd experienced some complications including anastomotic leakage requiring additional surgery and prolonged hospital stay. He received supportive care including nutritional support via a feeding tube, pain management, and antibiotics for infection control. Despite these setbacks, he showed resilience throughout the treatment journey.
+
+Follow-Up Plan:
+	Mr. Byrd will continue with FOLFIRINOX chemotherapy as an outpatient, with regular follow-ups every 3 months for the first year, then every 6 months thereafter. He is advised to maintain a healthy diet rich in fruits and vegetables, avoid smoking, and practice regular exercise. Warning signs such as fever, abdominal pain, or jaundice should prompt an immediate medical consultation.
+
+Patient Education:
+	The patient was educated about the ileal conduit, its care, and potential complications. He was also taught how to recognize common side effects of chemotherapy like nausea, diarrhea, and fatigue, and strategies to manage them.
+
+Discharge Instructions:
+	Mr. Byrd was discharged with a supply of prescribed medications, clear instructions on wound care, hydration guidelines, and physical activity restrictions. He was also advised to maintain strict adherence to his medication regimen.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Stage IIIB pancreatic cancer is generally poor; however, with aggressive treatment and regular monitoring, recurrence can be detected early. Mr. Byrd was advised about the importance of maintaining a healthy lifestyle and attending all scheduled follow-up appointments.
+
+Final Remarks:
+	Dr. Carol Byrd concludes that Mr. Byrd has shown remarkable resilience throughout his treatment journey. She encourages him to continue fighting and staying committed to his treatment plan. Both the physician and patient sign this report on February 15, 2023.

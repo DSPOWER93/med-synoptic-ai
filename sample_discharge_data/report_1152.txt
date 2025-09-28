@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Geneva Anderson
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M1152
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 05/15/2023
+	•Attending Physician: Dr. Carol Byrd
+	•Primary Diagnosis: Pancreatic Adenocarcinoma
+
+Reason for Admission:
+	Geneva Anderson was admitted to our facility due to persistent abdominal pain, weight loss, and jaundice. His initial assessment revealed a distended abdomen, dark urine, and pale stools. Subsequent laboratory investigations confirmed elevated liver enzymes, bilirubin levels, and anemia. A CT scan revealed a mass in the pancreatic head, causing obstruction of the common bile duct.
+
+Medical History:
+	Mr. Anderson has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a total knee replacement surgery in 2015. His family history is significant for pancreatic cancer, with his father diagnosed at the age of 65. He is allergic to penicillin and has been taking metformin, ramipril, and salmeterol on a regular basis before admission.
+
+Diagnostic Findings:
+	Pathology report from the pancreatic biopsy confirmed the diagnosis of adenocarcinoma. Imaging studies showed that the tumor had invaded adjacent organs and lymph nodes, indicating stage IIIB disease. Blood tests revealed anemia (Hb 8.5 g/dL), increased CA19-9 level (200 U/mL), and elevated liver enzymes.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Anderson, which included surgical resection of the tumor, followed by chemotherapy and radiation therapy. He underwent a Whipple procedure on April 10, 2023. Post-operative care involved managing complications such as anastomotic leak and post-pancreatectomy syndrome. A Foley catheter was inserted for drainage, and he was started on total parenteral nutrition (TPN) due to malnutrition. He received a 6-month course of gemcitabine and nab-paclitaxel chemotherapy, with the first cycle initiated on May 3, 2023. Radiation therapy was considered but deferred due to his poor nutritional status.
+
+Hospital Course:
+	Mr. Anderson's initial recovery from surgery was challenging due to complications mentioned above. However, he responded well to treatment and showed gradual improvement. He received physical therapy to regain strength and mobility, and nutritional support through TPN and enteral feeding. His disease was closely monitored, and regular CT scans were performed to assess response to treatment.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Anderson will be scheduled for regular follow-up appointments every 3 months for the first year, then every 6 months thereafter. His medication regimen includes metformin (500 mg BID), ramipril (10 mg OD), salmeterol (2 puffs BID), and gemcitabine (1000 mg/m² on days 1, 8, and 15 every 3 weeks). He is advised to maintain a low-fat, high-protein diet and avoid alcohol. Any signs of fever, abdominal pain, or increased jaundice should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Anderson and his family were provided with comprehensive education on post-surgical care, management of the ileal conduit, recognizing signs of complications such as anastomotic leak or bowel obstruction, and managing common side effects of chemotherapy like nausea, fatigue, and myelosuppression.
+
+Discharge Instructions:
+	Upon discharge, Mr. Anderson was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given educational materials on his condition and the importance of regular follow-up appointments.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Anderson's prognosis will be influenced by the response to treatment, as well as ongoing management of his underlying conditions like diabetes and COPD.
+
+Final Remarks:
+	It has been a privilege to care for Mr. Geneva Anderson throughout his treatment journey. His resilience and cooperation have been inspiring. We wish him continued strength and good health in the days ahead.

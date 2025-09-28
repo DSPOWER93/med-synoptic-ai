@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carlene Clay
+	•Date of Birth: 07/05/1965
+	•Medical Record Number: M1147
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 03/27/2023
+	•Attending Physician: Dr. Catheryn Wallis
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Carlene Clay, a 57-year-old male, was admitted to our facility after presenting with hematuria and persistent lower back pain. Upon initial assessment, a thorough physical examination revealed no abnormalities apart from the presence of blood in his urine. Further diagnostic investigations, including computed tomography (CT) scan, cystoscopy, and biopsy, confirmed the diagnosis of bladder cancer. The disease was staged as T2N0M0, indicating a tumor confined to the muscle layer of the bladder without regional lymph node involvement or distant metastasis.
+
+Medical History:
+	Mr. Clay has a significant past medical history, including well-controlled hypertension and asthma. He underwent coronary artery bypass grafting (CABG) 10 years ago. His family has a history of bladder cancer, colon cancer, and breast cancer. Allergic to penicillin, he was taking omeprazole, metoprolol, lisinopril, albuterol, and tiotropium before admission.
+
+Diagnostic Findings:
+	Pathology analysis of the biopsy specimen showed invasive transitional cell carcinoma with moderate differentiation. CT scan revealed a 4cm mass in the bladder. Blood tests indicated elevated creatinine levels and mild anemia, suggesting renal involvement.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Clay. The initial step was radical cystectomy, followed by ileal conduit creation. Post-operative care included management of pain, wound healing, and prevention of infection. He underwent six cycles of chemotherapy (gemcitabine and cisplatin) to reduce the risk of recurrence. Radiation therapy was not deemed necessary due to the disease stage.
+
+Hospital Course:
+	Mr. Clay's recovery from surgery was uneventful, with minimal post-operative complications. He responded well to pain management and exhibited good wound healing. Throughout his hospital stay, he received nutritional support, physical therapy, and psychological counseling. His kidney function gradually improved, and anemia levels normalized.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Clay is scheduled for outpatient appointments with the oncologist every three months for the first year, then six-monthly thereafter. He will continue taking omeprazole, metoprolol, and lisinopril. Strict fluid intake and regular urine analysis are advised to monitor for recurrence or complications.
+
+Patient Education:
+	Mr. Clay and his family were educated about the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications such as fever, abdominal pain, or changes in urine color or odor, and managing common side effects like fatigue and nausea associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Clay was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines to ensure his continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Clay's long-term health.
+
+Final Remarks:
+	In conclusion, Carlene Clay has shown remarkable resilience throughout his treatment journey. I commend his cooperation and commitment to his recovery. This report serves as a testament to his journey and will be useful in guiding future care. Signed, Dr. Catheryn Wallis, Date 03/27/2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Jason Nance
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1158
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Christopher Waugh
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Jason Nance was admitted to the hospital following an emergency room visit due to severe hematuria and frequent urinary tract infections over the past few weeks. Initial assessment revealed a distended abdomen, lower back pain, and a palpable mass upon rectal examination. Subsequent imaging studies confirmed the presence of a large bladder tumor, leading to a diagnosis of TCC.
+
+Medical History:
+	Mr. Nance has a significant past medical history. He was previously diagnosed with hypertension and diabetes mellitus type 2, for which he was receiving regular medication. He also suffered from chronic obstructive pulmonary disease (COPD). His family history is pertinent for bladder cancer, as his father passed away from the same condition. He had undergone a left nephrectomy five years ago due to renal cell carcinoma. Allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	The pathology report confirmed the diagnosis of TCC. Cystoscopy, CT scans, and MRI imaging revealed a large, invasive tumor in the bladder. Blood tests showed elevated creatinine levels, suggesting renal impairment due to the tumor's obstruction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Nance. The initial approach was radical cystectomy with ileal conduit formation followed by adjuvant chemotherapy. Post-operative care included close monitoring of kidney function, wound healing, and management of pain. Chemotherapy consisted of four cycles of MVAC regimen (Methotrexate, Vinblastine, Adriamycin, and Cisplatin). Due to the risk of ototoxicity, radiation therapy was not included in the treatment plan.
+
+Hospital Course:
+	Mr. Nance underwent a successful radical cystectomy on March 25, 2022. Post-operative recovery was challenging due to complications such as anastomotic leak and delayed wound healing. The patient required frequent dressing changes and intravenous antibiotics. Nutritional support was essential in maintaining his strength during this period.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Nance was scheduled for regular outpatient appointments with his oncologist and urologist to monitor his health and detect any signs of recurrence. He will continue the prescribed oral chemotherapy for several more months. Lifestyle modifications include a low-fat diet, smoking cessation, and maintaining hydration. Warning signs requiring immediate medical attention include fever, increased pain, or significant changes in urine color.
+
+Patient Education:
+	Mr. Nance was educated about post-surgical care, including wound care practices, managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea, vomiting, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Nance was provided with comprehensive discharge instructions. These included medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was advised to take his medications as prescribed, maintain a balanced diet, engage in light physical activities, and report any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. The importance of lifestyle modifications and ongoing health management cannot be overstated.
+
+Final Remarks:
+	I would like to commend Mr. Nance for his resilience and cooperation throughout the treatment journey. His family's support and participation in his care have been instrumental in his recovery. I wish him a speedy and full recovery, and look forward to seeing him at his follow-up appointments.

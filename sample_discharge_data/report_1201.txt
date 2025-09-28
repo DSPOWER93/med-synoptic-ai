@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Carol Blume
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1201
+	•Date of Admission: 05/02/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Eric Barker
+	•Primary Diagnosis: Pancreatic Cancer (Stage IIIB)
+
+Reason for Admission:
+	Carol Blume presented to the emergency department complaining of persistent abdominal pain, nausea, and weight loss over the past three months. His initial assessment revealed a distended abdomen, decreased appetite, and elevated liver function tests. Further diagnostic investigations including CT scan, MRI, and endoscopic ultrasound confirmed the presence of a mass in his pancreas.
+
+Medical History:
+	Mr. Blume has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a left nephrectomy for renal cell carcinoma eight years ago. His family history is significant for pancreatic cancer in his father and breast cancer in his mother. He is allergic to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, albuterol, and ipratropium bromide.
+
+Diagnostic Findings:
+	Pathology reports from the pancreatic mass biopsy confirmed the diagnosis of adenocarcinoma of the pancreas. Imaging studies showed a 5 cm mass in the pancreatic head, with liver metastases and lymph node involvement. Blood tests revealed elevated CA19-9 levels and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Blume. This included surgical resection of the pancreatic tumor followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved pain management, nutritional support, and monitoring for complications such as infection, bleeding, and leakage from the anastomosis site. The chemotherapy regimen consisted of FOLFIRINOX (Folinic acid, 5-fluorouracil, irinotecan, and oxaliplatin) administered every two weeks for six cycles. Radiation therapy was considered for adjuvant treatment to address the liver metastases but was deferred due to Mr. Blume's overall condition.
+
+Hospital Course:
+	Mr. Blume underwent a Whipple procedure on 05/10/2022. His initial recovery was complicated by post-operative pancreatic fistula, requiring prolonged drainage and enzyme replacement therapy. He also experienced common chemotherapy side effects such as fatigue, nausea, and hair loss. Despite these challenges, he remained cooperative and adhered to the treatment plan.
+
+Follow-Up Plan:
+	Mr. Blume will return for outpatient follow-up appointments every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary based on his response to therapy and ongoing health issues. He will continue with metformin and lisinopril but discontinue albuterol and ipratropium bromide unless his COPD symptoms worsen. A low-fat, high-protein diet is recommended, and he should maintain a healthy weight to reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Blume and his family were educated about the importance of early detection of recurrence through regular monitoring and follow-up appointments. They were also instructed on post-surgical care, including management of the ileal conduit, recognizing signs of complications such as infection or bleeding, and managing common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, Mr. Blume was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take metformin and lisinopril daily as prescribed, continue with the enzyme replacement therapy, and maintain a balanced diet low in fat and high in protein.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Blume's long-term survival. He will need to manage ongoing health issues such as hypertension, diabetes, and COPD while undergoing adjuvant therapy.
+
+Final Remarks:
+	Dr. Barker concludes this report by expressing her admiration for Mr. Blume's resilience throughout his treatment journey. She emphasizes the importance of continued cooperation from him and his family in ensuring a favorable prognosis. Both Dr. Barker and Mr. Blume have signed this report on 05/20/2022, validating its accuracy.

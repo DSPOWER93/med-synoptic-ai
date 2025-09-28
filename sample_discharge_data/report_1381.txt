@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lori Kuykendall
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1381
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/04/2023
+	•Attending Physician: Dr. Danny Williams
+	•Primary Diagnosis: Colorectal Cancer (Stage IIIB)
+
+Reason for Admission:
+	Lori Kuykendall, a 48-year-old male, was admitted to our facility following the presentation of symptoms consistent with colorectal cancer. These included recurring abdominal pain, unexplained weight loss, and altered bowel habits persisting over several months. Upon initial assessment, he exhibited signs of anemia and abnormalities in laboratory tests, prompting further diagnostic investigations.
+
+Medical History:
+	Mr. Kuykendall has a history of hypertension, diagnosed 10 years ago, for which he is currently managed with medication. He also has a family history of colorectal cancer, with his father passing away from the disease at age 65. He underwent a partial colectomy due to diverticulitis 5 years ago. He is not known to have any allergies and was taking aspirin daily for his hypertension before admission.
+
+Diagnostic Findings:
+	The diagnostic workup included colonoscopy, CT scans of the abdomen and pelvis, and carcinoembryonic antigen (CEA) levels. The colonoscopy revealed a tumor in the transverse colon, and the CT scan showed metastases in several lymph nodes and the liver. Pathology results confirmed the diagnosis of colorectal adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Kuykendall, consisting of surgical resection followed by adjuvant chemotherapy and radiation therapy. He underwent a right hemicolectomy with an ileo-transverse colostomy on 03/15/2023. Postoperative care included pain management, nutritional support, and antibiotic treatment to prevent infection. The chemotherapy regimen involved FOLFOX (Folinate + 5-Fluorouracil + Oxaliplatin) for six cycles, with the first cycle commencing on 04/15/2023. Radiation therapy was deemed unnecessary based on imaging results.
+
+Hospital Course:
+	Mr. Kuykendall's recovery from surgery progressed satisfactorily, although he experienced postoperative complications such as wound infection and delayed bowel movement. These issues were managed with appropriate interventions by our nursing staff and specialists. He was also supported through therapy sessions to aid in his emotional wellbeing.
+
+Follow-Up Plan:
+	Mr. Kuykendall's follow-up plan includes scheduled outpatient appointments every three months for the first year, then every six months thereafter. Medications will be adjusted as necessary based on response and side effects. A low-fiber diet is recommended, along with regular exercise to maintain a healthy weight. He must also monitor his bowel habits and report any signs of complications immediately.
+
+Patient Education:
+	Mr. Kuykendall and his family were provided comprehensive education about his condition, treatment options, and post-surgical care. Instructions included caring for the ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Kuykendall was given detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also educated on the importance of follow-up appointments and reporting any unusual symptoms promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Kuykendall's long-term health. Lifestyle modifications, including maintaining a healthy diet and regular exercise, are essential to improving his overall wellbeing.
+
+Final Remarks:
+	Dr. Danny Williams concludes this report, commending Mr. Lori Kuykendall for his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued diligence in managing his health and encourages him to maintain a positive attitude in the face of adversity. Signed Dr. Danny Williams on 05/04/2023. Signed Lori Kuykendall on 05/04/2023.

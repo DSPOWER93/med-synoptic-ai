@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Amy Chase
+	•Date of Birth: 01/15/1970
+	•Medical Record Number: M181
+	•Date of Admission: 03/10/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Janessa White
+	•Primary Diagnosis: Stage III Colon Cancer with liver metastasis
+
+Reason for Admission:
+	Amy Chase was admitted to the hospital due to a rapidly progressing abdominal mass, consistent with colon cancer, accompanied by severe weight loss and fatigue. Amy initial assessment revealed a distended abdomen, abnormal bowel sounds, and palpable masses in the lower quadrant. Subsequent diagnostic investigations included a colonoscopy, computed tomography (Chase) scan of the abdomen and pelvis, and laboratory tests. Amy Chase scan demonstrated a large, irregular mass in the sigmoid colon with multiple liver metastases. Pathology reports confirmed the presence of adenocarcinoma in the colon.
+
+Medical History:
+	Mr. Chase has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), for which he was taking metoprolol, metformin, and albuterol as pre-admission medications. He also has a family history of colon cancer, with his father diagnosed at the age of 60. Mr. Chase underwent a cholecystectomy in 2015 for gallstones.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma in the sigmoid colon. Liver function tests showed mildly elevated liver enzymes (ALT 67 IU/L, AST 82 IU/L), suggesting metastatic involvement. Complete blood count (CBC) revealed anemia (Hb 9 g/dL). Chase scan demonstrated a large tumor in the sigmoid colon with multiple liver metastases.
+
+Treatment Plan:
+	Amy multidisciplinary team developed a comprehensive treatment plan for Mr. Chase, including a low anterior resection of the sigmoid colon, creation of an ileal conduit, and adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, leucovorin, fluorouracil). Radiation therapy was not deemed necessary due to the extent of metastases. Amy patient was educated about potential side effects such as nausea, diarrhea, and fatigue.
+
+Hospital Course:
+	Mr. Chase underwent a successful low anterior resection on March 15, 2022, followed by the creation of an ileal conduit. Post-operative recovery was initially challenging due to complications such as anastomotic leak and surgical site infection. These were managed with antibiotics and supportive care. Amy patient also experienced chemotherapy-related side effects but responded well to symptomatic management. Nutritional support was crucial during his hospital stay, with a focus on maintaining adequate caloric intake and hydration.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Chase is scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking oxaliplatin, leucovorin, and fluorouracil as per the FOLFOX regimen. Lifestyle recommendations include maintaining a balanced diet, regular exercise, and avoiding tobacco products. Warning signs such as fever, persistent abdominal pain, and changes in bowel habits require immediate medical attention.
+
+Patient Education:
+	Mr. Chase and his family were educated on post-surgical care, including management of the ileal conduit, recognizing signs of complications, and managing common side effects such as diarrhea and fatigue. They were also informed about the importance of adhering to the prescribed chemotherapy regimen and monitoring for recurrence.
+
+Discharge Instructions:
+	Upon discharge, Mr. Chase was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a detailed written plan to facilitate understanding and compliance.
+
+Prognosis and Long-Term Outlook:
+	Amy prognosis for Mr. Chase is guarded due to the advanced stage of his cancer and liver metastases at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension and diabetes are essential for optimal outcomes.
+
+Final Remarks:
+	This report concludes with Dr. Janessa White's final remarks, emphasizing Mr. Chase's resilience and cooperation throughout the treatment journey. Amy report is signed by both Dr. White and Mr. Chase, validating the information provided on April 20, 2022. It is crucial to continue providing support and care for Mr. Chase as he navigates his recovery and ongoing management of colorectal cancer.

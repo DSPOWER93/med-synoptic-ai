@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: James Burton
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1043
+	•Date of Admission: 02/04/2022
+	•Date of Discharge: 15-04-2022
+	•Attending Physician: Dr. Dr. Brown
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	James Burton was admitted to the hospital following a series of symptoms including unintentional weight loss, persistent abdominal pain, and rectal bleeding. An initial assessment revealed that he had signs of an obstruction in his lower gastrointestinal tract. Subsequent imaging investigations, such as computed tomography (CT) scan and colonoscopy, confirmed the suspicion of a large tumor in the ascending colon. The severity and progression of symptoms indicated the need for urgent surgical intervention.
+
+Medical History:
+	Mr. Burton had a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone a laparoscopic cholecystectomy 10 years ago due to gallstones. His father passed away from colorectal cancer at the age of 65. Mr. Burton was allergic to penicillin and sulfa drugs. Prior to admission, he was on metformin for diabetes control, amlodipine for hypertension, and albuterol inhaler for COPD symptoms.
+
+Diagnostic Findings:
+	Pathology report from the surgically resected specimen confirmed a moderately differentiated adenocarcinoma of the ascending colon. The tumor was found to be invasive into the muscularis propria with lymphovascular invasion present. Staging determined it as T4aN2M0 (Stage III). Blood tests revealed anemia, elevated carcinoembryonic antigen (CEA), and increased lactate dehydrogenase (LDH) levels.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Burton. He underwent an elective right hemicolectomy with primary anastomosis followed by a left loop ileostomy for postoperative management. Post-operative care involved monitoring of ileostomy function, pain control, and prevention of complications such as dehydration and electrolyte imbalance. Following the surgery, he started adjuvant chemotherapy with FOLFOX regimen (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for a total of 12 cycles. The decision to administer radiation therapy was deferred due to potential complications in his existing COPD.
+
+Hospital Course:
+	Mr. Burton's initial recovery from surgery was uneventful; however, he developed an ileus on the third postoperative day which resolved with conservative management. His glucose and blood pressure were well-controlled throughout his stay. Nutritional support was provided through oral supplements due to reduced oral intake during the first week. The disease was managed effectively, and there were no signs of recurrence or metastasis during his hospitalization.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Mr. Burton that includes outpatient appointments every 3 months for the first year, then every 6 months for the second year, and annually thereafter. He will continue on FOLFOX chemotherapy for a total of 12 cycles as per the treatment plan. Lifestyle modifications include smoking cessation (if applicable), regular exercise, and maintaining a balanced diet rich in fruits, vegetables, and lean proteins. Warning signs requiring immediate medical attention include fever, abdominal pain, unexplained weight loss, changes in ileostomy output, and signs of dehydration or electrolyte imbalance.
+
+Patient Education:
+	Education provided to Mr. Burton included post-surgical care instructions for his ileal conduit, managing common side effects such as diarrhea, fatigue, and neuropathy associated with chemotherapy, recognizing signs of complications, and maintaining a healthy lifestyle to manage ongoing health issues.
+
+Discharge Instructions:
+	Discharge instructions include medication adherence (continued FOLFOX chemotherapy), wound care practices (ileostomy site), hydration maintenance (8-10 glasses of fluid per day), and physical activity guidelines (light exercise initially, gradually increasing as tolerated).
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Additionally, managing ongoing health issues such as hypertension, diabetes, and COPD will be essential in ensuring Mr. Burton's long-term wellbeing.
+
+Final Remarks:
+	This report concludes with Dr. Dr. Brown's final remarks emphasizing James Burton's resilience throughout the treatment journey and cooperation during his hospital stay. The physician's and patient's signatures validate the report, dated 15-04-2022. It is hoped that Mr. Burton will continue to recover well post-discharge and maintain his health effectively with the provided care plan.

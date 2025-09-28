@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Christopher Kearns
+	•Date of Birth: 01/02/1975
+	•Medical Record Number: M121
+	•Date of Admission: 04/10/2023
+	•Date of Discharge: 05/25/2023
+	•Attending Physician: Dr. Danny Williams
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	Christopher Kearns was admitted to our hospital due to persistent hematuria and frequent urinary tract infections over the past six months, which had escalated significantly in severity over the last two weeks. The initial assessment revealed a distended abdomen with visible flank tenderness, leading to the ordering of diagnostic tests such as ultrasound, computed tomography (CT), and cystoscopy. These investigations confirmed the presence of a mass in his bladder, with further pathology reporting malignant cells.
+
+Medical History:
+	Mr. Kearns has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy for gallstones in 2018. His family has a significant history of bladder cancer and breast cancer. He is allergic to penicillin and contrast agents. Prior to admission, he was taking metformin, lisinopril, amlodipine, salmeterol/fluticasone, and albuterol as prescribed.
+
+Diagnostic Findings:
+	Diagnostic tests conducted during the hospital stay included CT scans, cystoscopy, and pathology analysis of biopsied tissue. The CT scan revealed a T2 bladder mass with no evidence of metastasis. Cystoscopy confirmed an invasive transitional cell carcinoma in his bladder. Blood tests showed elevated levels of creatinine, glucose, and white blood cells (WBC), indicating kidney dysfunction, hyperglycemia, and an active infection.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Kearns. This included a radical cystectomy followed by an ileal conduit diversion surgery, six cycles of chemotherapy with Gemcitabine and Cisplatin, and radiation therapy post-chemotherapy completion. The patient experienced nausea, vomiting, and alopecia as side effects during the course of treatment.
+
+Hospital Course:
+	Mr. Kearns's initial recovery from surgery was challenging due to kidney dysfunction and hyperglycemia. He required close monitoring by the medical team, which included daily dialysis sessions and insulin adjustments. Over time, his condition stabilized, and he began participating in physical therapy and occupational therapy sessions. The patient's disease was managed effectively with antibiotics and regular cystoscopies.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Kearns will have scheduled outpatient appointments every three months for the first year, then every six months thereafter. He will continue his metformin, lisinopril, and amlodipine, with adjustments made as necessary. His diet will be low in proteins and sodium, while maintaining adequate fluid intake to prevent dehydration. Any signs of fever, increased pain, or changes in urinary patterns should prompt immediate medical attention.
+
+Patient Education:
+	The patient and his family were provided comprehensive education on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as infection or blockage, and managing common side effects like nausea and vomiting. They were also informed about the importance of regular follow-ups for early detection of recurrence.
+
+Discharge Instructions:
+	Discharge instructions included detailed medication adherence guidelines, wound care practices to prevent infection, hydration guidelines to maintain kidney function, and physical activity restrictions to promote healing. The patient was also provided with information on community resources for support during recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues such as diabetes and kidney dysfunction. With adherence to the treatment plan, Mr. Kearns's long-term outlook is optimistic.
+
+Final Remarks:
+	Throughout this treatment journey, Christopher Kearns demonstrated remarkable resilience and cooperation. His willingness to engage in his care has significantly contributed to his positive outcome thus far. We wish him a swift recovery and encourage him to continue following the prescribed treatment plan for optimal results.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Darnell Edwards
+	•Date of Birth: 03/15/1970
+	•Medical Record Number: M1303
+	•Date of Admission: 01/10/2023
+	•Date of Discharge: 02/25/2023
+	•Attending Physician: Dr. Mary Mckay
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Darnell Edwards was admitted to the hospital following a series of symptoms including persistent abdominal pain, bloody stools, and unexplained weight loss. An initial assessment revealed a possible colorectal obstruction, prompting further diagnostic investigations. A colonoscopy confirmed the presence of a large tumor in the sigmoid colon, leading to the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Edwards has a history of hypertension and diabetes mellitus type II, both well-controlled with medication. He also suffers from chronic obstructive pulmonary disease (COPD), which was exacerbated during his hospital stay due to the surgery and recovery process. Mr. Edwards has no known allergies and was taking aspirin daily for his hypertension prior to admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the sigmoid colon, with lymph node involvement. Imaging scans, including CT and MRI, showed extensive tumor growth with regional lymphadenopathy. Blood tests revealed elevated levels of CEA (Carcinoembryonic Antigen) and CA 19-9, indicative of malignancy.
+
+Treatment Plan:
+	The treatment plan for Mr. Edwards involved a laparoscopic sigmoid colectomy followed by the creation of an ileal conduit. Post-operative care included pain management, bowel regulation, and nutritional support. He was also initiated on adjuvant chemotherapy (FOLFOX regimen) for six months and considered for radiation therapy. The treatment plan accounted for Mr. Edwards's pre-existing conditions and medications.
+
+Hospital Course:
+	After surgery, Mr. Edwards experienced a smooth recovery with minimal complications. Postoperative care focused on managing pain, preventing infection, and promoting bowel function. Therapy sessions were initiated to improve lung function, considering his COPD. Nutritional support was crucial due to the effects of the cancer and surgery.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Edwards will follow up with an oncologist every three months for the first year, then every six months thereafter. His medications will be adjusted as necessary, with a focus on maintaining blood sugar levels and managing side effects of chemotherapy. Dietary recommendations include high-fiber foods to promote healthy bowel function and maintain overall health.
+
+Patient Education:
+	The education provided to Mr. Edwards included instructions on post-surgical care, recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits, and managing common side effects of chemotherapy like nausea and fatigue. He was also taught how to manage the ileal conduit, including emptying and cleaning procedures.
+
+Discharge Instructions:
+	Upon discharge, Mr. Edwards was provided with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to avoid lifting heavy objects and engage in gentle exercises to aid recovery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for recurrence is crucial, with early detection increasing the chances of successful treatment. Mr. Edwards will need to manage ongoing health issues related to his pre-existing conditions.
+
+Final Remarks:
+	We commend Mr. Edwards's resilience and cooperation throughout his treatment journey. He has shown a positive attitude, which significantly contributed to his recovery process. We wish him the best in his continued health and recovery, and look forward to seeing him at his follow-up appointments.

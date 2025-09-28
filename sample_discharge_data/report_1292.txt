@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Adrienne Collyer
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1292
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 05/20/2022
+	•Attending Physician: Dr. Mary Lee
+	•Primary Diagnosis: Pancreatic Cancer (adenocarcinoma)
+
+Reason for Admission:
+	Adrienne Collyer was admitted to the hospital following persistent abdominal pain, jaundice, and significant weight loss over the past three months. Initial assessments revealed elevated liver enzymes, a palpable mass in the upper abdomen, and a positive CA19-9 blood test. Further diagnostic investigations included a CT scan and an endoscopic ultrasound, which confirmed the presence of a large tumor in his pancreas.
+
+Medical History:
+	Adrienne Collyer has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015 due to gallstones. His family has a history of pancreatic cancer and colorectal cancer. Allergic to penicillin and sulfa drugs, John was regularly taking metformin, lisinopril, and salmeterol/fluticasone before admission.
+
+Diagnostic Findings:
+	Pathology report revealed a well-differentiated adenocarcinoma of the pancreas. The CT scan indicated a large, irregular mass in the head of the pancreas encasing the superior mesenteric vein and portal vein. Additionally, liver function tests showed elevated levels of alkaline phosphatase, gamma-glutamyl transferase, and total bilirubin.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Adrienne Collyer. The initial phase involved a Whipple procedure followed by FOLFIRINOX chemotherapy regimen (fluorouracil, irinotecan, leucovorin, and oxaliplatin) with an intention of four cycles. Radiation therapy was considered but deferred due to the extent of the tumor and potential complications during surgery recovery.
+
+Hospital Course:
+	Adrienne Collyer's hospital stay was marked by an initial challenging post-operative recovery, followed by successful management of complications related to nutritional deficiencies and diabetes control. Regular follow-ups with the medical team and physical therapy sessions aided in his progressive improvement.
+
+Follow-Up Plan:
+	Upon discharge, Adrienne Collyer will be scheduled for regular outpatient appointments every three months for the first year, then semi-annually thereafter. He will continue taking gemcitabine and capecitabine as prescribed, and maintain a low-fat diet and avoid alcohol consumption. Awareness of potential complications such as diarrhea, neuropathy, or jaundice is crucial.
+
+Patient Education:
+	Adrienne Collyer was educated on the importance of strict adherence to his medication regimen, proper wound care practices, and maintaining adequate hydration. Instructions included managing common side effects like diarrhea, nausea, and fatigue. He was also taught how to manage his ileal conduit, recognize signs of complications, and monitor his blood sugar levels.
+
+Discharge Instructions:
+	Discharge instructions emphasized the importance of medication adherence, wound care practices, hydration, and physical activity guidelines. Adrienne Collyer was advised to gradually increase his physical activities once he recovers fully from surgery.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Adrienne Collyer's ongoing health issues. Maintaining a healthy lifestyle, including a balanced diet and regular exercise, can help improve his overall prognosis.
+
+Final Remarks:
+	Dr. Mary Lee concludes this report by acknowledging Adrienne Collyer's resilience and cooperation throughout his treatment journey. The attending physician emphasizes the importance of continued care and monitoring to ensure John's long-term health and wellbeing. Both the physician and patient sign the report, validating its completion on May 20, 2022.

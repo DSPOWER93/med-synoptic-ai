@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Minerva Hernandez
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M159
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/10/2023
+	•Attending Physician: Dr. Michael Brock
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Minerva Hernandez, a 48-year-old male, presented to the emergency department with complaints of persistent abdominal pain, unexplained weight loss, and changes in bowel habits. An initial assessment revealed mild dehydration, abdominal tenderness, and anemia. Subsequent diagnostic investigations, including a complete blood count (CBC), computed tomography (CT) scan of the abdomen and pelvis, and colonoscopy, confirmed a diagnosis of Minerva Hernandez colorectal cancer.
+
+Medical History:
+	Mr. Hernandez has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2016. His family history is notable for colorectal cancer in his father and maternal grandfather. He has known allergies to penicillin and sulfa drugs, and he was taking metformin, lisinopril, albuterol, and ipratropium bromide before admission.
+
+Diagnostic Findings:
+	Pathology findings from the colonoscopy revealed an invasive adenocarcinoma of the sigmoid colon. A CT scan showed a large mass in the sigmoid colon with involvement of multiple lymph nodes, as well as liver metastases. Blood tests showed anemia (Hb 9 g/dL), leukocytosis (WBC 12.5 × 10^3/μL), and elevated C-reactive protein (CRP) level of 15 mg/L.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hernandez, which included surgical resection, chemotherapy, and radiation therapy. He underwent a sigmoid colectomy with permanent ileal conduit formation on March 20, 2023. Post-operative care involved pain management, wound care, and nutritional support. A chemotherapy regimen consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) was initiated on April 1, 2023, with cycles every two weeks. Radiation therapy was deferred due to the risk of radiation enteritis given his bowel resection.
+
+Hospital Course:
+	Mr. Hernandez's recovery from surgery was initially complicated by a post-operative ileus, which resolved after conservative management and the use of oral laxatives. He faced challenges with maintaining adequate hydration due to nausea and decreased oral intake. His diabetes required close monitoring throughout his hospital stay. The role of physical therapy, occupational therapy, and speech therapy was instrumental in helping him regain strength and mobility.
+
+Follow-Up Plan:
+	Mr. Hernandez will be closely followed up by his oncologist every three months for the first year, then every six months thereafter. He is to continue with the FOLFOX chemotherapy regimen for a total of 12 cycles or until disease progression. Additionally, he is advised to maintain a low-fiber diet, drink plenty of fluids, and avoid constipation to manage his ileal conduit. Specific warning signs requiring immediate medical attention include fever over 38°C (100.4°F), severe abdominal pain, persistent nausea or vomiting, and unexplained weight loss.
+
+Patient Education:
+	Mr. Hernandez was educated about the importance of adhering to his chemotherapy regimen, maintaining a healthy lifestyle, and recognizing signs of complications. He was also instructed on post-surgical care, including wound care practices, hydration guidelines, and physical activity recommendations.
+
+Discharge Instructions:
+	Mr. Hernandez was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also advised to maintain follow-up appointments as scheduled, monitor for warning signs of complications, and report any concerns to his healthcare team promptly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Hernandez's long-term survival. He will require ongoing management of his colorectal cancer, hypertension, diabetes, and COPD. Close collaboration between the patient, family, and healthcare team will be essential to optimize his prognosis and promote a high quality of life.
+
+Final Remarks:
+	Dr. Michael Brock expresses her appreciation for Mr. Hernandez's resilience throughout his treatment journey. She emphasizes the importance of continued adherence to his treatment plan, regular follow-up appointments, and lifestyle modifications to promote long-term health and wellness. This report is signed by Dr. Michael Brock on April 10, 2023. Minerva Hernandez signs acknowledgment of the report, confirming his understanding of the instructions provided.

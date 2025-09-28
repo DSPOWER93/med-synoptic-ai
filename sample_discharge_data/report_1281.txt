@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Paul Takata
+	•Date of Birth: 02/15/1980
+	•Medical Record Number: M1281
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 02/20/2022
+	•Attending Physician: Dr. Adelaida Braun
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma, Stage III)
+
+Reason for Admission:
+	Paul Takata, a 41-year-old male, presented to the emergency department on January 1st, 2022, with complaints of frequent urination, blood in the urine, and lower back pain that had persisted for several weeks. A preliminary physical examination revealed a distended bladder and hematuria (blood in the urine). Further diagnostic investigations, including computed tomography (CT) scans and cystoscopy, confirmed the presence of a tumor in Paul's bladder.
+
+Medical History:
+	Paul has a history of hypertension, managed with medication, and has been overweight for most of his adult life. He does not have diabetes or chronic obstructive pulmonary disease (COPD). In the past, he underwent appendectomy due to appendicitis at age 18. There is no significant family history of cancer, but Paul's father died of a heart attack at 60 years old. Allergies include penicillin and contrast agents. He was taking lisinopril and metformin before admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed transitional cell carcinoma in the bladder. CT scans revealed a large tumor invading the muscular wall of the bladder, with lymph node involvement. Blood tests showed mildly elevated creatinine levels, indicating possible kidney dysfunction due to the tumor.
+
+Treatment Plan:
+	Paul's treatment plan was developed by a multidisciplinary team, including oncologists, surgeons, and urologists. The primary treatment was radical cystectomy (removal of the bladder) followed by ileal conduit formation and adjuvant chemotherapy with gemcitabine and cisplatin for six cycles. Radiation therapy was not recommended due to the risk of kidney damage.
+
+Hospital Course:
+	Paul underwent a successful radical cystectomy on January 5th, 2022. Postoperative care involved managing pain, preventing infection, and ensuring adequate hydration and nutrition. A temporary ileostomy was created to divert urine into a collection bag outside the body while the ureters healed. After two weeks, the ileal conduit was formed, connecting the small intestine to the abdominal wall to create an artificial bladder.
+
+Follow-Up Plan:
+	Paul will need regular follow-up appointments every three months for the first two years, then six-monthly thereafter. He will continue taking lisinopril and metformin, but his creatinine levels will be closely monitored for potential kidney issues. A low-sodium diet is recommended to help manage fluid balance.
+
+Patient Education:
+	Paul and his family were educated on the importance of postoperative care, including proper ileal conduit management, recognizing signs of complications such as infection or obstruction, and managing common side effects like diarrhea and dehydration.
+
+Discharge Instructions:
+	Upon discharge, Paul was provided detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was also given information about support groups for bladder cancer patients.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Paul will need to manage ongoing health issues related to his bladder removal, such as changes in bowel habits and potential kidney problems.
+
+Final Remarks:
+	Dr. Adelaida Braun noted that Paul's resilience and cooperation throughout the treatment journey were commendable. She expressed her confidence in Paul's ability to continue managing his health effectively post-discharge. Both Paul and Dr. Braun signed the report on February 20th, 2022, validating its completion.

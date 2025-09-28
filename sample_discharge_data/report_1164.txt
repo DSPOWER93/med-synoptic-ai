@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Lindsey Cornell
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1164
+	•Date of Admission: 04/03/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Joshua Burgos
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastases
+
+Reason for Admission:
+	Lindsey Cornell, a 47-year-old male, presented to the emergency department complaining of persistent abdominal pain, change in bowel habits, and unexplained weight loss over the past three months. The initial assessment revealed anemia, abnormal stool tests, and a large mass palpable in the lower abdomen. Further diagnostic investigations, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon with multiple liver metastases.
+
+Medical History:
+	Mr. Cornell has a history of hypertension managed with medication and a 15-year history of diabetes mellitus type II. He underwent cholecystectomy in 2012 due to gallstones. His family history is significant for colorectal cancer, as his father died from the disease at age 65. He has no known allergies and was taking metformin, lisinopril, and aspirin before admission.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon. CT scan revealed a large mass in the lower abdomen with multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicating advanced disease.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan, including surgical resection of the tumor, followed by chemotherapy and radiation therapy for the liver metastases. Mr. Cornell underwent an open sigmoid colectomy with primary ileo-rectal anastomosis on 04/08/2022. Post-operative care included pain management, nutritional support, and bowel management. He was initiated on a modified FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) chemotherapy regimen with appropriate dosage adjustments due to his diabetic condition.
+
+Hospital Course:
+	Mr. Cornell's initial recovery from surgery was complicated by post-operative ileus and anastomotic leak, requiring a second laparotomy for repair. He showed gradual improvement thereafter with the help of antibiotics, bowel rest, and total parental nutrition. His diabetes was closely monitored and managed during his hospital stay. The role of physical therapy was crucial in helping Mr. Cornell regain his strength and mobility.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Cornell will continue on the FOLFOX chemotherapy regimen at an outpatient oncology clinic. He is scheduled for follow-up appointments every three months for the first year and every six months thereafter. His lifestyle should be modified to include regular exercise and a balanced diet low in fat and high in fiber. He will also need to monitor his blood sugar levels closely. Any signs of abdominal pain, change in bowel habits, or unexplained weight loss should prompt an immediate medical evaluation.
+
+Patient Education:
+	Mr. Cornell was educated about the importance of adhering to the prescribed medication regimen and attending all follow-up appointments. He was instructed on post-surgical care, including managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects like nausea, diarrhea, and neuropathy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Cornell was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given contact information for the oncology clinic and a list of signs requiring immediate medical attention.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Cornell's long-term health issues. The goal of treatment is to achieve remission, improve quality of life, and prolong survival.
+
+Final Remarks:
+	Dr. Joshua Burgos concludes the report, acknowledging Mr. Cornell's resilience throughout his treatment journey and commending his cooperation. She emphasizes the importance of regular follow-ups, adherence to medications, and lifestyle modifications for a successful recovery. This report is signed by Dr. Joshua Burgos and Lindsey Cornell on 04/15/2022.

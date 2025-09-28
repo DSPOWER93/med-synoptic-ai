@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Barry Watson
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1248
+	•Date of Admission: 03/12/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Florence Mckinney
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Barry Watson presented to the emergency department complaining of persistent abdominal pain, constipation, and unexplained weight loss over the past two months. Initial assessment revealed abnormalities in his vital signs, including a fever of 102°F (38.9°C) and tachycardia. Diagnostic investigations, including a complete blood count, carcinoembryonic antigen (CEA) test, computed tomography (CT) scan, and colonoscopy, confirmed the presence of colorectal cancer in the descending colon.
+
+Medical History:
+	Mr. Watson has a history of hypertension and type 2 diabetes, both well-controlled with medication. He is a former smoker who quit five years ago but has a family history of lung cancer. He underwent appendectomy in 2010 for appendicitis. His known allergies include penicillin and sulfa drugs.
+
+Diagnostic Findings:
+	The CT scan revealed a large mass in the descending colon, with regional lymph node involvement. Pathology from the biopsy confirmed adenocarcinoma of the colon. Blood tests showed elevated CEA levels (12 ng/mL) and anemia (Hb 9.5 g/dL).
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Watson. He underwent a left hemicolectomy, with primary anastomosis and placement of an ileostomy (ileal conduit) due to the tumor's location. Post-operative care included pain management, antibiotics, and bowel management for the ileostomy. Mr. Watson also initiated adjuvant chemotherapy consisting of FOLFOX (Folinic Acid, Fluorouracil, and Oxaliplatin) for six cycles, with expected side effects such as nausea, vomiting, diarrhea, and fatigue. Radiation therapy was deferred due to the extent of surgical resection.
+
+Hospital Course:
+	Mr. Watson's initial recovery from surgery was smooth, with prompt control of pain and effective bowel management. He faced challenges related to anemia and dehydration, which were managed with intravenous fluids and iron supplements. Therapy and nutritional support played a crucial role in his recovery.
+
+Follow-Up Plan:
+	Mr. Watson is scheduled for outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue his current medications, with adjustments as necessary based on blood test results. Lifestyle recommendations include regular exercise, a balanced diet low in fat and high in fiber, and avoidance of smoking and excessive alcohol consumption. Warning signs requiring immediate medical attention include fever, worsening abdominal pain, persistent diarrhea or constipation, unexplained weight loss, and blood in the stool.
+
+Patient Education:
+	Mr. Watson and his family were educated about post-surgical care, managing the ileal conduit, recognizing signs of complications, and managing common side effects of chemotherapy. They were also instructed on proper wound care practices, hydration, and physical activity guidelines.
+
+Discharge Instructions:
+	Mr. Watson was provided with detailed discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration guidelines, and restrictions on heavy lifting and strenuous activities for six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues such as diabetes and hypertension. The prognosis for Mr. Watson is good, with a five-year survival rate of approximately 65% for Stage III colorectal cancer patients who undergo surgery and adjuvant chemotherapy.
+
+Final Remarks:
+	I commend Barry Watson on his resilience and cooperation throughout the treatment journey. His active participation in his care plan has played a significant role in his successful recovery. I look forward to seeing him at his follow-up appointments, and I am confident that he will continue to make progress in his recovery.

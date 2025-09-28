@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sally Gouty
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M122
+	•Date of Admission: 02/05/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Solomon Peterson
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Sally Gouty was admitted to the hospital on 02/05/2022 due to persistent lower abdominal pain, changes in bowel habits, and unexplained weight loss. An initial assessment revealed a palpable mass in the lower abdomen, and laboratory tests showed elevated levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9). A subsequent colonoscopy confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Gouty had a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD) for which he was on multiple medications before admission. His father died of colorectal cancer at the age of 65, and his mother passed away from breast cancer at the age of 70. He had a history of tobacco use but had quit smoking five years prior to this admission.
+
+Diagnostic Findings:
+	Further investigations revealed that the tumor was approximately 8 cm in size, with lymph node involvement. Computed tomography (CT) scans showed multiple enlarged lymph nodes throughout the abdomen and pelvis. A biopsy of the colon tumor confirmed the diagnosis of Stage III colorectal cancer.
+
+Treatment Plan:
+	Mr. Gouty underwent a sigmoid colectomy with lymph node dissection on 03/05/2022. He received post-operative care in the Intensive Care Unit (ICU) for two days due to some complications, including anemia and electrolyte imbalances. He then underwent six cycles of adjuvant chemotherapy with FOLFOX regimen (oxaliplatin, fluorouracil, and leucovorin). Radiation therapy was deemed unnecessary given the extent of the surgery.
+
+Hospital Course:
+	During his hospital stay, Mr. Gouty made a good recovery from the surgery, with gradual improvement in his bowel function. However, he faced some challenges due to side effects of chemotherapy, including fatigue, nausea, and diarrhea, which were managed with appropriate medications. He was also provided nutritional support and physical therapy to aid in his recovery.
+
+Follow-Up Plan:
+	Mr. Gouty will be followed up as an outpatient every three months for the first two years, then every six months thereafter. He will continue on oral fluorouracil for one year. A strict low-fiber diet is recommended to minimize discomfort and maintain good bowel function. Any unexplained weight loss, persistent abdominal pain, or change in bowel habits should be reported immediately to the healthcare provider.
+
+Patient Education:
+	Mr. Gouty and his family were educated about the importance of adhering to the treatment plan, recognizing signs of complications, and managing common side effects of chemotherapy. They were also provided instructions on post-surgical care, including management of the ileal conduit, and signs of leakage or infection.
+
+Discharge Instructions:
+	At discharge, Mr. Gouty was given detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to take it easy for the first week after discharge and gradually increase his activities as tolerated.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in colorectal cancer survivors. Mr. Gouty was counseled about the importance of maintaining a healthy lifestyle, including a balanced diet, regular exercise, and avoiding tobacco use.
+
+Final Remarks:
+	Dr. Peterson concluded the report by expressing her appreciation for Mr. Gouty's resilience throughout his treatment journey and emphasizing the need for continued vigilance to ensure a positive long-term outlook. Both the physician and patient signed the report on 05/05/2022, validating its completion.

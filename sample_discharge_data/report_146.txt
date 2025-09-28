@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Kelly Torres
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M146
+	•Date of Admission: 03/01/2022
+	•Date of Discharge: 15/02/2022
+	•Attending Physician: Dr. James Collins
+	•Primary Diagnosis: Carcinoma of the Colon (Stage III)
+
+Reason for Admission:
+	Kelly Torres was admitted to our institution due to increasing abdominal pain, recurrent constipation, and unintentional weight loss over the past three months. Upon initial examination, a palpable mass was discovered in the lower abdomen, which prompted further investigations. Laboratory tests revealed anemia and elevated levels of carcinoembryonic antigen (CEA). A colonoscopy confirmed the presence of a tumor in the descending colon, leading to the diagnosis of colon cancer.
+
+Medical History:
+	Mr. Torres has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2018 due to gallstones. His family history is significant for colon cancer and breast cancer. Mr. Torres is allergic to penicillin and has been taking metformin, lisinopril, and albuterol prior to admission.
+
+Diagnostic Findings:
+	A series of investigations were conducted during the hospital stay. Imaging studies revealed a large tumor in the descending colon with regional lymph node involvement. Pathology results confirmed the diagnosis of adenocarcinoma. Blood tests showed elevated CEA levels and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Torres, which included surgical resection, post-operative care, chemotherapy, and radiation therapy. He underwent a partial colectomy with lymph node dissection on [10/02/2022]. The surgery was followed by an ileostomy procedure due to the tumor's proximity to the rectum. Post-operative care focused on pain management, wound healing, and nutritional support. A chemotherapy regimen of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) was initiated, with cycles scheduled every two weeks.
+
+Hospital Course:
+	During his hospital stay, Mr. Torres experienced challenges related to post-operative pain management and nutritional support. He showed significant progress in recovery from surgery, with the ileostomy functioning effectively. His condition was closely monitored for signs of disease recurrence or complications. Regular therapy sessions were provided, and his diabetes and hypertension were managed accordingly.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Torres will continue with the scheduled chemotherapy regimen. He is advised to maintain a balanced diet rich in fiber and lean proteins while managing his other chronic conditions. Lifestyle modifications include regular exercise and stress management. Warning signs such as persistent abdominal pain, rectal bleeding, or unexplained weight loss should be reported immediately.
+
+Patient Education:
+	Mr. Torres and his family were educated about the importance of adhering to the medication schedule, managing the ileal conduit, recognizing signs of complications such as obstruction or leakage, and coping with common side effects like fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Torres was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He is advised to follow up with his oncologist every three months for the first year and then annually thereafter.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Torres's long-term survival. Management of his chronic conditions will also be essential in maintaining overall health.
+
+Final Remarks:
+	We commend Mr. Torres for his resilience and cooperation throughout the treatment journey. The attending physician, Dr. James Collins, expresses her appreciation for his active participation in the care plan and encourages him to continue with the prescribed regimen. This report is signed by Dr. James Collins on [15/02/2022] and by Mr. Kelly Torres on [16/02/2022].

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Katherine Quintanar
+	•Date of Birth: 12/05/1970
+	•Medical Record Number: M1098
+	•Date of Admission: 09/01/2021
+	•Date of Discharge: 09/20/2021
+	•Attending Physician: Dr. Jacquelyn Crawley
+	•Primary Diagnosis: Advanced Renal Cell Carcinoma (RCC) with metastasis to the liver and lungs
+
+Reason for Admission:
+	The patient, Katherine Quintanar, was admitted to our facility on 09/01/2021 due to complaints of severe abdominal pain, hematuria, and a palpable mass in the right lower quadrant. Preliminary examinations revealed anemia and hypertension. A computed tomography (CT) scan confirmed the presence of a large renal mass with signs of metastasis to the liver and lungs.
+
+Medical History:
+	Katherine Quintanar has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a cholecystectomy in 2015. His father died of liver cancer at the age of 62, and his sister has a history of breast cancer. Allergic to penicillin, he was taking daily medications including metformin, lisinopril, albuterol, and ipratropium bromide before admission.
+
+Diagnostic Findings:
+	Pathology findings confirmed the diagnosis of clear cell RCC. CT scans showed a large mass in the right kidney with multiple liver lesions and numerous pulmonary nodules. Laboratory results indicated anemia, elevated creatinine levels, and an increased lactate dehydrogenase (LDH).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Quintanar. The initial intervention was a radical nephrectomy followed by a right ileal conduit formation. Post-operative care included pain management, antibiotics to prevent infection, and blood transfusions due to anemia. Chemotherapy with sunitinib was initiated, with the first cycle beginning on 09/25/2021. Radiation therapy is not deemed necessary at this time.
+
+Hospital Course:
+	The patient's post-surgery recovery was initially challenging due to anemia and hypertensive crisis. However, with close monitoring, aggressive fluid management, and medication adjustments, his condition stabilized. He received nutritional support through a combination of oral supplements and enteral feeding. His pain was managed effectively, and he was ambulatory by the 10th post-operative day.
+
+Follow-Up Plan:
+	The patient will return for regular outpatient appointments every three months for the first year, then six-monthly thereafter. He is to continue sunitinib therapy as prescribed and undergo routine blood tests to monitor kidney function and LDH levels. A low-sodium, low-fat diet is recommended along with regular exercise. Any signs of fever, persistent abdominal pain, increased urinary symptoms, or unusual bleeding should prompt immediate medical attention.
+
+Patient Education:
+	The patient was educated about post-surgical care, including ileal conduit management, recognizing signs of complications such as leakage or obstruction, and managing common side effects like diarrhea, fatigue, and mouth sores.
+
+Discharge Instructions:
+	Upon discharge, Katherine Quintanar was provided detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial to manage ongoing health issues effectively.
+
+Final Remarks:
+	This report documents the treatment journey of Katherine Quintanar, who demonstrated remarkable resilience throughout his stay with us. We are confident that he will continue to cooperate in his fight against advanced RCC. Signed Dr. Jacquelyn Crawley on 09/20/2021. Signed Katherine Quintanar on 09/20/2021.

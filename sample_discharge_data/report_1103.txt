@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sandy Gulick
+	•Date of Birth: 01/12/1960
+	•Medical Record Number: M1103
+	•Date of Admission: 03/02/2022
+	•Date of Discharge: 04/26/2022
+	•Attending Physician: Dr. Douglas Gulick
+	•Primary Diagnosis: Stage III Colorectal Cancer with metastasis to the liver
+
+Reason for Admission:
+	Sandy Gulick was admitted to our hospital due to persistent abdominal pain, weight loss, and rectal bleeding. A series of diagnostic tests were conducted including a colonoscopy, CT scan, and blood tests, which revealed an advanced stage colorectal cancer with metastasis to the liver. The symptoms were severe, necessitating immediate medical attention.
+
+Medical History:
+	Mr. Gulick had a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a partial left nephrectomy in 2015 due to kidney cancer. His family history was significant for colorectal cancer, with his father diagnosed at the age of 60 and his sister at 48. Mr. Gulick was allergic to penicillin and had been on a regimen of metformin, lisinopril, albuterol, and ipratropium before admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed adenocarcinoma. Imaging scans revealed multiple liver lesions consistent with metastatic disease. Blood tests showed anemia, elevated CEA levels, and abnormal liver function tests.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Gulick. This included a right colectomy, hepatic metastasectomy, and subsequent adjuvant chemotherapy with FOLFOX regimen (folinic acid, 5-fluorouracil, and oxaliplatin). The surgery was followed by nutritional support, physical therapy, and pain management. A decision on radiation therapy was deferred due to the extent of liver involvement.
+
+Hospital Course:
+	Mr. Gulick's initial recovery from surgery was smooth. However, he faced several challenges during his hospital stay including anemia, high blood sugar levels, and COPD exacerbation. These were managed through transfusions, insulin adjustments, and additional bronchodilator therapy. He was also educated on the management of his ileal conduit, recognizing signs of complications, and managing common side effects such as neuropathy and nausea.
+
+Follow-Up Plan:
+	Mr. Gulick will be scheduled for regular outpatient appointments every three months for the first year, then six-monthly thereafter. His medications will be adjusted as necessary to manage his hypertension, diabetes, and COPD. He was advised to maintain a balanced diet rich in fiber and low in fat, and to refrain from alcohol consumption. Specific warning signs such as unexplained weight loss, persistent abdominal pain, and jaundice were emphasized.
+
+Patient Education:
+	Mr. Gulick and his family were educated about the treatment options, potential side effects, and the importance of regular follow-ups. They were instructed on post-surgical care, recognizing signs of complications, and managing common side effects such as neuropathy and nausea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Gulick was provided with comprehensive instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to contact his primary care physician if he experiences any unusual symptoms.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Gulick is guarded due to the advanced stage of his cancer at presentation. Regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension, diabetes, and COPD are crucial for his long-term survival.
+
+Final Remarks:
+	I would like to commend Mr. Gulick on his resilience and cooperation throughout his treatment journey. I am confident that he will continue to face the challenges ahead with courage and determination. I look forward to seeing him at his follow-up appointments.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Paige Spurgeon
+	•Date of Birth: 12/05/1970
+	•Medical Record Number: M1372
+	•Date of Admission: 01/01/2022
+	•Date of Discharge: 05/01/2022
+	•Attending Physician: Dr. Terry Abel
+	•Primary Diagnosis: Bladder Cancer (T2N0M0)
+
+Reason for Admission:
+	The patient presented with symptoms of blood in the urine and frequent urination, which were accompanied by lower back pain. After an initial assessment, a cystoscopy was conducted to examine the bladder directly. The findings revealed a tumor in the bladder, leading to the diagnosis of bladder cancer.
+
+Medical History:
+	The patient has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He had undergone two major abdominal surgeries in the past appendectomy and a hernia repair. His family medical history is significant for colon cancer in his father. The patient has known allergies to penicillin and sulfa drugs. Before admission, he was on a regimen of metformin, lisinopril, and tiotropium bromide.
+
+Diagnostic Findings:
+	Biopsy from the bladder tumor confirmed the diagnosis of T2N0M0 bladder cancer. Staging scans showed no evidence of distant metastasis. Blood tests revealed elevated creatinine and hemoglobin levels, suggesting possible kidney dysfunction due to blood in the urine.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. He underwent a radical cystectomy, which involved the removal of the bladder, nearby lymph nodes, and the construction of an ileal conduit. Post-operative care included catheterization and management of potential complications such as wound infections and urinary leaks. The patient was also scheduled for adjuvant chemotherapy, specifically a MVAC regimen (Methotrexate, Vinblastine, Dacarbazine, Cisplatin) consisting of six cycles.
+
+Hospital Course:
+	The patient's post-operative recovery was monitored closely. Challenges faced during his hospital stay included a minor wound infection that was promptly treated with antibiotics. His kidney function improved after the removal of blood clots from the urine. Therapy and nutritional support helped in managing the disease.
+
+Follow-Up Plan:
+	The patient is scheduled for follow-up appointments every three months for the first year, then every six months thereafter. He will continue with his current medications, and adjustments to his diabetes medication regimen may be necessary. Lifestyle modifications such as smoking cessation and a balanced diet are strongly recommended. Any change in urinary habits or general health should prompt an immediate medical consultation.
+
+Patient Education:
+	The patient was educated about post-surgical care, including managing the ileal conduit, recognizing signs of complications such as infection or obstruction, and managing common side effects like nausea and fatigue. Instructions on self-catheterization and monitoring urine color and volume were provided.
+
+Discharge Instructions:
+	Upon discharge, the patient was given detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines to ensure continued recovery and health maintenance.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing this disease long-term. The patient was advised about the importance of maintaining a healthy lifestyle and attending all follow-up appointments as scheduled.
+
+Final Remarks:
+	The attending physician commends the patient on his resilience throughout the treatment journey and cooperation during hospital stays, surgeries, and procedures. The report is signed by Dr. Terry Abel, M.D., and Paige Spurgeon on 05/01/2022.

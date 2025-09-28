@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Charles Harding
+	•Date of Birth: 01/15/1960
+	•Medical Record Number: M1087
+	•Date of Admission: 09/20/2021
+	•Date of Discharge: 10/05/2021
+	•Attending Physician: Dr. Ginger Seldon
+	•Primary Diagnosis: Stage III Colorectal Cancer with Liver Metastases
+
+Reason for Admission:
+	Mr. Seldon was admitted to the hospital following a series of symptoms including persistent abdominal pain, unexplained weight loss, and changes in bowel habits. An initial assessment revealed an abnormal mass in his abdomen, leading to further diagnostic investigations such as a CT scan, which confirmed the presence of a large colon tumor with multiple liver metastases.
+
+Medical History:
+	Mr. Seldon has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a knee replacement surgery in 2015. His family history is significant for colorectal cancer. Allergies include penicillin and sulfa drugs. Prior to admission, Mr. Seldon was taking metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of adenocarcinoma in the colon. Imaging studies revealed a large tumor in the sigmoid colon with multiple liver metastases. Blood tests indicated anemia, elevated CA 19-9 levels, and abnormal liver function test results.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Seldon. This included a surgical intervention to remove the tumor, a partial colectomy with an ileal conduit, followed by six cycles of FOLFOX chemotherapy. Radiation therapy was deemed unnecessary due to the extensive liver metastases.
+
+Hospital Course:
+	Mr. Seldon underwent surgery on September 25, 2021, and recovered well from the procedure. He faced some challenges during his hospital stay, including post-operative pain management and nutritional support due to his underlying conditions. However, with the help of physical therapy and dietary interventions, he was able to regain his strength.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Seldon will have regular outpatient appointments every three months for the first year, then six-monthly thereafter. He will continue taking 5-FU and leucovorin until completion of chemotherapy. Lifestyle recommendations include maintaining a balanced diet rich in fruits and vegetables, regular exercise, and avoiding alcohol. Warning signs requiring immediate medical attention include fever, abdominal pain, significant weight loss, or changes in bowel habits.
+
+Patient Education:
+	Mr. Seldon was educated about his condition, the importance of post-surgical care, managing the ileal conduit, recognizing signs of complications such as leakage or obstruction, and managing common side effects like nausea, diarrhea, and fatigue. His family was also involved in these discussions to ensure understanding and support.
+
+Discharge Instructions:
+	Upon discharge, Mr. Seldon was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to monitor his blood sugar levels closely due to his diabetes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Seldon will be closely monitored for changes in his condition and the progression or regression of his cancer.
+
+Final Remarks:
+	Dr. Ginger Seldon commends Mr. Seldon's resilience and cooperation throughout his treatment journey. The report is signed by both Dr. Ginger Seldon and Mr. Seldon on October 05, 2021, validating the comprehensive documentation of his care.

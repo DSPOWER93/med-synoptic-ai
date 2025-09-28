@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Robert Keitt
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1252
+	•Date of Admission: 05/01/2023
+	•Date of Discharge: 08/02/2023
+	•Attending Physician: Dr. Dr. Williams
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Robert Keitt, a 37-year-old male, presented to the emergency department with complaints of abdominal pain, bloating, and rectal bleeding persisting for two weeks. The initial assessment revealed anemia, abdominal distension, and tender mass on palpation. Further investigations included a complete blood count, carcinoembryonic antigen (CEA) level, colonoscopy, computed tomography (CT) scan of the abdomen, and magnetic resonance imaging (MRI). The diagnostic findings indicated a large tumor in the sigmoid colon with lymph node involvement, confirming the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Keitt has a history of hypertension managed with lisinopril and hydrochlorothiazide. He is also diabetic, controlled with metformin. He was a 30-pack-year smoker but quit two years ago. His family history includes colorectal cancer in his father and breast cancer in his mother. On admission, he was taking aspirin daily for cardiovascular prophylaxis.
+
+Diagnostic Findings:
+	The CEA level was elevated at 12.5 ng/mL (normal range < 5 ng/mL). The CT scan and MRI revealed a large mass in the sigmoid colon with involvement of multiple lymph nodes, suggestive of advanced colorectal cancer. Pathology report confirmed adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Keitt. This included a laparoscopic sigmoid colectomy with primary anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved management of pain, prevention of thromboembolism, and bowel function recovery. The chemotherapy regimen consisted of FOLFOX (oxaliplatin, leucovorin, 5-fluorouracil) every two weeks for six cycles. Radiation therapy was considered post-operatively to reduce the risk of local recurrence.
+
+Hospital Course:
+	Mr. Keitt's initial recovery from surgery was smooth, with appropriate pain management and control of post-operative ileus. However, he developed anastomotic leakage on the seventh post-operative day, necessitating a second laparotomy and creation of an ileal conduit. He received supportive care during this period, including intravenous fluids, antibiotics, and nutritional support. The role of physiotherapy was crucial in helping him regain bowel function.
+
+Follow-Up Plan:
+	Mr. Keitt will have scheduled follow-up appointments every three months for the first two years, then every six months thereafter. He is to continue taking aspirin daily for cardiovascular prophylaxis and manage his diabetes effectively. A low-fiber diet is recommended post-discharge, along with regular exercise. Any signs of increased abdominal pain, fever, or changes in bowel habits should prompt immediate medical attention.
+
+Patient Education:
+	Mr. Keitt and his family were educated about the importance of adhering to the treatment plan, managing the ileal conduit, recognizing signs of complications such as obstruction or perforation, and managing common side effects like neutropenia, diarrhea, and neuropathy associated with chemotherapy.
+
+Discharge Instructions:
+	Upon discharge, Mr. Keitt was provided detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to attend all scheduled follow-up appointments and to maintain a healthy lifestyle for optimal outcomes.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is essential for early detection of recurrence and managing ongoing health issues. Mr. Keitt's cooperation throughout the treatment journey has been commendable, and his resilience will play a significant role in his long-term prognosis.
+
+Final Remarks:
+	This report concludes with Dr. Dr. Williams's final remarks, emphasizing Mr. Keitt's resilience and cooperation throughout the treatment journey. Both the physician's and patient's signatures validate this report on 08/02/2023.

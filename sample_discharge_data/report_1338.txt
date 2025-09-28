@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Chad Crain
+	•Date of Birth: 03/02/1970
+	•Medical Record Number: M1338
+	•Date of Admission: 01/10/2022
+	•Date of Discharge: 02/24/2022
+	•Attending Physician: Dr. Christina Crain
+	•Primary Diagnosis: Colon Cancer (Stage III)
+
+Reason for Admission:
+	Chad Crain presented to the emergency department with severe abdominal pain, weight loss, and change in bowel habits over the past month. The initial assessment revealed signs of obstruction, and subsequent CT scan confirmed the presence of a large mass in the colon. Following these findings, a biopsy was performed, confirming the diagnosis of Chad Crain Chad Crain.
+
+Medical History:
+	Mr. Crain has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015. His family history is significant for colon cancer, as his father was diagnosed at the age of 60. Mr. Crain has known allergies to penicillin and sulfa drugs. Prior to admission, he was taking metformin, lisinopril, and tiotropium.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the colon. Staging CT scan revealed a 7cm mass in the ascending colon with regional lymph node involvement. Carcinoembryonic antigen (CEA) levels were elevated at 12ng/mL (normal range <5ng/mL).
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Crain, which included a right hemicolectomy with lymph node dissection, followed by six cycles of FOLFOX chemotherapy and radiation therapy to the abdomen and pelvis. Post-operative care involved management of ileostomy and nutritional support through enteral feeding.
+
+Hospital Course:
+	Mr. Crain underwent right hemicolectomy on January 15th, 2022. The surgery was uneventful, and he made an initial recovery in the ICU. Subsequently, he experienced complications related to his diabetes management and COPD exacerbation, requiring adjustments to his insulin regimen and bronchodilator therapy. Throughout his hospital stay, Mr. Crain received nutritional support through total parenteral nutrition (TPN) due to poor oral intake.
+
+Follow-Up Plan:
+	Mr. Crain will have a follow-up appointment with Dr. Christina Crain in one week for suture removal and wound care instruction. He will continue on FOLFOX chemotherapy, with cycles every two weeks for six cycles, followed by surveillance imaging and CEA level monitoring. Lifestyle modifications include maintaining a balanced diet low in sugar and high in fiber, smoking cessation, and regular exercise.
+
+Patient Education:
+	Mr. Crain was educated on the importance of adherence to his chemotherapy regimen, proper ileostomy care, recognizing signs of complications (e.g., fever, abdominal pain, increased output from ileostomy), and managing common side effects (e.g., nausea, diarrhea).
+
+Discharge Instructions:
+	Upon discharge, Mr. Crain was provided with instructions on medication administration, wound care practices, hydration guidelines, and physical activity restrictions. He was also given a list of resources for support during his recovery journey.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Crain's long-term survival. He will be closely followed by Dr. Christina Crain and the oncology team.
+
+Final Remarks:
+	The attending physician, Dr. Christina Crain, commends Mr. Crain for his resilience throughout the treatment journey and wishes him continued success in his recovery. This report is signed by both Dr. Christina Crain and Mr. Chad Crain on February 24th, 2022.

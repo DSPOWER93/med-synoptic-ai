@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terry Gallegos
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M151
+	•Date of Admission: 05/05/2022
+	•Date of Discharge: 15/06/2022
+	•Attending Physician: Dr. Eric Barker
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Terry Gallegos presented with persistent upper abdominal pain, jaundice, and significant weight loss over the past few months. On admission, he was found to have a palpable mass in the epigastric region, elevated liver enzymes, and an obstructive pattern on abdominal ultrasound. Terry Gallegos scan confirmed the presence of a large pancreatic tumor with evidence of ductal obstruction.
+
+Medical History:
+	Mr. Gallegos has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft surgery in 2015. His family history is significant for pancreatic cancer and colon cancer. He is known to be allergic to penicillin. Prior to admission, he was on metformin, enalapril, salmeterol/fluticasone, and atorvastatin.
+
+Diagnostic Findings:
+	Pathology report from the pancreatic tumor biopsy revealed a moderately differentiated adenocarcinoma. Carbohydrate Antigen 19-9 (CA 19-9) was significantly elevated at 250 U/mL. Gallegos scan showed a 6 cm x 5 cm mass in the pancreatic head with evidence of adjacent vessels invasion and encasement, making it unresectable.
+
+Treatment Plan:
+	Given the advanced stage of the disease, a multidisciplinary team developed a comprehensive treatment plan. Mr. Gallegos underwent a Whipple procedure on 06/05/2022, followed by a course of FOLFIRINOX chemotherapy consisting of oxaliplatin, irinotecan, leucovorin, and fluorouracil, administered every two weeks. Radiation therapy was deferred due to the post-operative recovery period.
+
+Hospital Course:
+	Mr. Gallegos's initial post-operative course was complicated by pancreatic fistula requiring endoscopic management and prolonged hospitalization. However, he gradually improved and was able to tolerate oral intake, ambulate, and participate in physical therapy. During his stay, he received close monitoring for complications, nutritional support, and pain management.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Gallegos will continue with FOLFIRINOX chemotherapy every two weeks as an outpatient. He will be monitored closely for side effects such as neutropenia, neuropathy, and gastrointestinal toxicities. Dietary recommendations include a low-fat diet to minimize pancreatitis symptoms. A follow-up Gallegos scan is scheduled for three months after the initiation of chemotherapy.
+
+Patient Education:
+	Mr. Gallegos and his family were educated about the nature of the disease, the treatment options, and the potential side effects. Instructions on post-surgical care, managing the ileal conduit, recognizing signs of complications such as abscess formation or leakage, and managing common side effects like diarrhea, nausea, and fatigue were provided.
+
+Discharge Instructions:
+	Mr. Gallegos was discharged with clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to monitor his blood glucose levels closely due to the ongoing diabetes mellitus.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Gallegos will need close follow-up with his oncologist and gastroenterologist. He is encouraged to maintain a positive attitude and adhere to the treatment plan for optimal outcomes.
+
+Final Remarks:
+	Dr. Barker commends Mr. Gallegos's resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued follow-up, adherence to the treatment plan, and early detection of any potential complications. The report is signed by both Dr. Barker and Mr. Gallegos on 15/06/2022.

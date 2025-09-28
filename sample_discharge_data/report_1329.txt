@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Alicia Fritsch
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1329
+	•Date of Admission: 09/01/2022
+	•Date of Discharge: 20/01/2022
+	•Attending Physician: Dr. Eldon Walker
+	•Primary Diagnosis: Stage III Colorectal Cancer with liver metastasis
+
+Reason for Admission:
+	Alicia Fritsch presented to the emergency department complaining of severe abdominal pain, bloating, and altered bowel habits persisting for over a month. A physical examination revealed an abdominal mass, and laboratory investigations indicated anemia. Further diagnostic tests, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in the colon with liver metastasis.
+
+Medical History:
+	Mr. Fritsch has a history of hypertension and COPD managed with regular medications. He underwent a laparoscopic cholecystectomy in 2015 due to gallstones. His family history is significant for colon cancer, as his father died from the disease at age 64. Mr. Fritsch has no known allergies and was taking Metoprolol, Albuterol, and Simvastatin before admission.
+
+Diagnostic Findings:
+	Pathology reports confirmed adenocarcinoma in the colon. CT scan revealed a large mass in the ascending colon with multiple liver metastases. Liver function tests showed elevated alkaline phosphatase and aspartate aminotransferase levels, suggesting liver involvement. Blood tests also indicated anemia and electrolyte imbalances.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Fritsch. He underwent a laparoscopic radical colectomy followed by ileostomy formation. Post-operative care included managing pain, ensuring adequate fluid and electrolyte balance, and preventing complications such as infection and bleeding. He also started adjuvant chemotherapy with FOLFOX regimen (Fluorouracil, Leucovorin, and Oxaliplatin) for six cycles. Radiation therapy was deferred due to the extent of liver involvement.
+
+Hospital Course:
+	Mr. Fritsch's initial recovery from surgery was smooth, but he faced challenges in managing his ileostomy and nutrition. He required regular emotional support and counseling to cope with these issues. His condition stabilized as he responded well to chemotherapy, and his liver function tests improved gradually.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Fritsch is scheduled for outpatient appointments every three months for the first year, then every six months thereafter. He will continue taking Metoprolol, Albuterol, and Simvastatin, but his antacid and pain medication dosages may be adjusted as needed. A low-fat, high-fiber diet is recommended to aid in digestion, and regular monitoring for signs of dehydration, electrolyte imbalances, or complications is essential.
+
+Patient Education:
+	Mr. Fritsch was educated on proper ileostomy care, including emptying the pouch regularly, monitoring for any changes in color, consistency, or odor, and recognizing signs of potential complications such as blockages or leaks. He was also taught how to manage common side effects of chemotherapy, like nausea, fatigue, and diarrhea.
+
+Discharge Instructions:
+	Upon discharge, Mr. Fritsch was provided instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to walk daily for exercise and avoid heavy lifting to prevent complications.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Fritsch. It's important that he maintains a healthy lifestyle, attends all follow-up appointments, and communicates openly with his healthcare providers regarding any concerns or changes in his health status.
+
+Final Remarks:
+	I commend Alicia Fritsch for his resilience and cooperation throughout the treatment journey. His positive attitude and determination have played a significant role in his progress. I wish him continued success on his road to recovery, and I am confident that he will continue to face the challenges ahead with strength and courage.

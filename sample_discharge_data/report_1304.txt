@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Mary Hernandez
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1304
+	•Date of Admission: 04/02/2022
+	•Date of Discharge: 03/15/2022
+	•Attending Physician: Dr. Deborah Hernandez
+	•Primary Diagnosis: Stage III Colorectal Cancer (Adenocarcinoma) with metastasis to the liver
+
+Reason for Admission:
+	Mary Hernandez was admitted to our hospital due to persistent abdominal pain, decreased appetite, unintended weight loss, and a change in bowel habits over a period of six months. The symptoms had worsened significantly in the past three weeks, leading to severe abdominal distension and obstruction. An initial assessment revealed abnormalities in his abdomen, particularly in the right lower quadrant. Further diagnostic investigations, including computed tomography (CT) scans and colonoscopy, confirmed the presence of a tumor in the ascending colon with metastasis to the liver.
+
+Medical History:
+	Mr. Hernandez has a significant medical history that includes hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and a history of tobacco use. He underwent a cholecystectomy in 2015 due to gallstones. His family history is notable for colorectal cancer, as his father was diagnosed with the disease at the age of 65. Mr. Hernandez had no known allergies and was taking medications for his chronic conditions before admission.
+
+Diagnostic Findings:
+	The pathology report from the colonoscopy confirmed a well-differentiated adenocarcinoma in the ascending colon. The CT scan revealed a large, irregular mass in the right colon with multiple liver metastases. Blood tests showed elevated levels of carcinoembryonic antigen (CEA), alkaline phosphatase, and lactate dehydrogenase, all indicative of malignancy.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hernandez. This included a right hemicolectomy with an ileostomy to remove the tumor and bypass the affected colon. Post-operative care involved managing complications such as anastomotic leakage, wound infection, and post-operative ileus. He also underwent six cycles of FOLFOX chemotherapy (oxaliplatin, leucovorin, fluorouracil) to target any remaining cancer cells and reduce the risk of recurrence. Radiation therapy was not deemed necessary based on the extent of the metastases.
+
+Hospital Course:
+	Mr. Hernandez's recovery from surgery was initially challenging due to post-operative ileus, which required aggressive management with bowel rest, fluid and electrolyte replacement, and medication to stimulate bowel movements. He also experienced a minor anastomotic leakage, which was managed conservatively. Throughout his hospital stay, Mr. Hernandez received extensive support from our therapy team to help him regain his strength and mobility. Nutritional support was crucial in helping him maintain his weight and overall health.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Hernandez will have scheduled follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking medications to manage his hypertension, diabetes, and COPD. Lifestyle changes, including quitting smoking, maintaining a healthy diet, and regular exercise, are essential in promoting long-term health. Mr. Hernandez was educated on the care of his ileostomy, recognizing signs of complications such as leakage or infection, and managing common side effects like diarrhea and dehydration.
+
+Patient Education:
+	Mr. Hernandez and his family were provided thorough education about his diagnosis, treatment options, and post-treatment care. They were informed about the importance of regular follow-ups for early detection of recurrence and managing ongoing health issues. Mr. Hernandez was also instructed on post-surgical care, including ileostomy management, recognizing signs of complications, and managing common side effects.
+
+Discharge Instructions:
+	To ensure continued recovery and health maintenance, Mr. Hernandez was given detailed discharge instructions. These included medication adherence, wound care practices, hydration guidelines, and physical activity restrictions during the healing process. He was also advised to contact his primary care physician for any concerns related to his chronic conditions.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Hernandez is guarded due to the advanced stage of his cancer at diagnosis and the presence of metastases. Regular monitoring for early detection of recurrence and managing ongoing health issues are crucial in promoting long-term survival.
+
+Final Remarks:
+	I would like to commend Mary Hernandez on his resilience and cooperation throughout his treatment journey. His positive attitude and determination have been a source of inspiration for our team, and we wish him the best in his continued recovery. Sincerely, Dr. Deborah Hernandez Date 03-15-2022

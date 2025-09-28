@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Graves
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1233
+	•Date of Admission: 03/05/2023
+	•Date of Discharge: 05/12/2023
+	•Attending Physician: Dr. Laura Lynch
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Patricia Graves was admitted to the hospital due to a worsening abdominal pain, nausea, and unexplained weight loss over the past few months. His initial assessment revealed that he was experiencing severe abdominal tenderness, particularly in the upper-right quadrant of his abdomen. Following this, several diagnostic tests were conducted, including an abdominal ultrasound, CT scan, and MRI, which confirmed the presence of a tumor in his pancreas.
+
+Medical History:
+	Patricia Graves has a history of hypertension and COPD, for which he was being treated with prescribed medications. He also had a family history of pancreatic cancer. Prior to this admission, he underwent surgery for appendectomy and cholecystectomy. He is allergic to penicillin and has asthma.
+
+Diagnostic Findings:
+	The pathology report confirmed the presence of a malignant tumor in his pancreas. Imaging scan results showed that the tumor had invaded the surrounding tissues and nearby organs, making it Stage III pancreatic cancer. Blood tests indicated elevated levels of CA 19-9, a marker for pancreatic cancer, and anemia.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Patricia Graves. This included a distal pancreatectomy with splenectomy followed by chemotherapy and radiation therapy. Post-operative care involved pain management, nutritional support, and monitoring for potential complications. The chemotherapy regimen consisted of four cycles of FOLFIRINOX, each lasting three weeks, with a week's rest in between.
+
+Hospital Course:
+	Patricia Graves underwent the surgical intervention successfully. During his hospital stay, he faced challenges related to post-operative pain management and nutritional support due to nausea and vomiting. However, he responded well to therapy and showed signs of recovery. His condition was closely monitored for disease progression.
+
+Follow-Up Plan:
+	Patricia Graves will be scheduled for regular follow-up appointments every three months for the first year, then six monthly thereafter. He will continue with his prescribed medications, and his asthma management plan will be adjusted to minimize potential interactions with the chemotherapy drugs. Dietary recommendations include a balanced diet rich in fruits, vegetables, and lean proteins.
+
+Patient Education:
+	Patricia Graves and his family were educated about the ileal conduit and its care, including emptying and cleaning instructions. They were also taught to recognize signs of complications such as fever, abdominal pain, or changes in bowel habits. Management of common side effects like fatigue, nausea, and diarrhea was discussed.
+
+Discharge Instructions:
+	Upon discharge, Patricia Graves was provided with instructions for medication adherence, wound care practices, hydration guidelines, and physical activity recommendations. He was also advised to follow up with his primary care physician regularly.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Patricia Graves's ongoing health issues, particularly his hypertension and COPD, must be managed effectively.
+
+Final Remarks:
+	The attending physician expressed her appreciation for Patricia Graves's resilience and cooperation throughout his treatment journey. She emphasized the importance of regular follow-ups to ensure the best possible outcome.

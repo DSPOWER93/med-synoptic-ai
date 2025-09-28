@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Joshua Bell
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1279
+	•Date of Admission: 04/02/2023
+	•Date of Discharge: 05/05/2023
+	•Attending Physician: Dr. Joshua Kim
+	•Primary Diagnosis: Pancreatic Cancer (Adenocarcinoma)
+
+Reason for Admission:
+	Mr. Bell presented to the Joshua Bell complaining of severe abdominal pain, nausea, and weight loss over the past few months. Upon admission, a comprehensive examination revealed a palpable mass in the epigastric region, with laboratory tests indicating elevated CA 19-9 levels. Further diagnostic investigations, including computed tomography (CT) scan and endoscopic ultrasound, confirmed the presence of a large pancreatic tumor with regional lymph node involvement.
+
+Medical History:
+	Mr. Bell has a past medical history significant for hypertension, diabetes mellitus type 2, chronic obstructive pulmonary disease (COPD), and hyperlipidemia. He underwent a left total knee replacement surgery five years ago. His family history is notable for colon cancer, with his father diagnosed at the age of 65. Mr. Bell has known allergies to penicillin and sulfa drugs. Before admission, he was on metformin, lisinopril, atorvastatin, salmeterol/fluticasone, and ibuprofen.
+
+Diagnostic Findings:
+	Pathology findings from the biopsy of the pancreatic mass confirmed the diagnosis of adenocarcinoma. Imaging studies revealed a large (8cm) irregularly shaped mass in the pancreas head, with involvement of nearby lymph nodes and metastasis to the liver. Blood tests showed elevated levels of CA 19-9 (>300 U/mL), CEA (5.2 ng/mL), and LDH (486 U/L).
+
+Treatment Plan:
+	A multidisciplinary team consisting of surgeons, oncologists, radiologists, and pathologists developed a comprehensive treatment plan for Mr. Bell. He underwent a Whipple procedure (pancreaticoduodenectomy) followed by a course of FOLFIRINOX chemotherapy (Folinic acid, Irinotecan, 5-Fluorouracil, and Oxaliplatin). The chemotherapy regimen consisted of six cycles, with each cycle lasting approximately two weeks. Radiation therapy was not deemed necessary due to the advanced stage of the cancer at presentation.
+
+Hospital Course:
+	Mr. Bell's initial recovery from surgery was complicated by a post-operative infection and delayed gastric emptying, requiring antibiotics and nasogastric tube decompression. He subsequently responded well to treatment and was discharged home after a 28-day hospital stay. During his hospitalization, he received nutritional support, physical therapy, and pain management as needed.
+
+Follow-Up Plan:
+	Post-discharge, Mr. Bell will be followed closely by his oncologist every three months for the first year, then every six months thereafter. He will continue on oral chemotherapy, with close monitoring of side effects such as neutropenia, neuropathy, and diarrhea. A low-fat diet is recommended to help manage symptoms related to his pancreatic insufficiency, and he should maintain a healthy lifestyle, including regular exercise and stress management techniques.
+
+Patient Education:
+	Mr. Bell and his family were educated about the importance of adhering to his chemotherapy regimen, managing common side effects such as nausea, fatigue, and neuropathy, and recognizing signs of complications like fever, persistent abdominal pain, or difficulty swallowing. They were also instructed on how to manage his ileal conduit and potential issues related to bowel function.
+
+Discharge Instructions:
+	Upon discharge, Mr. Bell was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to take his medications as prescribed, follow a low-fat diet, maintain good oral hygiene, and report any unusual symptoms to his healthcare team immediately.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for pancreatic cancer is guarded, with the five-year survival rate being around 9%. Regular monitoring for early detection of recurrence is essential, as is managing ongoing health issues related to diabetes, hypertension, and COPD. Mr. Bell's resilience and cooperation throughout his treatment journey have been commendable, and we hope for a positive outcome in the future.
+
+Final Remarks:
+	This report serves as documentation of Mr. Joshua Bell's treatment journey for pancreatic cancer. His attending physician, Dr. Joshua Kim, would like to express her appreciation for his courage and cooperation throughout this challenging time. We look forward to supporting him in his continued recovery and hope for the best possible outcome.

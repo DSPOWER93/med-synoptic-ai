@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Susie Allen
+	•Date of Birth: 03/15/1970
+	•Medical Record Number: M1325
+	•Date of Admission: 01/02/2022
+	•Date of Discharge: 02/15/2022
+	•Attending Physician: Dr. Federico Price
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Susie Allen presented to the emergency department with a one-month history of progressive abdominal pain, change in bowel habits, and unexplained weight loss. The initial assessment revealed a tender mass in the lower abdomen, and laboratory tests showed anemia and elevated carcinoembryonic antigen (CEA) levels. Subsequent imaging studies, including computed tomography (CT) scan and colonoscopy, confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Susie Allen has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His family history is notable for colon cancer in his father at age 65. He has known allergies to penicillin and iodine contrast agents. Prior to admission, he was taking metformin, lisinopril, and albuterol inhaler.
+
+Diagnostic Findings:
+	Pathology reports from the surgical resection of the sigmoid colon showed moderately differentiated adenocarcinoma with lymphovascular invasion and perineural invasion. The tumor involved the submucosa, muscularis propria, and invaded the serosa. CT scan revealed multiple enlarged lymph nodes in the mesocolon and aortocaval region, consistent with metastasis.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Susie Allen. He underwent an open surgical resection of the sigmoid colon with creation of an ileal conduit. Post-operative care included management of pain, prevention of thromboembolic events, and nutritional support. Following recovery from surgery, he started a chemotherapy regimen consisting of FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for six cycles. Radiation therapy was deemed unnecessary due to the absence of distant metastases.
+
+Hospital Course:
+	Susie Allen had an initially challenging recovery from surgery, requiring additional analgesia and antibiotics for wound infection. His blood glucose levels required tight control due to his diabetes mellitus. He received occupational therapy for strengthening and mobility exercises, as well as dietary counseling for managing his diabetes and promoting adequate nutrition.
+
+Follow-Up Plan:
+	A follow-up plan has been designed for Susie Allen, including scheduled outpatient appointments every three months for the first year, then every six months thereafter. He will continue the same medications that he was taking prior to admission, with adjustments as necessary. Lifestyle recommendations include maintaining a healthy diet, avoiding alcohol and tobacco, and engaging in regular physical activity.
+
+Patient Education:
+	Susie Allen and his family were provided extensive education on post-surgical care, including instructions for managing the ileal conduit, recognizing signs of complications such as urinary tract infections or obstruction, and managing common side effects like diarrhea and neuropathy. They were also educated about the importance of early detection for recurrence and regular screening for other cancers.
+
+Discharge Instructions:
+	Upon discharge, Susie Allen was given comprehensive instructions on medication adherence, wound care practices, maintaining adequate hydration, and guidelines for physical activity. He was also provided with contact information for his care team in case of any concerns or questions.
+
+Prognosis and Long-Term Outlook:
+	Susie Allen's prognosis will depend on the response to chemotherapy and the absence of recurrence. Regular monitoring for early detection of recurrence is crucial, as well as management of ongoing health issues like hypertension and diabetes mellitus.
+
+Final Remarks:
+	Dr. Federico Price commends Susie Allen's resilience and cooperation throughout his treatment journey. She emphasizes the importance of regular follow-up appointments and adherence to the recommended lifestyle changes for optimal health outcomes. Signed Dr. Federico Price, M.D.; Susie Allen, February 15, 2022.

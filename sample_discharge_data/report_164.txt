@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Terry Christian
+	•Date of Birth: 12/01/1975
+	•Medical Record Number: M164
+	•Date of Admission: 01/04/2022
+	•Date of Discharge: 05/05/2022
+	•Attending Physician: Dr. Richard Bielecki
+	•Primary Diagnosis: Pancreatic Cancer (Adencarcinoma)
+
+Reason for Admission:
+	Mr. Christian presented to the emergency department with a one-month history of progressive abdominal pain, nausea, and unintentional weight loss. On initial assessment, he was found to have an elevated CA 19-9 level (>300 U/mL), abnormal liver function tests, and a positive CT scan suggesting the presence of a pancreatic mass.
+
+Medical History:
+	Mr. Christian has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a coronary artery bypass graft surgery in 2015. His family history is significant for colorectal cancer and breast cancer. He has allergies to penicillin and sulfa drugs. Before admission, he was on metformin, lisinopril, amlodipine, albuterol, and tiotropium bromide.
+
+Diagnostic Findings:
+	Further investigations confirmed the presence of a 4 cm x 5 cm mass in the pancreatic head with local invasion of the duodenum and peripancreatic fat, as evidenced by MRI and PET-CT scans. Pathology reports from biopsy samples taken during endoscopic ultrasound showed invasive adenocarcinoma of the pancreas.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Christian. He underwent a Whipple procedure (pancreatoduodenectomy) followed by 6 cycles of gemcitabine and nab-paclitaxel chemotherapy, with radiation therapy as a component of the adjuvant treatment regimen. The patient experienced mild but manageable side effects such as fatigue, nausea, and diarrhea during chemotherapy.
+
+Hospital Course:
+	Post-operatively, Mr. Christian's recovery was initially complicated by anastomotic leakage requiring a second surgical intervention. However, with the support of intensive care, nutritional therapy, and wound management, he gradually improved and eventually made significant progress during his hospital stay. He was subsequently discharged in stable condition.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Christian was scheduled for regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue his current medications and will be closely monitored for signs of recurrence. A low-fat, high-protein diet is recommended to maintain optimal nutrition.
+
+Patient Education:
+	Mr. Christian and his family were educated about post-surgical care, management of the ileal conduit, recognizing signs of complications such as obstruction or leakage, and managing common side effects like diarrhea and fatigue. They were also instructed on proper wound care practices, hydration, and physical activity guidelines to facilitate his recovery.
+
+Discharge Instructions:
+	Mr. Christian was provided with detailed discharge instructions, emphasizing the importance of medication adherence, wound care practices, maintaining adequate hydration, and gradually increasing physical activity under medical supervision. He was also given written materials to reinforce these instructions.
+
+Prognosis and Long-Term Outlook:
+	Despite successful treatment, Mr. Christian is at increased risk for recurrence due to his underlying disease and specific tumor characteristics. Regular monitoring will be essential for early detection of any potential issues. He was counseled on the importance of lifestyle modifications such as smoking cessation, maintaining a healthy weight, and regular exercise to improve overall health outcomes.
+
+Final Remarks:
+	Dr. Bielecki commended Mr. Christian for his resilience and cooperation throughout the treatment journey. She emphasized that while there are still challenges ahead, he has made significant progress thus far, and she remains hopeful for a positive long-term outlook. Both the patient and physician signed the report on 05/05/2022 to validate its accuracy.

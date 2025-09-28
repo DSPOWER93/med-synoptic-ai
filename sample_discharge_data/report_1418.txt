@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Linda Brimmer
+	•Date of Birth: 1965-07-02
+	•Medical Record Number: M1418
+	•Date of Admission: 2022-03-15
+	•Date of Discharge: 2022-04-20
+	•Attending Physician: Dr. Pamela Sichler
+	•Primary Diagnosis: Bladder Cancer (Transitional Cell Carcinoma)
+
+Reason for Admission:
+	Mr. Linda Brimmer presented to the emergency room with a complaint of hematuria, or blood in the urine, which had been persistent for over a week. He also reported lower abdominal pain and a strong urge to urinate frequently. Upon initial assessment, he appeared distressed, with a palpable lower abdominal mass. A computed tomography (CT) scan was ordered, confirming the presence of a bladder tumor and evidence of local invasion.
+
+Medical History:
+	Mr. Brimmer has a history of hypertension, which is well-controlled with medication. He also suffers from chronic obstructive pulmonary disease (COPD), for which he uses an inhaler as needed. In the past, he underwent surgery to remove an appendix and gallbladder. His family history is significant for colon cancer, with his father diagnosed at age 65. He has no known allergies and was taking aspirin daily for cardiovascular health before admission.
+
+Diagnostic Findings:
+	A cystoscopy revealed a large, irregular bladder tumor. Biopsy samples were taken, confirming the diagnosis of transitional cell carcinoma. Staging scans indicated T3bN0M0 disease, indicating local invasion beyond the muscle layer and no evidence of distant metastasis. Blood tests showed mild anemia (Hb 10.5 g/dL) and increased creatinine level (1.4 mg/dL), suggesting kidney dysfunction due to the tumor's pressure on the ureters.
+
+Treatment Plan:
+	A multidisciplinary team, including urologists, oncologists, radiologists, and nursing staff, developed a comprehensive treatment plan for Mr. Brimmer. This included radical cystectomy with ileal conduit creation, followed by adjuvant chemotherapy. Post-operative care involved management of pain, wound care, and monitoring for complications. A decision was made to pursue radiation therapy if necessary based on the pathology results.
+
+Hospital Course:
+	Mr. Brimmer underwent a successful radical cystectomy with ileal conduit creation on March 25th. The post-operative period was marked by careful monitoring of his kidney function, pain management, and wound care. He faced several challenges, including anemia requiring blood transfusion and a urinary tract infection, which were promptly treated. On April 9th, he began adjuvant chemotherapy with a combination of gemcitabine and cisplatin for six cycles.
+
+Follow-Up Plan:
+	Mr. Brimmer will be scheduled for regular follow-up appointments every three months for the first two years, then every six months thereafter. He is to continue taking his hypertension medication and aspirin daily. Lifestyle modifications include quitting smoking, maintaining a healthy diet, and engaging in regular exercise. In case of fever, chills, flank pain, or new onset hematuria, he should seek immediate medical attention.
+
+Patient Education:
+	Mr. Brimmer and his family were provided with detailed instructions about post-surgical care, including ileal conduit management, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Brimmer was given comprehensive instructions on medication adherence, wound care practices, fluid intake guidelines, and physical activity recommendations. He was advised to continue using his inhaler as needed for COPD management.
+
+Prognosis and Long-Term Outlook:
+	Mr. Brimmer's prognosis is currently favorable, given the successful surgical resection and absence of distant metastasis at diagnosis. Regular monitoring for early detection of recurrence is crucial in managing his long-term health.
+
+Final Remarks:
+	Dr. Sichler commends Mr. Brimmer on his resilience and cooperation throughout his treatment journey. She emphasizes the importance of continued adherence to the follow-up plan, lifestyle modifications, and regular monitoring for early detection of any recurrence or new health issues. Signed Dr. Pamela Sichler; Linda Brimmer (patient); Date 2022-04-20.

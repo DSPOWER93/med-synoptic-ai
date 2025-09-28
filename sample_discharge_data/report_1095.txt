@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Eleanor Ali
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1095
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/20/2022
+	•Attending Physician: Dr. Lynnette Spease
+	•Primary Diagnosis: Pancreatic Cancer (Stage III)
+
+Reason for Admission:
+	Eleanor Ali was admitted to the hospital due to persistent abdominal pain, loss of appetite, and unintended weight loss over several months. An initial assessment revealed a tender mass in his upper abdomen. Further diagnostic investigations, including computed tomography (CT) scans, magnetic resonance imaging (MRI), and endoscopic ultrasound, confirmed the presence of a tumor in his pancreas.
+
+Medical History:
+	Eleanor Ali has a history of hypertension and COPD for which he was on regular medications. He also has a family history of colon cancer, and his mother died from breast cancer at the age of 60. Allergic to penicillin, John did not have any known drug allergies besides this.
+
+Diagnostic Findings:
+	Pathology reports confirmed the presence of pancreatic adenocarcinoma. CT and MRI scans indicated that the tumor was locally advanced with lymph node involvement but no evidence of distant metastasis. Blood tests showed elevated levels of CA 19-9, a tumor marker for pancreatic cancer.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for John. The primary intervention was a Whipple procedure (pancreatoduodenectomy) to remove the tumor and surrounding tissues. Post-operative care included managing potential complications such as bleeding, infection, and leaks from the surgical site. A six-month regimen of FOLFIRINOX (irinotecan, fluorouracil, leucovorin, and oxaliplatin) chemotherapy was planned with regular monitoring for side effects like neutropenia, thrombocytopenia, and neuropathy. Radiation therapy was not deemed necessary due to the extent of the tumor and potential side effects.
+
+Hospital Course:
+	John's initial recovery from surgery was successful, but he faced challenges with managing his pain and maintaining adequate nutrition. He received physical therapy for mobility exercises and speech therapy to improve swallowing function. His condition improved over time, with the support of the medical team, dietitians, and therapists.
+
+Follow-Up Plan:
+	John will continue chemotherapy on an outpatient basis as per the schedule determined by his oncologist. He is advised to maintain a healthy diet, rich in fruits and vegetables, while limiting fatty foods. Regular check-ups every three months for the first year, then six-monthly thereafter are recommended. Any signs of unusual symptoms or changes in health should be reported immediately.
+
+Patient Education:
+	John was educated on post-surgical care, including managing an ileal conduit, recognizing complications such as obstruction or leakage, and managing common side effects like diarrhea and dehydration. He was also informed about the importance of maintaining a healthy lifestyle to improve overall health and reduce the risk of recurrence.
+
+Discharge Instructions:
+	Upon discharge, John was provided with detailed instructions on medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to follow up with his primary care physician within a week for a post-discharge assessment.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Managing ongoing health issues like hypertension and COPD will also be important for John's long-term health.
+
+Final Remarks:
+	John has shown remarkable resilience throughout his treatment journey, cooperating fully with the medical team at every stage. We commend him for his courage and determination. As he embarks on the next phase of his recovery, we wish him the very best and look forward to seeing him regain his health and vitality.

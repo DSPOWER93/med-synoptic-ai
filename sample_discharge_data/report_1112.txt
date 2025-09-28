@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Elissa Hill
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1112
+	•Date of Admission: 03/05/2022
+	•Date of Discharge: 04/08/2022
+	•Attending Physician: Dr. Doris Gonzalez
+	•Primary Diagnosis: Pancreatic Adenocarcinoma (Stages IIIB)
+
+Reason for Admission:
+	Elissa Hill, a 52-year-old male, was admitted to our hospital due to persistent abdominal pain, unexplained weight loss, and jaundice. Initial assessment revealed an enlarged pancreas on palpitation, and laboratory tests showed elevated liver function tests, indicating potential obstruction of the bile ducts. Further diagnostic investigations, including CT scans and MRI, confirmed the presence of a large tumor in his pancreas.
+
+Medical History:
+	Mr. Hill had a history of hypertension and COPD, for which he was regularly medicated with lisinopril and albuterol, respectively. He underwent appendectomy in 2015 due to an inflamed appendix. His family history was significant for pancreatic cancer, as his father had succumbed to the disease at the age of 60.
+
+Diagnostic Findings:
+	Pathology reports confirmed a poorly differentiated adenocarcinoma in the pancreas. Imaging studies, including CT and MRI scans, revealed that the tumor had invaded surrounding tissues and metastasized to several lymph nodes but was resectable. Blood tests showed elevated CA19-9 levels and elevated bilirubin, indicative of bile duct obstruction.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Hill. He underwent a Whipple procedure followed by chemotherapy. Post-operative care included parenteral nutrition due to his inability to eat solid food initially. The oncology team recommended a FOLFIRINOX regimen, consisting of four cycles of oxaliplatin, irinotecan, fluorouracil, and leucovorin.
+
+Hospital Course:
+	Mr. Hill's initial recovery from surgery was uneventful, but he experienced several complications during his hospital stay, including delayed gastric emptying, pancreatic fistula, and anemia, which were managed with appropriate interventions and supportive care. He also underwent a stenting procedure for bile duct drainage.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Hill will be scheduled for regular outpatient follow-ups every three months. His medications will include oral pancreatic enzymes and antacids to manage his symptoms. He is advised to maintain a healthy diet rich in fiber and lean proteins, avoid alcohol, and engage in light physical activity. Warning signs such as severe abdominal pain, rapid weight loss, or jaundice should prompt immediate medical attention.
+
+Patient Education:
+	The patient was educated about the importance of adhering to his medication regimen, managing his ileal conduit, recognizing signs of complications, and managing common side effects such as nausea, diarrhea, and fatigue. He was also instructed on proper wound care practices and hydration guidelines.
+
+Discharge Instructions:
+	Mr. Hill was provided with comprehensive discharge instructions to ensure his continued recovery and health maintenance. These included medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to maintain a healthy lifestyle and diet.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial. Mr. Hill will require ongoing management of his health issues such as hypertension and COPD.
+
+Final Remarks:
+	We commend Mr. Hill for his resilience and cooperation throughout his treatment journey. His active participation in his care has significantly contributed to his recovery. We wish him the best as he continues on his road to recovery.

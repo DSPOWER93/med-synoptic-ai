@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Wendy Silva
+	•Date of Birth: 01/01/1980
+	•Medical Record Number: M1296
+	•Date of Admission: 03/10/2023
+	•Date of Discharge: 04/20/2023
+	•Attending Physician: Dr. Maxine Goodfellow
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Wendy Silva was admitted to the hospital on March 10, 2023, due to persistent abdominal pain, rectal bleeding, and unexplained weight loss over the past few months. The initial assessment revealed a palpable mass in the lower abdomen, and further investigations including a colonoscopy and CT scan confirmed the presence of a large tumor in the sigmoid colon.
+
+Medical History:
+	Mr. Silva has a history of hypertension and COPD, both well-controlled with medications. He also has a family history of colorectal cancer, with his father diagnosed at the age of 60. Before admission, he was taking metoprolol for hypertension and albuterol for COPD.
+
+Diagnostic Findings:
+	Pathology reports from the biopsy of the colon tumor revealed an adenocarcinoma (Grade II). The CT scan showed a large mass in the sigmoid colon with regional lymph node involvement. Blood tests revealed elevated levels of carcinoembryonic antigen (CEA) and lactate dehydrogenase (LDH), indicative of malignancy.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Silva. This included a partial colectomy, ileostomy creation, and chemotherapy. Post-operative care included managing pain, preventing complications, and ensuring adequate nutritional support. A standard FOLFOX (Folinic acid, Fluorouracil, Oxaliplatin) regimen was initiated for six cycles, with radiation therapy considered based on the post-surgical pathology report.
+
+Hospital Course:
+	Mr. Silva underwent a successful partial colectomy and ileostomy creation on March 15, 2023. The initial recovery was challenging due to post-operative complications, including anastomotic leakage and delayed bowel function. However, with the help of therapy, nutritional support, and antibiotics, these issues were resolved. The tumor was found to have invaded two lymph nodes during surgery, but no evidence of distant metastasis was found.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Silva will continue the FOLFOX chemotherapy regimen and will be closely monitored for signs of recurrence. He will also undergo regular CEA and CT scans. Lifestyle modifications include a low-fiber diet, maintaining a healthy weight, and avoiding tobacco products.
+
+Patient Education:
+	Mr. Silva and his family were educated about the importance of adhering to the prescribed medication regimen and the signs of complications that require immediate medical attention. They were also instructed on post-surgical care for the ileal conduit, including cleaning and irrigation techniques.
+
+Discharge Instructions:
+	Upon discharge, Mr. Silva was provided with detailed instructions about medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given information on resources for emotional support during this challenging time.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Silva is good, given his response to treatment thus far. Regular monitoring will be crucial for early detection of recurrence and managing ongoing health issues.
+
+Final Remarks:
+	I commend Mr. Silva on his resilience and cooperation throughout this challenging journey. His positive attitude and determination have been instrumental in his successful treatment. I wish him a speedy recovery and look forward to seeing him at our follow-up appointments.

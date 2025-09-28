@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: George Rand
+	•Date of Birth: 01/01/1965
+	•Medical Record Number: M1091
+	•Date of Admission: 01/01/2023
+	•Date of Discharge: 10/01/2023
+	•Attending Physician: Dr. Glendora Rand
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC), Bladder Cancer, Stage III
+
+Reason for Admission:
+	George Rand was admitted to our facility due to persistent hematuria and dysuria that had escalated over the past three months. Initially, these symptoms were managed conservatively with antibiotics and antispasmodic medications, but the pain and blood in urine persisted. Further investigation revealed a mass in the bladder upon ultrasound and computed tomography (CT) scan, leading to the definitive diagnosis of TCC.
+
+Medical History:
+	Mr. Rand has a history of hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2016 for gallbladder removal. His family history is significant for colon cancer in his father and breast cancer in his mother. Mr. Rand is not allergic to any medications, but he was taking metformin, lisinopril, and salmeterol/fluticasone before admission.
+
+Diagnostic Findings:
+	Pathology results confirmed the diagnosis of TCC following transurethral resection of bladder tumor (TURBT). Imaging studies showed a 4 cm mass in the posterior wall of the bladder with involvement of the muscularis propria. Blood tests revealed an elevated creatinine level and mild anemia, possibly related to the cancer.
+
+Treatment Plan:
+	The multidisciplinary team developed a comprehensive treatment plan for Mr. Rand. This included radical cystectomy with ileal conduit formation, followed by adjuvant chemotherapy (GCB-8 regimen) and radiation therapy to the pelvis. Post-operative care focused on pain management, wound care, and nutritional support.
+
+Hospital Course:
+	Mr. Rand underwent a successful radical cystectomy with ileal conduit formation on 02/01/2023. He experienced expected post-operative complications such as pain, nausea, and constipation, which were managed effectively. The patient also required blood transfusions due to anemia. After a ten-day hospital stay, Mr. Rand was ready for discharge.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Rand will be scheduled for regular outpatient appointments at our facility every three months for the first year, then six months thereafter. He will continue taking pain medication and antibiotics for urinary tract infections (UTIs). A low-sodium, high-fiber diet is recommended to manage hypertension and diabetes. Mr. Rand should monitor for signs of recurrence, such as hematuria or changes in urinary habits.
+
+Patient Education:
+	During his hospital stay, Mr. Rand was educated about bladder cancer, the surgical procedure, and post-surgical care. He was instructed on managing the ileal conduit, recognizing signs of complications such as UTIs or blockage, and managing common side effects like fatigue, diarrhea, and lymphedema.
+
+Discharge Instructions:
+	Upon discharge, Mr. Rand was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also given a list of resources for further support, including patient education materials and contact information for our facility's oncology nurse navigator.
+
+Prognosis and Long-Term Outlook:
+	Mr. Rand's prognosis depends heavily on the success of adjuvant therapy and regular monitoring for recurrence. He is encouraged to maintain a healthy lifestyle, including quitting smoking if applicable, eating a balanced diet, and staying active as tolerated.
+
+Final Remarks:
+	We are grateful for Mr. Rand's cooperation throughout his treatment journey, and we look forward to supporting him in his recovery. We appreciate the dedication of our team members who worked tirelessly to ensure optimal outcomes for this patient. Hereby signed by Dr. Glendora Rand on 10/01/2023. Signed by George Rand on 10/01/2023.

@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Harriett Burrows
+	•Date of Birth: Patient's Date of Birth
+	•Medical Record Number: M100
+	•Date of Admission: Date of Admission
+	•Date of Discharge: Date of Discharge
+	•Attending Physician: Dr. Walter Burrows
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	The patient, a 65-year-old male, presented to the emergency department complaining of persistent hematuria (blood in urine), lower abdominal pain, and decreased appetite over the past two weeks. Initial assessment revealed mild anemia and an abnormal urinalysis with positive nitrites and leukocytes. Further investigations included a computed tomography (CT) scan of the abdomen and pelvis, which indicated a mass in the bladder consistent with TCC.
+
+Medical History:
+	The patient has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD), for which he was already on several medications, including metoprolol, metformin, and albuterol. He has no known allergies and has undergone previous surgeries for appendectomy and inguinal hernia repair. The patient's father died of colon cancer at the age of 70.
+
+Diagnostic Findings:
+	During the hospital stay, a cystoscopy confirmed the diagnosis of TCC, with biopsy results revealing moderately differentiated TCC, pT2b, N0, M0, G3. Blood tests showed mildly elevated creatinine and C-reactive protein (CRP), indicating kidney involvement and systemic inflammation.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for the patient. The primary treatment was radical cystectomy with ileal conduit diversion, followed by adjuvant chemotherapy (MVAC regimen) consisting of methotrexate, vinblastine, doxorubicin, and cisplatin. The surgery was performed without complications, but the patient experienced post-operative ileus, which resolved with conservative management. Radiation therapy was not indicated due to the lack of positive lymph node involvement on pathology.
+
+Hospital Course:
+	During the hospital stay, the patient recovered well from surgery and started oral nutrition after three days. The post-operative course was smooth, with the exception of a minor wound infection treated with antibiotics. The patient underwent the first cycle of chemotherapy, with appropriate management of side effects such as nausea, vomiting, and myelosuppression.
+
+Follow-Up Plan:
+	Post-discharge, the patient will follow up with an oncologist every three months for the first two years, then semi-annually for five years. The patient will continue taking metoprolol, metformin, and albuterol as needed, while maintaining a low-salt diet and avoiding alcohol to manage comorbidities. The patient will also be educated on managing the ileal conduit, recognizing signs of complications, and managing common side effects.
+
+Patient Education:
+	The patient was extensively educated on the importance of early detection of recurrence, the role of chemotherapy in reducing the risk of recurrence, and the management of the ileal conduit. The family was also involved to ensure the patient's understanding and compliance with treatment plans.
+
+Discharge Instructions:
+	Upon discharge, the patient was provided clear instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to contact his primary care provider for any concerns related to his comorbidities.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for TCC depends on the stage of the cancer at diagnosis, with early-stage patients having a better prognosis than those with advanced disease. Regular monitoring for early detection of recurrence is essential to improve outcomes.
+
+Final Remarks:
+	The patient demonstrated remarkable resilience throughout his treatment journey and cooperated well with the medical team. We wish him a swift recovery and are confident that he will adapt to life post-treatment. We appreciate the collaboration between the surgical, oncology, and primary care teams in providing optimal care for our patient.

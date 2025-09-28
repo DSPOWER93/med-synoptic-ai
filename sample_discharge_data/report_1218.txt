@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Marjorie Gonzales
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1218
+	•Date of Admission: 03/02/2023
+	•Date of Discharge: 05/10/2023
+	•Attending Physician: Dr. Liberty Heisserer
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Upon presentation to the emergency department, Mr. Gonzales complained of severe abdominal pain, constipation, and unexplained weight loss over a period of six months. A physical examination revealed abdominal distension, tenderness, and signs of dehydration. Laboratory tests showed anemia and elevated levels of carcinoembryonic antigen (CEA), indicating possible malignancy. Subsequent imaging studies confirmed the presence of a large mass in the colon, with lymph node involvement, suggesting colorectal cancer.
+
+Medical History:
+	Mr. Gonzales had a history of hypertension and diabetes mellitus Type II, for which he was on regular medication. He also had a history of chronic obstructive pulmonary disease (COPD) secondary to smoking, for which he had undergone multiple hospitalizations in the past. Mr. Gonzales is allergic to penicillin and iodinated contrast agents.
+
+Diagnostic Findings:
+	The pathology report confirmed adenocarcinoma of the colon, and imaging studies showed lymph node involvement and possible liver metastases. Blood tests revealed anemia (hemoglobin 8.5 g/dL), elevated CEA levels (12.3 ng/mL), and elevated white blood cell count (11,000 cells/µL).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Gonzales, which included a partial colectomy with primary anastomosis, followed by six cycles of adjuvant chemotherapy (FOLFOX regimen) and radiation therapy to the liver metastases. The post-operative care involved management of pain, prevention of thromboembolic events, and nutrition support through a clear liquid diet initially, gradually progressing to solid foods.
+
+Hospital Course:
+	Mr. Gonzales underwent surgery on March 15th, 2023. The post-operative course was complicated by anastomotic leakage, requiring drainage and broad-spectrum antibiotics. He was discharged from the ICU after 10 days but remained on the medical ward for additional care. Mr. Gonzales tolerated chemotherapy well, with manageable side effects of nausea, vomiting, and fatigue. The radiation therapy to the liver metastases commenced on April 15th, 2023, and concluded on May 6th, 2023.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Gonzales was scheduled for follow-up appointments every three months for the first two years, then every six months thereafter. He will continue on oral chemotherapy (Capecitabine) and maintain a low-fiber diet to prevent constipation. Lifestyle modifications including smoking cessation and regular exercise are recommended.
+
+Patient Education:
+	Mr. Gonzales and his family were educated about the importance of adhering to the prescribed medications, maintaining a healthy diet, recognizing signs of complications such as fever, abdominal pain, or changes in bowel habits, and managing common side effects like diarrhea and mouth sores. Instructions on care of the ileal conduit were provided, including cleaning and irrigation techniques.
+
+Discharge Instructions:
+	Mr. Gonzales was discharged with clear instructions regarding medication adherence, wound care practices (dressing changes, signs of infection), hydration (3 liters per day), and physical activity guidelines (ambulation twice daily). He was also advised to follow up with his primary care provider for routine check-ups and screening tests.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Gonzales is favorable, considering the Stage III diagnosis and successful completion of treatment. Regular monitoring for early detection of recurrence and managing ongoing health issues will be crucial in maintaining his long-term health.
+
+Final Remarks:
+	Mr. Gonzales demonstrated remarkable resilience and cooperation throughout the treatment journey. I commend him on his progress and encourage him to continue with the prescribed medications, lifestyle modifications, and regular follow-ups. Signed, Dr. Liberty Heisserer. May 10th, 2023.

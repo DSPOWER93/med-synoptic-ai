@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Diane Floyd
+	•Date of Birth: 01/01/1960
+	•Medical Record Number: M1215
+	•Date of Admission: 04/05/2023
+	•Date of Discharge: 05/10/2023
+	•Attending Physician: Dr. Jason Falcone
+	•Primary Diagnosis: Transitional Cell Carcinoma (TCC) of the Bladder
+
+Reason for Admission:
+	Diane Floyd, a 63-year-old male, was admitted to our facility on April 5, 2023, due to persistent hematuria and dysuria, which had been troubling him for the past two weeks. An initial urinalysis revealed the presence of red blood cells, prompting further diagnostic investigations. Following a cystoscopy procedure, TCC of the bladder was confirmed, with the tumor invading the muscularis propria layer of the bladder.
+
+Medical History:
+	Mr. Floyd has a history of hypertension and Type 2 diabetes mellitus, both of which are well-controlled through medication. He also suffers from chronic obstructive pulmonary disease (COPD). Previously, he underwent a right total knee replacement in 2015 due to osteoarthritis. His family history is significant for breast cancer and colon cancer. Allergies include penicillin and sulfa drugs. Mr. Floyd was on metformin, lisinopril, amlodipine, albuterol, tiotropium, and ibuprofen at the time of admission.
+
+Diagnostic Findings:
+	The results of pathology and imaging scans (computed tomography urogram) confirmed a 4 cm TCC tumor involving the muscularis propria layer of the bladder with no evidence of distant metastasis. A complete blood count showed elevated white blood cell count, hemoglobin level, and platelet count, suggesting an inflammatory response.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Floyd. The plan included a radical cystectomy followed by a creation of an ileal conduit for urinary diversion. Post-operative care involved pain management, wound care, and the prevention of complications such as infection and deep vein thrombosis. A chemotherapy regimen of gemcitabine and cisplatin was initiated, with cycles every three weeks. Radiation therapy was deemed unnecessary given the absence of lymph node involvement or distant metastasis.
+
+Hospital Course:
+	Mr. Floyd underwent a successful radical cystectomy on April 12, 2023. The post-operative period was initially challenging due to an infection at the surgical site. However, with aggressive antibiotic therapy and wound care, the infection resolved. Nutritional support was provided through supplements and a soft diet. Regular follow-ups with the oncology team ensured timely detection of any disease progression or complications.
+
+Follow-Up Plan:
+	Mr. Floyd will be scheduled for regular outpatient appointments every three months for the first year, followed by six-monthly appointments thereafter. His medications will continue, with close monitoring of renal function given the ileal conduit. A low-fiber diet is recommended to minimize constipation and potential blockages. Warning signs that require immediate medical attention include fever, persistent abdominal pain, decreased urine output, or blood in the urine.
+
+Patient Education:
+	Mr. Floyd and his family were educated about post-surgical care, including wound management, recognizing signs of complications, and managing common side effects such as fatigue, nausea, and diarrhea. Instructions were provided on the care of the ileal conduit, including emptying techniques and observation for any leaks or odors.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Floyd was given detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was also advised to report any unusual symptoms immediately.
+
+Prognosis and Long-Term Outlook:
+	Given the appropriate follow-up care and lifestyle modifications, Mr. Floyd's prognosis is favorable. Regular monitoring for early detection of recurrence and managing ongoing health issues such as hypertension, diabetes, and COPD will be crucial in maintaining his overall health.
+
+Final Remarks:
+	Dr. Jason Falcone would like to commend Mr. Floyd on his resilience and cooperation throughout the treatment journey. The care team wishes him a speedy recovery and looks forward to supporting him during this critical phase of his life.

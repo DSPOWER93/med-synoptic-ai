@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Rita Buczek
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1288
+	•Date of Admission: 03/22/2022
+	•Date of Discharge: 04/14/2022
+	•Attending Physician: Dr. Andrea Santos
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Rita Buczek presented to the emergency department with complaints of persistent abdominal pain, change in bowel habits, and unexplained weight loss over a period of three months. Initial assessment revealed severe abdominal distension, decreased bowel sounds, and tenderness on palpation. Subsequent investigations including a complete blood count (CBC), carcinoembryonic antigen (CEA) level, and a computed tomography (CT) scan of the abdomen confirmed the suspicion of colorectal cancer.
+
+Medical History:
+	Mr. Buczek has a past medical history significant for hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He underwent laparoscopic cholecystectomy in 2015 for gallbladder stones. His family history is notable for colon cancer in his father at the age of 65. Allergies include penicillin and iodinated contrast media. His pre-admission medications included lisinopril, metformin, salmeterol/fluticasone, and albuterol as needed.
+
+Diagnostic Findings:
+	Pathology report from the surgical resection specimen confirmed a moderately differentiated adenocarcinoma of the sigmoid colon. CT scan revealed a 7 cm mass in the sigmoid colon with multiple enlarged lymph nodes. The CEA level was elevated at 12.3 ng/ml (normal range <5 ng/ml).
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Buczek. This included a low anterior resection of the sigmoid colon, followed by a primary anastomosis and an ileal conduit creation. Post-operative care included pain management, nutritional support, and prevention of deep vein thrombosis. He was also initiated on adjuvant chemotherapy with FOLFOX (oxaliplatin, leucovorin, and fluorouracil) for six cycles. Radiation therapy was deferred due to the presence of a permanent ostomy.
+
+Hospital Course:
+	Mr. Buczek's post-operative course was complicated by anastomotic leakage requiring drainage of abscess. He received appropriate antibiotics and supportive care, including total parenteral nutrition (TPN). His condition improved, and he was discharged on oral analgesia and a clear liquid diet.
+
+Follow-Up Plan:
+	Mr. Buczek will be followed up closely in the outpatient clinic every three months for the first two years, every six months for the next three years, and annually thereafter. His medications will include metformin for diabetes control, lisinopril for hypertension, and inhalers as needed for COPD. He was advised to maintain a low-fiber diet and consume plenty of fluids. Warning signs requiring immediate attention include fever, persistent abdominal pain, or change in stool pattern.
+
+Patient Education:
+	Mr. Buczek and his family were educated about the importance of regular follow-ups, early detection of recurrence, and management of common side effects associated with chemotherapy (nausea, vomiting, diarrhea) and a permanent ileal conduit (stoma care, managing output, and recognizing signs of complications).
+
+Discharge Instructions:
+	Mr. Buczek was discharged with a supply of oral analgesics, a clear liquid diet prescription, and instructions for wound care, hydration, and physical activity guidelines. He was also advised to contact the clinic if he experiences any signs of complications or concerns.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring is crucial for early detection of recurrence and management of ongoing health issues. Mr. Buczek's prognosis will depend on the success of surgery, chemotherapy response, and close adherence to follow-up recommendations.
+
+Final Remarks:
+	Dr. Santos commends Mr. Buczek for his resilience throughout the treatment journey and emphasizes the importance of continued cooperation for optimal health outcomes. The report is signed by both Dr. Santos and Mr. Buczek on April 14, 2022.

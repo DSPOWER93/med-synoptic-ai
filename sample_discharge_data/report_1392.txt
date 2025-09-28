@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Whitney Shelton
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1392
+	•Date of Admission: 02/01/2022
+	•Date of Discharge: 20-01-2022
+	•Attending Physician: Dr. Rebecca Mangual
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Whitney Shelton, a 37-year-old male, presented to the Whitney Shelton with complaints of persistent abdominal pain, decreased appetite, and unexplained weight loss over the past three months. Upon admission, his vital signs were stable, but his physical examination revealed a palpable mass in the lower abdomen. Initial laboratory tests showed anemia and elevated carcinoembryonic antigen (CEA) levels. A computed tomography (CT) scan of the abdomen and pelvis confirmed the presence of a large tumor in the sigmoid colon, with involvement of nearby lymph nodes.
+
+Medical History:
+	Mr. Shelton's past medical history was significant for hypertension, which was well-controlled with medication. He had no known allergies and was not a smoker or excessive drinker. He underwent appendectomy in 2015. His father died of colorectal cancer at the age of 62, and his mother suffered from diabetes mellitus type II. Before admission, Mr. Shelton was taking amlodipine, metformin, and aspirin daily.
+
+Diagnostic Findings:
+	Pathology report confirmed adenocarcinoma of the sigmoid colon, with involvement of 7 lymph nodes out of 12 sampled. The CT scan also revealed no evidence of distant metastases. Blood tests showed mildly elevated liver function tests (LFTs) and slightly decreased kidney function.
+
+Treatment Plan:
+	A multidisciplinary team developed a treatment plan for Mr. Shelton, which included a partial colectomy with primary anastomosis, followed by adjuvant chemotherapy and radiation therapy. Post-operative care involved management of pain, monitoring bowel function, and prevention of complications such as infection or anastomotic leakage. The planned chemotherapy regimen consisted of FOLFOX (Folinic acid, 5-Fluorouracil, Oxaliplatin) for 12 cycles. Radiation therapy was recommended to the surgical site to reduce the risk of recurrence.
+
+Hospital Course:
+	Following surgery, Mr. Shelton's recovery was uneventful. He required minimal pain management and soon regained bowel function. The patient cooperated well with rehabilitation and therapy sessions, and his nutritional status improved steadily. The disease remained stable during the hospital stay.
+
+Follow-Up Plan:
+	Mr. Shelton will return for follow-up appointments every three months for the first two years, then every six months thereafter. He is advised to continue taking metformin and aspirin, but the dosage of his antihypertensive medication may be adjusted based on blood pressure readings. A low-fat, high-fiber diet is recommended to reduce the risk of recurrence.
+
+Patient Education:
+	Mr. Shelton was educated about post-surgical care, including managing the ileal conduit, recognizing signs of complications such as obstruction or infection, and managing common side effects of chemotherapy like nausea, vomiting, and fatigue. He was also instructed on maintaining good hygiene around the ileostomy site to prevent skin irritation and infection.
+
+Discharge Instructions:
+	Upon discharge, Mr. Shelton was provided with detailed instructions on medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to avoid heavy lifting and strenuous exercise for the first six weeks post-discharge.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Shelton's long-term health. His compliance with follow-up appointments, lifestyle modifications, and medication regimen will play a significant role in his prognosis.
+
+Final Remarks:
+	Dr. Mangual commends Mr. Shelton on his resilience and cooperation throughout the treatment journey. She emphasizes the importance of continued vigilance in monitoring for recurrence and managing ongoing health issues. Both the patient and physician sign the report to validate its authenticity on 20-01-2022.

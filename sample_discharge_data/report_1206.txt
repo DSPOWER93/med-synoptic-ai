@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Karol Daniels
+	•Date of Birth: 01/01/1975
+	•Medical Record Number: M1206
+	•Date of Admission: 03/15/2023
+	•Date of Discharge: 04/25/2023
+	•Attending Physician: Dr. Melanie Ellis
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Karol Daniels was admitted to the hospital following a positive fecal occult blood test and subsequent colonoscopy that revealed a tumor in his colon. The tumor was biopsied, and histopathology confirmed adenocarcinoma of the sigmoid colon (Karol Daniels). The symptoms included abdominal pain, rectal bleeding, and unexplained weight loss.
+
+Medical History:
+	Karol Daniels has a history of hypertension, which is managed with lisinopril 10mg daily, and type 2 diabetes mellitus controlled by metformin 500mg twice daily. He also has a significant family history of colorectal cancer with his father diagnosed at the age of 60. Karol Daniels has no known allergies and was not taking any other medications before admission.
+
+Diagnostic Findings:
+	During the hospital stay, numerous diagnostic tests were conducted. The pathology report confirmed the diagnosis of colorectal cancer. Imaging scans, including a CT scan of the abdomen and pelvis, revealed a large mass in the sigmoid colon with regional lymph node involvement. Blood tests showed elevated levels of carcinoembryonic antigen (CEA) and lactic dehydrogenase (LDH), indicative of advanced disease.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Karol Daniels. This included a partial colectomy with primary anastomosis, followed by six cycles of FOLFOX chemotherapy and radiation therapy to the abdomen and pelvis. The post-operative care involved monitoring for complications such as anastomotic leak and managing side effects like nausea, vomiting, diarrhea, and fatigue.
+
+Hospital Course:
+	After surgery, Karol Daniels recovered well with proper management of his symptoms and close monitoring by the medical team. Challenges faced during the hospital stay included delayed bowel movements post-surgery, which were managed with laxatives and stool softeners. Nutritional support was crucial to ensure optimal recovery, and Karol Daniels received supplemental enteral feeding through a nasogastric tube for a brief period.
+
+Follow-Up Plan:
+	The post-discharge follow-up plan includes scheduled outpatient appointments every three months for the first two years, then every six months thereafter. Karol Daniels will continue taking metformin and lisinopril but with close monitoring of his blood sugar and blood pressure levels. A low-fiber diet and regular exercise are recommended to maintain overall health.
+
+Patient Education:
+	Karol Daniels and his family were educated about the importance of regular screenings for colorectal cancer, the signs of complications post-surgery, and how to manage common side effects of chemotherapy and radiation therapy. They were also instructed on the care of the ileal conduit, including irrigation techniques and signs of infection or obstruction.
+
+Discharge Instructions:
+	Discharge instructions focused on medication adherence, wound care practices, hydration, and physical activity guidelines. Karol Daniels was advised to take his medications as prescribed, maintain a clean and dry wound area, drink plenty of fluids, and gradually increase physical activity levels under medical supervision.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Karol Daniels's long-term health. Close adherence to the follow-up plan, a healthy lifestyle, and regular screenings will help improve his prognosis.
+
+Final Remarks:
+	Dr. Melanie Ellis concluded the report, commending Karol Daniels for his resilience and cooperation throughout the treatment journey. The physician emphasized the importance of continued adherence to the follow-up plan for optimal health outcomes. Both the physician's and patient's signatures are appended to the report, along with the date of discharge (April 25, 2023).

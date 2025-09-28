@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Michael Gibbs
+	•Date of Birth: 01/01/1985
+	•Medical Record Number: M1177
+	•Date of Admission: 02/01/2023
+	•Date of Discharge: 15/01/2023
+	•Attending Physician: Dr. John Vines
+	•Primary Diagnosis: Intravesical Urothelial Carcinoma
+
+Reason for Admission:
+	Michael Gibbs, a 37-year-old male, was admitted to our institution due to recurrent hematuria and persistent lower abdominal pain. The initial assessment revealed that the patient had an elevated white blood cell count and urine cytology showed atypical cells suggestive of malignancy. Subsequent imaging studies, such as a CT scan of the abdomen and pelvis, confirmed the presence of a mass in the bladder.
+
+Medical History:
+	Mr. Gibbs has a history of hypertension and COPD (Chronic Obstructive Pulmonary Disease). He underwent a laparoscopic cholecystectomy for gallstone disease three years ago. His family history is significant for colon cancer in his father at the age of 65. He is allergic to penicillin and has been taking lisinopril, albuterol, and ipratropium bromide regularly before admission.
+
+Diagnostic Findings:
+	Pathology findings confirmed a high-grade urothelial carcinoma in the bladder tissue. Imaging studies revealed that the tumor had invaded the muscularis propria of the bladder but had not extended beyond it. Blood tests showed mild anemia and slightly elevated creatinine levels, indicating renal impairment due to the tumor.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Gibbs. The primary treatment was a transurethral resection of bladder tumor (TURBT) followed by intravesical BCG (Bacillus Calmette-Guérin) therapy. Post-operative care included catheter management, pain control, and antiemetics for nausea and vomiting. The patient was also scheduled to receive chemotherapy as adjuvant treatment.
+
+Hospital Course:
+	After the TURBT procedure, Mr. Gibbs experienced some post-operative complications, including fever and increased abdominal pain. These were managed with antibiotics and analgesics. His condition gradually improved, and he was discharged when his symptoms subsided and his creatinine levels stabilized.
+
+Follow-Up Plan:
+	Mr. Gibbs will need regular follow-up appointments to monitor his recovery and detect any signs of recurrence. He will continue to take lisinopril, albuterol, and ipratropium bromide and may require additional medications for pain control and nausea management. A low-sodium diet is recommended due to his hypertension.
+
+Patient Education:
+	Mr. Gibbs and his family were informed about the nature of his disease, the benefits and risks of the treatment options, and the importance of adhering to the follow-up plan. They were also taught how to manage the ileal conduit, recognize signs of complications such as fever, persistent pain, or changes in urine color, and handle common side effects like nausea and fatigue.
+
+Discharge Instructions:
+	Upon discharge, Mr. Gibbs was provided with detailed instructions regarding medication adherence, wound care practices, hydration, and physical activity guidelines. He was advised to contact his primary care physician or the oncology department if any issues arise.
+
+Prognosis and Long-Term Outlook:
+	The prognosis for Mr. Gibbs is favorable; however, regular monitoring is crucial for early detection of recurrence and managing ongoing health issues such as hypertension and COPD.
+
+Final Remarks:
+	Dr. Vines commends Mr. Gibbs's resilience and cooperation throughout the treatment journey and expresses her hope for a successful recovery. Both the physician and patient have signed this report on [15/01/2023] to validate its authenticity.

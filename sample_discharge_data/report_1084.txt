@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Sadie Scales
+	•Date of Birth: 01/15/1980
+	•Medical Record Number: M1084
+	•Date of Admission: 03/03/2022
+	•Date of Discharge: 04/15/2022
+	•Attending Physician: Dr. Christine Priest
+	•Primary Diagnosis: Colorectal Cancer (Stage III)
+
+Reason for Admission:
+	Sadie Scales was admitted to the hospital due to persistent abdominal pain, bloody stools, and unintentional weight loss over several months. Upon initial assessment, he displayed signs of anemia and had a palpable mass in the lower abdomen. A series of diagnostic tests were conducted, including a complete blood count (CBC), carcinoembryonic antigen (CEA) test, computerized tomography (CT) scan, and colonoscopy, which confirmed the diagnosis of colorectal cancer.
+
+Medical History:
+	Mr. Scales has a history of hypertension, diabetes mellitus type II, and chronic obstructive pulmonary disease (COPD). He underwent a laparoscopic cholecystectomy in 2015. His family has a significant history of colorectal cancer, with his father and grandmother both diagnosed at an advanced stage. Mr. Scales is allergic to penicillin and has been taking aspirin daily for his hypertension.
+
+Diagnostic Findings:
+	The CBC revealed anemia (Hb 8 g/dL), leukocytosis (WBC 12,000/mm³), and thrombocytosis (Platelets 500,000/mm³). The CEA level was elevated at 13.4 ng/mL. The CT scan revealed a large mass in the sigmoid colon with multiple lymph nodes involvement. The pathology report from the surgical resection confirmed invasive moderately differentiated adenocarcinoma.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Scales, including a low anterior resection of the sigmoid colon with primary anastomosis, followed by six cycles of adjuvant chemotherapy (FOLFOX regimen) and radiation therapy to the pelvis. The post-operative care involved managing ileus, pain control, wound care, and dietary management.
+
+Hospital Course:
+	Mr. Scales's initial recovery from surgery was complicated by anastomotic leak, requiring a second surgical intervention for a loop ileostomy creation. He received intravenous antibiotics to manage the infection and underwent wound care daily. His condition improved significantly after the setback, with his pain controlled and dietary intake increasing.
+
+Follow-Up Plan:
+	Mr. Scales will have regular follow-up appointments every three months for the first year, then every six months thereafter. He will continue taking aspirin for his hypertension and will need to maintain a low-fiber diet due to the ileostomy. He has been educated on the signs of complications, such as increased abdominal pain, fever, and changes in bowel habits, and was provided instructions on managing the ileal conduit.
+
+Patient Education:
+	Mr. Scales and his family were thoroughly educated about colorectal cancer, the importance of regular screening, and the treatment options available. They were instructed on post-surgical care, including wound care practices, hydration guidelines, and physical activity recommendations.
+
+Discharge Instructions:
+	Prior to discharge, Mr. Scales was given detailed instructions on medication adherence, ileal conduit management, and managing common side effects such as diarrhea, dehydration, and skin irritation around the stoma site.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial for Mr. Scales's long-term survival. He was advised to maintain a healthy lifestyle, including regular exercise, a balanced diet, and avoiding tobacco products.
+
+Final Remarks:
+	Dr. Christine Priest commends Mr. Scales on his resilience throughout the treatment journey and wishes him continued success in his recovery. The report is signed by both Dr. Priest and Mr. Scales, validating its authenticity on April 15, 2022.

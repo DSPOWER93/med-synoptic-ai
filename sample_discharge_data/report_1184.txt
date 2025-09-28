@@ -1,0 +1,38 @@
+Patient Information:
+	•Name: Patricia Decker
+	•Date of Birth: 01/01/1970
+	•Medical Record Number: M1184
+	•Date of Admission: 03/15/2022
+	•Date of Discharge: 04/25/2022
+	•Attending Physician: Dr. Martin Snelgrove
+	•Primary Diagnosis: Bladder Cancer (T3N0M0)
+
+Reason for Admission:
+	Patricia Decker presented to the emergency department complaining of hematuria (blood in urine) and painful urination, symptoms that had persisted for over a month. An initial assessment was conducted, followed by imaging scans such as a computed tomography (CT) urogram, which revealed a mass in his bladder, prompting further investigation. Urinalysis and cystoscopy confirmed the presence of a tumor, leading to the diagnosis of bladder cancer.
+
+Medical History:
+	Mr. Decker has a history of hypertension, diabetes, and chronic obstructive pulmonary disease (COPD). He underwent a left nephrectomy due to renal cell carcinoma five years ago. His family history is significant for colon cancer. He is allergic to penicillin and sulfa drugs. Prior to admission, he was on medications including metformin, lisinopril, and albuterol.
+
+Diagnostic Findings:
+	Biopsy of the bladder mass confirmed adenocarcinoma. Pathology report indicated a moderately differentiated tumor with invasive growth. Imaging scans did not reveal any evidence of metastasis (T3N0M0). Blood tests showed an elevated creatinine level, indicating possible kidney dysfunction due to the tumor's location.
+
+Treatment Plan:
+	A multidisciplinary team developed a comprehensive treatment plan for Mr. Decker. This included a partial cystectomy (removal of part of the bladder) followed by formation of an ileal conduit. Post-operative care involved catheter management, pain control, and monitoring for complications such as infection. Mr. Decker was also scheduled for adjuvant chemotherapy, with a regimen of gemcitabine and cisplatin every three weeks for six cycles, to reduce the risk of recurrence.
+
+Hospital Course:
+	Following surgery, Mr. Decker had an initial recovery period complicated by a urinary tract infection. Antibiotics were administered, and his condition stabilized. During his hospital stay, he received physical therapy to aid in his mobility and was provided nutritional support to maintain adequate weight. The multidisciplinary team closely monitored his diabetes and hypertension throughout the hospital course.
+
+Follow-Up Plan:
+	Upon discharge, Mr. Decker will continue with outpatient appointments every three months for the first year, then semi-annually thereafter. He will be managed by an oncologist, urologist, and nephrologist. His medications will be adjusted as needed based on his blood glucose levels, blood pressure readings, and kidney function. He is advised to maintain a low-fat diet and quit smoking to reduce the risk of recurrence.
+
+Patient Education:
+	Prior to discharge, Mr. Decker and his family were educated about the importance of post-surgical care, including wound management and signs of complications such as infection or fistula formation. They were also instructed on how to manage the ileal conduit, emptying it regularly and monitoring for any abnormalities. Common side effects of chemotherapy, such as nausea and fatigue, were discussed, along with strategies to manage them effectively.
+
+Discharge Instructions:
+	Mr. Decker was provided comprehensive discharge instructions, detailing medication adherence, wound care practices, hydration guidelines, and physical activity restrictions. He was advised to seek immediate medical attention if he experiences fever, increased pain, or difficulty urinating.
+
+Prognosis and Long-Term Outlook:
+	Regular monitoring for early detection of recurrence is crucial in managing Mr. Decker's long-term health. Despite the removal of the tumor, there is a risk of cancer returning, especially during the first five years after treatment. Adherence to the follow-up plan and lifestyle modifications will improve his chances of successful recovery.
+
+Final Remarks:
+	Mr. Decker demonstrated remarkable resilience throughout his treatment journey, cooperating fully with the healthcare team. The attending physician commends him for his strength and dedication to his health. This report is signed by Dr. Martin Snelgrove and Patricia Decker on April 25, 2022.
