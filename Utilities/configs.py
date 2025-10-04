@@ -92,7 +92,7 @@ markdown_heading_pat_entity = {
     treatments and personalized care from healthcare professionals. <br><br>
     Powered By: <a href="https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B"> Llama3-OpenBioLLM-70B</a> ||
                  <a href="https://huggingface.co/openai/gpt-oss-120b"> GPT-OSS-120b </a><br>
-    source code: <a href="www.google.com/">Click-Here</a>""" ,
+    source code: <a href="https://github.com/DSPOWER93/med-synoptic-ai/">Repo</a>""" ,
 
     "MedDRA_Coder": """MedDRA AE Coder streamlines adverse event reporting by formatting your notes into compliant MedDRA standards,
     ensuring global consistency for safety data in pharma and healthcare. With an intuitive web-app interface, 
@@ -101,7 +101,7 @@ markdown_heading_pat_entity = {
     patient safety and regulatory accuracy without the hassle of manual coding.<br><br>
     Powered By: <a href="https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B"> Llama3-OpenBioLLM-70B</a> ||
                  <a href="https://huggingface.co/openai/gpt-oss-120b"> GPT-OSS-120b </a><br>
-    source code: <a href="www.google.com/">Click-Here</a>""",
+    source code: <a href="https://github.com/DSPOWER93/med-synoptic-ai/">Repo</a>""",
 
     "clincal_coder": """Discover Map Clinical Codes, a user-friendly Web app that simplifies medical coding 
     by transforming doctor's SOAP notes into clear markdown summaries with suggested ICD-10 diagnosis codes 
@@ -111,7 +111,7 @@ markdown_heading_pat_entity = {
     pros seeking efficient, reliable coding support. <br><br>
     <i>(Diagnosis & Procedure notes needs to be tagged uppercase marking as DIAGNSOSIS:/PROCEDURE: for AI model to focus on specific content.)</i> <br><br>
     Powered By: <a href="https://huggingface.co/openai/gpt-oss-120b"> GPT-OSS-120b </a><br>
-    source code: <a href="www.google.com/">Click-Here</a>""",
+    source code: <a href="https://github.com/DSPOWER93/med-synoptic-ai/">Repo</a>""",
 
 }
 

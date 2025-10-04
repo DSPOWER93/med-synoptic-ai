@@ -133,44 +133,56 @@ def app():
 
         # Form with just the submit button
         with st.form("index_submit"):
-            submit = st.form_submit_button("➤ Submit", use_container_width=True)
+            
+            first_form_cols= st.columns(2)
+            with first_form_cols[0]:
+                submit = st.form_submit_button("➤ Submit", use_container_width=True)
+            with first_form_cols[1]:
+                refresh = st.form_submit_button("↻ Refresh", use_container_width=True)
+
+            # Add a button to clear cache
+            if refresh:
+                print(1)
+                st.cache_resource.clear()  # Clear all resource cache
+                st.rerun()  # Rerun the app
             
             if submit:
-                if dropdown_1 != "Select Vector DB" and dropdown_2 != "Select Index":
+                with st.spinner('Running, might take up few seconds...'):
+                    if dropdown_1 != "Select Vector DB" and dropdown_2 != "Select Index":
 
-                    retrived_anwser = retrieve_and_infer_vector_db(
-                        query=manual_text,
-                        system_prompt=sql_prompt,
-                        index_name=dropdown_2,
-                        vector_db='S3 Vector db', 
-                        s3_vector_db_config=eda_llm_config,
-                        k=4
-                        )
-                    
-                    df_table = read_athena_table(
-                        sql_query=retrived_anwser,
-                        env_configs=env_config
-                        )
-                    
-                    st.dataframe(df_table, use_container_width=True)
-
-                    if generate_insights:
-                        input_dict = pandas_to_dict(df=df_table)
-
-                        analysis_dict = json.dumps(
-                            {
-                            "query":manual_text,
-                            "data":input_dict
-                            }
+                        retrived_anwser = retrieve_and_infer_vector_db(
+                            query=manual_text,
+                            system_prompt=sql_prompt,
+                            index_name=dropdown_2,
+                            vector_db='S3 Vector db', 
+                            s3_vector_db_config=eda_llm_config,
+                            k=4
                             )
-
-                        analysis = generate_inference_hf(
-                            prompt= analysis_prompt + "dict>>>>" + analysis_dict,
-                            api_key = os.getenv("HF_TOKEN"),
-                            inference_model=hf_inference_model["open-ai-oss"],
-                            max_tokens=hf_inference_model["model_config"]["max_tokens"]
+                        
+                        df_table = read_athena_table(
+                            sql_query=retrived_anwser,
+                            env_configs=env_config
                             )
-                        stream_text(text=analysis)
+                        
+                        st.dataframe(df_table, use_container_width=True)
+
+                        if generate_insights:
+                            input_dict = pandas_to_dict(df=df_table)
+
+                            analysis_dict = json.dumps(
+                                {
+                                "query":manual_text,
+                                "data":input_dict
+                                }
+                                )
+
+                            analysis = generate_inference_hf(
+                                prompt= analysis_prompt + "dict>>>>" + analysis_dict,
+                                api_key = os.getenv("HF_TOKEN"),
+                                inference_model=hf_inference_model["open-ai-oss"],
+                                max_tokens=hf_inference_model["model_config"]["max_tokens"]
+                                )
+                            stream_text(text=analysis)
 
     # Create two columns with equal width (50:50 ratio)
     col1, col2 = st.columns(2)
@@ -264,7 +276,7 @@ def app():
                     key="Index_2"
             )
             
-            st.markdown("""<br><br><br><br><br>""",unsafe_allow_html=True)
+            st.markdown("""<br><br><br><br><br><br>""",unsafe_allow_html=True)
 
             with st.form("Delete_Index"):
                 submitted = st.form_submit_button('**Delete**',icon="🗑️",use_container_width=True)

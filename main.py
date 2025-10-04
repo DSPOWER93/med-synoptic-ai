@@ -42,10 +42,10 @@ class MultiApp:
                 menu_icon='journal-plus',
                 default_index=0,
                 styles={
-                        "container": {"padding": "6!important", "background-color": "#DDEEFB"},
+                        "container": {"padding": "6!important", "background-color": "#5BB5FBE2"},
                         "icon": {"color": "black", "font-size": "20px"}, 
                         "nav-link": {"font-size": "14px", "text-align": "top", "margin":"0px", "--hover-color": "#B7D0F5"},
-                        "nav-link-selected": {"background-color": "#DDEEFB"},
+                        "nav-link-selected": {"background-color": "#5BB5FBE2"},
                     }
             )
         

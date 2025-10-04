@@ -264,13 +264,13 @@ def create_about_me_page(
             st.write("""
             - Created **InsightBridge**, an EDA agent that enables intuitive data exploration without requiring backend database languages.
             - Developed a Gen AI web app to streamline healthcare documentation by automating patient data extraction, MedDRA adverse event coding, and RAG-based clinical code suggestions.
-            <Add GitHub Repo>
+            Project Source : [GitHub Repo](https://github.com/DSPOWER93/med-synoptic-ai)
             """)
         
         with st.expander("**Monitoring Framework for ML-Ops (Year-2024)**"):
             st.write("""
             - Developed a monitoring framework that automates process of identifying Model drift & Data drift in ML pipelines. 
-              The framework streamlines the process of integrating montoring modules ML piplines with minimal efforts. <Add GitHub Repo> 
+              The framework streamlines the process of integrating montoring modules ML piplines with minimal efforts.
             """)
         
 
