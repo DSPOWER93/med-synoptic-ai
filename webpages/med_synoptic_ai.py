@@ -10,7 +10,8 @@ from Utilities.helper_func import (
     generate_clinical_coding_summary,
     generate_sample_soap_notes,
     arrange_sentence_next_line,
-    generate_AE_notes
+    generate_AE_notes,
+    extract_dict_string
 
 )
 
@@ -112,11 +113,14 @@ def app():
                 text_summary=manual_text,
                 HF_TOKEN=os.getenv("HF_TOKEN")
                 )
-            json_dict = json.loads(result.choices[0].message.content)
+            
+            extracted_dict = extract_dict_string(text=result.choices[0].message.content)
+            cleaned_str = extracted_dict[0].encode('ascii', 'ignore').decode('ascii')
+            json_dict = json.loads(cleaned_str)
 
             # Display in an expander
             with st.expander("Click to view complete Discharge summary"):
-                st.text(manual_text)  # Full text inside expander, use st.text for plain rendering
+                st.text(arrange_sentence_next_line(manual_text))  # Full text inside expander, use st.text for plain rendering
 
             st.markdown("<h3 style='text-align: center;'> Patient Entity Extracted </h3>", unsafe_allow_html=True)
             st.json(json_dict,expanded=2)
@@ -132,12 +136,14 @@ def app():
                 text_summary=auto_generate_text,
                 HF_TOKEN=os.getenv("HF_TOKEN")
                 )
-            json_dict = json.loads(result.choices[0].message.content)
-            
             # Display in an expander
             with st.expander("Click to view complete Auto-Generated Discharge summary"):
-                st.text(auto_generate_text)  # Full text inside expander, use st.text for plain rendering
+                st.text(arrange_sentence_next_line(auto_generate_text))  # Full text inside expander, use st.text for plain rendering
 
+            extracted_dict = extract_dict_string(text=result.choices[0].message.content)
+            cleaned_str = extracted_dict[0].encode('ascii', 'ignore').decode('ascii')
+            json_dict = json.loads(cleaned_str)
+ 
             st.markdown("<h3 style='text-align: center;'> Patient Entity Extracted </h3>", unsafe_allow_html=True)
             st.json(json_dict,expanded=2)
 
@@ -172,12 +178,14 @@ def app():
                 text_summary=manual_text_meddra,
                 HF_TOKEN=os.getenv("HF_TOKEN")
             )
-            json_dict = json.loads(result.choices[0].message.content)
-            # json_dict = ast.literal_eval(result.choices[0].message.content)
+
+            extracted_dict = extract_dict_string(text=result.choices[0].message.content)
+            cleaned_str = extracted_dict[0].encode('ascii', 'ignore').decode('ascii')
+            json_dict = json.loads(cleaned_str)
 
             # Display in an expander
             with st.expander("Click to view complete Reported AE Event"):
-                st.text(manual_text_meddra)  # Full text inside expander, use st.text for plain rendering
+                st.text(arrange_sentence_next_line(manual_text_meddra))  # Full text inside expander, use st.text for plain rendering
 
             st.markdown("<h3 style='text-align: center;'>AE events as per MeDDRA standards</h3>", unsafe_allow_html=True)
             st.json(json_dict,expanded=2)
@@ -193,12 +201,15 @@ def app():
                 text_summary=sample_AE_note,
                 HF_TOKEN=os.getenv("HF_TOKEN")
             )
-            json_dict = json.loads(result.choices[0].message.content)
+            extracted_dict = extract_dict_string(text=result.choices[0].message.content)
+            cleaned_str = extracted_dict[0].encode('ascii', 'ignore').decode('ascii')
+            json_dict = json.loads(cleaned_str)
+
             # json_dict = ast.literal_eval(result.choices[0].message.content)
             
             # Display in an expander
             with st.expander("Click to view complete Reported AE Event"):
-                st.text(sample_AE_note)  # Full text inside expander, use st.text for plain rendering
+                st.text(arrange_sentence_next_line(sample_AE_note))  # Full text inside expander, use st.text for plain rendering
 
             st.markdown("<h3 style='text-align: center;'>AE Event as per MeDDRA standards</h3>", unsafe_allow_html=True)
             st.json(json_dict,expanded=2)
@@ -250,6 +261,30 @@ def app():
             # Display in an expander
             with st.expander("Click to view complete Auto-Generated Soap Note"):
                 st.text(arrange_sentence_next_line(sample_soap_text))  # Full text inside expander, use st.text for plain rendering
+
+            stream_text(text=clinical_coding_summary)    
+
+            st.markdown("---")
+
+    if display_manual_soap:
+        with st.spinner('Summarizing SOAP Note, might take upto a min...'):
+            
+            clinical_coding_summary = generate_clinical_coding_summary(
+                soap_note=manual_text,
+                embedding_model=s3_vector_db_config["model"],
+                dimension=s3_vector_db_config["dimensions"],
+                client_endpoint="HF",
+                region_name=s3_vector_db_config["region_name"],
+                hf_inference_model=hf_inference_model,
+                key_index_mapping=key_index_mapping,
+                bucket_name=s3_vector_db_config["bucket_name"],
+                temperature=hf_inference_model["model_config"]["temprature"],
+                max_tokens=hf_inference_model["model_config"]["max_tokens"]
+                )
+            
+            # Display in an expander
+            with st.expander("Click to view complete Auto-Generated Soap Note"):
+                st.text(arrange_sentence_next_line(manual_text))  # Full text inside expander, use st.text for plain rendering
 
             stream_text(text=clinical_coding_summary)    
 

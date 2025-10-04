@@ -2157,7 +2157,7 @@ def retrieve_and_infer_vector_db(
 
 
 # ========================================================================================================================================================
-@st.cache_resource
+@st.cache_resource(ttl="60s")
 def get_s3_vector_index_names(
         vector_bucket_name,
         access_key_id = os.getenv("MASTER_ACCESS_KEY"),
@@ -2190,7 +2190,7 @@ def get_s3_vector_index_names(
 
 # ========================================================================================================================================================
 
-@st.cache_resource
+@st.cache_resource(ttl="60s")
 def load_pinecone_index_names():
     # Initialize Pinecone client
     pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
@@ -2297,3 +2297,28 @@ def delete_s3_vector_index(bucket_name, index_name, access_key_id, secret_access
             'index_name': index_name
         }
 
+
+# ========================================================================================================================================================
+
+
+def extract_dict_string(text):
+    """
+    Extracts dictionary patterns from text using regex and returns them as string values in a list.
+    
+    Args:
+        text (str): The input text containing dictionary patterns
+        
+    Returns:
+        list: A list of dictionary strings found in the text
+    """
+    # Regex pattern to match dictionary-like structures
+    # Matches: { ... } that contain at least one colon (key-value separator)
+    pattern = r'\{[^{}]*\}'
+    
+    # Find all potential matches
+    potential_matches = re.findall(pattern, text)
+    
+    # Filter to keep only those that look like dictionaries (contain : )
+    dict_matches = [match for match in potential_matches if ':' in match]
+    
+    return dict_matches
