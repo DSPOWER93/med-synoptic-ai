@@ -16,19 +16,21 @@ COPY . /app
 # Create Streamlit config directory and file
 RUN mkdir -p /app/.streamlit
 RUN echo '[server]\n\
+port = 8080\n\
+address = "0.0.0.0"\n\
+headless = true\n\
 enableCORS = false\n\
 enableXsrfProtection = false\n\
 enableWebsocketCompression = false\n\
-address = "0.0.0.0"\n\
-port = 8080\n\
-headless = true\n\
-runOnSave = false\n\
+maxUploadSize = 200\n\
 \n\
 [browser]\n\
-gatherUsageStats = false' > /app/.streamlit/config.toml
+gatherUsageStats = false\n\
+serverAddress = "madebymtaher.in"\n\
+serverPort = 443' > /app/.streamlit/config.toml
 
 # Expose port 8080
 EXPOSE 8080
 
-# Command to run the app with proxy-friendly settings
-ENTRYPOINT ["streamlit", "run", "main.py", "--server.port=8080", "--server.address=0.0.0.0", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
+# Command to run the app
+ENTRYPOINT ["streamlit", "run", "main.py"]
