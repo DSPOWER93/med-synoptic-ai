@@ -13,8 +13,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy all app files
 COPY . /app
 
-# Expose the port Streamlit runs on
-EXPOSE 8501
+# Expose port 8080 (Cloudflare-compatible)
+EXPOSE 8080
 
-# Command to run the app
-ENTRYPOINT ["streamlit", "run", "main.py", "--server.port=8501"]
+# Command to run the app on port 8080
+ENTRYPOINT ["streamlit", "run", "main.py", "--server.port=8080", "--server.address=0.0.0.0"]
