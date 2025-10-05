@@ -17,4 +17,4 @@ COPY . /app
 EXPOSE 8080
 
 # Command to run the app on port 8080
-ENTRYPOINT ["streamlit", "run", "main.py", "--server.port=8080", "--server.address=0.0.0.0"]
+ENTRYPOINT ["streamlit", "run", "main.py", "--server.port=8080"]
