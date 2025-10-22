@@ -24,7 +24,7 @@ Resources:
       ClusterName: !Ref ClusterName
       ClusterSettings:
         - Name: containerInsights
-          Value: enhanced  # Enable CloudWatch Container Insights with enhanced observability
+          Value: disabled  # CHANGED: Disable Container Insights to prevent custom metric charges
       CapacityProviders:
         - !If [IsFargate, 'FARGATE', !Ref 'AWS::NoValue']
         - !If [IsFargate, 'FARGATE_SPOT', !Ref 'AWS::NoValue']
