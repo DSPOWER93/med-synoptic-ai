@@ -42,7 +42,7 @@ Resources:
       TaskRoleArn: !Ref ExistingTaskExecutionRoleArn
       RuntimePlatform:
         OperatingSystemFamily: LINUX
-        CpuArchitecture: ARM64
+        CpuArchitecture: X86_64
       ContainerDefinitions:
         - Name: !Ref ContainerName
           Image: !Ref ImageArn
